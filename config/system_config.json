@@ -10,12 +10,47 @@
     "style_models": ["policy_alert", "information_gap", "city_comparison", "time_window_urgency"]
   },
   "rss_sources": [
-    {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "category": "general"},
-    {"name": "El País España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana", "category": "policy"},
-    {"name": "El País Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia", "category": "economy"},
-    {"name": "The Local ES", "url": "https://feeds.thelocal.com/rss/es", "category": "expat"},
-    {"name": "elDiario", "url": "https://www.eldiario.es/rss/", "category": "general"},
-    {"name": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/home.xml", "category": "general"}
+      {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "world"},                
+      {"name": "NYTimes World", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "category": "world"}, 
+      {"name": "Guardian World", "url": "https://www.theguardian.com/world/rss", "category": "world"},                 
+      {"name": "Reuters World", "url": "https://www.reutersagency.com/feed/?best-topics=world&post_type=best",         
+ "category": "world"},                                                                                                  
+      {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "world"},                 
+      {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "category":       
+ "general"},                                                                                                            
+      {"name": "El País English", "url":                                                                               
+ "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/inenglish/portada", "category": "general"},          
+      {"name": "El País España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana",     
+ "category": "policy"},                                                                                                 
+      {"name": "El País Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia", 
+ "category": "economy"},                                                                                                
+      {"name": "El Mundo", "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml", "category": "general"},      
+      {"name": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/home.xml", "category": "general"},            
+      {"name": "ABC Spain", "url": "https://www.abc.es/rss/feeds/abc_Internacional.xml", "category": "world"},         
+      {"name": "Euronews Europe", "url": "https://www.euronews.com/rss?level=theme&name=europe", "category": "world"}, 
+      {"name": "The Local ES", "url": "https://feeds.thelocal.com/rss/es", "category": "expat"},                       
+      {"name": "elDiario", "url": "https://www.eldiario.es/rss/", "category": "general"},                              
+      {"name": "Idealista Property", "url": "https://www.idealista.com/en/news/rss", "category": "housing"},           
+      {"name": "Cinco Días", "url": "https://cincodias.elpais.com/rss/cincodias/portada.xml", "category": "economy"},  
+      {"name": "Expansión Economy", "url": "https://e00-expansion.uecdn.es/rss/portada.xml", "category": "economy"},   
+      {"name": "Schengen Visa News", "url": "https://www.schengenvisainfo.com/feed/", "category": "visa"},             
+      {"name": "Study International", "url": "https://www.studyinternational.com/news/feed/", "category":              
+ "education"},                                                                                                          
+      {"name": "Immigration News Canada", "url": "https://immigrationnewscanada.ca/feed/", "category": "immigration"}, 
+      {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "tech"},                               
+      {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "tech"},                      
+      {"name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "tech"},                                  
+      {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "category": "tech"},          
+      {"name": "Google Spain Immigration", "url": "https://news.google.com/rss/search?q=Spain+immigration",            
+ "category": "immigration"},                                                                                            
+      {"name": "Google Spain Housing", "url": "https://news.google.com/rss/search?q=Spain+housing", "category":        
+ "housing"},                                                                                                            
+      {"name": "Google Study Spain", "url": "https://news.google.com/rss/search?q=study+in+Spain", "category":         
+ "education"},                                                                                                          
+      {"name": "Google Spain Economy", "url": "https://news.google.com/rss/search?q=Spain+economy", "category":        
+ "economy"},                                                                                                            
+      {"name": "Google Spain Travel", "url": "https://news.google.com/rss/search?q=travel+Spain", "category":          
+ "travel"} 
   ],
   "filter_keywords": {
     "high_priority": ["visa", "residencia", "residency", "immigration", "migración", "extranjería"],

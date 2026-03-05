@@ -33,11 +33,11 @@ jobs:
       
       - run: |
           mkdir -p _site/obsidian
-          cp -r obsidian_vault/* _site/obsidian/
+          cp -r obsidian_vault/* _site/obsidian/ 2>/dev/null || true
           cp output/spain-hot.xml _site/
       
       - run: |
-          cat > _site/obsidian/index.html << 'EOF'
+          cat > _site/obsidian/index.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html>
 <head>
@@ -53,7 +53,7 @@ jobs:
 </head>
 <body>
     <h1>🇪🇸 Spain Identity System</h1>
-    <p>Obsidian知识库 - 点击文件夹查看文件</p>
+    <p>Obsidian知识库 - 点击链接查看文件</p>
     
     <div class="folder">
         <h3>📁 02_Viral_Titles - 爆款标题</h3>
@@ -83,66 +83,37 @@ jobs:
     </p>
 </body>
 </html>
-EOF
-      
-      - run: |
-          cat > _site/obsidian/index.html << 'EOF'
-          <!DOCTYPE html>
-          <html>
-          <head>
-              <meta charset="UTF-8">
-              <title>Obsidian Vault</title>
-              <style>
-                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; }
-                  h1 { border-bottom: 2px solid #667eea; padding-bottom: 10px; }
-                  .folder { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
-              </style>
-          </head>
-          <body>
-              <h1>🇪🇸 Spain Identity System</h1>
-              <p>Obsidian知识库在线浏览</p>
-              <div class="folder">
-                  <h3>📁 <a href="02_Viral_Titles/">爆款标题</a></h3>
-              </div>
-              <div class="folder">
-                  <h3>📁 <a href="04_Identity_Pathways/">身份路径</a></h3>
-              </div>
-              <div class="folder">
-                  <h3>📁 <a href="05_City_Database/">城市数据库</a></h3>
-              </div>
-          </body>
-          </html>
-          EOF
+HTMLEOF
       
       - run: |
           cat > _site/index.html << 'EOF'
-          <!DOCTYPE html>
-          <html>
-          <head>
-              <meta charset="UTF-8">
-              <title>Spain Identity Content System</title>
-              <style>
-                  body { font-family: system-ui; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
-                  .container { background: white; padding: 40px; border-radius: 20px; max-width: 500px; text-align: center; }
-                  h1 { margin-bottom: 10px; }
-                  a { color: #667eea; text-decoration: none; }
-                  .card { background: #f5f5f5; padding: 20px; margin: 15px 0; border-radius: 10px; }
-              </style>
-          </head>
-          <body>
-              <div class="container">
-                  <h1>🇪🇸 Spain Identity System</h1>
-                  <p>西班牙身份内容系统</p>
-                  <div class="card">
-                      <h3>📡 <a href="spain-hot.xml">RSS订阅</a></h3>
-                  </div>
-                  <div class="card">
-                      <h3>📚 <a href="obsidian/">Obsidian知识库</a></h3>
-                  </div>
-              </div>
-          </body>
-          </html>
-          EOF
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Spain Identity Content System</title>
+    <style>
+        body { font-family: system-ui; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
+        .container { background: white; padding: 40px; border-radius: 20px; max-width: 500px; text-align: center; }
+        h1 { margin-bottom: 10px; }
+        a { color: #667eea; text-decoration: none; }
+        .card { background: #f5f5f5; padding: 20px; margin: 15px 0; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🇪🇸 Spain Identity System</h1>
+        <p>西班牙身份内容系统</p>
+        <div class="card">
+            <h3>📡 <a href="spain-hot.xml">RSS订阅</a></h3>
+        </div>
+        <div class="card">
+            <h3>📚 <a href="obsidian/">Obsidian知识库</a></h3>
+        </div>
+    </div>
+</body>
+</html>
+EOF
       
       - uses: actions/configure-pages@v4
       

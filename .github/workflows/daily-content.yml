@@ -54,9 +54,8 @@ jobs:
           cp -r obsidian_vault/* _site/obsidian/ 2>/dev/null || true
           cp output/spain-hot.xml _site/
           
-          # 创建 Home.html 别名（避免emoji URL问题）
-          if [ -f "_site/obsidian/🏠 Home.md" ]; then
-            cat > _site/obsidian/index.html << 'HTMLEOF'
+          # 创建 Obsidian vault 的 HTML 入口页面
+          cat > _site/obsidian/index.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html>
 <head>
@@ -117,7 +116,6 @@ jobs:
 </body>
 </html>
 HTMLEOF
-          fi
           
           # Create index page
           cat > _site/index.html << 'EOF'

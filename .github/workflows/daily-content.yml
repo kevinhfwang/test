@@ -54,6 +54,11 @@ jobs:
           cp -r obsidian_vault/* _site/obsidian/ 2>/dev/null || true
           cp output/spain-hot.xml _site/
           
+          # 创建 Home.html 别名（避免emoji URL问题）
+          if [ -f "_site/obsidian/🏠 Home.md" ]; then
+            cp "_site/obsidian/🏠 Home.md" _site/obsidian/home.md
+          fi
+          
           # Create index page
           cat > _site/index.html << 'EOF'
           <!DOCTYPE html>
@@ -122,7 +127,7 @@ jobs:
                   <div class="card">
                       <h3>📚 Obsidian知识库</h3>
                       <p>完整的西班牙身份知识图谱</p>
-                      <a href="obsidian/🏠 Home.html">进入知识库</a>
+                      <a href="obsidian/home.html">进入知识库</a>
                   </div>
                   
                   <div class="card">

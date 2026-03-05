@@ -1,0 +1,166 @@
+name: Daily Content Generation
+
+on:
+  schedule:
+    # 每天上午8点CET运行 (UTC+1 = 7:00 UTC)
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      generate_report:
+        description: 'Generate weekly report (only on Sundays)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run content engine
+        run: python scripts/content_engine.py
+
+      - name: Check if Sunday (for weekly report)
+        id: check_sunday
+        run: |
+          if [ "$(date +%u)" = "7" ] || [ "${{ github.event.inputs.generate_report }}" = "true" ]; then
+            echo "is_sunday=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_sunday=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate weekly report
+        if: steps.check_sunday.outputs.is_sunday == 'true'
+        run: python scripts/weekly_analyzer.py
+
+      - name: Copy Obsidian vault to output
+        run: |
+          mkdir -p _site/obsidian
+          cp -r obsidian_vault/* _site/obsidian/ 2>/dev/null || true
+          cp output/spain-hot.xml _site/
+          
+          # Create index page
+          cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="zh-CN">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>🇪🇸 Spain Identity Content System</title>
+              <style>
+                  * { margin: 0; padding: 0; box-sizing: border-box; }
+                  body { 
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+                      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                      min-height: 100vh;
+                      display: flex;
+                      align-items: center;
+                      justify-content: center;
+                      padding: 20px;
+                  }
+                  .container {
+                      background: white;
+                      border-radius: 20px;
+                      padding: 40px;
+                      max-width: 600px;
+                      width: 100%;
+                      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+                  }
+                  h1 { color: #333; margin-bottom: 10px; }
+                  .subtitle { color: #666; margin-bottom: 30px; }
+                  .card {
+                      background: #f8f9fa;
+                      border-radius: 12px;
+                      padding: 20px;
+                      margin: 15px 0;
+                  }
+                  .card h3 { color: #667eea; margin-bottom: 10px; }
+                  .card a {
+                      color: #667eea;
+                      text-decoration: none;
+                      font-weight: 500;
+                  }
+                  .card a:hover { text-decoration: underline; }
+                  .badge {
+                      display: inline-block;
+                      background: #667eea;
+                      color: white;
+                      padding: 4px 12px;
+                      border-radius: 20px;
+                      font-size: 12px;
+                      margin-top: 10px;
+                  }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🇪🇸 Spain Identity Content System</h1>
+                  <p class="subtitle">西班牙身份内容系统 - 长期自动化内容引擎</p>
+                  
+                  <div class="card">
+                      <h3>📡 RSS订阅</h3>
+                      <p>每日自动生成的爆款标题</p>
+                      <a href="spain-hot.xml">订阅 spain-hot.xml</a>
+                      <span class="badge">每日更新</span>
+                  </div>
+                  
+                  <div class="card">
+                      <h3>📚 Obsidian知识库</h3>
+                      <p>完整的西班牙身份知识图谱</p>
+                      <a href="obsidian/🏠 Home.html">进入知识库</a>
+                  </div>
+                  
+                  <div class="card">
+                      <h3>🎯 内容定位</h3>
+                      <ul>
+                          <li>西班牙移民 & 留学路径</li>
+                          <li>小城市定位 (Navarra vs Madrid)</li>
+                          <li>政策监控 & 爆款标题</li>
+                      </ul>
+                  </div>
+                  
+                  <p style="text-align: center; color: #999; margin-top: 30px; font-size: 14px;">
+                      最后更新: <span id="date"></span>
+                  </p>
+              </div>
+              
+              <script>
+                  document.getElementById('date').textContent = new Date().toLocaleDateString('zh-CN');
+              </script>
+          </body>
+          </html>
+          EOF
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: generate-content
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

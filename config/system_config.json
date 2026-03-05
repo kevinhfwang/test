@@ -1,0 +1,56 @@
+{
+  "project_name": "Spain Identity Content System",
+  "mission": "Build a long-term automated content engine focused on Spain immigration, study and small-city positioning (Navarra)",
+  "objective": "Turn daily news into structured traffic assets and build a Spain identity knowledge database",
+  "daily_cycle": {
+    "max_titles_per_day": 20,
+    "titles_per_article": 3,
+    "max_length": 28,
+    "min_question_ratio": 0.4,
+    "style_models": ["policy_alert", "information_gap", "city_comparison", "time_window_urgency"]
+  },
+  "rss_sources": [
+    {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "category": "general"},
+    {"name": "El País España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana", "category": "policy"},
+    {"name": "El País Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia", "category": "economy"},
+    {"name": "The Local ES", "url": "https://feeds.thelocal.com/rss/es", "category": "expat"},
+    {"name": "elDiario", "url": "https://www.eldiario.es/rss/", "category": "general"},
+    {"name": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/home.xml", "category": "general"}
+  ],
+  "filter_keywords": {
+    "high_priority": ["visa", "residencia", "residency", "immigration", "migración", "extranjería"],
+    "medium_priority": ["student", "estudiante", "education", "educación", "universidad", "master"],
+    "low_priority": ["tax", "impuesto", "housing", "vivienda", "alquiler", "Navarra", "autónomo"],
+    "contextual": ["permit", "permiso", "work", "trabajo", "law", "ley", "policy", "política"]
+  },
+  "categories": [
+    "Policy Change",
+    "Student Visa Path",
+    "Work Residency",
+    "Permanent Residency",
+    "City Comparison",
+    "Cost of Living",
+    "Tax & Finance",
+    "Digital Nomad"
+  ],
+  "obsidian": {
+    "enabled": true,
+    "vault_path": "obsidian_vault",
+    "folders": [
+      "01_Daily_News",
+      "02_Viral_Titles",
+      "03_Policy_Monitoring",
+      "04_Identity_Pathways",
+      "05_City_Database",
+      "06_Cost_Database",
+      "07_Weekly_Analysis",
+      "08_Published_Articles",
+      "09_Client_Questions"
+    ]
+  },
+  "long_term_strategy": {
+    "phase_1": "Traffic growth via viral policy headlines",
+    "phase_2": "Build structured Spain identity knowledge graph",
+    "phase_3": "Monetization via consultation or pathway guidance"
+  }
+}

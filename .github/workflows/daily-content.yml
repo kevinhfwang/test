@@ -38,6 +38,55 @@ jobs:
       
       - run: |
           cat > _site/obsidian/index.html << 'EOF'
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Obsidian Vault</title>
+    <style>
+        body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .folder { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        a { color: #667eea; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>🇪🇸 Spain Identity System</h1>
+    <p>Obsidian知识库 - 点击文件夹查看文件</p>
+    
+    <div class="folder">
+        <h3>📁 02_Viral_Titles - 爆款标题</h3>
+        <p><a href="https://github.com/kevinhfwang/test/tree/main/obsidian_vault/02_Viral_Titles">在GitHub上浏览 →</a></p>
+    </div>
+    
+    <div class="folder">
+        <h3>📁 04_Identity_Pathways - 身份路径</h3>
+        <p><a href="https://github.com/kevinhfwang/test/blob/main/obsidian_vault/04_Identity_Pathways/Identity_Pathways_Overview.md">身份路径图谱</a></p>
+    </div>
+    
+    <div class="folder">
+        <h3>📁 05_City_Database - 城市数据库</h3>
+        <p>
+            <a href="https://github.com/kevinhfwang/test/blob/main/obsidian_vault/05_City_Database/City_Database_Navarra.md">Navarra</a> | 
+            <a href="https://github.com/kevinhfwang/test/blob/main/obsidian_vault/05_City_Database/City_Database_Madrid.md">Madrid</a>
+        </p>
+    </div>
+    
+    <div class="folder">
+        <h3>📁 06_Cost_Database - 成本数据库</h3>
+        <p><a href="https://github.com/kevinhfwang/test/blob/main/obsidian_vault/06_Cost_Database/Cost_Database_2026.md">2026成本数据</a></p>
+    </div>
+    
+    <p style="margin-top: 30px; color: #666;">
+        <a href="https://github.com/kevinhfwang/test/tree/main/obsidian_vault">📂 浏览完整知识库</a>
+    </p>
+</body>
+</html>
+EOF
+      
+      - run: |
+          cat > _site/obsidian/index.html << 'EOF'
           <!DOCTYPE html>
           <html>
           <head>

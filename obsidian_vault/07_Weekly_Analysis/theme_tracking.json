@@ -7,17 +7,17 @@
       }
     },
     "2026-03-06": {
-      "title_count": 13,
+      "title_count": 15,
       "categories": {
         "Policy Change": 4,
-        "Permanent Residency": 2
+        "Permanent Residency": 3
       }
     }
   },
   "theme_frequency": {
     "General": 10,
-    "Policy Change": 4,
-    "Permanent Residency": 2
+    "Policy Change": 8,
+    "Permanent Residency": 5
   },
   "last_updated": "2026-03-06"
 }

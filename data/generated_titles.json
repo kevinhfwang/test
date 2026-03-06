@@ -1,0 +1,47 @@
+[
+  {
+    "title": "揭秘：西班牙居留的严格真相？",
+    "style": "information_gap",
+    "category": "居留",
+    "source": {
+      "name": "Expansión Economy",
+      "summary": "西班牙居留申请审核趋严，申请人需要提供更多证明材料。新政策要求更严格的背景调查和经济能力证明。"
+    }
+  },
+  {
+    "title": "提醒：西班牙居留有新变化？",
+    "style": "policy_alert",
+    "category": "居留",
+    "source": {
+      "name": "Expansión Economy",
+      "summary": "西班牙政府宣布居留政策调整，续签条件和申请流程有所变化，建议申请人及时关注。"
+    }
+  },
+  {
+    "title": "想来的不知道：签证还能这样",
+    "style": "information_gap",
+    "category": "签证",
+    "source": {
+      "name": "Cinco Días",
+      "summary": "西班牙推出新的签证便利化措施，部分申请者可以享受快速通道和简化流程。"
+    }
+  },
+  {
+    "title": "揭秘：西班牙签证的难办真相",
+    "style": "information_gap",
+    "category": "签证",
+    "source": {
+      "name": "Expansión Economy",
+      "summary": "西班牙签证申请面临更严格的审核，拒签率有所上升，申请人需要更加充分的准备。"
+    }
+  },
+  {
+    "title": "提醒：西班牙签证有新变化",
+    "style": "policy_alert",
+    "category": "签证",
+    "source": {
+      "name": "Expansión Economy",
+      "summary": "西班牙签证政策更新，申请材料清单和审批时间都有调整，建议提前了解最新要求。"
+    }
+  }
+]

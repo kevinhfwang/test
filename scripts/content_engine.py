@@ -1,761 +1,401 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-Spain Identity Content System v3.0
-西班牙身份内容系统 - 长期自动化内容引擎
-
-功能：
-1. 每日RSS抓取 → 爆款标题生成 → Obsidian存储
-2. 每周主题分析 → 高频主题识别 → 内容策略调整
-3. 城市数据库维护 → Navarra vs Madrid对比
-4. 知识图谱构建 → 身份路径结构化
+西班牙新闻内容引擎 (content_engine.py)
+每日自动：RSS获取话题 → 获取原文 → AI翻译生成中文 → 匹配爆款标题 → 上传公众号
 """
-
-import feedparser
+import requests
 import json
-import os
 import re
-import hashlib
-import random
-from datetime import datetime, timezone, timedelta
-from pathlib import Path
-from typing import List, Dict, Optional, Tuple
-import urllib.request
+import time
+import feedparser
 import ssl
-import shutil
+from datetime import datetime
+from pathlib import Path
 
-ssl._create_default_https_context = ssl._create_unverified_context
+ssl._create_default_https_context = ssl._create_default_https_context
 
-# 路径配置
-PROJECT_ROOT = Path(__file__).parent.parent
-CONFIG_PATH = PROJECT_ROOT / "config" / "system_config.json"
-OBSIDIAN_VAULT_PATH = PROJECT_ROOT / "obsidian_vault"  # Obsidian知识库路径
-OUTPUT_PATH = PROJECT_ROOT / "output"
+# ============ 配置 ============
+WECHAT_APPID = 'wxc84159b815237de7'
+WECHAT_APPSECRET = '15db1f3e77aedd8c13af291b36f45121'
+GITHUB_RSS_URL = "https://kevinhfwang.github.io/test/spain-hot.xml"
+BORDER_COLORS = ['#3498db', '#e74c3c', '#f39c12', '#27ae60', '#9b59b6']
 
-# 默认配置
-DEFAULT_CONFIG = {
-    "mission": "Build long-term Spain identity content engine",
-    "daily_cycle": {
-        "max_titles_per_day": 20,
-        "titles_per_article": 3,
-        "max_length": 28,
-        "min_question_ratio": 0.4,
-        "style_models": ["policy_alert", "information_gap", "city_comparison", "time_window_urgency"]
-    },
-    "rss_sources": [
-        {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "category": "general"},
-        {"name": "El País España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana", "category": "policy"},
-        {"name": "El País Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia", "category": "economy"},
-        {"name": "The Local ES", "url": "https://feeds.thelocal.com/rss/es", "category": "expat"},
-        {"name": "elDiario", "url": "https://www.eldiario.es/rss/", "category": "general"},
-        {"name": "La Vanguardia", "url": "https://www.lavanguardia.com/rss/home.xml", "category": "general"}
+# ============ 爆款标题库 (从Obsidian同步) ============
+VIRAL_TITLES_DB = {
+    "签证": [
+        "想来的不知道：签证还能这样",
+        "揭秘：西班牙签证的难办真相",
+        "提醒：西班牙签证有新变化",
+        "签证窗口期：想来的抓紧了",
+        "西班牙签证到底怎么变了？申请者必看",
     ],
-    "filter_keywords": {
-        "high_priority": ["visa", "residencia", "residency", "immigration", "migración", "extranjería"],
-        "medium_priority": ["student", "estudiante", "education", "educación", "universidad", "master"],
-        "low_priority": ["tax", "impuesto", "housing", "vivienda", "alquiler", "Navarra", "autónomo"],
-        "contextual": ["permit", "permiso", "work", "trabajo", "law", "ley", "policy", "política"]
-    },
-    "obsidian": {
-        "enabled": True,
-        "vault_path": "obsidian_vault",
-        "folders": [
-            "01_Daily_News",
-            "02_Viral_Titles",
-            "03_Policy_Monitoring",
-            "04_Identity_Pathways",
-            "05_City_Database",
-            "06_Cost_Database",
-            "07_Weekly_Analysis",
-            "08_Published_Articles",
-            "09_Client_Questions"
-        ]
-    },
-    "categories": [
-        "Policy Change",
-        "Student Visa Path",
-        "Work Residency",
-        "Permanent Residency",
-        "City Comparison",
-        "Cost of Living",
-        "Tax & Finance",
-        "Digital Nomad"
-    ]
+    "居留": [
+        "揭秘：西班牙居留的严格真相？",
+        "提醒：西班牙居留有新变化？",
+        "西班牙居留变了？真相来了",
+        "申请者注意：西班牙居留有新变化？",
+    ],
+    "移民": [
+        "原来西班牙移民可以这么容易！",
+        "申请者不知道：移民还能这样",
+        "2026年移民：容易趋势来了",
+        "Navarra移民：比马德里容易多少？",
+        "西班牙移民到底怎么新政策？华人必看",
+    ],
+    "税务": [
+        "税收：马德里和Navarra差多少？",
+        "揭秘：西班牙税收的复杂真相",
+        "西班牙税务新规？纳税人必看",
+        "Navarra税务怎么变了？居民必看",
+    ],
+    "教育": [
+        "揭秘：西班牙教育政策的变化真相？",
+        "申请者不知道：西班牙教育还能这样？",
+        "西班牙留学新政策？学生党必看",
+        "西班牙学费怎么变了？留学生注意",
+        "西班牙学生签证变了？申请者必看",
+    ],
+    "就业": [
+        "2026年西班牙就业：容易趋势来了？",
+        "西班牙就业市场变了？打工人必看",
+        "西班牙自雇政策变了？老板们注意",
+        "西班牙失业率变了？求职者必看",
+    ],
+    "房产": [
+        "西班牙房价还能涨多久？投资者必看",
+        "西班牙租金到底怎么变了？租客注意",
+        "西班牙房产投资新规？投资者必看",
+    ],
 }
 
-# 爆款标题模板（按风格分类）
-TITLE_TEMPLATES = {
-    "policy_alert": [
-        "注意！西班牙{topic}{adj}了",
-        "最新！{topic}调整影响{group}",
-        "提醒：西班牙{topic}有新变化",
-        "重要：{group}{topic}政策变了",
-        "速看：西班牙{topic}最新动态",
-        "紧急：{topic}政策有变动",
-    ],
-    "information_gap": [
-        "原来西班牙{topic}可以这么{adj}！",
-        "{group}不知道：{topic}还能这样",
-        "揭秘：西班牙{topic}的{adj}真相",
-        "很多人不知道：{topic}有变化",
-        "{topic}的秘密：{group}必看",
-        "西班牙{topic}：{adj}真相曝光",
-    ],
-    "city_comparison": [
-        "{topic}：马德里和Navarra差多少？",
-        "Navarra vs 马德里：{topic}哪个更{adj}",
-        "小城市更{adj}？{topic}真相来了",
-        "西班牙{topic}：大城市vs小城市",
-        "Navarra{topic}：比马德里{adj}多少？",
-        "为什么{group}选Navarra不选马德里？",
-    ],
-    "time_window_urgency": [
-        "{topic}还能{adj}多久？快看",
-        "2026西班牙{topic}新规：{group}注意",
-        "{topic}窗口期：{group}抓紧了",
-        "倒计时：{topic}政策即将{adj}",
-        "今年{topic}变了：{group}速了解",
-        "2026年{topic}：{adj}趋势来了",
-    ],
-    "question": [
-        "{topic}到底怎么{adj}？{group}必看",
-        "为什么西班牙{topic}越来越{adj}？",
-        "{topic}变了？{group}注意",
-        "西班牙{topic}{adj}？真相来了",
-        "{group}注意：{topic}有新变化？",
-        "{topic}还能{adj}吗？最新情况",
-    ]
+# ============ 内容模板库 (用于生成中文内容) ============
+CONTENT_TEMPLATES = {
+    "签证": {
+        "intro": "西班牙签证政策近期出现重要变化，对于计划前往西班牙的华人来说，这一消息值得密切关注。",
+        "key_points": [
+            "签证申请条件可能发生调整，建议申请人提前了解最新要求",
+            "申请流程和时间可能有所变化，建议预留充足的准备时间",
+            "所需材料清单可能更新，建议通过官方渠道确认最新要求",
+        ],
+        "analysis": "对于计划前往西班牙的华人，建议密切关注西班牙驻华使领馆的最新公告。签证政策的变化可能影响申请条件、审批时间和所需材料。建议提前准备，确保申请材料真实完整。如有疑问，可咨询专业移民律师或签证代理机构。",
+    },
+    "居留": {
+        "intro": "西班牙居留政策近期有新动向，对于在西班牙的华人社区来说，这是一个需要关注的重要消息。",
+        "key_points": [
+            "居留申请和续签条件可能有所调整",
+            "审批流程和所需材料可能发生变化",
+            "对不同类型居留的规定可能有更新",
+        ],
+        "analysis": "对于在西班牙的华人，居留政策变化可能直接影响您的合法身份。建议及时了解最新规定，确保身份合法有效。已经在西班牙的华人应关注续签政策变化，保留好居住证明、工作合同等材料。如有疑问，建议咨询专业律师。",
+    },
+    "移民": {
+        "intro": "西班牙移民政策迎来重要调整，这一消息对于有意移民西班牙的华人来说意义重大。",
+        "key_points": [
+            "移民申请条件可能出现新的变化",
+            "合法化途径和政策可能有所调整",
+            "对特定群体的移民政策可能有优惠",
+        ],
+        "analysis": "西班牙移民政策的变化为有意移民者提供了新的机会。建议通过正规渠道申请，准备充分的材料，确保申请过程合法合规。对于符合条件的申请人，这是一个难得的机会。建议咨询专业移民律师，了解最新政策细节。",
+    },
+    "教育": {
+        "intro": "西班牙教育政策近期有重要更新，对于在西班牙留学的学生和有学龄子女的家庭来说，这一消息值得关注。",
+        "key_points": [
+            "教育费用和奖学金政策可能调整",
+            "学生签证和居留政策可能有变化",
+            "公立学校的入学政策可能有更新",
+        ],
+        "analysis": "对于在西班牙留学的华人学生，建议密切关注所在学校的官方通知。家长在为孩子规划教育路径时，应充分考虑这些政策因素。西班牙的教育体系对国际学生相对友好，建议通过官方渠道保持信息更新。",
+    },
+    "就业": {
+        "intro": "西班牙就业市场近期有新动态，对于在西班牙求职或工作的华人来说，这是一个重要的消息。",
+        "key_points": [
+            "就业市场趋势和行业需求可能变化",
+            "劳工合同和工作许可政策可能调整",
+            "对自雇人士的政策可能有更新",
+        ],
+        "analysis": "西班牙就业市场的变化对华人求职者和创业者都有影响。建议关注行业发展趋势，提升语言能力和专业技能。对于自雇人士，需特别关注社保和税务政策调整。华人社区在餐饮、零售、服务业等领域有优势，就业市场改善意味着更多机会。",
+    },
+    "税务": {
+        "intro": "西班牙税务政策近期有调整，对于在西班牙工作和生活的华人来说，这一消息需要关注。",
+        "key_points": [
+            "个人所得税和增值税政策可能变化",
+            "税收优惠政策可能有所调整",
+            "税务申报和缴纳流程可能更新",
+        ],
+        "analysis": "税务政策的变化直接影响在西班牙工作、生活和投资的华人。建议及时了解IRPF个人所得税、IVA增值税等相关规定，确保合规纳税。对于自雇人士和企业主，建议聘请专业税务顾问，帮助处理复杂的税务申报事宜。",
+    },
+    "房产": {
+        "intro": "西班牙房地产市场近期出现重要变化，对于有意投资房产或在西班牙租房的华人来说，这一消息值得关注。",
+        "key_points": [
+            "房价和租金走势可能出现新变化",
+            "购房和租房政策可能有所调整",
+            "对外国投资者的规定可能更新",
+        ],
+        "analysis": "对于有意在西班牙投资房产的华人，建议关注房价走势和租金收益率变化。不同城市和区域的房地产市场差异较大，建议实地考察或咨询当地专业机构。对于租房者，新政策提供了更多保护，建议了解自身权益。",
+    },
 }
 
-# 主题映射
-TOPIC_MAP = [
-    (["visa", "visado", "签证"], "签证", "难办", "想来的"),
-    (["student", "estudiante", "留学", "universidad"], "留学", "贵", "学生党"),
-    (["residencia", "residency", "居留"], "居留", "严格", "想留下的"),
-    (["immigration", "migración", "inmigrante"], "移民", "容易", "申请者"),
-    (["housing", "vivienda", "alquiler", "房租"], "房租", "高", "租房族"),
-    (["tax", "impuesto", "autónomo"], "税收", "复杂", "做生意的"),
-    (["navarra", "pamplona", "tudela"], "Navarra", "特别", "住北部的"),
-    (["madrid", "马德里"], "马德里", "贵", "住首都的"),
-    (["work", "trabajo", "工作许可"], "工作", "难找", "求职者"),
-    (["digital nomad", "nomada digital"], "数字游民签证", "热门", "远程办公的"),
-    (["golden visa", "黄金签证"], "黄金签证", "收紧", "投资人"),
-    (["sanidad", "healthcare", "医疗"], "医疗", "好", "新移民"),
-    (["empadronamiento", "住家证明"], "住家证明", "重要", "刚搬来的"),
-]
 
-class SpainIdentitySystem:
-    def __init__(self):
-        self.config = self._load_config()
-        self.articles = []
-        self.titles = []
-        self.today = datetime.now().strftime('%Y-%m-%d')
-        random.seed()
-        
-        # 初始化Obsidian仓库
-        if self.config.get('obsidian', {}).get('enabled'):
-            self._init_obsidian_vault()
-
-    def _load_config(self) -> Dict:
-        """加载配置"""
-        if CONFIG_PATH.exists():
-            with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
-                return {**DEFAULT_CONFIG, **json.load(f)}
-        CONFIG_PATH.parent.mkdir(parents=True, exist_ok=True)
-        with open(CONFIG_PATH, 'w', encoding='utf-8') as f:
-            json.dump(DEFAULT_CONFIG, f, indent=2, ensure_ascii=False)
-        return DEFAULT_CONFIG
-
-    def _init_obsidian_vault(self):
-        """初始化Obsidian知识库文件夹结构"""
-        vault_path = PROJECT_ROOT / self.config['obsidian']['vault_path']
-        folders = self.config['obsidian']['folders']
-        
-        for folder in folders:
-            (vault_path / folder).mkdir(parents=True, exist_ok=True)
-        
-        # 创建主索引文件
-        index_path = vault_path / "🏠 Home.md"
-        if not index_path.exists():
-            self._create_home_index(index_path)
-
-    def _create_home_index(self, path: Path):
-        """创建Obsidian首页索引"""
-        content = f"""# 🇪🇸 Spain Identity Content System
-
-> 西班牙身份内容系统知识库
-> 使命：{self.config['mission']}
-
-## 📁 文件夹结构
-
-| 文件夹 | 用途 |
-|--------|------|
-| `01_Daily_News` | 每日RSS原始新闻存档 |
-| `02_Viral_Titles` | 生成的爆款标题库 |
-| `03_Policy_Monitoring` | 政策变化追踪 |
-| `04_Identity_Pathways` | 身份路径知识图谱 |
-| `05_City_Database` | 城市数据库 |
-| `06_Cost_Database` | 成本数据库 |
-| `07_Weekly_Analysis` | 每周分析报告 |
-| `08_Published_Articles` | 已发布文章存档 |
-| `09_Client_Questions` | 客户常见问题 |
-
-## 🎯 内容定位
-
-- **Primary Focus**: 西班牙移民和留学路径
-- **Differentiation**: 小城市定位 (Navarra vs Madrid)
-- **Long-term Goal**: 建立西班牙身份知识图谱
-
-## 📊 今日状态
-
-- 最后更新: {self.today}
-- 今日标题: [[{self.today} Viral Titles|查看今日标题]]
-
----
-
-*自动生成于 {datetime.now().strftime('%Y-%m-%d %H:%M')}*
-"""
-        with open(path, 'w', encoding='utf-8') as f:
-            f.write(content)
-
-    # ==================== RSS抓取 ====================
+class ContentEngine:
+    """内容引擎：获取原文并生成中文内容"""
     
-    def fetch_rss(self, source: Dict) -> List[Dict]:
-        """抓取单个RSS源"""
+    def __init__(self):
+        self.articles = []
+    
+    def fetch_rss(self, url):
+        """从RSS获取话题"""
         try:
-            headers = {'User-Agent': 'Mozilla/5.0 (compatible; RSS Reader)'}
-            request = urllib.request.Request(source['url'], headers=headers)
-            
-            with urllib.request.urlopen(request, timeout=15) as response:
-                feed_data = response.read()
-            
-            feed = feedparser.parse(feed_data)
+            print("📡 从RSS获取话题...")
+            feed = feedparser.parse(url)
             articles = []
-            
-            for entry in feed.entries[:15]:
-                summary = entry.get('summary', entry.get('description', ''))
-                summary = re.sub(r'<[^>]+>', '', summary)
-                
+            for entry in feed.entries[:8]:
+                summary = re.sub(r'<[^>]+>', '', entry.get('summary', ''))
                 articles.append({
                     'title': entry.get('title', ''),
                     'link': entry.get('link', ''),
-                    'summary': summary[:800],
+                    'summary': summary,
                     'published': entry.get('published', ''),
-                    'source': source['name'],
-                    'source_category': source.get('category', 'general')
                 })
-            
-            print(f"  ✓ {source['name']}: {len(articles)}篇")
+            print(f"  ✓ 获取 {len(articles)} 个话题")
             return articles
-            
         except Exception as e:
-            print(f"  ✗ {source['name']}: {str(e)[:40]}")
+            print(f"  ✗ 失败: {e}")
             return []
-
-    def fetch_all_rss(self) -> List[Dict]:
-        """抓取所有RSS源"""
-        print("\n📡 抓取RSS源...")
-        all_articles = []
-        
-        for source in self.config['rss_sources']:
-            articles = self.fetch_rss(source)
-            all_articles.extend(articles)
-        
-        # 去重
-        seen = set()
-        unique = []
-        for a in all_articles:
-            if a['link'] not in seen and a['link']:
-                seen.add(a['link'])
-                unique.append(a)
-        
-        self.articles = unique
-        print(f"📊 总计: {len(self.articles)}篇")
-        return self.articles
-
-    # ==================== 文章过滤与分类 ====================
     
-    def score_article(self, article: Dict) -> Tuple[int, List[str]]:
-        """为文章打分并识别类别"""
-        text = f"{article['title']} {article['summary']}".lower()
-        score = 0
-        matched_categories = []
-        
-        keywords = self.config['filter_keywords']
-        
-        # 高优先级关键词 +3分
-        for kw in keywords['high_priority']:
-            if kw in text:
-                score += 3
-                if 'immigration' in kw or 'migración' in kw:
-                    matched_categories.append('Policy Change')
-                if 'residencia' in kw or 'residency' in kw:
-                    matched_categories.append('Permanent Residency')
-        
-        # 中优先级关键词 +2分
-        for kw in keywords['medium_priority']:
-            if kw in text:
-                score += 2
-                if 'student' in kw or 'estudiante' in kw:
-                    matched_categories.append('Student Visa Path')
-        
-        # 低优先级关键词 +1分
-        for kw in keywords['low_priority']:
-            if kw in text:
-                score += 1
-                if 'navarra' in kw:
-                    matched_categories.append('City Comparison')
-                if 'housing' in kw or 'vivienda' in kw:
-                    matched_categories.append('Cost of Living')
-        
-        # 上下文关键词 +1分
-        for kw in keywords['contextual']:
-            if kw in text:
-                score += 1
-                if 'work' in kw or 'trabajo' in kw:
-                    matched_categories.append('Work Residency')
-        
-        return score, list(set(matched_categories))
-
-    def filter_and_categorize(self) -> List[Dict]:
-        """过滤并分类文章"""
-        print("\n🔍 过滤与分类...")
-        
-        scored_articles = []
-        for article in self.articles:
-            score, categories = self.score_article(article)
-            if score >= 3:  # 至少匹配一个高优先级或组合
-                article['relevance_score'] = score
-                article['categories'] = categories
-                scored_articles.append(article)
-        
-        # 按相关度排序
-        scored_articles.sort(key=lambda x: x['relevance_score'], reverse=True)
-        
-        # 限制数量
-        max_articles = self.config['daily_cycle']['max_titles_per_day'] // self.config['daily_cycle']['titles_per_article']
-        filtered = scored_articles[:max_articles]
-        
-        print(f"✓ 匹配: {len(filtered)}篇 (相关度≥3)")
-        
-        # 统计分类
-        cat_counts = {}
-        for a in filtered:
-            for cat in a['categories']:
-                cat_counts[cat] = cat_counts.get(cat, 0) + 1
-        print(f"📊 分类分布: {cat_counts}")
-        
-        return filtered
-
-    # ==================== 标题生成 ====================
-
-    def detect_style(self, article: Dict) -> str:
-        """检测文章适合的风格"""
-        text = (article['title'] + " " + article['summary']).lower()
-        categories = article.get('categories', [])
-        
-        # 城市对比类
-        if 'City Comparison' in categories or 'navarra' in text or 'madrid' in text:
-            return 'city_comparison'
-        
-        # 政策变化类
-        if any(w in text for w in ['nuevo', 'new', 'cambia', 'change', 'alerta', 'urgente']):
-            return 'policy_alert'
-        
-        # 时间窗口类
-        if any(w in text for w in ['2026', '2025', 'plazo', 'deadline', 'window', 'countdown']):
-            return 'time_window_urgency'
-        
-        # 信息差类（默认）
-        return 'information_gap'
-
-    def extract_topics(self, article: Dict) -> List[Tuple[str, str, str]]:
-        """提取文章主题"""
-        text = f"{article['title']} {article['summary']}".lower()
-        matches = []
-        
-        for keywords, topic, adj, group in TOPIC_MAP:
-            for kw in keywords:
-                if kw.lower() in text:
-                    matches.append((topic, adj, group))
-                    break
-        
-        return matches if matches else [("居留政策", "重要", "华人")]
-
-    def generate_title(self, article: Dict, style: str = None) -> Optional[str]:
-        """为单篇文章生成标题"""
-        if style is None:
-            style = self.detect_style(article)
-        
-        templates = TITLE_TEMPLATES.get(style, TITLE_TEMPLATES['information_gap'])
-        topics = self.extract_topics(article)
-        
-        for topic, adj, group in topics[:2]:
-            template = random.choice(templates)
-            title = template.format(topic=topic, adj=adj, group=group)
+    def fetch_original(self, url):
+        """获取原文"""
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+            resp = requests.get(url, headers=headers, timeout=15)
+            html = resp.text
             
-            if len(title) <= self.config['daily_cycle']['max_length']:
+            # 清理HTML
+            html = re.sub(r'<script[^>]*>.*?</script>', '', html, flags=re.DOTALL|re.I)
+            html = re.sub(r'<style[^>]*>.*?</style>', '', html, flags=re.DOTALL|re.I)
+            
+            # 提取正文
+            paragraphs = re.findall(r'<p[^>]*>(.*?)</p>', html, flags=re.DOTALL)
+            content_parts = []
+            for p in paragraphs:
+                text = re.sub(r'<[^>]+>', '', p).strip()
+                if len(text) > 50 and len(text) < 500:
+                    content_parts.append(text)
+            
+            return ' '.join(content_parts)[:3000]
+        except:
+            return ""
+    
+    def detect_category(self, title, content):
+        """检测文章类别"""
+        text = f"{title} {content}".lower()
+        keywords = {
+            "签证": ["visa", "visado", "签证"],
+            "居留": ["residencia", "居留", "permanente"],
+            "移民": ["inmigrante", "immigration", "migración", "移民"],
+            "教育": ["educación", "education", "estudiante", "教育", "universidad"],
+            "就业": ["empleo", "trabajo", "paro", "就业", "工作"],
+            "税务": ["impuesto", "tax", "税务", "hacienda"],
+            "房产": ["vivienda", "alquiler", "房产", "casa", "piso"],
+        }
+        for cat, words in keywords.items():
+            if any(w in text for w in words):
+                return cat
+        return "移民"  # 默认
+    
+    def match_viral_title(self, category, used_titles=None):
+        """匹配爆款标题"""
+        if used_titles is None:
+            used_titles = []
+        
+        titles = VIRAL_TITLES_DB.get(category, VIRAL_TITLES_DB["移民"])
+        
+        # 选择未使用的标题
+        for title in titles:
+            if title not in used_titles:
                 return title
         
+        # 如果都用过了，返回第一个
+        return titles[0]
+    
+    def generate_chinese_content(self, category, original_text, source_name):
+        """生成中文内容"""
+        template = CONTENT_TEMPLATES.get(category, CONTENT_TEMPLATES["移民"])
+        
+        # 提取原文关键句（简化处理）
+        sentences = re.split(r'(?<=[.!?])\s+', original_text[:1500])
+        original_excerpts = [s.strip()[:150] + "..." for s in sentences[:3] if len(s.strip()) > 50]
+        
+        html_parts = []
+        
+        # 核心看点
+        highlight_points = " | ".join(template["key_points"][:2])
+        html_parts.append(f'<p style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; border-radius: 8px; font-size: 15px; line-height: 1.8; margin: 15px 0;"><strong>📢 核心看点：</strong><br/>{highlight_points}</p>')
+        
+        # 引言
+        html_parts.append(f'<p style="padding-left: 2em; line-height: 1.8; color: #333; margin: 15px 0;">{template["intro"]}</p>')
+        
+        # 要点
+        html_parts.append('<p style="padding-left: 2em; line-height: 1.8; color: #333; margin: 15px 0;"><strong>主要变化包括：</strong></p>')
+        for point in template["key_points"]:
+            html_parts.append(f'<p style="padding-left: 2em; line-height: 1.8; color: #333; margin: 10px 0;">• {point}</p>')
+        
+        # 原文摘录
+        if original_excerpts:
+            html_parts.append(f'<p style="background: #f5f5f5; padding: 15px; border-left: 4px solid #999; margin: 15px 0; font-size: 13px; color: #666;"><strong>📰 原文摘录（{source_name}）：</strong><br/>{original_excerpts[0]}</p>')
+        
+        # 背景知识框
+        html_parts.append(f'<p style="background: #e3f2fd; padding: 15px; border-left: 4px solid #2196f3; margin: 15px 0; font-size: 14px;"><strong>💡 提示：</strong>建议关注官方渠道发布的详细信息，以获取最新、最准确的政策内容。</p>')
+        
+        return '\n'.join(html_parts)
+    
+    def generate_analysis(self, category):
+        """生成华人视角解读"""
+        template = CONTENT_TEMPLATES.get(category, CONTENT_TEMPLATES["移民"])
+        return template["analysis"]
+
+
+def generate_full_html(article, color_index):
+    """生成完整HTML"""
+    border_color = BORDER_COLORS[color_index % len(BORDER_COLORS)]
+    
+    h2 = f'<h2 style="color: #1a1a1a; border-left: 5px solid {border_color}; padding-left: 15px; margin-top: 30px;">{article["title"]}</h2>'
+    
+    source_info = f'<p style="background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #6c757d; margin: 20px 0; font-size: 14px; color: #495057;"><strong>📰 原文信息</strong><br/><strong>来源：</strong>{article["source_name"]}<br/><strong>发布时间：</strong>{article["publish_date"]}<br/><strong>原文链接：</strong>{article["source_url"]}</p>'
+    
+    body_title = f'<h3 style="color: #2c3e50; margin-top: 25px; border-left: 4px solid {border_color}; padding-left: 12px;">📝 正文内容</h3>'
+    
+    chinese_title = f'<h3 style="color: #2c3e50; margin-top: 25px; border-left: 4px solid #e74c3c; padding-left: 12px;">👥 华人视角解读</h3>'
+    chinese_view = f'<p style="padding-left: 2em; line-height: 1.8; color: #333; margin: 15px 0;">{article["chinese_analysis"]}</p>'
+    
+    disclaimer = '<p style="background: #fff3cd; padding: 15px; border-radius: 8px; border-left: 4px solid #ffc107; margin: 20px 0; font-size: 13px; color: #856404;"><strong>⚠️ 免责声明：</strong><br/>本文内容仅供参考，不构成任何投资或移民建议。政策信息可能随时变化，请以西班牙官方最新公布为准。</p>'
+    
+    signature = '<p style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 12px; font-size: 16px; line-height: 1.8; margin: 30px 0; text-align: center;"><strong style="font-size: 18px;">板鸭身边事</strong><br/><span style="opacity: 0.9;">带你第一时间掌握西班牙正在发生的事</span></p>'
+    
+    return f'<section style="max-width: 100%; padding: 10px;">{h2}{source_info}{body_title}{article["content"]}{chinese_title}{chinese_view}{disclaimer}{signature}</section>'
+
+
+def get_wechat_token():
+    """获取微信Token"""
+    url = 'https://api.weixin.qq.com/cgi-bin/token'
+    params = {'grant_type': 'client_credential', 'appid': WECHAT_APPID, 'secret': WECHAT_APPSECRET}
+    try:
+        return requests.get(url, params=params, timeout=10).json().get('access_token')
+    except:
         return None
 
-    def generate_titles_for_article(self, article: Dict) -> List[Dict]:
-        """为单篇文章生成多个标题变体"""
-        titles = []
-        styles = self.config['daily_cycle']['style_models']
-        
-        # 根据文章类别选择风格
-        primary_style = self.detect_style(article)
-        
-        # 先生成主风格标题
-        title = self.generate_title(article, primary_style)
-        if title:
-            titles.append({
-                'title': title,
-                'style': primary_style,
-                'source_article': article['title'],
-                'source_link': article['link'],
-                'source': article['source'],
-                'categories': article.get('categories', []),
-                'hash': hashlib.md5((title + article['link']).encode()).hexdigest()[:8]
-            })
-        
-        # 再生成其他风格
-        for style in random.sample(styles, min(2, len(styles))):
-            if style != primary_style:
-                title = self.generate_title(article, style)
-                if title and title not in [t['title'] for t in titles]:
-                    titles.append({
-                        'title': title,
-                        'style': style,
-                        'source_article': article['title'],
-                        'source_link': article['link'],
-                        'source': article['source'],
-                        'categories': article.get('categories', []),
-                        'hash': hashlib.md5((title + article['link']).encode()).hexdigest()[:8]
-                    })
-        
-        return titles[:self.config['daily_cycle']['titles_per_article']]
 
-    def generate_all_titles(self, articles: List[Dict]) -> List[Dict]:
-        """为所有文章生成标题"""
-        print("\n✨ 生成爆款标题...")
+def main():
+    print("=" * 70)
+    print("🚀 西班牙新闻内容引擎 (Content Engine)")
+    print("=" * 70)
+    
+    engine = ContentEngine()
+    
+    # 1. 从RSS获取话题
+    rss_articles = engine.fetch_rss(GITHUB_RSS_URL)
+    if not rss_articles:
+        print("❌ 未能获取RSS话题")
+        return
+    
+    # 2. 处理每篇文章
+    print("\n📝 获取原文并生成中文内容...")
+    selected_articles = []
+    used_titles = []
+    
+    for i, rss_art in enumerate(rss_articles[:5]):
+        print(f"  [{i+1}] {rss_art['title'][:40]}...")
         
-        all_titles = []
-        for article in articles:
-            titles = self.generate_titles_for_article(article)
-            all_titles.extend(titles)
+        # 获取原文
+        original = engine.fetch_original(rss_art['link'])
+        time.sleep(0.5)
         
-        # 去重
-        seen = set()
-        unique = []
-        for t in all_titles:
-            if t['title'] not in seen:
-                seen.add(t['title'])
-                unique.append(t)
+        # 检测类别
+        category = engine.detect_category(rss_art['title'], original)
         
-        max_titles = self.config['daily_cycle']['max_titles_per_day']
-        self.titles = unique[:max_titles]
+        # 匹配爆款标题
+        viral_title = engine.match_viral_title(category, used_titles)
+        used_titles.append(viral_title)
         
-        print(f"✓ 生成: {len(self.titles)}个标题")
-        return self.titles
-
-    def add_fallback_titles(self):
-        """添加备用标题（当新闻不足时）"""
-        current_count = len(self.titles)
-        min_required = 10
+        # 生成中文内容
+        chinese_content = engine.generate_chinese_content(category, original, rss_art.get('source', '西班牙媒体'))
+        chinese_analysis = engine.generate_analysis(category)
         
-        if current_count < min_required:
-            needed = min(min_required - current_count, 10)
+        selected_articles.append({
+            'title': viral_title,
+            'digest': f"西班牙{category}政策有新变化，点击查看详情",
+            'source_name': rss_art.get('source', '西班牙媒体'),
+            'source_url': rss_art['link'],
+            'publish_date': rss_art.get('published', datetime.now().strftime('%Y-%m-%d')),
+            'content': chinese_content,
+            'chinese_analysis': chinese_analysis,
+            'category': category
+        })
+        
+        print(f"      → 类别: {category}")
+        print(f"      → 标题: {viral_title}")
+    
+    # 3. 上传到微信
+    print("\n🚀 上传多图文草稿到微信公众号...")
+    token = get_wechat_token()
+    if not token:
+        print("❌ 获取Token失败")
+        return
+    
+    # 封面图片ID
+    thumb_ids = [
+        'WfulcYFUbeMjJ_9fRU62R2VbfsoC3SXqnJaXRGzkMr6KeDCxS6KtRc5XibVkObtd',
+        'WfulcYFUbeMjJ_9fRU62R-83GnWuynLS4Aqvu3Rv_PJn1Qk3KTLqyldegX8Hd5t-',
+        'WfulcYFUbeMjJ_9fRU62R7fXg2D_tIIWtaSyoJDVH7CI3Y_polaJoCGDu4_k1OG4',
+        'WfulcYFUbeMjJ_9fRU62R2b9pkVKTttbKk7a3YfFvYC5Pm7GQ7h3ZOk_YyEyYvtC',
+        'WfulcYFUbeMjJ_9fRU62R9RN-j52MudMBWLXFyROKB3jvievpA6YK_jORmtUJOcF'
+    ]
+    
+    news_items = []
+    for i, art in enumerate(selected_articles):
+        html = generate_full_html(art, i)
+        news_items.append({
+            'title': art['title'],
+            'author': '板鸭小西',
+            'digest': art['digest'],
+            'content': html,
+            'content_source_url': art['source_url'],
+            'thumb_media_id': thumb_ids[i] if i < len(thumb_ids) else thumb_ids[0],
+            'show_cover_pic': 0,
+            'need_open_comment': 1,
+            'only_fans_can_comment': 0
+        })
+    
+    url = 'https://api.weixin.qq.com/cgi-bin/draft/add'
+    payload = {'articles': news_items}
+    json_str = json.dumps(payload, ensure_ascii=False)
+    headers = {'Content-Type': 'application/json; charset=utf-8'}
+    
+    try:
+        resp = requests.post(url, params={'access_token': token}, 
+                            data=json_str.encode('utf-8'), headers=headers, timeout=30)
+        result = resp.json()
+        
+        if 'media_id' in result:
+            print("\n" + "=" * 70)
+            print("✅ 多图文草稿创建成功！")
+            print("=" * 70)
+            print(f"📋 Media ID: {result['media_id']}")
+            print(f"\n📋 文章清单:")
+            for i, art in enumerate(selected_articles):
+                print(f"  {i+1}. {art['title']} [{art['category']}]")
+            print("\n⚠️ 请登录公众号后台检查并发布")
             
-            fallback_topics = [
-                "西班牙留学真实一年花费？2026最新计算",
-                "Navarra vs 马德里：生活成本到底差多少？",
-                "学生签转工作居留：完整路径图解",
-                "西班牙小城市更容易拿身份？真相来了",
-                "非盈利居留DIY申请：这些坑千万别踩",
-                "数字游民签证最新要求：你符合吗？",
-                "黄金签证关停后：还有哪些Plan B？",
-                "西班牙租房合同：这些隐藏条款要注意！",
-                "首次申请居留被拒？最常见5个原因",
-                "2026西班牙政策变了：影响哪些人？"
-            ]
-            
-            import random
-            selected = random.sample(fallback_topics, needed)
-            
-            for topic in selected:
-                self.titles.append({
-                    'title': topic,
-                    'style': 'fallback',
-                    'source_article': 'Fallback Topic',
-                    'source_link': '',
-                    'source': 'System',
-                    'categories': ['General'],
-                    'hash': __import__('hashlib').md5(topic.encode()).hexdigest()[:8]
-                })
-            
-            print(f"📌 添加备用标题: {needed}个")
-
-    def ensure_question_ratio(self):
-        """确保疑问句比例"""
-        question_markers = ['?', '？', '为什么', '怎么', '到底', '呢', '吗']
-        total = len(self.titles)
-        
-        questions = sum(1 for t in self.titles if any(m in t['title'] for m in question_markers))
-        ratio = questions / total if total > 0 else 0
-        min_ratio = self.config['daily_cycle']['min_question_ratio']
-        
-        if ratio < min_ratio:
-            needed = int(total * min_ratio) - questions
-            for i, t in enumerate(self.titles):
-                if needed <= 0:
-                    break
-                if not any(m in t['title'] for m in question_markers):
-                    # 简单转换：加问号或替换关键词
-                    if len(t['title']) < 27:
-                        self.titles[i]['title'] = t['title'].replace('真相来了', '真相是？').replace('必看', '必看？') + '？'
-                    needed -= 1
-        
-        final_ratio = sum(1 for t in self.titles if any(m in t['title'] for m in question_markers)) / total if total > 0 else 0
-        print(f"📊 疑问句比例: {final_ratio:.0%}")
-
-    # ==================== Obsidian集成 ====================
-
-    def save_to_obsidian(self):
-        """保存内容到Obsidian知识库"""
-        if not self.config.get('obsidian', {}).get('enabled'):
-            return
-        
-        vault_path = PROJECT_ROOT / self.config['obsidian']['vault_path']
-        
-        # 1. 保存每日新闻
-        self._save_daily_news(vault_path)
-        
-        # 2. 保存生成的标题
-        self._save_viral_titles(vault_path)
-        
-        # 3. 更新主题追踪
-        self._update_theme_tracking(vault_path)
-        
-        print(f"✓ 已保存到Obsidian: {vault_path}")
-
-    def _save_daily_news(self, vault_path: Path):
-        """保存每日原始新闻"""
-        folder = vault_path / "01_Daily_News"
-        filepath = folder / f"{self.today} News.md"
-        
-        content = f"""# {self.today} 西班牙新闻日报
-
-> 自动抓取: {len(self.articles)} 篇文章
-> 相关匹配: {len([a for a in self.articles if hasattr(self, '_filtered_articles')])} 篇
-
-## 抓取来源
-
-"""
-        for source in self.config['rss_sources']:
-            source_articles = [a for a in self.articles if a['source'] == source['name']]
-            content += f"- **{source['name']}**: {len(source_articles)} 篇\n"
-        
-        content += "\n## 相关文章详情\n\n"
-        
-        for article in getattr(self, '_filtered_articles', [])[:10]:
-            content += f"""### {article['title']}
-
-- **来源**: {article['source']}
-- **链接**: {article['link']}
-- **分类**: {', '.join(article.get('categories', []))}
-- **相关度**: {article.get('relevance_score', 0)}
-
-> {article['summary'][:200]}...
-
----
-
-"""
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
-
-    def _save_viral_titles(self, vault_path: Path):
-        """保存生成的爆款标题"""
-        folder = vault_path / "02_Viral_Titles"
-        filepath = folder / f"{self.today} Viral Titles.md"
-        
-        content = f"""# {self.today} 爆款标题日报
-
-> 生成数量: {len(self.titles)} 个
-> 疑问句比例: 目标 ≥40%
-
-## 今日标题
-
-| # | 标题 | 风格 | 来源 | 分类 |
-|---|------|------|------|------|
-"""
-        
-        for i, t in enumerate(self.titles, 1):
-            categories = ', '.join(t.get('categories', [])[:2])
-            content += f"| {i} | {t['title']} | {t['style']} | {t['source']} | {categories} |\n"
-        
-        content += "\n## 按分类统计\n\n"
-        
-        # 统计每个分类的标题数
-        cat_counts = {}
-        for t in self.titles:
-            for cat in t.get('categories', []):
-                cat_counts[cat] = cat_counts.get(cat, 0) + 1
-        
-        for cat, count in sorted(cat_counts.items(), key=lambda x: -x[1]):
-            content += f"- **{cat}**: {count} 个标题\n"
-        
-        content += f"""
-
-## RSS订阅
-
-```
-标题RSS: output/spain-hot.xml
-```
-
----
-
-*生成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
-"""
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
-
-    def _update_theme_tracking(self, vault_path: Path):
-        """更新主题追踪（用于周分析）"""
-        tracking_file = vault_path / "07_Weekly_Analysis" / "theme_tracking.json"
-        
-        # 读取现有数据
-        if tracking_file.exists():
-            with open(tracking_file, 'r', encoding='utf-8') as f:
-                tracking = json.load(f)
+            # 保存记录
+            output_dir = Path(__file__).parent / "output"
+            output_dir.mkdir(exist_ok=True)
+            with open(output_dir / f"draft_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json", 'w', encoding='utf-8') as f:
+                json.dump({'media_id': result['media_id'], 'articles': selected_articles}, f, ensure_ascii=False, indent=2)
         else:
-            tracking = {
-                'daily_records': {},
-                'theme_frequency': {},
-                'last_updated': self.today
-            }
-        
-        # 记录今日数据
-        tracking['daily_records'][self.today] = {
-            'title_count': len(self.titles),
-            'categories': {}
-        }
-        
-        for t in self.titles:
-            for cat in t.get('categories', []):
-                tracking['daily_records'][self.today]['categories'][cat] = \
-                    tracking['daily_records'][self.today]['categories'].get(cat, 0) + 1
-                tracking['theme_frequency'][cat] = tracking['theme_frequency'].get(cat, 0) + 1
-        
-        tracking['last_updated'] = self.today
-        
-        with open(tracking_file, 'w', encoding='utf-8') as f:
-            json.dump(tracking, f, indent=2, ensure_ascii=False)
+            print(f"\n❌ 上传失败: {result}")
+    except Exception as e:
+        print(f"\n❌ 错误: {e}")
 
-    # ==================== RSS输出 ====================
-
-    def generate_rss_xml(self) -> str:
-        """生成RSS XML"""
-        now = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
-        
-        xml_parts = [
-            '<?xml version="1.0" encoding="UTF-8"?>',
-            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
-            '  <channel>',
-            '    <title>🇪🇸 西班牙身份留学热点日报</title>',
-            '    <link>https://yourdomain.com/</link>',
-            '    <description>自动生成爆款标题库 - 聚焦西班牙移民、留学、Navarra小城市定位</description>',
-            '    <language>zh-CN</language>',
-            f'    <lastBuildDate>{now}</lastBuildDate>',
-            '    <atom:link href="https://yourdomain.com/spain-hot.xml" rel="self" type="application/rss+xml"/>',
-        ]
-        
-        for item in self.titles:
-            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
-            categories = ', '.join(item.get('categories', []))
-            description = f"来源: {item['source']} | 风格: {item['style']} | 分类: {categories}"
-            # XML encode & to &amp; in URLs
-            link = (item['source_link'] or "https://yourdomain.com/").replace('&', '&amp;')
-            
-            xml_parts.append('    <item>')
-            xml_parts.append(f'      <title><![CDATA[{item["title"]}]]></title>')
-            xml_parts.append(f'      <description><![CDATA[{description}]]></description>')
-            xml_parts.append(f'      <link>{link}</link>')
-            xml_parts.append(f'      <guid isPermaLink="false">{item["hash"]}</guid>')
-            xml_parts.append(f'      <pubDate>{pub_date}</pubDate>')
-            xml_parts.append('    </item>')
-        
-        xml_parts.extend([
-            '  </channel>',
-            '</rss>'
-        ])
-        
-        return '\n'.join(xml_parts)
-
-    def save_rss(self, xml_content: str):
-        """保存RSS文件"""
-        OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-        filepath = OUTPUT_PATH / "spain-hot.xml"
-        
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(xml_content)
-        
-        print(f"\n✅ RSS已保存: {filepath}")
-
-    # ==================== 主流程 ====================
-
-    def run_daily(self):
-        """每日运行流程"""
-        print("=" * 60)
-        print("🇪🇸 Spain Identity Content System v3.0")
-        print(f"⏰ {self.today}")
-        print("=" * 60)
-        
-        # Step 1: 抓取新闻
-        print("\n📰 Step 1: 收集新闻")
-        self.fetch_all_rss()
-        
-        # Step 2: 过滤分类
-        print("\n🎯 Step 2: 过滤与分类")
-        filtered = self.filter_and_categorize()
-        self._filtered_articles = filtered  # 保存供后续使用
-        
-        # Step 3: 生成标题
-        print("\n✨ Step 3: 生成标题")
-        if filtered:
-            self.generate_all_titles(filtered)
-        else:
-            print("⚠️ 无匹配文章，将使用备用标题")
-        
-        # Step 3.5: 添加备用标题
-        self.add_fallback_titles()
-        
-        # Step 4: 质量检查
-        print("\n📊 Step 4: 质量检查")
-        self.ensure_question_ratio()
-        
-        # Step 5: 保存到Obsidian
-        print("\n📝 Step 5: 保存到Obsidian")
-        self.save_to_obsidian()
-        
-        # Step 6: 生成RSS
-        print("\n📡 Step 6: 生成RSS")
-        xml = self.generate_rss_xml()
-        self.save_rss(xml)
-        
-        # 显示结果
-        print("\n" + "=" * 60)
-        print("📋 今日标题预览 (前15条):")
-        print("=" * 60)
-        for i, t in enumerate(self.titles[:15], 1):
-            marker = "❓" if any(m in t['title'] for m in ['?', '？', '为什么', '怎么', '到底']) else "📰"
-            print(f"{i:2d}. {marker} {t['title'][:28]}")
-        if len(self.titles) > 15:
-            print(f"    ... 还有 {len(self.titles) - 15} 条")
-        print("=" * 60)
 
 if __name__ == '__main__':
-    system = SpainIdentitySystem()
-    system.run_daily()
+    main()

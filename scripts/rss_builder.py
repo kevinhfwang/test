@@ -4,9 +4,11 @@
 rss_builder.py - 构建RSS feed
 读取: data/articles.json
 输出: spain-hot.xml
+生成链接指向 content/*.md
 """
 import json
 import datetime
+import urllib.parse
 
 def main():
     print("📡 RSS Builder - 构建RSS feed")
@@ -28,12 +30,15 @@ def main():
         
         # 提取摘要
         description = content[:150] + "..." if len(content) > 150 else content
-        # 移除Markdown标记
         description = description.replace('#', '').replace('*', '').strip()
         
+        # 生成 URL 安全 slug（兼容中文和空格）
+        slug = urllib.parse.quote(title.replace(" ", "-")[:50])
+        
+        # 构建RSS item
         item = f"""    <item>
       <title><![CDATA[{title}]]></title>
-      <link>https://kevinhfwang.github.io/test/</link>
+      <link>https://kevinhfwang.github.io/test/content/{slug}.md</link>
       <description><![CDATA[{description}]]></description>
       <pubDate>{date}</pubDate>
       <guid isPermaLink="false">{hash(title) & 0xFFFFFFFF}</guid>

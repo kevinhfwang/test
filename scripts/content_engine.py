@@ -676,11 +676,13 @@ class SpainIdentitySystem:
             pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
             categories = ', '.join(item.get('categories', []))
             description = f"来源: {item['source']} | 风格: {item['style']} | 分类: {categories}"
+            # XML encode & to &amp; in URLs
+            link = (item['source_link'] or "https://yourdomain.com/").replace('&', '&amp;')
             
             xml_parts.append('    <item>')
             xml_parts.append(f'      <title><![CDATA[{item["title"]}]]></title>')
             xml_parts.append(f'      <description><![CDATA[{description}]]></description>')
-            xml_parts.append(f'      <link>{item["source_link"] or "https://yourdomain.com/"}</link>')
+            xml_parts.append(f'      <link>{link}</link>')
             xml_parts.append(f'      <guid isPermaLink="false">{item["hash"]}</guid>')
             xml_parts.append(f'      <pubDate>{pub_date}</pubDate>')
             xml_parts.append('    </item>')

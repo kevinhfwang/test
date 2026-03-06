@@ -335,12 +335,28 @@ def main():
         print(f"      → 类别: {category}")
         print(f"      → 标题: {viral_title}")
     
-    # 3. 上传到微信
-    print("\n🚀 上传多图文草稿到微信公众号...")
+    # 3. 保存生成的内容到文件
+    print("\n💾 保存生成的内容...")
+    output_dir = Path(__file__).parent / "output"
+    output_dir.mkdir(exist_ok=True)
+    
+    with open(output_dir / f"generated_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json", 'w', encoding='utf-8') as f:
+        json.dump({
+            'timestamp': datetime.now().isoformat(),
+            'articles': selected_articles
+        }, f, ensure_ascii=False, indent=2)
+    print(f"  ✓ 内容已保存到 output/ 目录")
+    
+    # 4. 尝试上传到微信（仅在本地运行时）
+    print("\n🚀 尝试上传到微信公众号...")
     token = get_wechat_token()
+    
     if not token:
-        print("❌ 获取Token失败")
+        print("  ⚠️ 无法获取微信Token（这在CI环境中是正常的）")
+        print("  ✓ 内容已生成本地文件，请手动运行上传到微信")
         return
+    
+    print("  ✅ 获取Token成功，开始上传...")
     
     # 封面图片ID
     thumb_ids = [
@@ -357,6 +373,42 @@ def main():
         news_items.append({
             'title': art['title'],
             'author': '板鸭小西',
+            'digest': art['digest'],
+            'content': html,
+            'content_source_url': art['source_url'],
+            'thumb_media_id': thumb_ids[i] if i < len(thumb_ids) else thumb_ids[0],
+            'show_cover_pic': 0,
+            'need_open_comment': 1,
+            'only_fans_can_comment': 0
+        })
+    
+    url = 'https://api.weixin.qq.com/cgi-bin/draft/add'
+    payload = {'articles': news_items}
+    json_str = json.dumps(payload, ensure_ascii=False)
+    headers = {'Content-Type': 'application/json; charset=utf-8'}
+    
+    try:
+        resp = requests.post(url, params={'access_token': token}, 
+                            data=json_str.encode('utf-8'), headers=headers, timeout=30)
+        result = resp.json()
+        
+        if 'media_id' in result:
+            print("\n" + "=" * 70)
+            print("✅ 多图文草稿创建成功！")
+            print("=" * 70)
+            print(f"📋 Media ID: {result['media_id']}")
+            print(f"\n📋 文章清单:")
+            for i, art in enumerate(selected_articles):
+                print(f"  {i+1}. {art['title']} [{art['category']}]")
+            print("\n⚠️ 请登录公众号后台检查并发布")
+            
+            # 保存记录
+            with open(output_dir / f"draft_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json", 'w', encoding='utf-8') as f:
+                json.dump({'media_id': result['media_id'], 'articles': selected_articles}, f, ensure_ascii=False, indent=2)
+        else:
+            print(f"\n❌ 上传失败: {result}")
+    except Exception as e:
+        print(f"\n❌ 错误: {e}")
             'digest': art['digest'],
             'content': html,
             'content_source_url': art['source_url'],

@@ -5,10 +5,19 @@
       "categories": {
         "General": 10
       }
+    },
+    "2026-03-06": {
+      "title_count": 13,
+      "categories": {
+        "Policy Change": 4,
+        "Permanent Residency": 2
+      }
     }
   },
   "theme_frequency": {
-    "General": 10
+    "General": 10,
+    "Policy Change": 4,
+    "Permanent Residency": 2
   },
-  "last_updated": "2026-03-05"
+  "last_updated": "2026-03-06"
 }

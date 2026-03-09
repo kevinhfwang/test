@@ -60,6 +60,49 @@ jobs:
       
       - name: Create subfolder indexes
         run: |
+          # 首先为 obsidian/ 本身创建索引
+          cat > _site/obsidian/index.html << 'OBSINDEX'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <title>Obsidian Vault - Spain Identity</title>
+              <style>
+                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+                  h1 { color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+                  .back { color: #667eea; text-decoration: none; margin-bottom: 20px; display: inline-block; }
+                  .folder { background: white; padding: 20px; margin: 15px 0; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s; }
+                  .folder:hover { transform: translateX(5px); }
+                  .folder a { color: #333; text-decoration: none; font-size: 1.1em; font-weight: 500; }
+                  .folder a:hover { color: #667eea; }
+                  .meta { color: #666; font-size: 0.9em; margin-top: 8px; }
+                  .emoji { font-size: 1.5em; margin-right: 10px; }
+              </style>
+          </head>
+          <body>
+              <a href="../" class="back">← 返回首页</a>
+              <h1>🇪🇸 Spain Identity System</h1>
+              <p>自动生成的新闻内容库</p>
+              
+              <div class="folder">
+                  <a href="01_Daily_News/"><span class="emoji">📁</span>每日新闻</a>
+                  <div class="meta">每日自动从西班牙媒体抓取</div>
+              </div>
+              
+              <div class="folder">
+                  <a href="02_Viral_Titles/"><span class="emoji">🔥</span>爆款标题</a>
+                  <div class="meta">AI生成的中文爆款标题</div>
+              </div>
+              
+              <div class="folder">
+                  <a href="https://github.com/kevinhfwang/test"><span class="emoji">💻</span>查看完整知识库 →</a>
+                  <div class="meta">GitHub 仓库</div>
+              </div>
+          </body>
+          </html>
+          OBSINDEX
+          echo "✅ Created obsidian/index.html"
+          
           # 为 01_Daily_News 生成索引
           mkdir -p _site/obsidian/01_Daily_News
           python3 << 'PYEOF'

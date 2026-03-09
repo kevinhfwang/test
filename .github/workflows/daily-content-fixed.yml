@@ -115,6 +115,9 @@ jobs:
           echo "✅ Created obsidian/index.html"
           
           # 为 03_Policy_Monitoring 生成索引
+          python3 << 'POLICYEOF'
+          from pathlib import Path
+          
           Path("_site/obsidian/03_Policy_Monitoring").mkdir(parents=True, exist_ok=True)
           
           policy_html = '''<!DOCTYPE html>
@@ -142,11 +145,10 @@ jobs:
           
           policy_dir = Path("obsidian_vault/03_Policy_Monitoring")
           if policy_dir.exists():
-              # 获取日报文件
               summary_files = sorted([f for f in policy_dir.glob("*_DAILY_SUMMARY.md")], reverse=True)
               if summary_files:
                   policy_html += '<div class="articles">'
-                  for f in summary_files[:7]:  # 最近7天
+                  for f in summary_files[:7]:
                       date_part = f.stem.replace('_DAILY_SUMMARY', '')
                       policy_html += f'''
                       <div class="folder">
@@ -156,12 +158,11 @@ jobs:
                       </div>
                       '''
                   
-                  # 获取单个政策文件
                   policy_files = sorted([f for f in policy_dir.glob("*.md") 
                                         if not f.name.endswith("_SUMMARY.md")], reverse=True)
                   if policy_files:
                       policy_html += '<h3 style="margin-top: 30px; color: #666;">详细政策检测</h3>'
-                      for f in policy_files[:10]:  # 最近10个
+                      for f in policy_files[:10]:
                           title_part = f.stem.split('-', 1)[1].replace('-', ' ') if '-' in f.stem else f.stem
                           policy_html += f'''
                           <div class="folder">
@@ -183,6 +184,7 @@ jobs:
           with open("_site/obsidian/03_Policy_Monitoring/index.html", "w", encoding='utf-8') as f:
               f.write(policy_html)
           print("✅ Created 03_Policy_Monitoring/index.html")
+          POLICYEOF
           
           # 为 01_Daily_News 生成索引
           mkdir -p _site/obsidian/01_Daily_News

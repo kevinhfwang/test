@@ -1,102 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🇪🇸 西班牙身份留学热点日报</title>
-    <link>https://yourdomain.com/</link>
-    <description>自动生成爆款标题库 - 聚焦西班牙移民、留学、Navarra小城市定位</description>
+    <title><![CDATA[🇪🇸 西班牙身份留学热点日报]]></title>
+    <link>https://kevinhfwang.github.io/test/</link>
+    <description><![CDATA[聚焦西班牙移民、留学、生活政策变化 - 为华人社区提供最新资讯]]></description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Mar 2026 07:34:58 GMT</lastBuildDate>
-    <atom:link href="https://yourdomain.com/spain-hot.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 09 Mar 2026 11:56:36 GMT</lastBuildDate>
+    <atom:link href="https://kevinhfwang.github.io/test/spain-hot.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title><![CDATA[揭秘：西班牙居留的严格真相？]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: information_gap | 分类: Permanent Residency]]></description>
-      <link>https://www.expansion.com/mercados/fondos/2026/03/05/69a98e81468aeb42078b4593.html</link>
-      <guid isPermaLink="false">dbed2e01</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[注意！西班牙税务复杂了]]></title>
+      <link>https://elpais.com/internacional/2026-03-09/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html</link>
+      <description><![CDATA[来源: El País | 分类: 税务 | Un bombardeo iraní con drones causa 32 heridos y un incendio en la mayor refinería de petróleo de Baréin | Un muerto y dos heridos en el centro de Isr...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">325457758</guid>
     </item>
     <item>
-      <title><![CDATA[提醒：西班牙居留有新变化？]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: policy_alert | 分类: Permanent Residency]]></description>
-      <link>https://www.expansion.com/mercados/fondos/2026/03/05/69a98e81468aeb42078b4593.html</link>
-      <guid isPermaLink="false">617b91c9</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[原来西班牙税务可以这么复杂！]]></title>
+      <link>https://elpais.com/internacional/2026-03-09/von-der-leyen-europa-ya-no-puede-ser-la-guardiana-del-viejo-orden-mundial-de-un-mundo-que-ha-desaparecido.html</link>
+      <description><![CDATA[来源: El País | 分类: 税务 | La presidenta de la Comisión Europea llama a reformar el sistema internacional basado en normas y lanza: “No se debe llorar por el régimen iraní que h...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">3567680496</guid>
     </item>
     <item>
-      <title><![CDATA[想来的不知道：签证还能这样]]></title>
-      <description><![CDATA[来源: Cinco Días | 风格: information_gap | 分类: ]]></description>
-      <link>https://cincodias.elpais.com/cincodias/2023/02/14/economia/1676380516_914237.html#?ref=rss&amp;format=simple&amp;link=link</link>
-      <guid isPermaLink="false">98470bd8</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[注意！西班牙政策变了]]></title>
+      <link>https://www.infolibre.es/opinion/columnas/buzon-de-voz/trece-anos-liderazgo-transparencia-cuentas-positivas-2025_129_2157687.html</link>
+      <description><![CDATA[来源: InfoLibre | 分类: 政策 | Conviene reconocer que por estas mismas fechas del año 2013, cuando en las pantallas comenzó a aparecer un nuevo periódico digital llamado infoLibre, ...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">924030107</guid>
     </item>
     <item>
-      <title><![CDATA[Navarra签证：比马德里难办多少？]]></title>
-      <description><![CDATA[来源: Cinco Días | 风格: city_comparison | 分类: ]]></description>
-      <link>https://cincodias.elpais.com/cincodias/2023/02/14/economia/1676380516_914237.html#?ref=rss&amp;format=simple&amp;link=link</link>
-      <guid isPermaLink="false">3eb8fd6f</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[留学到底怎么贵？想留学的必看]]></title>
+      <link>https://www.infolibre.es/opinion/columnas/en-transicion/rechaza-feminismo-abraza-feminidad_129_2158067.html</link>
+      <description><![CDATA[来源: InfoLibre | 分类: 留学 | Este era el lema que se podía leer en la pancarta que un grupo de muchachos de ultraderecha, con el símbolo de Falange al lado, querían colgar en la F...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">3550989812</guid>
     </item>
     <item>
-      <title><![CDATA[揭秘：西班牙签证的难办真相]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: information_gap | 分类: ]]></description>
-      <link>https://www.expansion.com/economia/2026/03/06/69a9d8a7e5fdeaa2018b4596.html</link>
-      <guid isPermaLink="false">ac9a1856</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[原来西班牙政策可以这么变！]]></title>
+      <link>http://es.euronews.com/video/2026/03/09/ultimas-noticias-09-marzo-2026-mediodia</link>
+      <description><![CDATA[来源: Euronews ES | 分类: 政策 | Ponte al día con las noticias más importantes de Europa y el mundo este 09 marzo 2026: noticias de última hora, internacional, negocios, entretenimien...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">913897678</guid>
     </item>
     <item>
-      <title><![CDATA[提醒：西班牙签证有新变化]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: policy_alert | 分类: ]]></description>
-      <link>https://www.expansion.com/economia/2026/03/06/69a9d8a7e5fdeaa2018b4596.html</link>
-      <guid isPermaLink="false">9de863e6</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[最新！政策调整影响在西班牙的]]></title>
+      <link>https://www.expansion.com/empresas/banca/2026/03/09/69adc8fae5fdea434e8b45af.html</link>
+      <description><![CDATA[来源: Expansión | 分类: 政策 | Las seis entidades cotizadas retribuirán a sus accionistas entre marzo y mayo con pagos complementarios con cargo a los beneficios récord de 2025. A e...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">464914109</guid>
     </item>
     <item>
-      <title><![CDATA[签证窗口期：想来的抓紧了]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: time_window_urgency | 分类: ]]></description>
-      <link>https://www.expansion.com/economia/2026/03/06/69a9d8a7e5fdeaa2018b4596.html</link>
-      <guid isPermaLink="false">9b150613</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[政策到底怎么变？在西班牙的必看]]></title>
+      <link>https://www.expansion.com/economia/2026/03/09/69ae98bd468aeb58658b4599.html</link>
+      <description><![CDATA[来源: Expansión Economía | 分类: 政策 | El 53% de la población española de 60 a 64 años trabajaba en 2025, el porcentaje de ocupación más alto desde 1970, según concluye un informe de Funcas...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">1116083903</guid>
     </item>
     <item>
-      <title><![CDATA[税收：马德里和Navarra差多少？]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: city_comparison | 分类: ]]></description>
-      <link>https://www.expansion.com/economia-digital/companias/2026/03/06/69a9a116468aeb695d8b45bc.html</link>
-      <guid isPermaLink="false">5b9382bb</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[税务到底怎么复杂？在西班牙的必看]]></title>
+      <link>https://www.lavanguardia.com/internacional/20260309/11484575/expats-viven-emiratos-razones-fiscales-inspiran-pena-reino-unido.html</link>
+      <description><![CDATA[来源: La Vanguardia | 分类: 税务 | Más de 250.000 británicos residen en Dubái para no pagar impuestos y evitar los inviernos fríos y lluviosos...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">3965075636</guid>
     </item>
     <item>
-      <title><![CDATA[揭秘：西班牙税收的复杂真相]]></title>
-      <description><![CDATA[来源: Expansión Economy | 风格: information_gap | 分类: ]]></description>
-      <link>https://www.expansion.com/economia-digital/companias/2026/03/06/69a9a116468aeb695d8b45bc.html</link>
-      <guid isPermaLink="false">8a8f78a0</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[为什么西班牙政策越来越变？]]></title>
+      <link>https://www.20minutos.es/internacional/bruselas-vuelve-senalar-iran-por-guerra-no-deberia-derramarse-ni-una-lagrima-por-ese-regimen_6943510_0.html</link>
+      <description><![CDATA[来源: 20 Minutos | 分类: 政策 | Ursula von der Leyen insiste en el mensaje y no se posiciona en si se trata de un conflicto "por convicción o por necesidad" y dice que Europa ya no p...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">2184694004</guid>
     </item>
     <item>
-      <title><![CDATA[申请者不知道：移民还能这样]]></title>
-      <description><![CDATA[来源: Wired | 风格: information_gap | 分类: Policy Change]]></description>
-      <link>https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/</link>
-      <guid isPermaLink="false">9478b121</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2026年移民：容易趋势来了]]></title>
-      <description><![CDATA[来源: Wired | 风格: time_window_urgency | 分类: Policy Change]]></description>
-      <link>https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/</link>
-      <guid isPermaLink="false">37770641</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[原来西班牙移民可以这么容易！]]></title>
-      <description><![CDATA[来源: Google Spain Immigration | 风格: information_gap | 分类: Policy Change]]></description>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOS3pHUWZIUlVaY2FxNkNLVGJWUGN3dm4xQVRMbW4zY1dhUTIwa3lWNEc3SGlSZWFtS2tLNEF0UFJLYnFDNFYweHU0LTdmRjN2NXVMUVgwemxyVjg0TE81ekRwaWplSjFRZE5NT0tJVHJBRUdZX3pDVi1WYXc2M2I2Sy1icFhNdw?oc=5</link>
-      <guid isPermaLink="false">5f2b6f6a</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Navarra移民：比马德里容易多少？]]></title>
-      <description><![CDATA[来源: Google Spain Immigration | 风格: city_comparison | 分类: Policy Change]]></description>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOS3pHUWZIUlVaY2FxNkNLVGJWUGN3dm4xQVRMbW4zY1dhUTIwa3lWNEc3SGlSZWFtS2tLNEF0UFJLYnFDNFYweHU0LTdmRjN2NXVMUVgwemxyVjg0TE81ekRwaWplSjFRZE5NT0tJVHJBRUdZX3pDVi1WYXc2M2I2Sy1icFhNdw?oc=5</link>
-      <guid isPermaLink="false">e4879d20</guid>
-      <pubDate>Fri, 06 Mar 2026 07:34:58 GMT</pubDate>
+      <title><![CDATA[提醒：西班牙政策有新变化]]></title>
+      <link>https://www.eldiario.es/internacional/von-der-leyen-europa-no-confiar-sistema-basado-reglas-unica-forma-defender-intereses_1_13051778.html</link>
+      <description><![CDATA[来源: elDiario | 分类: 政策 | La presidenta de la Comisión Europea da un salto geopolítico al asegurar que "Europa no puede ser la guardiana del viejo orden mundial. Necesitamos un...]]></description>
+      <pubDate>2026-03-09</pubDate>
+      <guid isPermaLink="false">1974755575</guid>
     </item>
   </channel>
 </rss>

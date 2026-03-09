@@ -1,27 +1,5 @@
 [
   {
-    "title": "租房到底怎么涨？要租房的必看",
-    "original_title": "Las donaciones de padres a hijos marcan un récord por la crisis de acceso a la vivienda",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/vivienda/2026-03-09/las-donaciones-de-padres-a-hijos-marcan-un-record-por-la-crisis-de-acceso-a-la-vivienda.html",
-      "summary": "Los notarios registraron en 2025 más de 225.000 operaciones, una cifra nunca vista. La mayoría de las transmisiones consisten en dinero líquido para ayudar a pagar la entrada"
-    },
-    "category": "租房",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "原来西班牙教育可以这么变！",
-    "original_title": "Un país de Asia Central que cambia las normas sobre los derechos de las mujeres",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/03/09/un-pais-de-asia-central-que-cambia-las-normas-sobre-los-derechos-de-las-mujeres",
-      "summary": "Reformas y ayudas mejoran el acceso de las mujeres a educación, prácticas y negocios. Ya son el 54% del alumnado y el 61% de la investigación, más de 380.000 lograron préstamos en 2025, pero la violen"
-    },
-    "category": "教育",
-    "date": "2026-03-09"
-  },
-  {
     "title": "注意！西班牙税务复杂了",
     "original_title": "Von der Leyen: “Europa ya no puede ser la guardiana del viejo orden mundial, de un mundo que ha desaparecido”",
     "source": {
@@ -34,6 +12,17 @@
   },
   {
     "title": "原来西班牙工作可以这么难找！",
+    "original_title": "Yolanda Díaz carga contra Von der Leyen y exige \"defender la legalidad internacional\": \"Lo otro es una barbarie\"",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/yolanda-diaz-carga-von-der-leyen-exige-defender-legalidad-internacional-otro-barbarie_2026030969aec38fe1ff634075e1ab8e.html",
+      "summary": "\"Le recuerdo que el origen de Europa es la paz y el bienestar social\", ha destacado la Ministra de Trabajo"
+    },
+    "category": "工作",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "工作到底怎么难找？找工作的必看",
     "original_title": "Yolanda Díaz responde a Von der Leyen: \"Hay que respetar la legalidad internacional. Lo otro es la barbarie\"",
     "source": {
       "name": "elDiario",
@@ -44,7 +33,7 @@
     "date": "2026-03-09"
   },
   {
-    "title": "政策到底怎么变？在西班牙的必看",
+    "title": "注意！西班牙政策变了",
     "original_title": "Trece años de liderazgo en transparencia: aquí están nuestras cuentas (positivas) de 2025",
     "source": {
       "name": "InfoLibre",
@@ -55,7 +44,7 @@
     "date": "2026-03-09"
   },
   {
-    "title": "注意！西班牙留学贵了",
+    "title": "原来西班牙留学可以这么贵！",
     "original_title": "“Rechaza el feminismo, abraza la feminidad”",
     "source": {
       "name": "InfoLibre",
@@ -63,28 +52,6 @@
       "summary": "Este era el lema que se podía leer en la pancarta que un grupo de muchachos de ultraderecha, con el símbolo de Falange al lado, querían colgar en la Facultad de Ciencias Políticas, Sociología y Trabaj"
     },
     "category": "留学",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "原来西班牙政策可以这么变！",
-    "original_title": "Últimas noticias | 09 marzo 2026 - Mediodía",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/03/09/ultimas-noticias-09-marzo-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 09 marzo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "注意！西班牙政策变了",
-    "original_title": "El 'proxy' Glass Lewis se suma a ISS al pedir el voto contra los sueldos de Telefónica en 2025",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/03/09/69ada92ae5fdea151b8b45ac.html",
-      "summary": "El asesor de voto de los fondos cuestiona la indemnización a los anteriores ejecutivos y el sueldo base del presidente.&nbsp;Leer"
-    },
-    "category": "政策",
     "date": "2026-03-09"
   },
   {
@@ -99,7 +66,18 @@
     "date": "2026-03-09"
   },
   {
-    "title": "工作到底怎么难找？找工作的必看",
+    "title": "居留到底怎么严格？想拿身份的必看",
+    "original_title": "How to get a duplicate TIE residency card in Spain if it's lost or stolen",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260309/how-to-get-a-duplicate-tie-residency-card-in-spain-if-its-lost-or-stolen",
+      "summary": "Need to get a duplicate TIE card in Spain because you've lost the document or your wallet has been stolen? How about if you've changed address in Spain? Here's how to apply and why this process differ"
+    },
+    "category": "居留",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "为什么西班牙工作越来越难找？",
     "original_title": "Españoles en Emiratos Árabes Unidos: “Mi familia insiste en que me marche, pero mi vida, mi trabajo y mi hogar están aquí”",
     "source": {
       "name": "El País",
@@ -110,58 +88,80 @@
     "date": "2026-03-09"
   },
   {
-    "title": "最新！税务调整影响在西班牙的",
-    "original_title": "Los “expats” que viven en los Emiratos por razones fiscales no inspiran pena en el Reino Unido",
+    "title": "原来西班牙政策可以这么变！",
+    "original_title": "El Gobierno prepara ayudas para amortiguar el impacto de la guerra de Irán porque “ya se nota en los bolsillos”",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-03-09/el-gobierno-prepara-ayudas-para-amortiguar-el-impacto-de-la-guerra-de-iran-porque-ya-se-nota-en-los-bolsillos.html",
+      "summary": "El comisario europeo de Economía, Valdis Dombrovskis, alerta de “una importante crisis inflacionaria” si el conflicto se prolonga"
+    },
+    "category": "政策",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "政策到底怎么变？在西班牙的必看",
+    "original_title": "Von der Leyen endurece la política exterior de la UE: “No se debe llorar por el régimen iraní”",
     "source": {
       "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260309/11484575/expats-viven-emiratos-razones-fiscales-inspiran-pena-reino-unido.html",
-      "summary": "Más de 250.000 británicos residen en Dubái para no pagar impuestos y evitar los inviernos fríos y lluviosos"
+      "url": "https://www.lavanguardia.com/internacional/20260309/11485243/von-der-leyen-endurece-politica-exterior-ue-debe-llorar-regimen-irani.html",
+      "summary": "La presidenta de la Comisión Europea, criticada por concentrar el poder y relegar las competencias de Kallas"
     },
-    "category": "税务",
+    "category": "政策",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "在西班牙的不知道：政策还能这样",
+    "original_title": "Así es la controvertida propuesta de ley de Podemos para proteger a España de la guerra de Irán: “Si quieren guerra, que la paguen ellos”",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/asi-controvertida-propuesta-ley-podemos-proteger-espana-guerra-iran-quieren-guerra-que-paguen-ellos_2026030969aee1b5e1ff634075e1ee41.html",
+      "summary": "Podemos plantea limitar la participación militar española, expulsar tropas de EE UU y blindar por ley el “no a la guerra” ante la escalada internacional"
+    },
+    "category": "政策",
+    "date": "2026-03-09"
+  },
+  {
+    "title": "签证到底怎么难办？准备来西班牙的必看",
+    "original_title": "Irene Montero sigue con su discurso anti‑OTAN y avisa al Gobierno: “No podemos decir no a la guerra a la vez que hacemos la guerra”",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/irene-montero-sigue-discurso-antiotan-avisa-gobierno-podemos-decir-guerra-vez-que-hacemos-guerra_2026030969aee010e1ff634075e1eadf.html",
+      "summary": "La eurodiputada de Podemos reclama un referéndum sobre la OTAN y exige expulsar a las tropas de EE UU en plena tensión internacional"
+    },
+    "category": "签证",
     "date": "2026-03-09"
   },
   {
     "title": "为什么西班牙政策越来越变？",
-    "original_title": "Bruselas vuelve a señalar a Irán por la guerra y se pregunta si pedir que el mundo se base en reglas \"es un obstáculo\" para la UE",
+    "original_title": "Von der Leyen justifica el ataque a Irán y duda si el orden basado en reglas \"es un obstáculo\" para la UE: \"El viejo mundo ya no existe\"",
     "source": {
       "name": "20 Minutos",
       "url": "https://www.20minutos.es/internacional/bruselas-vuelve-senalar-iran-por-guerra-no-deberia-derramarse-ni-una-lagrima-por-ese-regimen_6943510_0.html",
-      "summary": "Ursula von der Leyen insiste en el mensaje y no se posiciona en si se trata de un conflicto \"por convicción o por necesidad\" y dice que Europa ya no puede confiar \"en un orden internacional basado en "
+      "summary": "\"No debería derramarse ni una lágrima por un régimen que inflige la muerte e impone la represión a su pueblo\", dice la presidenta de la Comisión Europea."
     },
     "category": "政策",
     "date": "2026-03-09"
   },
   {
-    "title": "政策变了？在西班牙的注意",
-    "original_title": "Von der Leyen: \"Europa no puede confiar en el sistema basado en reglas como la única forma de defender sus intereses\"",
+    "title": "注意！西班牙租房涨了",
+    "original_title": "Un meteorito se estrella en Alemania y causa daños en una vivienda del oeste del país",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/von-der-leyen-europa-no-confiar-sistema-basado-reglas-unica-forma-defender-intereses_1_13051778.html",
-      "summary": "La presidenta de la Comisión Europea da un salto geopolítico al asegurar que \"Europa no puede ser la guardiana del viejo orden mundial. Necesitamos una política exterior más realista\"El ataque ilegal "
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/un-meteorito-se-estrella-alemania-causa-danos-una-vivienda-oeste-pais_6943715_0.html",
+      "summary": "Un meteorito sobrevuela Alemania y causa daños en una vivienda"
     },
-    "category": "政策",
+    "category": "租房",
     "date": "2026-03-09"
   },
   {
-    "title": "提醒：西班牙政策有新变化",
-    "original_title": "El Ibex baja un 2% ante el shock energético",
+    "title": "移民到底怎么容易？想移民的必看",
+    "original_title": "Lanzan explosivos durante una protesta cerca de la casa de Mamdani: la policía lo investiga como terrorismo inspirado en el ISIS",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/03/09/69ae6e1d468aebbd058b4591.html",
-      "summary": "La subida histórica que protagoniza hoy el petróleo, hasta un 30% inicial, pone en jaque a las principales Bolsas. La propuesta del G7 de liberar reservas estratégicas ayuda a moderar la subida del Br"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/lanzan-explosivos-durante-una-protesta-cerca-casa-mamdani-policia-investiga-como-terrorismo-inspirado-isis_6943708_0.html",
+      "summary": "Los hechos ocurrieron durante los enfrentamientos entre manifestantes contra la inmigración musulmana y los integrantes de una contramanifestación."
     },
-    "category": "政策",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "西班牙政策变？真相来了",
-    "original_title": "Dos factores clave para predecir si la guerra causará o no un shock bursátil",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/03/09/69aea0af468aeb09658b45b2.html",
-      "summary": "El mercado del petróleo, por momentos, ha entrado hoy en pánico. Las Bolsas se resienten ante lo que pueda pasar. Los analistas de Morgan Stanley focalizan la atención en dos condiciones cruciales par"
-    },
-    "category": "政策",
+    "category": "移民",
     "date": "2026-03-09"
   }
 ]

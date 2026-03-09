@@ -1,13 +1,13 @@
 # 2026-03-09 爆款标题
 
-> 自动生成于 2026-03-09 12:22
+> 自动生成于 2026-03-09 12:25
 > 来源：24个西班牙媒体RSS源
 
-## 今日热门标题 (13个)
+## 今日热门标题 (12个)
 
-### 1. 注意！西班牙税务复杂了
+### 1. 原来西班牙税务可以这么复杂！
 
-- **中文标题**：注意！西班牙税务复杂了
+- **中文标题**：原来西班牙税务可以这么复杂！
 - **原文标题**：Von der Leyen: “Europa ya no puede ser la guardiana del viejo orden mundial, de un mundo que ha desaparecido”
 - **分类**：税务
 - **来源**：El País
@@ -15,9 +15,9 @@
 
 ---
 
-### 2. 注意！西班牙政策变了
+### 2. 原来西班牙政策可以这么变！
 
-- **中文标题**：注意！西班牙政策变了
+- **中文标题**：原来西班牙政策可以这么变！
 - **原文标题**：Trece años de liderazgo en transparencia: aquí están nuestras cuentas (positivas) de 2025
 - **分类**：政策
 - **来源**：InfoLibre
@@ -35,19 +35,9 @@
 
 ---
 
-### 4. 原来西班牙政策可以这么变！
+### 4. 在西班牙的不知道：政策还能这样
 
-- **中文标题**：原来西班牙政策可以这么变！
-- **原文标题**：Últimas noticias | 09 marzo 2026 - Mediodía
-- **分类**：政策
-- **来源**：Euronews ES
-- **链接**：http://es.euronews.com/video/2026/03/09/ultimas-noticias-09-marzo-2026-mediodia
-
----
-
-### 5. 政策到底怎么变？在西班牙的必看
-
-- **中文标题**：政策到底怎么变？在西班牙的必看
+- **中文标题**：在西班牙的不知道：政策还能这样
 - **原文标题**：La banca española repartirá 10.500 millones en dividendos hasta junio
 - **分类**：政策
 - **来源**：Expansión
@@ -55,9 +45,9 @@
 
 ---
 
-### 6. 在西班牙的不知道：政策还能这样
+### 5. 注意！西班牙政策变了
 
-- **中文标题**：在西班牙的不知道：政策还能这样
+- **中文标题**：注意！西班牙政策变了
 - **原文标题**：Más de la mitad de las personas de 60 a 64 años trabajaban en 2025, máximos desde 1970
 - **分类**：政策
 - **来源**：Expansión Economía
@@ -65,9 +55,9 @@
 
 ---
 
-### 7. 税务到底怎么复杂？在西班牙的必看
+### 6. 注意！西班牙税务复杂了
 
-- **中文标题**：税务到底怎么复杂？在西班牙的必看
+- **中文标题**：注意！西班牙税务复杂了
 - **原文标题**：Los “expats” que viven en los Emiratos por razones fiscales no inspiran pena en el Reino Unido
 - **分类**：税务
 - **来源**：La Vanguardia
@@ -75,9 +65,9 @@
 
 ---
 
-### 8. 为什么西班牙政策越来越变？
+### 7. 最新！政策调整影响在西班牙的
 
-- **中文标题**：为什么西班牙政策越来越变？
+- **中文标题**：最新！政策调整影响在西班牙的
 - **原文标题**：Bruselas vuelve a señalar a Irán por la guerra y se pregunta si pedir que el mundo se base en reglas "es un obstáculo" para la UE
 - **分类**：政策
 - **来源**：20 Minutos
@@ -85,9 +75,9 @@
 
 ---
 
-### 9. 揭秘：西班牙政策的变真相
+### 8. 提醒：西班牙政策有新变化
 
-- **中文标题**：揭秘：西班牙政策的变真相
+- **中文标题**：提醒：西班牙政策有新变化
 - **原文标题**：Von der Leyen: "Europa no puede confiar en el sistema basado en reglas como la única forma de defender sus intereses"
 - **分类**：政策
 - **来源**：elDiario
@@ -95,9 +85,9 @@
 
 ---
 
-### 10. 很多人不知道：政策有变化
+### 9. 揭秘：西班牙政策的变真相
 
-- **中文标题**：很多人不知道：政策有变化
+- **中文标题**：揭秘：西班牙政策的变真相
 - **原文标题**：El Ibex baja un 2% ante el shock energético
 - **分类**：政策
 - **来源**：Expansión
@@ -105,9 +95,9 @@
 
 ---
 
-### 11. 政策变了？在西班牙的注意
+### 10. 重要：在西班牙的政策有变动
 
-- **中文标题**：政策变了？在西班牙的注意
+- **中文标题**：重要：在西班牙的政策有变动
 - **原文标题**：Dos factores clave para predecir si la guerra causará o no un shock bursátil
 - **分类**：政策
 - **来源**：Expansión
@@ -115,9 +105,9 @@
 
 ---
 
-### 12. 最新！政策调整影响在西班牙的
+### 11. 速看：西班牙政策最新动态
 
-- **中文标题**：最新！政策调整影响在西班牙的
+- **中文标题**：速看：西班牙政策最新动态
 - **原文标题**：Stéphane Séjourné: "Si no actuamos, sectores estratégicos de la industria europea pasarán a manos de China"
 - **分类**：政策
 - **来源**：Expansión Economía
@@ -125,9 +115,9 @@
 
 ---
 
-### 13. 原来西班牙居留可以这么严格！
+### 12. 注意！西班牙居留严格了
 
-- **中文标题**：原来西班牙居留可以这么严格！
+- **中文标题**：注意！西班牙居留严格了
 - **原文标题**：Which countries in Europe impose language tests for residency permits?
 - **分类**：居留
 - **来源**：The Local ES

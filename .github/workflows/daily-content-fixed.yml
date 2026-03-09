@@ -32,29 +32,71 @@ jobs:
       
       # ========== 步骤1: 从真实RSS源抓取新闻 ==========
       - name: Fetch news from RSS sources
-        run: python scripts/rss_fetcher.py
+        id: fetch
+        run: |
+          echo "📡 开始从24个RSS源抓取新闻..."
+          python scripts/rss_fetcher.py
+          echo "✅ RSS抓取完成"
+          echo "📊 抓取统计:"
+          cat data/rss_articles.json | python -m json.tool | grep -c '"title"' || echo "统计失败"
       
       # ========== 步骤2: 生成爆款标题 ==========
       - name: Generate viral titles
-        run: python scripts/title_generator.py
+        id: titles
+        run: |
+          echo "🔥 开始生成中文爆款标题..."
+          python scripts/title_generator.py
+          echo "✅ 标题生成完成"
+          echo "📋 今日热门标题:"
+          cat data/generated_titles.json | python -m json.tool | head -50 || echo "读取失败"
       
       # ========== 步骤3: 生成文章内容 ==========
       - name: Generate article content
-        run: python scripts/article_writer.py
+        id: articles
+        run: |
+          echo "📝 开始生成文章内容..."
+          python scripts/article_writer.py
+          echo "✅ 文章生成完成"
+          echo "📄 文章统计:"
+          cat data/articles.json | python -m json.tool | grep -c '"title"' || echo "统计失败"
       
       # ========== 步骤4: 构建RSS feed ==========
       - name: Build RSS feed
-        run: python scripts/rss_builder.py
+        id: rss
+        run: |
+          echo "📡 开始构建RSS feed..."
+          python scripts/rss_builder.py
+          echo "✅ RSS构建完成"
+          echo "📡 RSS条目数:"
+          cat output/spain-hot.xml | grep -c '<item>' || echo "统计失败"
       
       # ========== 步骤5: 生成Obsidian内容 ==========
       - name: Generate Obsidian article content
-        run: python scripts/export_markdown.py
+        id: obsidian_articles
+        run: |
+          echo "📄 开始导出文章到Obsidian..."
+          python scripts/export_markdown.py
+          echo "✅ 文章导出完成"
+          echo "📁 01_Daily_News 文件数:"
+          ls -1 obsidian_vault/01_Daily_News/*.md 2>/dev/null | wc -l || echo "0"
       
       - name: Generate Obsidian viral titles
-        run: python scripts/export_viral_titles.py
+        id: obsidian_titles
+        run: |
+          echo "🔥 开始导出标题到Obsidian..."
+          python scripts/export_viral_titles.py
+          echo "✅ 标题导出完成"
+          echo "📁 02_Viral_Titles 文件数:"
+          ls -1 obsidian_vault/02_Viral_Titles/*.md 2>/dev/null | wc -l || echo "0"
       
       - name: Detect policy updates
-        run: python scripts/policy_monitor.py
+        id: policy
+        run: |
+          echo "🔍 开始检测政策相关新闻..."
+          python scripts/policy_monitor.py
+          echo "✅ 政策检测完成"
+          echo "📁 03_Policy_Monitoring 文件数:"
+          ls -1 obsidian_vault/03_Policy_Monitoring/*.md 2>/dev/null | wc -l || echo "0"
       
       # ========== 步骤6: 构建站点 ==========
       - name: Build site
@@ -350,6 +392,7 @@ jobs:
       
       # ========== 步骤7: 提交并推送 ==========
       - name: Commit and push changes
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -358,8 +401,32 @@ jobs:
           git add content/
           git add obsidian_vault/
           git diff --cached --quiet || (git commit -m "Update daily content $(date +%Y-%m-%d)" && git push)
+          echo "✅ 代码已提交到GitHub"
       
-      # ========== 步骤8: 部署到GitHub Pages ==========
+      # ========== 步骤8: 生成运行摘要 ==========
+      - name: Generate run summary
+        id: summary
+        run: |
+          echo "======================================"
+          echo "📊 Daily Run Summary"
+          echo "======================================"
+          echo "📅 Date: $(date +'%Y-%m-%d %H:%M:%S')"
+          echo ""
+          echo "📁 输出统计:"
+          echo "  - RSS Articles: $(cat data/rss_articles.json 2>/dev/null | grep -c '"title"' || echo 0)"
+          echo "  - Generated Titles: $(cat data/generated_titles.json 2>/dev/null | grep -c '"title"' || echo 0)"
+          echo "  - Written Articles: $(cat data/articles.json 2>/dev/null | grep -c '"title"' || echo 0)"
+          echo "  - RSS Items: $(cat output/spain-hot.xml 2>/dev/null | grep -c '<item>' || echo 0)"
+          echo ""
+          echo "📂 Obsidian Vault:"
+          echo "  - 01_Daily_News: $(ls -1 obsidian_vault/01_Daily_News/*.md 2>/dev/null | wc -l || echo 0) files"
+          echo "  - 02_Viral_Titles: $(ls -1 obsidian_vault/02_Viral_Titles/*.md 2>/dev/null | wc -l || echo 0) files"
+          echo "  - 03_Policy_Monitoring: $(ls -1 obsidian_vault/03_Policy_Monitoring/*.md 2>/dev/null | wc -l || echo 0) files"
+          echo ""
+          echo "✅ All tasks completed successfully!"
+          echo "======================================"
+      
+      # ========== 步骤9: 部署到GitHub Pages ==========
       - uses: actions/configure-pages@v4
       
       - uses: actions/upload-pages-artifact@v3

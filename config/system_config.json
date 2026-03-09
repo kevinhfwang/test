@@ -39,9 +39,22 @@
   ],
   "filter_keywords": {
     "high_priority": ["visa", "residencia", "residency", "immigration", "migración", "extranjería"],
-    "medium_priority": ["student", "estudiante", "education", "educación", "universidad", "master"],
+    "medium_priority": ["student", "estudiante", "education", "educación", "universidad", "master", "colegio", "escuela", "ranking"],
     "low_priority": ["tax", "impuesto", "housing", "vivienda", "alquiler", "Navarra", "autónomo"],
-    "contextual": ["permit", "permiso", "work", "trabajo", "law", "ley", "policy", "política"]
+    "contextual": ["permit", "permiso", "work", "trabajo", "law", "ley", "policy", "política"],
+    "geopolitical": {
+      "description": "美伊战争对西班牙的影响相关关键词",
+      "keywords": ["Irán", "Iran", "Israel", "Gaza", "Palestina", "Palestine", "Oriente Medio", "Middle East", "guerra", "war", "conflicto", "conflict"],
+      "impact_on_spain": ["gasolina", "gas", "petrol", "oil", "economía", "economy", "inflación", "inflation", "precio", "price", "energía", "energy"],
+      "weight_multiplier": 1.5
+    },
+    "education_schools": {
+      "description": "西班牙中小学及学校选择相关",
+      "primary_secondary": ["colegio", "escuela", "primaria", "secundaria", "bachillerato", "ESO", "educación infantil", "guardería"],
+      "school_selection": ["ranking", "mejor colegio", "school ranking", "zona escolar", "concertado", "público", "privado"],
+      "immigrant_education": ["escuela para extranjeros", "school for immigrants", "integración escolar", "inmersión lingüística", "bilingüe", "bilingual"],
+      "weight_multiplier": 1.3
+    }
   },
   "categories": [
     "Policy Change",

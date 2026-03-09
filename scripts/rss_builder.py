@@ -1,52 +1,54 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-rss_builder.py - 构建RSS feed
-读取: data/articles.json
-输出: spain-hot.xml
-生成链接指向 content/*.md
+rss_builder.py - 从生成的标题构建RSS feed
+输入: data/generated_titles.json
+输出: output/spain-hot.xml
 """
 import json
-import datetime
-import urllib.parse
+from datetime import datetime
+from pathlib import Path
 
 def main():
+    print("=" * 60)
     print("📡 RSS Builder - 构建RSS feed")
+    print("=" * 60)
     
-    # 读取文章
+    # 读取生成的标题
+    data_dir = Path("data")
+    output_dir = Path("output")
+    output_dir.mkdir(exist_ok=True)
+    
     try:
-        with open("data/articles.json", "r", encoding="utf-8") as f:
-            articles = json.load(f)
+        with open(data_dir / "generated_titles.json", 'r', encoding='utf-8') as f:
+            titles = json.load(f)
     except FileNotFoundError:
-        print("❌ 未找到 data/articles.json")
+        print("❌ 未找到 data/generated_titles.json")
         return
+    
+    print(f"📊 读取 {len(titles)} 个标题")
     
     # 构建RSS items
     items = []
-    for a in articles[:10]:  # 最多10篇
-        title = a.get('title', '')
-        content = a.get('content', '')
-        date = a.get('date', str(datetime.datetime.now()))
+    for t in titles[:10]:  # 最多10篇
+        title = t.get('title', '')
+        source = t.get('source', {})
+        url = source.get('url', '')
+        summary = source.get('summary', '')[:150]
+        date = t.get('date', datetime.now().strftime('%Y-%m-%d'))
+        category = t.get('category', 'general')
         
-        # 提取摘要
-        description = content[:150] + "..." if len(content) > 150 else content
-        description = description.replace('#', '').replace('*', '').strip()
-        
-        # 生成 URL 安全 slug（兼容中文和空格）
-        slug = urllib.parse.quote(title.replace(" ", "-")[:50])
-        
-        # 构建RSS item
         item = f"""    <item>
       <title><![CDATA[{title}]]></title>
-      <link>https://kevinhfwang.github.io/test/content/{slug}.md</link>
-      <description><![CDATA[{description}]]></description>
+      <link>{url}</link>
+      <description><![CDATA[来源: {source.get('name', '西班牙媒体')} | 分类: {category} | {summary}...]]></description>
       <pubDate>{date}</pubDate>
       <guid isPermaLink="false">{hash(title) & 0xFFFFFFFF}</guid>
     </item>"""
         items.append(item)
     
     # 构建完整RSS
-    now = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+    now = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
     
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -62,12 +64,14 @@ def main():
 </rss>"""
     
     # 保存RSS
-    with open("spain-hot.xml", "w", encoding="utf-8") as f:
+    output_file = output_dir / "spain-hot.xml"
+    with open(output_file, 'w', encoding='utf-8') as f:
         f.write(rss)
     
-    print(f"\n✅ 已构建RSS feed")
-    print(f"📁 保存到: spain-hot.xml")
+    print(f"\n✅ RSS构建完成")
+    print(f"📁 保存到: {output_file}")
     print(f"📊 包含 {len(items)} 篇文章")
+    print(f"⏰ 最后更新: {now}")
 
 if __name__ == "__main__":
     main()

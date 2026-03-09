@@ -1,0 +1,151 @@
+name: Daily Content Generation (Fixed)
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 7 * * *'  # 每天上午8点 CET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+      
+      # ========== 步骤1: 从真实RSS源抓取新闻 ==========
+      - name: Fetch news from RSS sources
+        run: python scripts/rss_fetcher.py
+      
+      # ========== 步骤2: 生成爆款标题 ==========
+      - name: Generate viral titles
+        run: python scripts/title_generator.py
+      
+      # ========== 步骤3: 生成文章内容 ==========
+      - name: Generate article content
+        run: python scripts/article_writer.py
+      
+      # ========== 步骤4: 构建RSS feed ==========
+      - name: Build RSS feed
+        run: python scripts/rss_builder.py
+      
+      # ========== 步骤5: 生成Obsidian内容 ==========
+      - name: Generate Obsidian content
+        run: python scripts/export_markdown.py
+      
+      # ========== 步骤6: 构建站点 ==========
+      - name: Build site
+        run: |
+          mkdir -p _site/obsidian
+          cp -r obsidian_vault/* _site/obsidian/ 2>/dev/null || true
+          cp output/spain-hot.xml _site/ 2>/dev/null || true
+          cp content/*.md _site/obsidian/ 2>/dev/null || true
+      
+      - name: Create obsidian index
+        run: |
+          cat > _site/obsidian/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <title>Obsidian Vault</title>
+              <style>
+                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; }
+                  h1 { border-bottom: 2px solid #667eea; }
+                  .folder { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
+                  a { color: #667eea; text-decoration: none; }
+                  .date { color: #666; font-size: 0.9em; }
+              </style>
+          </head>
+          <body>
+              <h1>🇪🇸 Spain Identity System</h1>
+              <p>自动生成的新闻内容库</p>
+              <div class="folder">
+                  <h3>📁 <a href="01_Daily_News/">每日新闻</a></h3>
+                  <p class="date">每日自动从西班牙媒体抓取</p>
+              </div>
+              <div class="folder">
+                  <h3>📁 <a href="02_Viral_Titles/">爆款标题</a></h3>
+                  <p class="date">AI生成的中文爆款标题</p>
+              </div>
+              <p><a href="https://github.com/kevinhfwang/test">查看完整知识库 →</a></p>
+          </body>
+          </html>
+          EOF
+      
+      - name: Create main index
+        run: |
+          cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <title>Spain Identity System</title>
+              <style>
+                  body { font-family: system-ui; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
+                  .container { background: white; padding: 40px; border-radius: 20px; max-width: 500px; text-align: center; }
+                  .card { background: #f5f5f5; padding: 20px; margin: 15px 0; border-radius: 10px; }
+                  a { color: #667eea; }
+                  .status { font-size: 0.9em; color: #666; margin-top: 10px; }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🇪🇸 Spain Identity System</h1>
+                  <p>西班牙身份内容系统</p>
+                  <div class="card">
+                      <h3>📡 <a href="spain-hot.xml">RSS订阅</a></h3>
+                      <p class="status">每日更新</p>
+                  </div>
+                  <div class="card">
+                      <h3>📚 <a href="obsidian/">Obsidian知识库</a></h3>
+                      <p class="status">每日新闻 + 爆款标题</p>
+                  </div>
+              </div>
+          </body>
+          </html>
+          EOF
+      
+      # ========== 步骤7: 提交并推送 ==========
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git add output/
+          git add content/
+          git add obsidian_vault/
+          git diff --cached --quiet || (git commit -m "Update daily content $(date +%Y-%m-%d)" && git push)
+      
+      # ========== 步骤8: 部署到GitHub Pages ==========
+      - uses: actions/configure-pages@v4
+      
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - uses: actions/deploy-pages@v4

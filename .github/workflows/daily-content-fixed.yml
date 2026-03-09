@@ -47,8 +47,11 @@ jobs:
         run: python scripts/rss_builder.py
       
       # ========== 步骤5: 生成Obsidian内容 ==========
-      - name: Generate Obsidian content
+      - name: Generate Obsidian article content
         run: python scripts/export_markdown.py
+      
+      - name: Generate Obsidian viral titles
+        run: python scripts/export_viral_titles.py
       
       # ========== 步骤6: 构建站点 ==========
       - name: Build site

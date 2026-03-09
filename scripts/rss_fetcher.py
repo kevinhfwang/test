@@ -2,12 +2,15 @@
 # -*- coding: utf-8 -*-
 """
 rss_fetcher.py - 从真实RSS源抓取西班牙新闻
+支持RSS抓取失败时使用浏览器fallback
 输出: data/rss_articles.json
 """
 import feedparser
 import json
 import re
 import ssl
+import subprocess
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -51,12 +54,23 @@ FILTER_KEYWORDS = [
     "tarjeta sanitaria", "seguridad social", "paro", "empleo", "trabajo"
 ]
 
+# 浏览器 fallback 网站 (当RSS失败时直接抓取)
+BROWSER_FALLBACK_SITES = [
+    {"name": "El País", "url": "https://elpais.com", "selector": "article h2 a"},
+    {"name": "El Mundo", "url": "https://elmundo.es", "selector": "article h2 a, .ue-c-cover-content__link"},
+    {"name": "ABC", "url": "https://abc.es", "selector": "article h2 a, .titular a"},
+]
+
 def fetch_feed(source):
     """抓取单个RSS源"""
     try:
         print(f"📡 抓取: {source['name']}")
         feed = feedparser.parse(source['url'])
         articles = []
+        
+        # 检查是否有bozo错误 (RSS解析错误)
+        if hasattr(feed, 'bozo') and feed.bozo:
+            print(f"   ⚠️ RSS解析警告: {feed.get('bozo_exception', 'Unknown')}")
         
         for entry in feed.entries[:10]:  # 每个源最多10篇
             summary = entry.get('summary', '')
@@ -75,6 +89,76 @@ def fetch_feed(source):
         return articles
     except Exception as e:
         print(f"   ✗ 失败: {e}")
+        return []
+
+def fetch_with_browser(site):
+    """使用浏览器抓取网站"""
+    try:
+        print(f"🌐 浏览器抓取: {site['name']} ({site['url']})")
+        
+        # 使用 playwright 或直接 HTTP 请求
+        import urllib.request
+        import urllib.error
+        
+        req = urllib.request.Request(
+            site['url'],
+            headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+                'Accept-Language': 'es-ES,es;q=0.9,en;q=0.8',
+            }
+        )
+        
+        with urllib.request.urlopen(req, timeout=15) as response:
+            html = response.read().decode('utf-8', errors='ignore')
+        
+        # 提取标题和链接
+        articles = []
+        
+        # 尝试多种模式匹配
+        # 模式1: 常见的文章链接
+        patterns = [
+            r'<h[1-6][^>]*>.*?<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>.*?</h[1-6]>',
+            r'<article[^>]*>.*?<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>.*?</article>',
+            r'<a[^>]*href="([^"]+)"[^>]*class="[^"]*(?:titular|headline|title)[^"]*"[^>]*>(.*?)</a>',
+        ]
+        
+        for pattern in patterns:
+            matches = re.findall(pattern, html, re.DOTALL | re.IGNORECASE)
+            for link, title in matches[:5]:  # 每个模式最多5篇
+                # 清理标题
+                title = re.sub(r'<[^>]+>', '', title).strip()
+                title = re.sub(r'\s+', ' ', title)
+                
+                # 处理相对链接
+                if link.startswith('/'):
+                    base_url = '/'.join(site['url'].split('/')[:3])
+                    link = base_url + link
+                elif not link.startswith('http'):
+                    link = site['url'].rstrip('/') + '/' + link
+                
+                if title and len(title) > 10:
+                    articles.append({
+                        'title': title,
+                        'link': link,
+                        'summary': f'从 {site["name"]} 首页抓取',
+                        'published': datetime.now().isoformat(),
+                        'source': f"{site['name']} (Browser)"
+                    })
+        
+        # 去重
+        seen = set()
+        unique = []
+        for art in articles:
+            if art['link'] not in seen:
+                seen.add(art['link'])
+                unique.append(art)
+        
+        print(f"   ✓ 浏览器获取 {len(unique)} 篇")
+        return unique[:10]  # 最多返回10篇
+        
+    except Exception as e:
+        print(f"   ✗ 浏览器抓取失败: {e}")
         return []
 
 def score_article(article):
@@ -101,13 +185,26 @@ def main():
     data_dir = Path("data")
     data_dir.mkdir(exist_ok=True)
     
-    # 抓取所有源
+    # 抓取所有RSS源
     all_articles = []
+    failed_sources = []
+    
     for source in RSS_SOURCES:
         articles = fetch_feed(source)
-        all_articles.extend(articles)
+        if articles:
+            all_articles.extend(articles)
+        else:
+            failed_sources.append(source)
     
-    print(f"\n📊 总计抓取: {len(all_articles)} 篇文章")
+    print(f"\n📊 RSS总计抓取: {len(all_articles)} 篇文章")
+    print(f"📊 失败源: {len(failed_sources)} 个")
+    
+    # 如果RSS抓取失败太多，使用浏览器fallback
+    if len(all_articles) < 20:
+        print(f"\n⚠️ RSS文章不足，启用浏览器fallback...")
+        for site in BROWSER_FALLBACK_SITES:
+            browser_articles = fetch_with_browser(site)
+            all_articles.extend(browser_articles)
     
     # 去重（基于链接）
     seen_links = set()
@@ -117,7 +214,7 @@ def main():
             seen_links.add(art['link'])
             unique_articles.append(art)
     
-    print(f"📊 去重后: {len(unique_articles)} 篇")
+    print(f"\n📊 去重后: {len(unique_articles)} 篇")
     
     # 评分并排序
     for art in unique_articles:
@@ -134,6 +231,11 @@ def main():
     print(f"📈 前5篇高分文章:")
     for i, art in enumerate(unique_articles[:5], 1):
         print(f"   {i}. [{art['score']}分] {art['title'][:50]}...")
+    
+    # 如果文章太少，警告
+    if len(unique_articles) < 5:
+        print(f"\n⚠️ 警告: 只抓取到 {len(unique_articles)} 篇文章，可能RSS源有问题")
+        print("   建议检查网络连接或RSS源可用性")
 
 if __name__ == "__main__":
     main()

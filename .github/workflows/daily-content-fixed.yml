@@ -58,37 +58,136 @@ jobs:
           cp output/spain-hot.xml _site/ 2>/dev/null || true
           cp content/*.md _site/obsidian/ 2>/dev/null || true
       
-      - name: Create obsidian index
+      - name: Create subfolder indexes
         run: |
-          cat > _site/obsidian/index.html << 'EOF'
-          <!DOCTYPE html>
+          # 为 01_Daily_News 生成索引
+          mkdir -p _site/obsidian/01_Daily_News
+          python3 << 'PYEOF'
+          import os
+          import re
+          from pathlib import Path
+          
+          def slugify(title):
+              slug = re.sub(r'[^\w\s-]', '', title)
+              slug = re.sub(r'\s+', '-', slug)
+              return slug[:30].lower()
+          
+          # 读取文章数据
+          data_dir = Path("data")
+          if (data_dir / "articles.json").exists():
+              import json
+              with open(data_dir / "articles.json", 'r', encoding='utf-8') as f:
+                  articles = json.load(f)
+          else:
+              articles = []
+          
+          # 生成 HTML
+          html = '''<!DOCTYPE html>
           <html>
           <head>
               <meta charset="UTF-8">
-              <title>Obsidian Vault</title>
+              <title>每日新闻 - Spain Identity</title>
               <style>
-                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; }
-                  h1 { border-bottom: 2px solid #667eea; }
-                  .folder { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
-                  a { color: #667eea; text-decoration: none; }
-                  .date { color: #666; font-size: 0.9em; }
+                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+                  h1 { color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+                  .back { color: #667eea; text-decoration: none; margin-bottom: 20px; display: inline-block; }
+                  .article { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+                  .article a { color: #333; text-decoration: none; font-weight: 500; }
+                  .article a:hover { color: #667eea; }
+                  .meta { color: #666; font-size: 0.85em; margin-top: 5px; }
+                  .date { color: #999; }
+                  .empty { color: #999; text-align: center; padding: 40px; }
               </style>
           </head>
           <body>
-              <h1>🇪🇸 Spain Identity System</h1>
-              <p>自动生成的新闻内容库</p>
-              <div class="folder">
-                  <h3>📁 <a href="01_Daily_News/">每日新闻</a></h3>
-                  <p class="date">每日自动从西班牙媒体抓取</p>
-              </div>
-              <div class="folder">
-                  <h3>📁 <a href="02_Viral_Titles/">爆款标题</a></h3>
-                  <p class="date">AI生成的中文爆款标题</p>
-              </div>
-              <p><a href="https://github.com/kevinhfwang/test">查看完整知识库 →</a></p>
+              <a href="../" class="back">← 返回</a>
+              <h1>🇪🇸 每日新闻</h1>
+              <p>自动生成的西班牙新闻内容</p>
+          '''
+          
+          if articles:
+              from datetime import datetime
+              today = datetime.now().strftime('%Y-%m-%d')
+              html += f'<div class="date" style="margin-bottom: 20px;">📅 更新日期: {today}</div>'
+              html += '<div class="articles">'
+              
+              for i, art in enumerate(articles, 1):
+                  title = art.get('title', f'文章{i}')
+                  category = art.get('category', 'general')
+                  filename = f"{today}_{i:02d}_{slugify(title)}.md"
+                  html += f'''
+                  <div class="article">
+                      <a href="{filename}">{title}</a>
+                      <div class="meta">分类: {category} · Markdown 格式</div>
+                  </div>
+                  '''
+              html += '</div>'
+          else:
+              html += '<div class="empty">暂无文章，请等待下次更新</div>'
+          
+          html += '''
           </body>
           </html>
-          EOF
+          '''
+          
+          with open("_site/obsidian/01_Daily_News/index.html", "w", encoding='utf-8') as f:
+              f.write(html)
+          print("✅ Created 01_Daily_News/index.html")
+          
+          # 为 02_Viral_Titles 生成索引
+          Path("_site/obsidian/02_Viral_Titles").mkdir(parents=True, exist_ok=True)
+          
+          viral_html = '''<!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <title>爆款标题 - Spain Identity</title>
+              <style>
+                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+                  h1 { color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+                  .back { color: #667eea; text-decoration: none; margin-bottom: 20px; display: inline-block; }
+                  .folder { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+                  .folder a { color: #333; text-decoration: none; font-weight: 500; }
+                  .folder a:hover { color: #667eea; }
+                  .meta { color: #666; font-size: 0.85em; margin-top: 5px; }
+                  .empty { color: #999; text-align: center; padding: 40px; }
+              </style>
+          </head>
+          <body>
+              <a href="../" class="back">← 返回</a>
+              <h1>🔥 爆款标题</h1>
+              <p>AI生成的中文爆款标题库</p>
+          '''
+          
+          # 检查是否有标题文件
+          vault_dir = Path("obsidian_vault/02_Viral_Titles")
+          if vault_dir.exists():
+              md_files = sorted([f for f in vault_dir.glob("*.md")], reverse=True)
+              if md_files:
+                  viral_html += '<div class="articles">'
+                  for f in md_files[:10]:  # 最多显示10个
+                      name = f.stem.replace(' News', '').replace(' Viral Titles', ' 爆款标题')
+                      viral_html += f'''
+                      <div class="folder">
+                          <a href="{f.name}">{name}</a>
+                          <div class="meta">Markdown 格式</div>
+                      </div>
+                      '''
+                  viral_html += '</div>'
+              else:
+                  viral_html += '<div class="empty">暂无标题数据</div>'
+          else:
+              viral_html += '<div class="empty">目录不存在</div>'
+          
+          viral_html += '''
+          </body>
+          </html>
+          '''
+          
+          with open("_site/obsidian/02_Viral_Titles/index.html", "w", encoding='utf-8') as f:
+              f.write(viral_html)
+          print("✅ Created 02_Viral_Titles/index.html")
+          PYEOF
       
       - name: Create main index
         run: |

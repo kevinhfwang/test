@@ -53,6 +53,9 @@ jobs:
       - name: Generate Obsidian viral titles
         run: python scripts/export_viral_titles.py
       
+      - name: Detect policy updates
+        run: python scripts/policy_monitor.py
+      
       # ========== 步骤6: 构建站点 ==========
       - name: Build site
         run: |
@@ -98,6 +101,11 @@ jobs:
               </div>
               
               <div class="folder">
+                  <a href="03_Policy_Monitoring/"><span class="emoji">🔍</span>政策监控</a>
+                  <div class="meta">自动检测政策变化新闻</div>
+              </div>
+              
+              <div class="folder">
                   <a href="https://github.com/kevinhfwang/test"><span class="emoji">💻</span>查看完整知识库 →</a>
                   <div class="meta">GitHub 仓库</div>
               </div>
@@ -105,6 +113,76 @@ jobs:
           </html>
           OBSINDEX
           echo "✅ Created obsidian/index.html"
+          
+          # 为 03_Policy_Monitoring 生成索引
+          Path("_site/obsidian/03_Policy_Monitoring").mkdir(parents=True, exist_ok=True)
+          
+          policy_html = '''<!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="UTF-8">
+              <title>政策监控 - Spain Identity</title>
+              <style>
+                  body { font-family: system-ui; max-width: 800px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+                  h1 { color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+                  .back { color: #667eea; text-decoration: none; margin-bottom: 20px; display: inline-block; }
+                  .folder { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+                  .folder a { color: #333; text-decoration: none; font-weight: 500; }
+                  .folder a:hover { color: #667eea; }
+                  .meta { color: #666; font-size: 0.85em; margin-top: 5px; }
+                  .empty { color: #999; text-align: center; padding: 40px; }
+                  .badge { background: #667eea; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.75em; margin-left: 10px; }
+              </style>
+          </head>
+          <body>
+              <a href="../" class="back">← 返回</a>
+              <h1>🔍 政策监控</h1>
+              <p>自动检测的政策变化新闻</p>
+          '''
+          
+          policy_dir = Path("obsidian_vault/03_Policy_Monitoring")
+          if policy_dir.exists():
+              # 获取日报文件
+              summary_files = sorted([f for f in policy_dir.glob("*_DAILY_SUMMARY.md")], reverse=True)
+              if summary_files:
+                  policy_html += '<div class="articles">'
+                  for f in summary_files[:7]:  # 最近7天
+                      date_part = f.stem.replace('_DAILY_SUMMARY', '')
+                      policy_html += f'''
+                      <div class="folder">
+                          <a href="{f.name}">{date_part} 政策日报</a>
+                          <span class="badge">日报</span>
+                          <div class="meta">每日政策变化汇总</div>
+                      </div>
+                      '''
+                  
+                  # 获取单个政策文件
+                  policy_files = sorted([f for f in policy_dir.glob("*.md") 
+                                        if not f.name.endswith("_SUMMARY.md")], reverse=True)
+                  if policy_files:
+                      policy_html += '<h3 style="margin-top: 30px; color: #666;">详细政策检测</h3>'
+                      for f in policy_files[:10]:  # 最近10个
+                          title_part = f.stem.split('-', 1)[1].replace('-', ' ') if '-' in f.stem else f.stem
+                          policy_html += f'''
+                          <div class="folder">
+                              <a href="{f.name}">{title_part}</a>
+                              <div class="meta">政策详情</div>
+                          </div>
+                          '''
+                  policy_html += '</div>'
+              else:
+                  policy_html += '<div class="empty">暂无政策监控数据</div>'
+          else:
+              policy_html += '<div class="empty">目录不存在</div>'
+          
+          policy_html += '''
+          </body>
+          </html>
+          '''
+          
+          with open("_site/obsidian/03_Policy_Monitoring/index.html", "w", encoding='utf-8') as f:
+              f.write(policy_html)
+          print("✅ Created 03_Policy_Monitoring/index.html")
           
           # 为 01_Daily_News 生成索引
           mkdir -p _site/obsidian/01_Daily_News

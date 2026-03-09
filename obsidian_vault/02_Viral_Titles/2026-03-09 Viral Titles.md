@@ -1,13 +1,13 @@
 # 2026-03-09 爆款标题
 
-> 自动生成于 2026-03-09 17:10
+> 自动生成于 2026-03-09 17:14
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
 
-### 1. 税务到底怎么复杂？在西班牙的必看
+### 1. 原来西班牙税务可以这么复杂！
 
-- **中文标题**：税务到底怎么复杂？在西班牙的必看
+- **中文标题**：原来西班牙税务可以这么复杂！
 - **原文标题**：Von der Leyen: “Europa ya no puede ser la guardiana del viejo orden mundial, de un mundo que ha desaparecido”
 - **分类**：税务
 - **来源**：El País
@@ -15,9 +15,9 @@
 
 ---
 
-### 2. 注意！西班牙工作难找了
+### 2. 工作到底怎么难找？找工作的必看
 
-- **中文标题**：注意！西班牙工作难找了
+- **中文标题**：工作到底怎么难找？找工作的必看
 - **原文标题**：Yolanda Díaz carga contra Von der Leyen y exige "defender la legalidad internacional": "Lo otro es una barbarie"
 - **分类**：工作
 - **来源**：La Razón
@@ -25,9 +25,9 @@
 
 ---
 
-### 3. 原来西班牙工作可以这么难找！
+### 3. 注意！西班牙工作难找了
 
-- **中文标题**：原来西班牙工作可以这么难找！
+- **中文标题**：注意！西班牙工作难找了
 - **原文标题**：Yolanda Díaz responde a Von der Leyen: "Hay que respetar la legalidad internacional. Lo otro es la barbarie"
 - **分类**：工作
 - **来源**：elDiario
@@ -35,9 +35,9 @@
 
 ---
 
-### 4. 原来西班牙政策可以这么变！
+### 4. 政策到底怎么变？在西班牙的必看
 
-- **中文标题**：原来西班牙政策可以这么变！
+- **中文标题**：政策到底怎么变？在西班牙的必看
 - **原文标题**：Trece años de liderazgo en transparencia: aquí están nuestras cuentas (positivas) de 2025
 - **分类**：政策
 - **来源**：InfoLibre
@@ -45,9 +45,9 @@
 
 ---
 
-### 5. 原来西班牙留学可以这么贵！
+### 5. 注意！西班牙留学贵了
 
-- **中文标题**：原来西班牙留学可以这么贵！
+- **中文标题**：注意！西班牙留学贵了
 - **原文标题**：“Rechaza el feminismo, abraza la feminidad”
 - **分类**：留学
 - **来源**：InfoLibre
@@ -55,9 +55,9 @@
 
 ---
 
-### 6. 在西班牙的不知道：政策还能这样
+### 6. 为什么西班牙政策越来越变？
 
-- **中文标题**：在西班牙的不知道：政策还能这样
+- **中文标题**：为什么西班牙政策越来越变？
 - **原文标题**：Más de la mitad de las personas de 60 a 64 años trabajaban en 2025, máximos desde 1970
 - **分类**：政策
 - **来源**：Expansión Economía
@@ -85,9 +85,9 @@
 
 ---
 
-### 9. 政策到底怎么变？在西班牙的必看
+### 9. 政策变了？在西班牙的注意
 
-- **中文标题**：政策到底怎么变？在西班牙的必看
+- **中文标题**：政策变了？在西班牙的注意
 - **原文标题**：El Gobierno prepara ayudas para amortiguar el impacto de la guerra de Irán porque “ya se nota en los bolsillos”
 - **分类**：政策
 - **来源**：El País
@@ -95,9 +95,9 @@
 
 ---
 
-### 10. 揭秘：西班牙政策的变真相
+### 10. 西班牙政策变？真相来了
 
-- **中文标题**：揭秘：西班牙政策的变真相
+- **中文标题**：西班牙政策变？真相来了
 - **原文标题**：Von der Leyen endurece la política exterior de la UE: “No se debe llorar por el régimen iraní”
 - **分类**：政策
 - **来源**：La Vanguardia
@@ -105,9 +105,9 @@
 
 ---
 
-### 11. 为什么西班牙政策越来越变？
+### 11. 在西班牙的注意：政策有新变化？
 
-- **中文标题**：为什么西班牙政策越来越变？
+- **中文标题**：在西班牙的注意：政策有新变化？
 - **原文标题**：Así es la controvertida propuesta de ley de Podemos para proteger a España de la guerra de Irán: “Si quieren guerra, que la paguen ellos”
 - **分类**：政策
 - **来源**：La Razón
@@ -115,9 +115,9 @@
 
 ---
 
-### 12. 原来西班牙签证可以这么难办！
+### 12. 注意！西班牙签证难办了
 
-- **中文标题**：原来西班牙签证可以这么难办！
+- **中文标题**：注意！西班牙签证难办了
 - **原文标题**：Irene Montero sigue con su discurso anti‑OTAN y avisa al Gobierno: “No podemos decir no a la guerra a la vez que hacemos la guerra”
 - **分类**：签证
 - **来源**：La Razón
@@ -125,9 +125,9 @@
 
 ---
 
-### 13. 注意！西班牙政策变了
+### 13. 政策还能变吗？最新情况
 
-- **中文标题**：注意！西班牙政策变了
+- **中文标题**：政策还能变吗？最新情况
 - **原文标题**：Cómo ayudar a un perro adoptado a quedarse solo sin ansiedad
 - **分类**：政策
 - **来源**：20 Minutos
@@ -135,9 +135,9 @@
 
 ---
 
-### 14. 政策变了？在西班牙的注意
+### 14. 注意！西班牙政策变了
 
-- **中文标题**：政策变了？在西班牙的注意
+- **中文标题**：注意！西班牙政策变了
 - **原文标题**：Von der Leyen justifica el ataque a Irán y duda si el orden basado en reglas "es un obstáculo" para la UE: "El viejo mundo ya no existe"
 - **分类**：政策
 - **来源**：20 Minutos
@@ -145,9 +145,9 @@
 
 ---
 
-### 15. 租房到底怎么涨？要租房的必看
+### 15. 注意！西班牙租房涨了
 
-- **中文标题**：租房到底怎么涨？要租房的必看
+- **中文标题**：注意！西班牙租房涨了
 - **原文标题**：Un meteorito se estrella en Alemania y causa daños en una vivienda del oeste del país
 - **分类**：租房
 - **来源**：20 Minutos

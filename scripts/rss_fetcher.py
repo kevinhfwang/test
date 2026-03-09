@@ -47,11 +47,32 @@ RSS_SOURCES = [
 
 # 关键词过滤
 FILTER_KEYWORDS = [
+    # 原有移民居留类
     "visa", "student", "residency", "immigration", "tax", "education", "housing",
     "migración", "visado", "estudiante", "residencia", "impuesto", "educación",
     "vivienda", "permiso", "ley", "extranjería", "autónomo", "universidad",
     "ayuda", "subsidio", "beca", "matrícula", "nacionalidad", "ciudadanía",
-    "tarjeta sanitaria", "seguridad social", "paro", "empleo", "trabajo"
+    "tarjeta sanitaria", "seguridad social", "paro", "empleo", "trabajo",
+    
+    # 美伊战争地缘政治类 (高优先级)
+    "Irán", "Iran", "Israel", "Gaza", "Palestina", "Palestine",
+    "Oriente Medio", "Middle East", "guerra", "war", "conflicto", "conflict",
+    "Hamas", "Líbano", "Lebanon", "Hizbulá", "Hezbollah",
+    
+    # 地缘政治对西班牙影响
+    "gasolina", "gas", "petrol", "oil", "crudo", "barril",
+    "economía", "economy", "inflación", "inflation", "precio", "price",
+    "energía", "energy", "suministro", "supply",
+    
+    # 中小学教育类 (新增)
+    "colegio", "escuela", "primaria", "secundaria", "bachillerato", "ESO",
+    "educación infantil", "guardería", "preescolar",
+    "ranking", "mejor colegio", "school ranking", "mejor escuela",
+    "zona escolar", "concertado", "público", "privado", "semi-privado",
+    "escuela para extranjeros", "school for immigrants",
+    "integración escolar", "inmersión lingüística", "bilingüe", "bilingual",
+    "elección de colegio", "cómo elegir colegio", "selección escolar",
+    "matrícula escolar", "plaza escolar", "admisión escolar",
 ]
 
 # 浏览器 fallback 网站 (当RSS失败时直接抓取)

@@ -34,6 +34,14 @@ TITLE_TEMPLATES = {
         "揭秘：西班牙{topic}的{adj}真相",
         "很多人不知道：{topic}有变化",
         "想来的不知道：{topic}还能这样",
+    ],
+    # 地缘政治/战争专用模板
+    "geopolitical": [
+        "突发！{topic}，{group}必看",
+        "{topic}，对西班牙{adj}影响有多大？",
+        "欧洲力挺以色列？{topic}解读",
+        "{topic}，华人{group}要注意",
+        "中东局势{adj}，西班牙华人如何应对？",
     ]
 }
 
@@ -48,6 +56,13 @@ TOPIC_MAP = [
     (["housing", "vivienda", "alquiler", "房租"], "租房", "涨", "要租房的"),
     (["work", "empleo", "trabajo", "工作"], "工作", "难找", "找工作的"),
     (["health", "sanidad", "salud", "医疗"], "医疗", "变", "需要医保的"),
+    # 美伊战争/地缘政治 (高优先级)
+    (["irán", "iran", "伊朗"], "伊朗局势", "紧张", "关注国际的"),
+    (["israel", "以色列", "gaza", "加沙"], "中东冲突", "升级", "关注国际的"),
+    (["guerra", "war", "战争", "conflicto", "冲突"], "战争风险", "上升", "在西班牙的"),
+    (["oriente medio", "middle east", "中东"], "中东局势", "动荡", "关注国际的"),
+    (["petróleo", "oil", "crudo", "barril", "汽油", "gasolina"], "油价", "涨", "开车的"),
+    (["economía global", "global economy", "全球经济"], "全球经济", "波动", "做生意的"),
 ]
 
 def detect_topic(title, summary):
@@ -64,8 +79,12 @@ def generate_title(article, used_titles):
     """生成爆款标题"""
     topic, adj, group = detect_topic(article['title'], article['summary'])
     
-    # 选择模板类型
-    template_type = random.choice(["question", "alert", "information_gap"])
+    # 地缘政治文章使用专用模板
+    if topic in ["伊朗局势", "中东冲突", "战争风险", "油价上涨", "全球经济"]:
+        template_type = random.choice(["alert", "geopolitical"])
+    else:
+        template_type = random.choice(["question", "alert", "information_gap"])
+    
     templates = TITLE_TEMPLATES[template_type]
     
     # 生成标题

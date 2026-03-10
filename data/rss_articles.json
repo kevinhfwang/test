@@ -1,49 +1,257 @@
 [
   {
-    "title": "Von der Leyen: “Europa ya no puede ser la guardiana del viejo orden mundial, de un mundo que ha desaparecido”",
-    "link": "https://elpais.com/internacional/2026-03-09/von-der-leyen-europa-ya-no-puede-ser-la-guardiana-del-viejo-orden-mundial-de-un-mundo-que-ha-desaparecido.html",
-    "summary": "La presidenta de la Comisión Europea llama a reformar el sistema internacional basado en normas y lanza: “No se debe llorar por el régimen iraní que ha infligido muerte e impuesto represión a su propio pueblo”",
-    "published": "Mon, 09 Mar 2026 16:02:07 GMT",
+    "title": "De Wagner al GRU, militares rusos ‘protegen’ la flota fantasma de Moscú",
+    "link": "https://www.infolibre.es/internacional/wagner-gru-militares-rusos-protegen-flota-fantasma-moscu_1_2158765.html",
+    "summary": "El 27 de diciembre de 2025, el petrolero sancionado Kira K estaba atracado en el puerto ruso de Ust-Luga, en las profundidades del extremo oriental del golfo de Finlandia. Se preparaba para transportar 734.000 barriles de crudo pertenecientes a Lukoil, el gigante energético ruso incluido en listas n",
+    "published": "Tue, 10 Mar 2026 05:01:14 +0000",
+    "source": "InfoLibre",
+    "score": 6
+  },
+  {
+    "title": "El conflicto en Irán pasa factura a España en energía, precios y crecimiento",
+    "link": "https://www.expansion.com/economia/2026/03/10/69af1550e5fdeaa6528b459e.html",
+    "summary": "Los principales analistas calculan que la crisis en Oriente Próximo dejará 4 décimas más de inflación y 2 menos de actividad a la economía española, restando 3.300 millones al PIB español, con riesgos al alza.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:36:54 +0100",
+    "source": "Expansión",
+    "score": 6
+  },
+  {
+    "title": "Gasolineras con precios disparados: “Como esto siga así, terminaré el mes con 200 euros menos”",
+    "link": "https://cincodias.elpais.com/companias/2026-03-10/gasolineras-con-precios-disparados-como-esto-siga-asi-terminare-el-mes-con-200-euros-menos.html",
+    "summary": "El diésel ha subido un 20% y la gasolina un 10% desde que comenzara la guerra en Irán, según los últimos datos del Ministerio de Transición Ecológica",
+    "published": "Tue, 10 Mar 2026 04:15:00 GMT",
+    "source": "El País",
+    "score": 4
+  },
+  {
+    "title": "No sólo el petróleo: por qué la guerra en Irán afectará a los alimentos",
+    "link": "https://www.eldiario.es/economia/no-petroleo-guerra-iran-afectara-alimentos_129_13052554.html",
+    "summary": "Oriente Medio, y en particular el Golfo Pérsico, es una región que exporta grandes cantidades tanto de gas natural como de fertilizantes manufacturados, y el cierre del estrecho de Ormuz impide que circulen hacia los países de destino; si el conflicto se prolonga, el encarecimiento de los fertilizan",
+    "published": "Mon, 09 Mar 2026 21:02:11 +0000",
+    "source": "elDiario",
+    "score": 4
+  },
+  {
+    "title": "Los efectos del petróleo a 100 dólares: una barrera psicológica que rompe previsiones y promete más inflación",
+    "link": "https://www.eldiario.es/economia/efectos-petroleo-100-dolares-barrera-psicologica-rompe-previsiones-promete-inflacion_1_13053448.html",
+    "summary": "El Gobierno diseñó su escenario macro con un precio de 68 dólares el barril y el FMI esperaba una caída del 8,5% de su cotización, cifras ya lejanas. Los 100 dólares tienen mucho de \"fetichismo\", pero los expertos advierten: ancla la expectativa de una guerra larga¿Cómo afecta a tu vida y a tu bolsi",
+    "published": "Mon, 09 Mar 2026 21:02:11 +0000",
+    "source": "elDiario",
+    "score": 4
+  },
+  {
+    "title": "Trump da por “casi terminada” la guerra ante la escalada del petróleo",
+    "link": "https://elpais.com/internacional/2026-03-09/trump-da-por-casi-terminada-la-guerra-contra-iran-ante-la-escalada-del-petroleo.html",
+    "summary": "El presidente lanza señales contradictorias sobre el fin del conflicto en Irán y, tras el cierre de los mercados, matiza que aún tiene objetivos por cumplir",
+    "published": "Tue, 10 Mar 2026 01:36:47 GMT",
+    "source": "El País",
+    "score": 3
+  },
+  {
+    "title": "El G-7 se plantea recurrir a sus reservas para frenar la escalada histórica del petróleo",
+    "link": "https://www.lavanguardia.com/economia/20260309/11485564/g-7-debate-soltar-reservas-frenar-escalada-historica-petroleo.html",
+    "summary": "El precio del barril de crudo llega a rozar los 120 dólares ante la incógnita bélica",
+    "published": "09 Mar 2026 20:05:24 +0100",
+    "source": "La Vanguardia",
+    "score": 3
+  },
+  {
+    "title": "Guerra en Irán, en directo | Un senador republicano pide retirar las tropas de EEUU de España por no apoyar la guerra contra Irán",
+    "link": "https://www.20minutos.es/internacional/guerra-iran-directo-los-bombardeos-iranies-vuelve-sacudir-los-paises-golfo-mientras-israel-se-dispone-atacar-nuevo-beirut_6943401_6.html",
+    "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio.",
+    "published": "Mon, 09 Mar 2026 09:16:43 +0100",
+    "source": "20 Minutos",
+    "score": 3
+  },
+  {
+    "title": "Nos toca pagar a todos el rescate de los 'influencers' de Dubái",
+    "link": "https://www.20minutos.es/nacional/nos-toca-pagar-todos-rescate-los-influencers-dubai_6943723_3.html",
+    "summary": "El conflicto es más moral que legal porque son ciudadanos españoles, aunque no paguen aquí impuestos.",
+    "published": "Tue, 10 Mar 2026 05:12:21 +0100",
+    "source": "20 Minutos",
+    "score": 3
+  },
+  {
+    "title": "La incertidumbre sobre la duración de la guerra en Irán zarandea el mercado de la energía al compás de Trump",
+    "link": "https://www.infolibre.es/economia/incertidumbre-duracion-guerra-iran-zarandea-mercado-energia-compas-trump_1_2158722.html",
+    "summary": "Los economistas llevan una semana discutiendo sobre si el mundo está ya sumido en una nueva crisis energética, la cuarta de los últimos cincuenta años. Hasta este fin de semana pesaba más la idea de que este desastre era temporal porque los precios de la energía estaban lejos de los peores días de 2",
+    "published": "Tue, 10 Mar 2026 05:00:10 +0000",
+    "source": "InfoLibre",
+    "score": 3
+  },
+  {
+    "title": "El PP busca desviar el foco del \"No a la guerra\" con rebajas fiscales mientras el Gobierno prepara ayudas",
+    "link": "https://www.infolibre.es/politica/pp-busca-desviar-foco-no-guerra-rebajas-fiscales-gobierno-prepara-ayudas_1_2158737.html",
+    "summary": "La convulsión es total en Oriente Medio. La guerra de Irán, impulsada por el ataque de Estados Unidos e Israel, se ha convertido en un factor de desestabilización mundial con consecuencias económicas imprevisibles que afectan ya a los precios. Y esos efectos en el día a día se han convertido en un a",
+    "published": "Mon, 09 Mar 2026 19:35:34 +0000",
+    "source": "InfoLibre",
+    "score": 3
+  },
+  {
+    "title": "\"Madrid, ¡qué bien resistes! , mamita mía, los bombardeos\", o la historia de Peironcely, 10",
+    "link": "https://www.infolibre.es/opinion/plaza-publica/madrid-resistes-mamita-bombardeos-ayuntamiento-madrid-quiere-borrar-guerra-civil-peironcely-10_129_2157395.html",
+    "summary": "En el ejercicio de Historia de España de la Prueba de Acceso a la Universidad (PAU) de la Comunidad de Madrid de junio de 2025, una de las fuentes a analizar era la mítica foto que el fotoperiodista Robert Capa hizo para demostrar al mundo el impacto social y psicológico de los bombardeos nazis y fa",
+    "published": "Tue, 10 Mar 2026 05:01:14 +0000",
+    "source": "InfoLibre",
+    "score": 3
+  },
+  {
+    "title": "Las impresionantes fotos ganadoras de los British Wildlife Photography Awards 2026",
+    "link": "http://es.euronews.com/2026/03/10/momentos-pocas-veces-vistos-anunciados-los-ganadores-de-los-british-wildlife-photography-a",
+    "summary": "Langostas fluorescentes y sapos nadadores protagonizan las espectaculares fotos ganadoras del concurso de este año.",
+    "published": "Tue, 10 Mar 2026 07:02:39 +0100",
+    "source": "Euronews ES",
+    "score": 3
+  },
+  {
+    "title": "Los dos escenarios más \"plausibles\" ahora en el petróleo",
+    "link": "https://www.expansion.com/mercados/2026/03/10/69aecfa9e5fdea6a558b4598.html",
+    "summary": "La ruptura ayer de la barrera de los 100 dólares el barril adentra el mercado del petróleo en una nueva dimensión. La firma de análisis especializada en energía Rystad actualiza sus pronósticos sobre el precio del petróleo en base a los dos escenarios que ahora considera más \"plausibles\".&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 08:02:30 +0100",
+    "source": "Expansión",
+    "score": 3
+  },
+  {
+    "title": "Teresa Ribera: \"En el mundo hay dos bloques: petroestados y electroestados\"",
+    "link": "https://www.expansion.com/empresas/2026/03/10/69af46e2468aeb4b728b45c9.html",
+    "summary": "Con el petróleo disparado por el conflicto del golfo Pérsico y Bruselas a punto de lanzar un nuevo paquete de medidas legislativas en energía, Teresa Ribera reflexiona sobre el futuro del sector en la Unión Europea.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:15:56 +0100",
+    "source": "Expansión Economía",
+    "score": 3
+  },
+  {
+    "title": "Trump anuncia la suspensión temporal de las sanciones petroleras para reducir precios",
+    "link": "https://www.expansion.com/economia/2026/03/10/69af7952468aeb35558b457c.html",
+    "summary": "El presidente de EEUU Donald Trump anunció este lunes que algunas sanciones petroleras serán suspendidas de manera temporal para estabilizar los precios y garantizar el flujo de crudo en zonas estratégicas.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:15:22 +0100",
+    "source": "Expansión Economía",
+    "score": 3
+  },
+  {
+    "title": "La inversión en infraestructuras ferroviarias se hunde más de un 66% desde 2009",
+    "link": "https://www.expansion.com/economia/2026/03/10/69af193f468aeb5d728b45a3.html",
+    "summary": "Aunque creció un 6,8% en 2025, hasta los 16.114 millones de euros, la inversión en infraestructuras de uso público en España es hoy un 60% inferior a la de 2009, con el tren a la cabeza de los descensos, según un informe de la Fundación BBVA y el Ivie.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 00:07:51 +0100",
+    "source": "Expansión Economía",
+    "score": 3
+  },
+  {
+    "title": "Los entresijos de Nuevas Generaciones del PP: cantera de líderes y laboratorio de intrigas",
+    "link": "https://elpais.com/espana/2026-03-10/los-entresijos-de-nuevas-generaciones-del-pp-cantera-de-lideres-y-laboratorio-de-intrigas.html",
+    "summary": "Carlo G. Angrisano intentó disputar a Beatriz Fanjul la presidencia en 2021 en una organización en la que despunta la figura autonómica de Ignacio Dancausa, un “mini Ayuso”",
+    "published": "Tue, 10 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 2
   },
   {
-    "title": "Yolanda Díaz carga contra Von der Leyen y exige \"defender la legalidad internacional\": \"Lo otro es una barbarie\"",
-    "link": "https://www.larazon.es/espana/yolanda-diaz-carga-von-der-leyen-exige-defender-legalidad-internacional-otro-barbarie_2026030969aec38fe1ff634075e1ab8e.html",
-    "summary": "\"Le recuerdo que el origen de Europa es la paz y el bienestar social\", ha destacado la Ministra de Trabajo",
-    "published": "Mon, 09 Mar 2026 14:31:51 +0100",
+    "title": "Los aliados de Sánchez estallan contra la “misión defensiva” internacional anunciada por Macron",
+    "link": "https://www.larazon.es/espana/aliados-sanchez-estallan-mision-defensiva-internacional-anunciada-macron_2026030969af0da7d489bf782e145afc.html",
+    "summary": "Dirigentes de Podemos acusan a Francia y a la UE de “maquillar” una intervención militar y advierten al Gobierno de que España no puede verse arrastrada a un conflicto con Irán",
+    "published": "Mon, 09 Mar 2026 19:12:55 +0100",
     "source": "La Razón",
     "score": 2
   },
   {
-    "title": "Yolanda Díaz responde a Von der Leyen: \"Hay que respetar la legalidad internacional. Lo otro es la barbarie\"",
-    "link": "https://www.eldiario.es/internacional/yolanda-diaz-responde-von-der-leyen-hay-respetar-legalidad-internacional-barbarie_1_13052696.html",
-    "summary": "La vicepresidenta segunda y ministra de Trabajo asegura que el Gobierno ya dispone de una \"panoplia de medidas que además ni siquiera hay que aprobar\" para responder a la crisis económica que va a generar la guerra de IránVon der Leyen: “Europa no puede confiar en el sistema basado en reglas como la",
-    "published": "Mon, 09 Mar 2026 12:18:56 +0000",
+    "title": "Sánchez y el primer ministro iraquí acuerdan llevar el conflicto a la Asamblea General de la ONU",
+    "link": "https://www.20minutos.es/internacional/sanchez-primer-ministro-iraqui-acuerdan-llevar-conflicto-asamblea-general-onu_6943928_0.html",
+    "summary": "Sánchez ha defendido las soluciones \"justas y pacíficas\" a los conflictos y la necesidad de reforzar la seguridad y la estabilidad en la región.",
+    "published": "Tue, 10 Mar 2026 07:09:31 +0100",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Trump afirma ahora que la guerra en Irán está “casi terminada”",
+    "link": "https://www.eldiario.es/internacional/trump-afirma-ahora-guerra-iran-terminada_1_13054506.html",
+    "summary": "El presidente de Estados Unidos asegura en la CBS que la ofensiva, que ahora califica como una \"pequeña excursión\",  va \"muy por delante de lo previsto\"Un nuevo vídeo desmiente a Trump y apunta a un Tomahawk de EEUU como autor de la masacre de 175 personas en la escuela iraní\n\n        &ldquo;Casi te",
+    "published": "Mon, 09 Mar 2026 19:48:29 +0000",
     "source": "elDiario",
     "score": 2
   },
   {
-    "title": "Trece años de liderazgo en transparencia: aquí están nuestras cuentas (positivas) de 2025",
-    "link": "https://www.infolibre.es/opinion/columnas/buzon-de-voz/trece-anos-liderazgo-transparencia-cuentas-positivas-2025_129_2157687.html",
-    "summary": "Conviene reconocer que por estas mismas fechas del año 2013, cuando en las pantallas comenzó a aparecer un nuevo periódico digital llamado infoLibre, pocos se atrevían a asegurar que el proyecto no naufragara como tantos otros que surgieron en la nueva era de la información por internet. Más aún cua",
-    "published": "Sun, 08 Mar 2026 18:00:09 +0000",
+    "title": "La lucha de Ucrania contra los drones iraníes que ahora interesa a EEUU: de los interceptores low cost a la guerra electrónica",
+    "link": "https://www.eldiario.es/internacional/lucha-ucrania-drones-iranies-ahora-interesa-eeuu-interceptores-low-cost-guerra-electronica_1_13054461.html",
+    "summary": "El presidente ucraniano asegura haber enviado a Jordania interceptores y operadores para luchar contra los drones iraníes tipi Shahed, tras recibir \"solicitudes de ayuda de 11 países vecinos de Irán\". EEUU y sus aliados han pedido asesoramiento a Ucrania, que lleva años siendo atacada por Rusia con ",
+    "published": "Mon, 09 Mar 2026 20:59:48 +0000",
+    "source": "elDiario",
+    "score": 2
+  },
+  {
+    "title": "EEUU saca tajada del rearme europeo suministrando la mitad de las armas que compra el Viejo Continente",
+    "link": "https://www.infolibre.es/politica/eeuu-saca-tajada-rearme-europeo-suministrando-mitad-armas-compra-viejo-continente_1_2158477.html",
+    "summary": "El aumento de las tensiones derivadas del nuevo orden geopolítico mundial ha sumido de lleno a Europa en una espiral belicista sin precedentes desde la Segunda Guerra Mundial. La amenaza rusa por el este y el unilateralismo del impredecible Donald Trump por el oeste han terminado disparando el gasto",
+    "published": "Mon, 09 Mar 2026 19:35:56 +0000",
     "source": "InfoLibre",
     "score": 2
   },
   {
-    "title": "“Rechaza el feminismo, abraza la feminidad”",
-    "link": "https://www.infolibre.es/opinion/columnas/en-transicion/rechaza-feminismo-abraza-feminidad_129_2158067.html",
-    "summary": "Este era el lema que se podía leer en la pancarta que un grupo de muchachos de ultraderecha, con el símbolo de Falange al lado, querían colgar en la Facultad de Ciencias Políticas, Sociología y Trabajo Social de la Universidad Complutense de Madrid el pasado viernes 6 de marzo, en vísperas de las ce",
-    "published": "Sun, 08 Mar 2026 18:55:59 +0000",
-    "source": "InfoLibre",
+    "title": "El optimismo sobre el final de la guerra en Irán hace caer los precios del petróleo mientras suben las bolsas asiáticas",
+    "link": "http://es.euronews.com/business/2026/03/10/optimismo-final-guerra-caer-precios-petroleo",
+    "summary": "Donald Trump comentó que la guerra en Irán no durará mucho. El mercado reaccionó positivamente a la declaración del presidente de Estados Unidos, a pesar de la rápida respuesta iraní, que aseguró que será Teherán quien determine el final de los combates.",
+    "published": "Tue, 10 Mar 2026 08:18:13 +0100",
+    "source": "Euronews ES",
     "score": 2
   },
   {
-    "title": "Más de la mitad de las personas de 60 a 64 años trabajaban en 2025, máximos desde 1970",
+    "title": "La guerra en Irán impulsa el negocio de las petroleras rusas: beneficios de 21.000 millones",
+    "link": "http://es.euronews.com/2026/03/10/los-gigantes-petroleros-rusos-incrementan-25000-millones-desde-el-inicio-del-conflicto-en-",
+    "summary": "Las acciones de Rosneft son las que más se han disparado, con un aumento del valor de mercado de la empresa de más de un billón de rublos (11.000 millones de euros) desde el 27 de febrero. La situación puede tener un impacto positivo en el presupuesto ruso, aunque no tan significativo.",
+    "published": "Tue, 10 Mar 2026 08:00:51 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Trump dice que la guerra con Irán acabará \"muy pronto\" pero advierte a Teherán sobre más interrupciones petroleras",
+    "link": "http://es.euronews.com/2026/03/10/trump-dice-guerra-iran-acabara-pronto-advierte-teheran-sobre-mas-interrupciones-petroleras",
+    "summary": "Trump aseguró a los legisladores republicanos que la guerra en Irán podría terminar \"muy pronto\", pero se negó a proporcionar un calendario específico sobre cuándo podría ser. El presidente estadounidense afirma que Washington está logrando un \"tremendo éxito\" sobre el terreno.",
+    "published": "Tue, 10 Mar 2026 07:07:53 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Últimas noticias | 10 marzo 2026 - Mañana",
+    "link": "http://es.euronews.com/video/2026/03/10/ultimas-noticias-10-marzo-2026-manana",
+    "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 10 marzo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
+    "published": "Tue, 10 Mar 2026 07:00:08 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "El sector sorpresa que más sube en Bolsa con la guerra de Irán y bate a las petroleras",
+    "link": "https://www.expansion.com/mercados/2026/03/09/69aefa84e5fdeac2598b4589.html",
+    "summary": "Por debajo de las turbulencias del mercado, se ha producido una drástica rotación.&nbsp;Leer",
+    "published": "Mon, 09 Mar 2026 20:33:35 +0100",
+    "source": "Expansión",
+    "score": 2
+  },
+  {
+    "title": "El Ibex respira con el petróleo y apunta a los 17.000",
+    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/03/10/69afc024468aeb35558b45c5.html",
+    "summary": "Las alertas que desató ayer el rally del petróleo se diluyen. El mensaje de Trump avanzando un próximo fin de la guerra han provocado un vuelco bajista en el barril de Brent. Asia y Europa replican la mejora que registró ayer Wall Street, y el Ibex apunta por encima de los 17.000 puntos.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 08:30:14 +0100",
+    "source": "Expansión",
+    "score": 2
+  },
+  {
+    "title": "Las energéticas que más suben ganan 46.170 millones en Bolsa",
+    "link": "https://www.expansion.com/mercados/2026/03/10/69af5699468aeb4b728b45d0.html",
+    "summary": "El rally del petróleo y el gas lleva a algunas energéticas al podio de las cotizadas que más suben en Bolsa desde el inicio de la guerra.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 00:55:18 +0100",
+    "source": "Expansión",
+    "score": 2
+  },
+  {
+    "title": "Más de la mitad de las personas próximas a la jubilación trabajaban en 2025, máximos desde 1970",
     "link": "https://www.expansion.com/economia/2026/03/09/69ae98bd468aeb58658b4599.html",
     "summary": "El 53% de la población española de 60 a 64 años trabajaba en 2025, el porcentaje de ocupación más alto desde 1970, según concluye un informe de Funcas. La ocupación también aumenta entre los 65 y los 69 años, con un 14% de ocupados en 2025, la tasa más alta desde 1981.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 11:17:27 +0100",
+    "published": "Tue, 10 Mar 2026 07:45:43 +0100",
+    "source": "Expansión Economía",
+    "score": 2
+  },
+  {
+    "title": "Las fuerzas estanflacionarias  que están creciendo",
+    "link": "https://www.expansion.com/mercados/2026/03/09/69af17bce5fdea024a8b4597.html",
+    "summary": "El debilitamiento del mercado laboral de EEUU y las tensiones financieras se producen mientras aumenta el precio del crudo.&nbsp;Leer",
+    "published": "Mon, 09 Mar 2026 20:00:38 +0100",
     "source": "Expansión Economía",
     "score": 2
   },
@@ -56,19 +264,59 @@
     "score": 2
   },
   {
-    "title": "Españoles en Emiratos Árabes Unidos: “Mi familia insiste en que me marche, pero mi vida, mi trabajo y mi hogar están aquí”",
-    "link": "https://elpais.com/internacional/2026-03-09/espanoles-en-emiratos-arabes-unidos-mi-familia-insiste-en-que-me-marche-pero-mi-vida-mi-trabajo-y-mi-hogar-estan-aqui.html",
-    "summary": "Parte de la comunidad de 13.000 españoles residentes en el país atacado por Irán se debate entre hacer las maletas o confiar en la medidas de seguridad",
-    "published": "Mon, 09 Mar 2026 12:22:15 GMT",
+    "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | La Guardia Revolucionaria responde a Trump: “Somos nosotros los que determinaremos el fin de la guerra”",
+    "link": "https://elpais.com/internacional/2026-03-10/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
+    "summary": "El petróleo sigue a la baja después de que Trump dé por “casi terminada” la guerra en Irán | Emiratos Árabes Unidos, Kuwait, Baréin y Arabia Saudí informan de nuevos ataques",
+    "published": "Tue, 10 Mar 2026 07:31:26 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "El Gobierno prepara ayudas para amortiguar el impacto de la guerra de Irán porque “ya se nota en los bolsillos”",
-    "link": "https://elpais.com/internacional/2026-03-09/el-gobierno-prepara-ayudas-para-amortiguar-el-impacto-de-la-guerra-de-iran-porque-ya-se-nota-en-los-bolsillos.html",
-    "summary": "El comisario europeo de Economía, Valdis Dombrovskis, alerta de “una importante crisis inflacionaria” si el conflicto se prolonga",
-    "published": "Mon, 09 Mar 2026 16:01:00 GMT",
+    "title": "¿Por qué Chipre es una isla estratégica en la guerra de Irán?",
+    "link": "https://elpais.com/videos/2026-03-10/por-que-chipre-es-una-isla-estrategica-en-la-guerra-de-iran.html",
+    "summary": "El ataque a una base británica y la llegada de líderes europeos han puesto el foco en el papel de la localidad en el Mediterráneo oriental",
+    "published": "Tue, 10 Mar 2026 04:15:00 GMT",
     "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Tiendas, mascotas y juegos: decenas de israelíes convierten un aparcamiento subterráneo de Haifa en su hogar en tiempos de guerra",
+    "link": "https://elpais.com/internacional/2026-03-10/tiendas-mascotas-y-juegos-decenas-de-israelies-convierten-un-aparcamiento-subterraneo-de-haifa-en-su-hogar-en-tiempos-de-guerra.html",
+    "summary": "El miedo a los proyectiles de Irán y Hezbolá lleva a las familias a instalarse en la planta -5 del parking de un centro comercial de la ciudad del norte de Israel",
+    "published": "Tue, 10 Mar 2026 04:45:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Golpe al bolsillo y lío para los bancos centrales: así afecta la crisis energética a la economía",
+    "link": "https://elpais.com/economia/2026-03-10/golpe-al-bolsillo-y-lio-para-los-bancos-centrales-asi-afecta-la-crisis-energetica-a-la-economia.html",
+    "summary": "El petróleo por encima de los 100 dólares ya está aquí, y sus consecuencias para hogares, empresas y la economía en general son múltiples",
+    "published": "Tue, 10 Mar 2026 04:45:00 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Trump busca una salida para evitar una nueva crisis energética",
+    "link": "https://elpais.com/internacional/2026-03-10/trump-busca-una-salida-para-evitar-una-nueva-crisis-energetica.html",
+    "summary": "El petróleo se dispara. Los carburantes se encarecen como consecuencia de la guerra de Irán pese a las promesas del presidente de Estados Unidos",
+    "published": "Tue, 10 Mar 2026 04:45:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Trump da la guerra en Irán por “casi terminada” y Teherán replica: “Determinaremos nosotros su fin”",
+    "link": "https://www.lavanguardia.com/internacional/20260309/11485587/trump-afirma-guerra-iran-esta-practicamente-terminada.html",
+    "summary": "El presidente anuncia que levantará algunas sanciones al petróleo ruso tras hablar con su homólogo Vladimir Putin por primera vez este año",
+    "published": "09 Mar 2026 21:25:32 +0100",
+    "source": "La Vanguardia",
+    "score": 1
+  },
+  {
+    "title": "León XIV eleva el tono ante la guerra de Trump y Netanyahu",
+    "link": "https://www.lavanguardia.com/internacional/20260309/11485590/leon-xiv-eleva-tono-guerra-trump-netanyahu.html",
+    "summary": "El Papa lamenta las víctimas de los bombardeos en Oriente Medio, entre ellas un sacerdote muerto en un ataque en el sur del Líbano",
+    "published": "09 Mar 2026 21:45:28 +0100",
+    "source": "La Vanguardia",
     "score": 1
   },
   {
@@ -80,642 +328,410 @@
     "score": 1
   },
   {
-    "title": "Así es la controvertida propuesta de ley de Podemos para proteger a España de la guerra de Irán: “Si quieren guerra, que la paguen ellos”",
-    "link": "https://www.larazon.es/espana/asi-controvertida-propuesta-ley-podemos-proteger-espana-guerra-iran-quieren-guerra-que-paguen-ellos_2026030969aee1b5e1ff634075e1ee41.html",
-    "summary": "Podemos plantea limitar la participación militar española, expulsar tropas de EE UU y blindar por ley el “no a la guerra” ante la escalada internacional",
-    "published": "Mon, 09 Mar 2026 16:05:25 +0100",
+    "title": "Espías, gas y fragatas en el tablero de Chipre",
+    "link": "https://www.lavanguardia.com/internacional/20260309/11485501/espias-gas-fragatas-tablero-chipre.html",
+    "summary": "Un dron pone en alerta a Europa y expone el papel de la isla como centro estratégico en el flanco oriental del Mediterráneo",
+    "published": "09 Mar 2026 18:36:08 +0100",
+    "source": "La Vanguardia",
+    "score": 1
+  },
+  {
+    "title": "Guerra de Irán y ataques de Estados Unidos e Israel | Trump pide una transición en Irán como la de Venezuela",
+    "link": "https://www.lavanguardia.com/internacional/20260310/11485778/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html",
+    "summary": "Un senador republicano ha exigido retirar tropas de Estados Unidos de España por no apoyar la guerra contra Irán",
+    "published": "10 Mar 2026 07:14:56 +0100",
+    "source": "La Vanguardia",
+    "score": 1
+  },
+  {
+    "title": "Ayuso elogia a Trump y ataca a Sánchez sin citarlos porque “no se puede desguazar” la relación entre los dos países",
+    "link": "https://www.lavanguardia.com/politica/20260309/11485485/ayuso-elogia-trump-ataca-sanchez-citarlos-desguazar-relacion-dos-paises.html",
+    "summary": "La presidenta de la Comunidad de Madrid considera que, pese a no gustarle las guerras, “se puede tomar una posición en favor y en defensa de todo lo bueno que tanta gente ha conseguido a lo largo del tiempo” sin desmantelarlo “con eslóganes vacíos e hipocresía”&nbsp;",
+    "published": "09 Mar 2026 18:19:50 +0100",
+    "source": "La Vanguardia",
+    "score": 1
+  },
+  {
+    "title": "Con ellos mismos ya negocian un nuevo escudo social",
+    "link": "https://www.larazon.es/espana/ellos-mismos-negocian-nuevo-escudo-social_2026031069af70ab6cf703292f6b4110.html",
+    "summary": "PSOE y Sumar han empezado ya a debatir dentro del Gobierno las nuevas ayudas por Irán. El Congreso tumbó dos veces el anterior decreto",
+    "published": "Tue, 10 Mar 2026 02:15:23 +0100",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Irene Montero sigue con su discurso anti‑OTAN y avisa al Gobierno: “No podemos decir no a la guerra a la vez que hacemos la guerra”",
-    "link": "https://www.larazon.es/espana/irene-montero-sigue-discurso-antiotan-avisa-gobierno-podemos-decir-guerra-vez-que-hacemos-guerra_2026030969aee010e1ff634075e1eadf.html",
-    "summary": "La eurodiputada de Podemos reclama un referéndum sobre la OTAN y exige expulsar a las tropas de EE UU en plena tensión internacional",
-    "published": "Mon, 09 Mar 2026 15:58:24 +0100",
+    "title": "Red de «espías» en Vox a cargo de fondos públicos",
+    "link": "https://www.larazon.es/espana/red-espias-vox-cargo-fondos-publicos_2026031069af30016cf703292f6af0b5.html",
+    "summary": "Denuncia de los «purgados». Acusan a Madrid de crear una «stasi» para controlar a los líderes regionales. Antelo (Murcia), entre las víctimas",
+    "published": "Tue, 10 Mar 2026 02:00:18 +0100",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Cómo ayudar a un perro adoptado a quedarse solo sin ansiedad",
-    "link": "https://www.20minutos.es/animaleros/perros/como-ayudar-un-perro-adoptado-quedarse-solo-sin-ansiedad_6940951_0.html",
-    "summary": "La adaptación al nuevo hogar y las ausencias progresivas son claves para el bienestar del animal y, sobre todo, para los perros adoptados.",
-    "published": "Mon, 09 Mar 2026 18:05:02 +0100",
+    "title": "Irán, cuando la nueva guerra es la peor guerra de siempre",
+    "link": "https://www.20minutos.es/internacional/iran-cuando-nueva-guerra-es-peor-guerra-siempre_6943909_3.html",
+    "summary": "Cada intervención militar en la región que ha sido concebida como rápida y limitada termina desencadenando un problema largo, inestable y difícil de controlar.",
+    "published": "Tue, 10 Mar 2026 05:13:00 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Von der Leyen justifica el ataque a Irán y duda si el orden basado en reglas \"es un obstáculo\" para la UE: \"El viejo mundo ya no existe\"",
-    "link": "https://www.20minutos.es/internacional/bruselas-vuelve-senalar-iran-por-guerra-no-deberia-derramarse-ni-una-lagrima-por-ese-regimen_6943510_0.html",
-    "summary": "\"No debería derramarse ni una lágrima por un régimen que inflige la muerte e impone la represión a su pueblo\", dice la presidenta de la Comisión Europea.",
-    "published": "Mon, 09 Mar 2026 10:57:10 +0100",
+    "title": "Las guerras del siglo XXI",
+    "link": "https://www.20minutos.es/internacional/las-guerras-siglo-xxi-iran-eeuu-sanchez-encarna-samitier_6943894_3.html",
+    "summary": "En las guerras del tercer milenio, a veces no se nos muestran los muertos, pero sabemos casi todo, como si fuera un videojuego.",
+    "published": "Tue, 10 Mar 2026 05:12:46 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Un meteorito se estrella en Alemania y causa daños en una vivienda del oeste del país",
-    "link": "https://www.20minutos.es/internacional/un-meteorito-se-estrella-alemania-causa-danos-una-vivienda-oeste-pais_6943715_0.html",
-    "summary": "Un meteorito sobrevuela Alemania y causa daños en una vivienda",
-    "published": "Mon, 09 Mar 2026 16:31:46 +0100",
-    "source": "20 Minutos",
-    "score": 1
-  },
-  {
-    "title": "Von der Leyen: \"Europa no puede confiar en el sistema basado en reglas como la única forma de defender sus intereses\"",
-    "link": "https://www.eldiario.es/internacional/von-der-leyen-europa-no-confiar-sistema-basado-reglas-unica-forma-defender-intereses_1_13051778.html",
-    "summary": "La presidenta de la Comisión Europea da un salto geopolítico al asegurar que \"Europa no puede ser la guardiana del viejo orden mundial. Necesitamos una política exterior más realista\"El ataque ilegal de Trump e Israel a Irán alimenta un caos global de consecuencias imprevisibles\n\n        Hay cierto ",
-    "published": "Mon, 09 Mar 2026 09:15:49 +0000",
+    "title": "Von der Leyen trata de arrastrar a Europa al mundo sin reglas de Trump y Putin",
+    "link": "https://www.eldiario.es/internacional/von-der-leyen-trata-arrastrar-europa-mundo-reglas-trump-putin_1_13053741.html",
+    "summary": "La propuesta de la presidenta de la Comisión Europea choca directamente con los tratados fundacionales de la UE y el Tratado de Lisboa, que redefinió que el papel exterior de la Unión Europea \"se basará en el respeto de los principios de la Carta de las Naciones Unidas y del Derecho internacional\"Vo",
+    "published": "Mon, 09 Mar 2026 21:02:10 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "Cuerpo avisa de que \"ya se notan los efectos de la guerra de Irán en los bolsillos de los españoles\"",
-    "link": "https://www.eldiario.es/economia/cuerpo-avisa-notan-efectos-guerra-iran-bolsillos-espanoles_1_13053423.html",
-    "summary": "A pesar del anuncio, el ministro de Economía apunta que todavía no se aprobarán medidas para rebajar el impacto en el poder adquisitivo de los ciudadanos, aunque mantienen la \"vigilancia en el desarrollo de los precios para entrar con medidas en el momento que sea preciso\"El precio del petróleo se d",
-    "published": "Mon, 09 Mar 2026 14:37:11 +0000",
+    "title": "El imperialismo crudo de Trump no es símbolo del poder de EEUU, sino síntoma de su decadencia",
+    "link": "https://www.eldiario.es/internacional/la-semana-internacional/imperialismo-crudo-trump-no-simbolo-eeuu-sintoma-decadencia_132_13054604.html",
+    "summary": "De Venezuela a Irán, pasando por la invasión de Irak de 2003, qué nos dice el imperialismo de EEUU sobre su hegemonía mundialBoletín  - Cada martes enviamos a tu correo el análisis de la semana internacional de Javier Biosca\n        &ldquo;La crisis consiste precisamente en que lo viejo est&aacute; ",
+    "published": "Tue, 10 Mar 2026 06:23:20 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "The Cube: ¿Está Giorgia Meloni remodelando la ley electoral italiana para asegurar su reelección?",
-    "link": "http://es.euronews.com/my-europe/2026/03/09/giorgia-meloni-ley-electoral-italiana-para-asegurar-reelecion",
-    "summary": "La oposición cree que el proyecto para cambiar la ley electoral italiana es un intento de la actual primera ministra para inclinar el sistema a su favor y así mantenerse en el poder en las próximas elecciones.",
-    "published": "Mon, 09 Mar 2026 17:30:13 +0100",
+    "title": "Las seis referencias a Naciones Unidas en los tratados de la UE que Von der Leyen plantea modificar",
+    "link": "https://www.infolibre.es/politica/seis-referencias-naciones-unidas-tratados-ue-von-der-leyen-plantea-modificar_1_2158633.html",
+    "summary": "La presidenta de la Comisión Europea ha justificado este lunes los ataques ilegales de Estados Unidos e Israel contra Irán. No es la primera vez que Ursula von der Leyen respalda una embestida militar contraria al derecho internacional. En 2023, tras los ataques de Hamás en Israel que dieron origen ",
+    "published": "Tue, 10 Mar 2026 05:01:13 +0000",
+    "source": "InfoLibre",
+    "score": 1
+  },
+  {
+    "title": "¿Alguien se acuerda de Salma?",
+    "link": "https://www.infolibre.es/opinion/ideas-propias/alguien-acuerda-salma_129_2158462.html",
+    "summary": "El domingo fue un 8 de marzo difícil para muchas de nosotras. Son tiempos de barbarie. Pero, en medio de los tambores negrísimos de la guerra y del fascismo, en un mundo cambiante y desconcertante que está provocando reacciones cada vez más violentas, me acordé de las historias de siempre, esas que ",
+    "published": "Mon, 09 Mar 2026 19:36:36 +0000",
+    "source": "InfoLibre",
+    "score": 1
+  },
+  {
+    "title": "Europe Today: Trump asegura que la guerra con Irán está \"acabando\" mientras el petróleo fluctúa",
+    "link": "http://es.euronews.com/my-europe/2026/03/10/europa-hoy-trump-asegura-que-la-guerra-con-iran-esta-completa-mientras-escala",
+    "summary": "Sintonice el nuevo programa matinal de referencia de 'Euronews' a las 8:00, hora de Bruselas. En solo 20 minutos le ponemos al día de las noticias más importantes de la jornada.",
+    "published": "Tue, 10 Mar 2026 07:54:39 +0100",
     "source": "Euronews ES",
     "score": 1
   },
   {
-    "title": "\"El mundo que conocíamos ha desaparecido\": Von der Leyen y Kallas se despiden del orden mutilateral",
-    "link": "http://es.euronews.com/my-europe/2026/03/09/von-der-leyen-y-kallas-sentencian-al-orden-mutilateral-el-mundo-que-conociamos-ha-desapare",
-    "summary": "El orden mundial se desmorona rápidamente ante las crecientes violaciones del derecho internacional y la UE deberá adaptarse a esta nueva era de volatilidad, han advertido este lunes Ursula von der Leyen y Kaja Kallas en sendos discursos.",
-    "published": "Mon, 09 Mar 2026 16:13:54 +0100",
+    "title": "El PPE se une a la extrema derecha para impulsar la ley de deportaciones de inmigrantes en la UE",
+    "link": "http://es.euronews.com/my-europe/2026/03/10/ppe-extrema-derecha-impulsar-ley-deportaciones-ue",
+    "summary": "Una ley que permite registros domiciliarios y centros de detención fuera de la UE para aumentar las deportaciones de inmigrantes irregulares fue aprobada en comisión, rompiendo la mayoría tradicional del Parlamento Europeo.",
+    "published": "Tue, 10 Mar 2026 07:49:24 +0100",
     "source": "Euronews ES",
     "score": 1
   },
   {
-    "title": "La Justicia ordena a Madrid iniciar los trámites del registro de objetores al aborto",
-    "link": "http://es.euronews.com/2026/03/09/justicia-ordena-madrid-iniciar-tramites-registro-de-objetores-al-aborto",
-    "summary": "El Tribunal Superior de Justicia de Madrid ordena al Gobierno regional iniciar \"de inmediato\" los trámites para crear el registro de profesionales sanitarios objetores a la interrupción voluntaria del embarazo previsto en la ley estatal.",
-    "published": "Mon, 09 Mar 2026 15:26:26 +0100",
+    "title": "\"Colapso mental por IA\": Así afecta trabajar con inteligencia artificial todo el día",
+    "link": "http://es.euronews.com/next/2026/03/10/fritura-mental-por-ia-por-que-el-cerebro-se-agota-al-usar-chatbots-en-el-trabajo",
+    "summary": "El uso intensivo de la inteligencia artificial puede provocar un cansancio mental cada vez más frecuente a medida que los empleados crean y supervisan más agentes.",
+    "published": "Tue, 10 Mar 2026 07:00:56 +0100",
     "source": "Euronews ES",
     "score": 1
   },
   {
-    "title": "Dos factores clave para predecir si la guerra causará o no un shock bursátil",
-    "link": "https://www.expansion.com/mercados/2026/03/09/69aea0af468aeb09658b45b2.html",
-    "summary": "El mercado del petróleo, por momentos, ha entrado hoy en pánico. Las Bolsas se resienten ante lo que pueda pasar. Los analistas de Morgan Stanley focalizan la atención en dos condiciones cruciales para que el shock energético no se traslade de lleno al ámbito bursátil.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 12:16:23 +0100",
+    "title": "La guerra en Oriente Medio altera el turismo y podría redirigir a los viajeros hacia España",
+    "link": "http://es.euronews.com/viajes/2026/03/10/guerra-oriente-medio-turismo-redirigir-viajeros-hacia-espana",
+    "summary": "La caída en la percepción de seguridad en varios destinos del Golfo y las primeras cancelaciones de viajes podrían desviar parte de la demanda turística hacia destinos europeos como España.",
+    "published": "Tue, 10 Mar 2026 06:00:18 +0100",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "Los bancos, atrapados entre dos fuegos: Irán y el crédito privado",
+    "link": "https://www.expansion.com/empresas/banca/2026/03/10/69aeb3b6468aeb533e8b45d3.html",
+    "summary": "BBVA, Santander, HSBC y Barclays, entre los principales afectados. Los analistas reducen las ramificaciones directas, pero temen las indirectas.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:16:38 +0100",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Los puestos mejor pagados en hostelería para Semana Santa: sueldos de hasta 45.000 euros",
-    "link": "https://www.expansion.com/economia/2026/03/09/69aec68ce5fdea0e578b4580.html",
-    "summary": "Los expertos prevén la creación de 110.000 empleos para cubrir el pico de actividad.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 14:30:19 +0100",
-    "source": "Expansión Economía",
+    "title": "Trump asegura que la guerra de Irán está \"prácticamente terminada\" y el petróleo baja a 90 dólares",
+    "link": "https://www.expansion.com/economia/politica/2026/03/09/69af2974468aebfe348b4579.html",
+    "summary": "La Bolsa de Wall Street se da la vuelta  y registra avances tras las declaraciones del presidente de Estados Unidos.&nbsp;Leer",
+    "published": "Mon, 09 Mar 2026 21:11:58 +0100",
+    "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | La OTAN derriba un misil balístico iraní sobre el espacio aéreo turco",
-    "link": "https://elpais.com/internacional/2026-03-09/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
-    "summary": "Una oleada de ataques de Irán sacude el Golfo y dispara el precio del petróleo | Un bombardeo iraní con drones causa 32 heridos y un incendio en la mayor refinería de petróleo de Baréin | Un muerto y dos heridos en el centro de Israel por el impacto de un misil iraní",
-    "published": "Mon, 09 Mar 2026 17:06:13 GMT",
+    "title": "Today in Spain: A roundup of the latest news on Monday",
+    "link": "https://www.thelocal.es/20260309/today-in-spain-a-roundup-of-the-latest-news-on-monday-70",
+    "summary": "More tourists turn to Spain due to Middle East conflict, money-laundering gang exploiting Ukrainian women arrested and more news on Monday March 9th.",
+    "published": "Mon, 09 Mar 2026 09:05:00 +0100",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "Thousands rally across Spain for women's rights and peace in the Middle East",
+    "link": "https://www.thelocal.es/20260308/thousands-rally-across-spain-for-womens-rights-peace-in-the-middle-east",
+    "summary": "Thousands of people rallied in cities across Spain on Sunday to denounce violence against women and the Middle East war sparked by US-Israeli strikes.",
+    "published": "Sun, 08 Mar 2026 15:02:38 +0100",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "LISTED: The cities in Spain where you can still buy a home for under €200K",
+    "link": "https://www.thelocal.es/20260305/listed-the-cities-in-spain-where-you-can-still-buy-a-flat-for-under-e200k",
+    "summary": "Property prices in Spain have risen so much over the last few years that it's no longer a country with bargain homes really. However, the data shows that there are plenty of cities - even on the coast - where you can buy for under €200,000.",
+    "published": "Thu, 05 Mar 2026 15:17:51 +0100",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "Spain pulls last embassy staff out of Tehran amid Middle East crisis",
+    "link": "https://www.thelocal.es/20260308/spain-gets-last-embassy-staff-out-of-tehran-amid-middle-east-crisis",
+    "summary": "Spain got the last of its embassy staff out of Tehran, Foreign Minister Jose Manuel Albares announced on Saturday, as the Middle East conflict entered its second week.",
+    "published": "Sun, 08 Mar 2026 08:58:17 +0100",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "Mojtaba Jameneí inicia en Irán un liderazgo amenazado de muerte y sin esperanza de cambios",
+    "link": "https://elpais.com/internacional/2026-03-10/mojtaba-jamenei-inicia-en-iran-un-liderazgo-amenazado-de-muerte-y-sin-esperanza-de-cambios.html",
+    "summary": "Al nuevo líder supremo se le considera el candidato de la Guardia Revolucionaria, el núcleo del aparato militar y de seguridad represor que blinda al régimen. Para Trump es “un gran error”",
+    "published": "Tue, 10 Mar 2026 07:17:09 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "El Vaticano intensifica las críticas a EE UU y teme que el conflicto se presente como guerra religiosa",
-    "link": "https://elpais.com/internacional/2026-03-09/el-vaticano-intensifica-las-criticas-a-ee-uu-y-teme-que-el-conflicto-se-presente-como-guerra-religiosa.html",
-    "summary": "Tras la imagen de Trump con predicadores, el Papa advierte que “no es tiempo de contraposiciones entre ‘nosotros’ y los ‘otros’”. El cardenal de Chicago censura a la Casa Blanca por tratar el ataque “como si fuera un videojuego”",
-    "published": "Mon, 09 Mar 2026 16:25:13 GMT",
+    "title": "Ortega Smith abre la caja de los truenos en Vox y acusa a Abascal de cesarlo por denunciar irregularidades económicas",
+    "link": "https://elpais.com/espana/2026-03-10/ortega-smith-abre-la-caja-de-los-truenos-en-vox-y-acusa-a-abascal-de-cesarlo-por-denunciar-irregularidades-economicas.html",
+    "summary": "El ex secretario general formaba parte hasta 2022 del comité de gestión que controlaba todos los pagos del partido",
+    "published": "Tue, 10 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Mahsa Mohebali: “Los europeos no entienden la situación de los iraníes”",
-    "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-03-09/los-europeos-no-entienden-la-situacion-de-los-iranies.html",
-    "summary": "La escritora perseguida desea el fin de los ayatolás pero teme que su país acabe destrozado como Irak",
-    "published": "Mon, 09 Mar 2026 04:45:01 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Un medio iraní publica las fotos de los menores muertos en la escuela: “Trump, mírales a los ojos”",
-    "link": "https://elpais.com/internacional/2026-03-09/un-medio-irani-publica-las-fotos-de-las-ninas-muertas-en-la-escuela-trump-mirales-a-los-ojos.html",
-    "summary": "‘Tehran Times’ recopila más de 100 imágenes de las víctimas, así como las investigaciones de ocho medios que responsabilizan a Estados Unidos del ataque",
-    "published": "Mon, 09 Mar 2026 11:40:34 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "El matrimonio detenido en Oviedo por encerrar a sus hijos durante cuatro años se enfrenta a penas de 25 años de cárcel",
-    "link": "https://elpais.com/espana/2026-03-09/el-matrimonio-detenido-en-oviedo-por-encerrar-a-sus-hijos-durante-cuatro-anos-se-enfrenta-a-penas-de-25-anos-de-carcel.html",
-    "summary": "El juicio, a puerta cerrada, se celebra desde este martes en la Audiencia Provincial",
-    "published": "Mon, 09 Mar 2026 14:33:36 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Irene Montero, sobre la amenaza de un miembro de un grupo neonazi: “Dice que me va a asesinar en mi casa”",
-    "link": "https://elpais.com/espana/2026-03-09/irene-montero-sobre-la-amenaza-de-un-grupo-neonazi-dice-que-me-va-a-asesinar-en-mi-casa.html",
-    "summary": "La eurodiputada de Podemos y exministra de Igualdad, señalada por la organización terrorista 764, reconoce “rabia y miedo”, pero advierte: “Si pretenden alejarnos del espacio público, no lo van a conseguir”",
-    "published": "Mon, 09 Mar 2026 16:16:37 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "La Fiscalía se opone a imputar a Mazón por la gestión de la dana al no ver de momento indicios suficientes",
-    "link": "https://elpais.com/espana/comunidad-valenciana/2026-03-09/la-fiscalia-pide-al-tsj-valenciano-que-la-jueza-de-la-dana-continue-con-la-investigacion.html",
-    "summary": "El Ministerio Público pide al TSJ valenciano que deje la causa en manos de la jueza de Catarroja",
-    "published": "Mon, 09 Mar 2026 16:04:50 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "La OTAN derriba un segundo misil iraní sobre el espacio aéreo de Turquía",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11485371/guerra-iran-ataques-eeuu-iran-teheran-misiles-turquia-ultima-hora-en-directo.html",
-    "summary": "Turquía ha anunciado hoy que las defensas aéreas de la OTAN han derribado un segundo misil balístico de Irán que había entrado en su espacio aéreo",
-    "published": "09 Mar 2026 18:10:03 +0100",
+    "title": "Mojtaba Jamenei, el hijo del padre",
+    "link": "https://www.lavanguardia.com/internacional/20260310/11485579/mojtaba-hijo-padre.html",
+    "summary": "La misma Revolución Islámica que tumbó al ‘rey de reyes’ apuesta por una sucesión dentro de la familia",
+    "published": "10 Mar 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Macron anuncia que Europa enviará una flota a Ormuz “en cuanto sea posible”",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11485296/macron-anuncia-europa-enviara-flota-ormuz-cuanto-sea-posible.html",
-    "summary": "El presidente francés, en visita de solidaridad a Chipre, insiste en la vocación defensiva del despliegue naval",
-    "published": "09 Mar 2026 14:34:53 +0100",
+    "title": "Macron anuncia el envío de una flota europea a Ormuz “cuando sea posible”",
+    "link": "https://www.lavanguardia.com/internacional/20260310/11485533/macron-anuncia-envio-flota-europea-ormuz-sea-posible.html",
+    "summary": "Francia liderará una misión de escolta naval en el estrecho con su portaaviones 'Charles de Gaulle'",
+    "published": "10 Mar 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Un vídeo identifica un misil de EE.UU. en el ataque que provocó la masacre en la escuela iraní",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11484936/video-identifica-misil-ee-uu-ataque-provoco-masacre-escuela-irani.html",
-    "summary": "Las imágenes contradicen la versión de Trump, quien responsabilizó a Irán del incidente",
-    "published": "09 Mar 2026 11:31:38 +0100",
+    "title": "España, retaguardia",
+    "link": "https://www.lavanguardia.com/politica/20260310/11485773/espana-retaguardia.html",
+    "summary": "El país gana enteros como 'refugio' y destino turístico",
+    "published": "10 Mar 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Los ayatolás retan a Trump y eligen al hijo de Jamenei líder supremo",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11484570/teheran-hora-sucesion.html",
-    "summary": "Los ayatolás designan a Mojtaba nuevo líder supremo de la República",
-    "published": "09 Mar 2026 00:12:27 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán, un hombre del ala dura del régimen",
-    "link": "https://www.lavanguardia.com/internacional/20260308/11484591/mojtaba-jamenei-nuevo-lider-supremo-iran-hombre-ala-dura-regimen.html",
-    "summary": "EE.UU. lo había detectado desde hace años como virtual sucesor de su padre",
-    "published": "08 Mar 2026 23:01:52 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Sánchez prosigue con el presidente de Emiratos sus contactos con países afectados por la guerra",
-    "link": "https://www.lavanguardia.com/politica/20260309/11485083/sanchez-prosigue-presidente-emiratos-contactos-paises-afectados-guerra.html",
-    "summary": "“España sigue trabajando sin descanso para defender la estabilidad regional y el derecho internacional”, señala el presidente del Gobierno, que este lunes mantendrá más contactos con los líderes de la región",
-    "published": "09 Mar 2026 12:41:08 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Jamenei se parece poco a Delcy",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11484857/jamenei-parece-poco-delcy.html",
-    "summary": "El tiempo no corre a favor de Trump",
-    "published": "09 Mar 2026 09:43:34 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "La guerra de Irán pone a Putin en una situación delicada",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11484403/guerra-iran-pone-putin-situacion-delicada.html",
-    "summary": "Los altos precios del petróleo son una pobre compensación para una Rusia que evidencia su debilidad",
-    "published": "09 Mar 2026 06:00:00 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "El dilema de las monarquías del Golfo",
-    "link": "https://www.lavanguardia.com/internacional/20260309/11484380/dilema-monarquias-golfo.html",
-    "summary": "El conflicto pone a prueba la alianza entre EE.UU. y los países árabes, convertidos en blanco de los ataques de Irán",
-    "published": "09 Mar 2026 06:00:00 +0100",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Feijóo y Ester Muñoz salen en defensa de las propuestas del PP y lanzan un mensaje directo al Gobierno: “Las consignas no dan de comer”",
-    "link": "https://www.larazon.es/espana/feijoo-ester-munoz-salen-defensa-propuestas-lanzan-mensaje-directo-gobierno-consignas-dan-comer_2026030969aefe61e1ff634075e2248d.html",
-    "summary": "El PP reivindica su plan económico para “proteger a los españoles” ante la inestabilidad internacional y acusa al Ejecutivo de vivir instalado en el eslogan",
-    "published": "Mon, 09 Mar 2026 18:07:45 +0100",
+    "title": "Aterriza en España un tercer avión militar con 251 evacuados procedente de Oriente Próximo",
+    "link": "https://www.larazon.es/espana/aterriza-espana-tercer-avion-militar-251-evacuados-procedente-oriente-proximo_2026031069afc759d489bf782e152658.html",
+    "summary": "Albares ha recordado que ya son \"miles de personas\" las que han regresado a suelo nacional",
+    "published": "Tue, 10 Mar 2026 08:25:13 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Suspendida la declaración de exjefe de UDEF en Madrid procesado por colaborar con el narco",
-    "link": "https://www.larazon.es/espana/suspendida-declaracion-exjefe-udef-madrid-procesado-colaborar-narco_2026030969aee10a6cf703292f6a6583.html",
-    "summary": "Óscar Sánchez estaba citado este lunes para declarar por videoconferencia desde la prisión madrileña de Soto del Real",
-    "published": "Mon, 09 Mar 2026 16:02:34 +0100",
+    "title": "En «capilla» el futuro del último litigio de los herederos de Franco",
+    "link": "https://www.larazon.es/espana/capilla-futuro-ultimo-litigio-herederos-franco_2026031069aef600e1ff634075e213ed.html",
+    "summary": "La Coruña reactiva su ofensiva por Cornide y el Pazo de Meirás depende de un inminente pronunciamiento del Tribunal Supremo",
+    "published": "Tue, 10 Mar 2026 02:16:42 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "De Ábalos a Ábalos: el hijo del exministro abrirá las declaraciones en el juicio y su padre las cerrará",
-    "link": "https://www.larazon.es/espana/abalos-abalos-hijo-exministro-abrira-declaraciones-juicio-padre-cerrara_2026030969aedfbd6cf703292f6a62e6.html",
-    "summary": "Torres y Armengol testificarán el mismo día, el 22 de abril, habrá que ver si de forma presencial o por videoconferencia",
-    "published": "Mon, 09 Mar 2026 15:57:19 +0100",
+    "title": "La suplantación del feminismo",
+    "link": "https://www.larazon.es/espana/suplantacion-feminismo_2026031069af260cd489bf782e148065.html",
+    "summary": "No le dice un ministerio ni las ministras ni los «señoros» de Moncloa lo que tienen que pedir. Se le escucha y se le hace caso porque lleva razón",
+    "published": "Tue, 10 Mar 2026 02:15:57 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Sumar exige a Sánchez un escudo social \"inmediato\" ante la guerra \"imperialista\" en Irán",
-    "link": "https://www.larazon.es/espana/sumar-exige-sanchez-escudo-social-inmediato-guerra-imperialista-iran_2026030969aed043d489bf782e13e8df.html",
-    "summary": "Entre las medidas exigidas se encuentran la prórroga de los contratos de alquiler y limitar el precio de la energía y alimentos básicos",
-    "published": "Mon, 09 Mar 2026 15:15:01 +0100",
+    "title": "El narcotúnel de Ceuta \"funcionó, al menos,10 años\"",
+    "link": "https://www.larazon.es/espana/narcotunel-ceuta-funciono-menos10-anos_2026031069af70926cf703292f6b40c6.html",
+    "summary": "Se sigue investigando si el pasadizo a Marruecos se utilizó para el tráfico de personas u otros bienes, como armas",
+    "published": "Tue, 10 Mar 2026 02:14:58 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Bildu rechaza una declaración que condena el terrorismo y el compromiso con la memoria en Navarra",
-    "link": "https://www.larazon.es/espana/bildu-rechaza-declaracion-que-condena-terrorismo-compromiso-memoria-navarra_2026030969aec6b56cf703292f6a2ceb.html",
-    "summary": "La Mesa del Parlamento ha intervenido para recordar la \"violación de los derechos humanos\" de ETA",
-    "published": "Mon, 09 Mar 2026 14:10:13 +0100",
+    "title": "El exjefe de la UDEF ocultó un informe que lo señalaba en 2022 por dinero del blanqueo",
+    "link": "https://www.larazon.es/espana/exjefe-udef-oculto-informe-que-senalaba-2022-dinero-blanqueo_2026031069af706fe1ff634075e2cb08.html",
+    "summary": "Inteligencia Económica señaló al policía por recibir dinero de una empresa que lavaba capitales y que recayó en la brigada que dirigía",
+    "published": "Tue, 10 Mar 2026 02:14:23 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El mensaje de Miguel Tellado a Pedro Sánchez que hizo estallar las redes: “50 días sin dar la cara por la tragedia de Adamuz”",
-    "link": "https://www.larazon.es/espana/mensaje-miguel-tellado-pedro-sanchez-que-hizo-estallar-redes-50-dias-dar-cara-tragedia-adamuz_2026030969aec4716cf703292f6a26e9.html",
-    "summary": "El secretario general del PP acusa al presidente de no asumir responsabilidades ni reunirse con las familias de las víctimas del accidente ferroviario",
-    "published": "Mon, 09 Mar 2026 14:00:33 +0100",
+    "title": "Albares vuelve a exigir respeto al “derecho internacional” mientras Macron anuncia una misión defensiva internacional",
+    "link": "https://www.larazon.es/espana/albares-vuelve-exigir-respeto-derecho-internacional-mientras-macron-anuncia-mision-defensiva-internacional_2026030969af16656cf703292f6ac520.html",
+    "summary": "El ministro de Exteriores pide “diálogo y desescalada” tras hablar con su homólogo iraquí, pero usuarios le reprochan no señalar a los aliados occidentales",
+    "published": "Mon, 09 Mar 2026 19:50:13 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Carmena y Becerril, en el TC por el 8M: \"La lucha de las mujeres es eterna, constante y victoriosa\"",
-    "link": "https://www.larazon.es/espana/carmena-becerril-lucha-mujeres-eterna-constante-victoriosa_2026030969aeb692d489bf782e13aa6a.html",
-    "summary": "Debate en la sede del Tribunal Constitucional sobre las conquistas y los desafíos en los derechos de las mujeres",
-    "published": "Mon, 09 Mar 2026 13:08:55 +0100",
+    "title": "Ortega Smith amenaza con marcarse un Ábalos y pasar al Grupo Mixto",
+    "link": "https://www.larazon.es/espana/ortega-smith-amenaza-marcarse-abalos-pasar-grupo-mixto_2026030969af15d4e1ff634075e24aec.html",
+    "summary": "\"Yo soy diputado nacional del grupo parlamentario de Vox, que es por lo que me eligieron en unas listas electorales los españoles\", ha subrayado.",
+    "published": "Mon, 09 Mar 2026 19:47:58 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Informe del SIPRI | El miedo a Putin convierte a Europa en el mayor comprador mundial de armas y España eleva un 7% sus ventas",
-    "link": "https://www.20minutos.es/internacional/miedo-putin-convierte-europa-mayor-comprador-armas-pero-tambien-vende-espana-sube-un-7-sus-exportaciones_6943509_0.html",
-    "summary": "El comercio mundial de armas creció un 10% en los últimos cinco años y el miedo a Putin convierte a Europa en el mayor comprador, superando a Asia y Oriente Medio, según el Instituto de Estocolmo para la Investigación de la Paz.",
-    "published": "Mon, 09 Mar 2026 12:26:56 +0100",
+    "title": "Aterriza en España un tercer avión militar con 251 evacuados de Oriente Próximo",
+    "link": "https://www.20minutos.es/nacional/aterriza-espana-un-tercer-avion-militar-con-251-evacuados-oriente-proximo_6943940_0.html",
+    "summary": "Se trata de la tercera evacuación que realizan las Fuerzas Armadas tras los ataques de Estados Unidos e Israel a Irán.",
+    "published": "Tue, 10 Mar 2026 07:40:11 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "¿Tienes una tortuga en casa? Todo sobre la normativa de especies invasoras y prohibidas",
-    "link": "https://www.20minutos.es/animaleros/otros-animales/tienes-una-tortuga-casa-todo-sobre-normativa-especies-invasoras-prohibidas_6938257_0.html",
-    "summary": "Son ilegales para comercio, cría y tenencia en España desde 2014, pero muchos ejemplares siguen en hogares por su longevidad extraordinaria.",
-    "published": "Mon, 09 Mar 2026 18:03:20 +0100",
+    "title": "Trump reitera su rechazo al nuevo ayatolá y apuesta por una transición en Irán al estilo venezolano",
+    "link": "https://www.20minutos.es/internacional/trump-reitera-su-rechazo-nuevo-ayatola-apuesta-por-una-transicion-iran-estilo-venezolano_6943920_0.html",
+    "summary": "Mojtaba Jameneí \"tendrá que obtener nuestra aprobación\", ha dicho Trump en una entrevista con la cadena ABC News.",
+    "published": "Tue, 10 Mar 2026 07:16:38 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Guerra en Irán, en directo | Aterriza en Omán un tercer avión del Ejército del Aire para evacuar a españoles",
-    "link": "https://www.20minutos.es/internacional/guerra-iran-directo-los-bombardeos-iranies-vuelve-sacudir-los-paises-golfo-mientras-israel-se-dispone-atacar-nuevo-beirut_6943401_6.html",
-    "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio.",
-    "published": "Mon, 09 Mar 2026 09:16:43 +0100",
+    "title": "La niebla sectaria",
+    "link": "https://www.20minutos.es/internacional/niebla-sectaria_6943731_3.html",
+    "summary": "Sorprende la falta de honestidad de quienes no admiten que el Gobierno haya actuado según la legalidad internacional y que se defina al PP como un partido que apoya la violencia.",
+    "published": "Tue, 10 Mar 2026 05:12:33 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Las defensas de la OTAN interceptan otro misil iraní en el espacio aéreo de Turquía",
-    "link": "https://www.20minutos.es/internacional/las-defensas-otan-interceptan-otro-misil-irani-espacio-aereo-turquia_6943661_0.html",
-    "summary": "Varios trozos del proyectil han impactado en la provincia turca de Gaziantep, sin causar víctimas ni heridos. Las fuerzas españolas desplegadas en Turquía han participado en el seguimiento del artefacto.",
-    "published": "Mon, 09 Mar 2026 14:40:53 +0100",
+    "title": "Los quioscos de prensa se reinventan para no cerrar: \"Periódicos vendo muy poco, aunque sigue habiendo una clientela fija de lectores\"",
+    "link": "https://www.20minutos.es/nacional/los-quioscos-prensa-se-reinventan-para-no-cerrar-periodicos-vendo-muy-poco-aunque-sigue-habiendo-una-clientela-fija-lectores_6943009_0.html",
+    "summary": "La caída de las ventas del papel obliga a los quioscos de prensa a inventar nuevas formas de sobrevivir, introduciendo nuevos productos y servicios.",
+    "published": "Tue, 10 Mar 2026 05:06:04 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Hackers vinculados a Rusia acceden a cuentas de WhatsApp y Signal de militares y funcionarios de Países Bajos",
-    "link": "https://www.20minutos.es/internacional/hackers-vinculados-rusia-acceden-cuentas-whatsapp-signal-militares-funcionarios-paises-bajos_6943746_0.html",
-    "summary": "Los ciberdelincuentes tuvieron acceso a \"información sensible\".",
-    "published": "Mon, 09 Mar 2026 17:03:47 +0100",
+    "title": "La nueva DANA que azota España mantiene este martes a diez comunidades en alerta por nieve, lluvias y fuertes vientos",
+    "link": "https://www.20minutos.es/nacional/nueva-dana-que-azota-espana-mantiene-este-martes-diez-comunidades-alerta-por-nieve-lluvias-fuertes-vientos_6943695_0.html",
+    "summary": "El fenómeno atmosférico se ha desplazado hacia el sur, por lo que las precipitaciones serán más abundantes en el centro, este y sur peninsular.",
+    "published": "Tue, 10 Mar 2026 05:05:51 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "El hijo de Ábalos y Jésica Rodríguez abrirán las sesiones del juicio, que cerrarán el exministro, Koldo García y Aldama",
-    "link": "https://www.20minutos.es/nacional/hijo-abalos-jesica-rodriguez-abriran-las-sesiones-juicio-que-cerraran-exministro-koldo-garcia-aldama_6943699_0.html",
-    "summary": "Ábalos, su exasesor y el comisionista Víctor de Aldama declararán el 28 de abril.",
-    "published": "Mon, 09 Mar 2026 15:33:19 +0100",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Más de 25.000 soldados de 14 países de la OTAN, entre ellos España, inician maniobras militares en Noruega",
-    "link": "https://www.20minutos.es/internacional/mas-25-000-soldados-14-paises-otan-entre-ellos-espana-inician-maniobras-militares-noruega_6943700_0.html",
-    "summary": "Los ejercicios se desarrollarán por tierra, mar y aire en las regiones noruegas de Troms y Nordland, así como en el norte de Finlandia.",
-    "published": "Mon, 09 Mar 2026 15:58:23 +0100",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Quién es Mojtaba Jamenei, el nuevo líder supremo de Irán",
-    "link": "https://www.eldiario.es/internacional/theguardian/mojtaba-jamenei-nuevo-lider-supremo-iran_1_13051563.html",
-    "summary": "Su perfil, considerado radical por los analistas, envía una poderosa señal de que Irán no tiene intención de cambiar de rumbo en el momento más turbulento de sus 48 años de historiaMojtaba Jamenei, hijo de Alí Jamenei, nuevo líder supremo de Irán\n\n        Mojtaba Jamenei, el segundo hijo del asesina",
-    "published": "Sun, 08 Mar 2026 21:46:36 +0000",
+    "title": "La doctrina Begin: una vieja excusa de Israel para justificar el ataque a Irán",
+    "link": "https://www.eldiario.es/internacional/doctrina-begin-vieja-excusa-israel-justificar-ataque-iran_129_13054253.html",
+    "summary": "El primer ministro Menahem Begin inauguró en 1981 la práctica israelí de evitar por todos los medios, incluido el bombardeo, el desarrollo de programas nucleares por parte de países de la región a los que considere hostilesHemeroteca - Cómo Israel construyó su arsenal nuclear con engaños y la compli",
+    "published": "Mon, 09 Mar 2026 21:02:11 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Por qué nombrar a un nuevo líder es el menor de los problemas para Irán",
-    "link": "https://www.eldiario.es/internacional/theguardian/nombrar-nuevo-lider-menor-problemas-iran_129_13052088.html",
-    "summary": "El régimen entrega al hijo de Jamenei el cargo más alto en un país que se tambalea por la embestida estadounidense-israelí y que está casi en guerra con sus vecinos del GolfoQuién es Mojtaba Jamenei, el nuevo líder supremo de Irán\n\n        La elecci&oacute;n de Mojtaba Jamenei como nuevo l&iacute;de",
-    "published": "Mon, 09 Mar 2026 16:03:26 +0000",
+    "title": "🎙 PODCAST | Estados Unidos no es el mejor país del mundo",
+    "link": "https://www.eldiario.es/blog/al-dia/podcast-estados-unidos-no-mejor-pais-mundo_132_13053042.html",
+    "summary": "Presumen de ser la mejor democracia del mundo, la cuna de todas nuestras libertades, el sueño americano, el faro moral de Occidente. Les hemos seguido la corriente en un mundo organizado a su medida. Quizá hasta ahora \n    \n            \n    \n        En el equipo de Un tema Al d&iacute;a nos hemos ac",
+    "published": "Tue, 10 Mar 2026 07:30:00 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Trump busca un Gobierno tutelado en Irán como un paso previo para detener los bombardeos",
-    "link": "https://www.eldiario.es/internacional/trump-busca-gobierno-tutelado-iran-paso-previo-detener-bombardeos_1_13051162.html",
-    "summary": "El presidente de EEUU ha pasado de alentar las revueltas a exigir participar en la elección del nuevo líder iraní tras el asesinato del ayatolá Jamenei, y el nombrado, hijo del anterior líder supremo, no es del agrado de TrumpTrump afirma estar “devastando” Irán mientras no descarta desplegar tropas",
-    "published": "Sun, 08 Mar 2026 21:36:06 +0000",
+    "title": "La Fiscalía allana el camino para que el TSJ devuelva la causa de la dana a la jueza y siga buscando indicios contra Mazón",
+    "link": "https://www.eldiario.es/comunitat-valenciana/fiscalia-allana-camino-tsj-devuelva-causa-dana-jueza-siga-buscando-indicios-mazon_1_13053921.html",
+    "summary": "El fiscal superior elogia el \"encomiable esfuerzo\" de la jueza Nuria Ruiz Tobarra por esclarecer los hechos y destaca la \"necesidad de justicia y reparación\" por parte de los familiares de las 230 víctimasLa Fiscalía allana el camino para que el TSJ devuelva la causa de la dana a la jueza y siga inv",
+    "published": "Mon, 09 Mar 2026 21:02:12 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "\"Un tipo muy peligroso\": alarma en el Ejército mientras Pete Hegseth disfruta con la carnicería de la guerra contra Irán",
-    "link": "https://www.eldiario.es/internacional/theguardian/tipo-peligroso-alarma-ejercito-pete-hegseth-disfruta-carniceria-guerra-iran_1_13051221.html",
-    "summary": "Crecen las voces que consideran que el grandilocuente ex presentador de Fox News no está capacitado para dirigir a las fuerzas armadas de EEUU como secretario de Defensa en un desafío como el conflicto abierto por Trump en Oriente Medio Comandantes de EEUU dicen a sus soldados que la guerra contra I",
-    "published": "Sun, 08 Mar 2026 21:36:07 +0000",
+    "title": "Carlo Angrisano, otro Girauta que pasa por el PP y acaba en la ultraderecha",
+    "link": "https://www.eldiario.es/politica/carlo-angrisano-girauta-pasa-pp-acaba-ultraderecha_1_13054148.html",
+    "summary": "La inesperada salida del 'número dos' de las Nuevas Generaciones del PP y su apoyo a Vox en plena campaña de Castilla y León recibe el aplauso de los ultras mientras sus antiguos compañeros señalan su falta de compromiso con el proyecto de FeijóoAbascal apunta contra Feijóo por el fiasco de Extremad",
+    "published": "Mon, 09 Mar 2026 21:02:12 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Un nuevo vídeo desmiente a Trump y apunta a un Tomahawk de EEUU como autor de la masacre de 175 personas en la escuela iraní",
-    "link": "https://www.eldiario.es/internacional/nuevo-video-desmiente-trump-apunta-tomahawk-eeuu-autor-masacre-175-personas-escuela-irani_1_13051647.html",
-    "summary": "El Tomahawk impactó en una base naval junto a la escuela iraní en la que murieron asesinadas 175 personas, según muestra un vídeo difundido por la agencia de noticias iraní Mehr News Agency y verificado por The New York TimesLa investigación de EEUU apunta a la “probable” responsabilidad de su Ejérc",
-    "published": "Mon, 09 Mar 2026 03:49:27 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "¿Y Rusia, qué? Lo que se juega Putin en la guerra en Oriente Medio",
-    "link": "https://www.eldiario.es/internacional/rusia-juega-putin-guerra-oriente-medio_1_13047039.html",
-    "summary": "El Kremlin no puede defender a Irán ni tampoco enfrentarse a Trump, pero una tensión prolongada beneficiaría a Moscú en su guerra con UcraniaCómo son los Shahed, los drones iraníes que utiliza Teherán para responder al ataque de EEUU e Israel\n\n        &ldquo;Ni siquiera deseo discutir esta posibilid",
-    "published": "Sun, 08 Mar 2026 21:36:07 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "¿Por qué la guerra con Irán ha reavivado los temores de estanflación en la economía mundial?",
-    "link": "https://www.eldiario.es/economia/guerra-iran-reavivado-temores-estanflacion-economia-mundial_1_13052626.html",
-    "summary": "Entre la escalada del precio del petróleo y las caídas en los mercados bursátiles, los economistas advierten de que un conflicto prolongado en Oriente Medio podría frenar el crecimiento global y alimentar la subida de los precios\n        Los precios del petr&oacute;leo han seguido subiendo este lune",
-    "published": "Mon, 09 Mar 2026 16:02:30 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "La guerra de Irán divide a un PP que no encuentra su discurso tras posicionarse Meloni y Macron en contra",
-    "link": "https://www.infolibre.es/politica/guerra-iran-divide-pp-no-encuentra-discurso-posicionarse-meloni-macron_1_2157211.html",
-    "summary": "La amenaza del presidente de Estados Unidos, Donald Trump, con cortar las relaciones comerciales con España por la negativa del Gobierno de coalición a permitir el uso de las bases de Rota (Cádiz) y Morón de la Frontera (Sevilla) en su ofensiva militar en Oriente Medio ha activado una reacción polít",
-    "published": "Sun, 08 Mar 2026 18:55:26 +0000",
+    "title": "La hoja de ruta de la ultraderecha para edificar un ICE europeo",
+    "link": "https://www.infolibre.es/politica/hoja-ruta-ultraderecha-edificar-ice-europeo_1_2158581.html",
+    "summary": "Paramilitares con las caras tapadas, fuertemente armados, recorriendo las calles en busca de cualquier persona cuyos rasgos sugieran un origen diferente al europeo. Estas patrullas a la caza de seres humanos, estética y funcionalmente muy parecidas a las SA nazis —los camisas pardas de la Alemania d",
+    "published": "Mon, 09 Mar 2026 19:35:45 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Otro estudio que el Gobierno de Murcia oculta desde 2020 insiste en la contaminación por plomo en Cartagena",
-    "link": "https://www.infolibre.es/medioambiente/estudio-gobierno-murcia-oculta-insiste-contaminacion-plomo-cartagena_1_2157350.html",
-    "summary": "El Gobierno de Murcia, liderado por el barón del PP Fernando López Miras, oculta desde noviembre de 2020 un informe que recoge niveles extremadamente altos de metales pesados en el Campo de Cartagena. El estudio, al que ha accedido infoLibre, destaca que en los suelos agrícolas que rodean la Sierra ",
-    "published": "Sun, 08 Mar 2026 18:55:34 +0000",
+    "title": "Si le va bien al PP, le va bien a la ultraderecha, y si al PP le va mal, a la ultraderecha le va aún mejor",
+    "link": "https://www.infolibre.es/opinion/columnas/que-ven-mis-ojos/si-le-pp-le-ultraderecha-si-pp-le-mal-ultraderecha-le-mejor_129_2158572.html",
+    "summary": "La palabra “oposición” tiene sinónimos que son matices interesantes: la RAE señala “desacuerdo” y “contraste”, que tienen un rico aroma intelectual, de debate sano y argumentos que se contraponen; pero también propone “enfrentamiento” y “obstrucción.” No hace falta ser Sherlock Holmes para ver que l",
+    "published": "Mon, 09 Mar 2026 19:36:26 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "8M: feliz nada",
-    "link": "https://www.infolibre.es/opinion/columnas/en-clave-de-fa/8m-feliz_129_2158021.html",
-    "summary": "Ocurrió en una fecha concreta y en un lugar preciso, pero pudo haber sido en cualquier momento y en cualquier sitio. Acto institucional y breve encuentro entre participantes antes de que dé comienzo el evento. Un pequeño grupo de hombres de más de 60 años con cargos importantes, por un lado. Por otr",
-    "published": "Sun, 08 Mar 2026 11:17:35 +0000",
+    "title": "Cuando nuestro malestar se hace viral",
+    "link": "https://www.infolibre.es/opinion/plaza-publica/malestar-viral_129_2158347.html",
+    "summary": "El malestar social no surge de repente; se acumula gota a gota. Cuando el cercanías llega tarde otra vez, cuando a fin de mes apenas quedan unos euros, cuando para conseguir una cita médica hay que esperar semanas, o cuando trabajar no deja margen para proyectar una vida digna. Pero no es solo algo ",
+    "published": "Tue, 10 Mar 2026 05:01:14 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Malas intenciones",
-    "link": "https://www.infolibre.es/opinion/columnas/oficio-de-impostores/malas-intenciones_129_2158089.html",
-    "summary": "Buenos actos por malos motivos es el enfoque más compasivo que se puede encontrar en la prensa estupefacta de la Villa y Corte respecto a la nueva posición del presidente del país como indiscutible comandante en jefe de la ética mundial en el tiempo de los bárbaros. En la prensa belicista las cosas ",
-    "published": "Sun, 08 Mar 2026 18:56:06 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Sarah, Irene, Cristina, Rita",
-    "link": "https://www.infolibre.es/opinion/columnas/torbellino-de-palabras/sarah-irene-cristina-rita_129_2157771.html",
-    "summary": "Vamos a hacer un experimento. Es así de sencillo: vamos a escribir un comentario en tono positivo, o mostrando cariño y apoyo en cualquier publicación de redes de Sarah Santaolalla. El efecto es casi inmediato: en menos de una hora, estos son algunos de los mensajes privados y comentarios que recibo",
-    "published": "Mon, 09 Mar 2026 05:00:59 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "La sombra del trumpismo se cierne sobre CyL",
-    "link": "https://www.infolibre.es/opinion/plaza-publica/sombra-trumpismo-cierne-cyl_129_2157072.html",
-    "summary": "En menos de 24 horas, tras el ataque de Trump y Netanyahu contra Irán, el precio del gasóleo agrícola subió de 0,92 a 1,20 euros y la campaña de primavera en Castilla y León depende del precio de los fertilizantes nitrogenados, que ya anuncian su escalada por el aumento del coste del gas licuado, qu",
-    "published": "Mon, 09 Mar 2026 05:00:59 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Mojtaba Jameneí, hijo del fallecido ayatolá, elegido como líder supremo de Irán",
-    "link": "https://www.infolibre.es/internacional/mojtaba-jamenei-hijo-fallecido-ayatola-elegido-lider-supremo-iran_1_2158303.html",
-    "summary": "Mojtaba Jameneí, hijo del fallecido ayatolá, Ali Jameneí, fue elegido como líder supremo de Irán, informó este domingo en la noche la agencia IRNA y recogió EFE.En un comunicado citado por IRNA, la Asamblea de Expertos señaló que por votación decisiva se nombró al ayatolá Seyed Mojtaba Hosseini Jame",
-    "published": "Mon, 09 Mar 2026 07:21:12 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "El brent se dispara más del 17% y alcanza los 109 dólares por la guerra en Irán",
-    "link": "https://www.infolibre.es/economia/brent-dispara-17-alcanza-109-dolares-guerra-iran_1_2158306.html",
-    "summary": "El precio del barril de petróleo brent, el de referencia en Europa, se dispara más del 17% este lunes y alcanza los 109 dólares por barril, máximos desde julio de 2022, ante los temores de suministro tras la escalada bélica en Oriente Medio.A las 7.30 horas de este lunes (6.30 GMT), el precio de bre",
-    "published": "Mon, 09 Mar 2026 07:34:18 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Los jóvenes de la UE abandonan los extremos políticos y se vuelven más moderados",
-    "link": "http://es.euronews.com/my-europe/2026/03/09/los-jovenes-de-la-ue-abandonan-los-extremos-politicos-y-vuelven-mas-moderados",
-    "summary": "Un estudio de la Fundación Allianz en los cinco mayores países de la UE revela que la mayoría de los jóvenes de 16 a 39 años se inclinan por el centro político, especialmente en Italia y Alemania. Aunque un 85% se siente europeo, el informe detecta señales de alarma.",
-    "published": "Mon, 09 Mar 2026 18:00:49 +0100",
+    "title": "Renault quiere dejar de vender vehículos con motor de combustión en Europa para 2030",
+    "link": "http://es.euronews.com/2026/03/10/renault-quiere-dejar-de-vender-vehiculos-con-motor-de-combustion-en-europa-para-2030",
+    "summary": "Alrededor del 40% de los vehículos vendidos por Renault en Europa el año pasado seguían propulsados por motores de combustión interna.",
+    "published": "Tue, 10 Mar 2026 08:28:57 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Anthropic demanda al Pentágono por etiqueta de riesgo en la cadena de suministro",
-    "link": "http://es.euronews.com/next/2026/03/09/anthropic-demanda-al-pentagono-por-etiqueta-de-riesgo-en-la-cadena-de-suministro",
-    "summary": "La semana pasada, el Pentágono declaró que Anthropic supone un riesgo para la cadena de suministro, por lo que las empresas deben dejar de usar Claude en el Departamento de Defensa.",
-    "published": "Mon, 09 Mar 2026 17:09:24 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "Fuertes inundaciones en Kenia dejan decenas de muertos y elefantes de Masai Mara entre las aguas",
-    "link": "http://es.euronews.com/2026/03/09/fuertes-inundaciones-en-kenia-dejan-decenas-de-muertos-y-elefantes-de-masai-mara-entre-las",
-    "summary": "Los vecinos aseguran que la capital no estaba preparada para un episodio meteorológico tan extremo, mientras que los turistas han sido evacuados en helicóptero del parque nacional.",
-    "published": "Mon, 09 Mar 2026 16:47:47 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "\"Cuando se ataca a Chipre, se ataca a Europa\": Macron cierra filas y anuncia el envío de más buques",
-    "link": "http://es.euronews.com/2026/03/09/cuando-ataca-chipre-ataca-europa-macron",
-    "summary": "Las declaraciones del mandatario francés se produjeron durante un reunión trilateral simbólica y sustancial en Pafos entre Mitsotakis, Macron y Christodoulides.",
-    "published": "Mon, 09 Mar 2026 16:33:02 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "EURONEWS HOY | Las noticias del lunes 9 de marzo: Irán ataca objetivos energéticos en el Golfo",
-    "link": "http://es.euronews.com/2026/03/09/euronews-hoy-noticias-lunes-9-marzo-iran-ataca-objetivos-energeticos",
-    "summary": "Irán ataca instalaciones energéticas en el Golfo después de haber elegido a su nuevo líder; Eslovaquia amenaza con bloquear el préstamo de la UE a Ucrania; EE.UU. mata a 6 presuntos narcoterroristas en el Pacífico.",
-    "published": "Mon, 09 Mar 2026 16:15:34 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "Turquía despliega varios F-16 y sistemas de defensa antiaérea en el Chipre ocupado",
-    "link": "http://es.euronews.com/2026/03/09/turquia-despliega-varios-f-16-y-sistemas-de-defensa-antiaerea-en-el-chipre-ocupado",
-    "summary": "Unos seis F-16 y sistemas de defensa antiaérea turcos han llegado a los territorios ocupados del norte de la isla  mientras se suceden las tensiones en Oriente Próximo y Medio.",
-    "published": "Mon, 09 Mar 2026 16:01:45 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "Pareja finlandesa gana la carrera británica de transporte de esposas",
-    "link": "http://es.euronews.com/video/2026/03/09/pareja-finlandesa-gana-la-carrera-britanica-de-transporte-de-esposas",
-    "summary": "Los participantes suben y bajan una colina cargando a sus parejas durante la carrera anual de porte de esposas en Surrey, Reino Unido.",
-    "published": "Mon, 09 Mar 2026 15:56:51 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "El petróleo se dispara a 100 dólares y castiga las Bolsas",
-    "link": "https://www.expansion.com/mercados/2026/03/09/69ae6f31468aebce298b45a1.html",
-    "summary": "Los escenarios más temidos del petróleo comienzan a cumplirse. Los ataques directos contra instalaciones petroleras en Oriente Próximo y el bloqueo del Estrecho de Ormuz ponen en órbita el precio del crudo.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 18:06:19 +0100",
+    "title": "Ribera: \"Las nuevas reglas sobre fusiones serán las más avanzadas del mundo\"",
+    "link": "https://www.expansion.com/empresas/2026/03/10/69af4024e5fdeac2598b4599.html",
+    "summary": "Ribera desgrana a EXPANSIÓN la esencia de las futuras directrices sobre concentraciones, que afectan a grupos como Telefónica, Vodafone o Iberia.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:16:00 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Los inversores no están preparados para una verdadera crisis",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/09/69aee61b468aeb9c028b45bb.html",
-    "summary": "La opinión generalizada sobre las consecuencias de la guerra de Irán sobre la renta variable y la renta fija podrían ser demasiado optimistas&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 16:25:29 +0100",
+    "title": "La Primera de Expansión sobre Teresa Ribera, inversión ferroviaria, Nvidia, Unicaja, tierras raras y petróleo",
+    "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/03/10/69afb0dde5fdea2e478b459e.html",
+    "summary": "Teresa Ribera adelanta en EXPANSIÓN las directrices que regirán sobre las futuras concentraciones empresariales, que afectan a grupos como Telefónica, Vodafone o Iberia.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 07:20:00 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "El G7 está dispuesto a liberar conjuntamente reservas de petróleo, pero cree que \"no estamos aún ahí\"",
-    "link": "https://www.expansion.com/economia/2026/03/09/69aeec42468aeb4b728b45b1.html",
-    "summary": "El ministro galo de Finanzas, Roland Lescure, ha asegurado que están \"preparados para tomar todas las medidas necesarias\", incluido liberar reservas.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 16:52:01 +0100",
+    "title": "Cómo cortar el cable del estrés, con Gladys Kali",
+    "link": "https://www.expansion.com/podcasts/trabajo-y-mas/2026/03/10/69aeec7be5fdea58118b4586.html",
+    "summary": "El entrenamiento cerebral y aprender a manejar la respiración en momentos críticos es el punto de partida para conseguir cortar a tiempo el cable del estrés antes que esta bomba emocional explote.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:36:55 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Invertir con la tormenta bélica",
-    "link": "https://www.expansion.com/podcasts/2026/03/09/69add6b0e5fdeaae198b45a7.html",
-    "summary": "Las bolsas europeas cayeron la semana pasada entre el 5% y el 7%, mientras que Wall Street resistió mejor. Los expertos aconsejan estar invertido porque la experiencia dice que los giros son rápidos y la volatilidad genera oportunidades.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 00:35:35 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "¿Qué economías sufrirán más las consecuencias económicas por la guerra en Oriente Medio?",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/09/69aea5e0e5fdea2e768b45b3.html",
-    "summary": "Los consumidores estadounidenses lo notarán más al llenar el surtidor, pero EEUU es un exportador de energía, a diferencia de sus aliados europeos.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 12:17:19 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Naturgy se libera por primera vez en 40 años de pactos parasociales",
-    "link": "https://www.expansion.com/empresas/energia/2026/03/09/69addf4ce5fdea65158b45a5.html",
-    "summary": "Con la salida de BlackRock-GIP desaparece el último vestigio de un pacto que hunde sus raíces en 1991. Desde entonces, Naturgy ha estado atada por 15 acuerdos.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 00:35:33 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Un exejecutivo de EY lanza una firma respaldada por capital riesgo para competir con las 'Big Four'",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/09/69aeb48ee5fdea2e768b45cb.html",
-    "summary": "EQT Partners financiará WTS UK, de Jeff Soar, que utilizará un modelo más eficiente que el de sus competidores más grandes&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 12:58:13 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "El Ibex modera las caídas al cierre, pero pierde los 17.000 puntos",
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/03/09/69ae6e1d468aebbd058b4591.html",
-    "summary": "Nueva jornada de caídas en las Bolsas europeas ante el temor a un shock energético. El precio del petróleo ha llegado a dispararse un 30% en la apertura, aunque posteriormente moderó el rally. El Ibex se ha movido al ritmo que marcaba el petróleo y abrió con un desplome del 3% para cerrar finalmente",
-    "published": "Mon, 09 Mar 2026 17:40:11 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Botín invierte tres millones en acciones de Santander en plena caída de la cotización",
-    "link": "https://www.expansion.com/empresas/banca/2026/03/09/69aeb36c468aeba26c8b45a9.html",
-    "summary": "El banco acumula una caída en Bolsa del 17% en dos semanas.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 13:41:28 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "La guerra en Irán dejará un complejo legado geopolítico",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/09/69aee8b1e5fdea09658b4583.html",
-    "summary": "Los mercados sugieren que es probable que las repercusiones se prolonguen y se extiendan.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 16:48:50 +0100",
+    "title": "La globalización resiste al proteccionismo de Trump",
+    "link": "https://www.expansion.com/empresas/2026/03/10/69af8dc7468aebd2248b457f.html",
+    "summary": "La carrera por la IA y la fuerte demanda de semiconductores y otros productos asociados que conlleva el despliegue de la infraestructura que soporta esta tecnolgía impulsa el comercio global.&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 04:35:36 +0100",
     "source": "Expansión Economía",
     "score": 0
   },
   {
-    "title": "Cuerpo: \"Ya estamos notando el inicio de los efectos de esta guerra en nuestro bolsillo\"",
-    "link": "https://www.expansion.com/economia/2026/03/09/69aee5e1e5fdea024a8b458e.html",
-    "summary": "El ministro asegura que el Gobierno tiene en mente el Escudo Social que lanzó tras el shock energético que sucedió a la invasión de Rusia a Ucrania, pero todavía no ha tomado la decisión de lanzarlo.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 16:26:18 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "Valencia pide que el Gobierno le autorice a invertir el superávit del año pasado",
-    "link": "https://www.expansion.com/valencia/2026/03/09/69aeae37e5fdea01258b4576.html",
-    "summary": "El ayuntamiento logró un remanente de tesorería de 38 millones de euros.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 12:43:27 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "El Tribunal Constitucional tiene que frenar la anomalía presupuestaria",
-    "link": "https://www.expansion.com/opinion/2026/03/09/69aeae67468aebf1598b45b7.html",
-    "summary": "Está en juego uno de los pilares básicos de la estructura institucional de nuestra democracia.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 12:26:41 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "El G7 discutirá la liberación conjunta de reservas de petróleo de emergencia",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/09/69ae86dee5fdea47378b457d.html",
-    "summary": "La guerra en Oriente Medio ha provocado un aumento en los precios del crudo que amenaza la economía global.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 09:37:53 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "El PP propone doblar la deducción por hijo en IRPF y bajar al 10% el IVA de la energía",
-    "link": "https://www.expansion.com/economia/2026/03/09/69ae86da468aebd2318b45c6.html",
-    "summary": "Feijóo llevará al Congreso las medidas para paliar el impacto de la subida de los precios de la energía para analizar su respaldo con los grupos.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 09:37:50 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "Israel ataca las reservas de petróleo iraníes y amenaza la producción",
-    "link": "https://www.expansion.com/economia/2026/03/09/69ad9181e5fdea93378b45a3.html",
-    "summary": "Trump vaticina \"más muertes\" en las próximas semanas, mientras Irán advierte de un parón en la producción y comercialización de petróleo por la guerra en el Golfo Pérsico.&nbsp;Leer",
-    "published": "Mon, 09 Mar 2026 00:35:37 +0100",
+    "title": "Teresa Ribera: \"La historia terminará poniendo a Trump en su sitio\"",
+    "link": "https://www.expansion.com/empresas/2026/03/10/69af43d7e5fdea2d668b45c4.html",
+    "summary": "Teresa Ribera es una de las voces más críticas en la Comisión Europea frente a Trump por \"no ser un hombre de paz\".&nbsp;Leer",
+    "published": "Tue, 10 Mar 2026 03:15:58 +0100",
     "source": "Expansión Economía",
     "score": 0
   },
@@ -744,42 +760,10 @@
     "score": 0
   },
   {
-    "title": "Today in Spain: A roundup of the latest news on Monday",
-    "link": "https://www.thelocal.es/20260309/today-in-spain-a-roundup-of-the-latest-news-on-monday-70",
-    "summary": "More tourists turn to Spain due to Middle East conflict, money-laundering gang exploiting Ukrainian women arrested and more news on Monday March 9th.",
-    "published": "Mon, 09 Mar 2026 09:05:00 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Thousands rally across Spain for women's rights and peace in the Middle East",
-    "link": "https://www.thelocal.es/20260308/thousands-rally-across-spain-for-womens-rights-peace-in-the-middle-east",
-    "summary": "Thousands of people rallied in cities across Spain on Sunday to denounce violence against women and the Middle East war sparked by US-Israeli strikes.",
-    "published": "Sun, 08 Mar 2026 15:02:38 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
     "title": "What to know about being president of your building's 'community' in Spain",
     "link": "https://www.thelocal.es/20260304/what-to-know-about-being-president-of-your-buildings-community-in-spain",
     "summary": "When it's your turn to be president of 'la comunidad' in your shared residential building, you'll have a few responsibilities to take on. But is there a way to get out of it?",
     "published": "Wed, 04 Mar 2026 10:54:20 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "LISTED: The cities in Spain where you can still buy a home for under €200K",
-    "link": "https://www.thelocal.es/20260305/listed-the-cities-in-spain-where-you-can-still-buy-a-flat-for-under-e200k",
-    "summary": "Property prices in Spain have risen so much over the last few years that it's no longer a country with bargain homes really. However, the data shows that there are plenty of cities - even on the coast - where you can buy for under €200,000.",
-    "published": "Thu, 05 Mar 2026 15:17:51 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Spain pulls last embassy staff out of Tehran amid Middle East crisis",
-    "link": "https://www.thelocal.es/20260308/spain-gets-last-embassy-staff-out-of-tehran-amid-middle-east-crisis",
-    "summary": "Spain got the last of its embassy staff out of Tehran, Foreign Minister Jose Manuel Albares announced on Saturday, as the Middle East conflict entered its second week.",
-    "published": "Sun, 08 Mar 2026 08:58:17 +0100",
     "source": "The Local ES",
     "score": 0
   },

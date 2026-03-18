@@ -76,25 +76,125 @@ def detect_topic(title, summary):
     return "政策", "变", "在西班牙的"
 
 def generate_title(article, used_titles):
-    """生成爆款标题"""
-    topic, adj, group = detect_topic(article['title'], article['summary'])
+    """
+    生成中文标题 - 基于原文关键词检测，更贴近原文翻译
+    避免使用固定模板，采用"西班牙+主题+动作"的自然格式
+    """
+    original_title = article.get('title', '').strip()
+    summary = article.get('summary', '').strip()
     
-    # 地缘政治文章使用专用模板
-    if topic in ["伊朗局势", "中东冲突", "战争风险", "油价上涨", "全球经济"]:
-        template_type = random.choice(["alert", "geopolitical"])
+    # 清理原标题 - 移除常见前缀
+    cleaned_title = original_title
+    prefixes_to_remove = [
+        'Última hora:', 'ÚLTIMA HORA:', 'Breaking:',
+        'El Gobierno anuncia:', 'La Comunidad',
+        'Sánchez:', 'Pedro Sánchez',
+    ]
+    for prefix in prefixes_to_remove:
+        if cleaned_title.startswith(prefix):
+            cleaned_title = cleaned_title[len(prefix):].strip()
+    
+    # 检测文章主题和动作
+    text_lower = f"{cleaned_title} {summary}".lower()
+    
+    # 主题映射表 - 西班牙语关键词到中文
+    topic_keywords = {
+        # 教育类
+        'beca': '奖学金',
+        'universidad': '大学',
+        'master': '硕士',
+        'educación': '教育',
+        'escuela': '学校',
+        'estudiante': '学生',
+        'selectividad': '高考',
+        'matrícula': '学费',
+        # 移民/签证类
+        'visa': '签证',
+        'residencia': '居留',
+        'inmigrante': '移民',
+        'extranjero': '外国人',
+        'regularización': '身份合法化',
+        # 住房类
+        'vivienda': '住房',
+        'alquiler': '租房',
+        'casa': '买房',
+        'hipoteca': '房贷',
+        # 就业类
+        'empleo': '就业',
+        'paro': '失业',
+        'salario': '工资',
+        'pensión': '养老金',
+        # 经济类
+        'economía': '经济',
+        'inflación': '通胀',
+        'precio': '物价',
+        'impuesto': '税收',
+        # 社会类
+        'sanidad': '医疗',
+        'salud': '健康',
+        # 地缘政治
+        'irán': '伊朗局势',
+        'israel': '中东冲突',
+        'guerra': '战争风险',
+        'petróleo': '油价',
+    }
+    
+    # 动作映射表
+    action_keywords = {
+        'sube': '上涨',
+        'baja': '下降',
+        'aumenta': '增加',
+        'reduce': '减少',
+        'nuevo': '新规',
+        'nueva': '新规',
+        'cambio': '改革',
+        'cambia': '变化',
+        'aprueba': '批准',
+        'anuncia': '宣布',
+        'presenta': '推出',
+        'modifica': '修改',
+        'elimina': '取消',
+        'recupera': '恢复',
+        'dispara': '飙升',
+        'mejores': '排名',
+    }
+    
+    # 检测主题
+    detected_topic = ''
+    for kw, cn in topic_keywords.items():
+        if kw in text_lower:
+            detected_topic = cn
+            break
+    
+    # 检测动作
+    detected_action = ''
+    for kw, cn in action_keywords.items():
+        if kw in text_lower:
+            detected_action = cn
+            break
+    
+    # 如果没有检测到主题，使用detect_topic备用
+    if not detected_topic:
+        detected_topic, _, _ = detect_topic(original_title, summary)
+    
+    # 构建标题
+    if detected_topic and detected_action:
+        title = f"西班牙{detected_topic}{detected_action}"
+    elif detected_topic:
+        title = f"西班牙{detected_topic}新动态"
     else:
-        template_type = random.choice(["question", "alert", "information_gap"])
+        title = "西班牙最新政策动态"
     
-    templates = TITLE_TEMPLATES[template_type]
+    # 避免重复
+    if title in used_titles:
+        # 添加序号区分
+        base_title = title
+        counter = 1
+        while title in used_titles:
+            title = f"{base_title} ({counter})"
+            counter += 1
     
-    # 生成标题
-    for template in templates:
-        title = template.format(topic=topic, adj=adj, group=group)
-        if title not in used_titles:
-            return title
-    
-    # 如果都重复了，添加日期
-    return f"2026西班牙{topic}最新：{adj}趋势来了"
+    return title
 
 def main():
     print("=" * 60)

@@ -1,6 +1,6 @@
 # 2026-03-18 爆款标题
 
-> 自动生成于 2026-03-18 20:30
+> 自动生成于 2026-03-18 20:47
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
@@ -125,19 +125,19 @@
 
 ---
 
-### 13. 西班牙伊朗局势新动态 (3)
+### 13. 西班牙伊朗局势新规
 
-- **中文标题**：西班牙伊朗局势新动态 (3)
-- **原文标题**：Última hora de la guerra en Irán hoy, en directo | Últimas noticias de los ataques de Israel, EE.UU e Irán y el fallecimiento de Jatib
+- **中文标题**：西班牙伊朗局势新规
+- **原文标题**：Última hora de la guerra en Irán hoy, en directo | Qatar confirma nuevos ataques por parte de Irán
 - **分类**：伊朗局势
 - **来源**：La Vanguardia
 - **链接**：https://www.lavanguardia.com/internacional/20260318/11492747/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html
 
 ---
 
-### 14. 西班牙伊朗局势新动态 (4)
+### 14. 西班牙伊朗局势新动态 (3)
 
-- **中文标题**：西班牙伊朗局势新动态 (4)
+- **中文标题**：西班牙伊朗局势新动态 (3)
 - **原文标题**：Qué son las bombas de racimo, los misiles iraníes que logran atravesar la Cúpula de Hierro israelí
 - **分类**：伊朗局势
 - **来源**：La Vanguardia
@@ -145,9 +145,9 @@
 
 ---
 
-### 15. 西班牙伊朗局势新动态 (5)
+### 15. 西班牙伊朗局势新动态 (4)
 
-- **中文标题**：西班牙伊朗局势新动态 (5)
+- **中文标题**：西班牙伊朗局势新动态 (4)
 - **原文标题**：La fragata 'Almirante Juan de Borbón' marca un hito histórico al cruzar su posición más septentrional
 - **分类**：伊朗局势
 - **来源**：La Razón

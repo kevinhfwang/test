@@ -36,8 +36,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       
       # 2. 设置 Python
       - name: 🐍 设置 Python

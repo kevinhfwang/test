@@ -1,63 +1,83 @@
 # 2026-03-18 爆款标题
 
-> 自动生成于 2026-03-18 07:50
+> 自动生成于 2026-03-18 20:28
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
 
-### 1. 突发！战争风险，在西班牙的必看
+### 1. 西班牙物价新动态
 
-- **中文标题**：突发！战争风险，在西班牙的必看
-- **原文标题**：Plásticos, aluminio o chips: qué pierde la economía mundial con el cierre de Ormuz más allá de petróleo y gas
+- **中文标题**：西班牙物价新动态
+- **原文标题**：El préstamo de 90.000 millones para Ucrania: Alemania no quiere ser "chantajeada" por Hungría
 - **分类**：战争风险
-- **来源**：El País
-- **链接**：https://elpais.com/economia/2026-03-18/plasticos-aluminio-o-chips-que-pierde-la-economia-mundial-con-el-cierre-de-ormuz-mas-alla-de-petroleo-y-gas.html
+- **来源**：Euronews ES
+- **链接**：http://es.euronews.com/2026/03/18/el-prestamo-de-90000-millones-para-ucrania-alemania-no-quiere-ser-chantajeada-por-hungria
 
 ---
 
-### 2. 政策到底怎么变？在西班牙的必看
+### 2. 西班牙伊朗局势飙升
 
-- **中文标题**：政策到底怎么变？在西班牙的必看
-- **原文标题**：Los 100 mejores colegios de España de 2026 según la lista Forbes: ninguno público y la mayoría multilingüistas
-- **分类**：政策
-- **来源**：20 Minutos
-- **链接**：https://www.20minutos.es/nacional/100-mejores-colegios-lista-forbes-espana-2026-ninguno-publico-mayoria-multilingueistas_6946628_0.html
-
----
-
-### 3. 注意！西班牙伊朗局势紧张了
-
-- **中文标题**：注意！西班牙伊朗局势紧张了
-- **原文标题**：Dimite el director de Contraterrorismo de Trump por su guerra en Irán: “No suponía una amenaza inminente”
+- **中文标题**：西班牙伊朗局势飙升
+- **原文标题**：Guerra en Irán, día 19: Israel bombardea el mayor yacimiento de gas del mundo y la tensión se dispara
 - **分类**：伊朗局势
-- **来源**：La Vanguardia
-- **链接**：https://www.lavanguardia.com/internacional/20260317/11492254/dimite-director-contraterrorismo-trump-guerra-iran-suponia-amenaza-inminente.html
+- **来源**：InfoLibre
+- **链接**：https://www.infolibre.es/internacional/guerra-iran-dia-19-israel-asesina-ministro-inteligencia-irani-libano-sigue-asedio_1_2163984.html
 
 ---
 
-### 4. 突发！伊朗局势，关注国际的必看
+### 3. 西班牙通胀新动态
 
-- **中文标题**：突发！伊朗局势，关注国际的必看
-- **原文标题**：Guerra en Irán, en directo | Irán ataca Tel Aviv en represalia por Lariyani y la escalada del conflicto alcanza una central nuclear
+- **中文标题**：西班牙通胀新动态
+- **原文标题**：La inflación de la zona euro repunta al 1,9% antes del conflicto en Oriente Próximo
+- **分类**：战争风险
+- **来源**：Expansión Economía
+- **链接**：https://www.expansion.com/economia/2026/03/18/69ba8016e5fdea9d608b4588.html
+
+---
+
+### 4. 西班牙伊朗局势新动态
+
+- **中文标题**：西班牙伊朗局势新动态
+- **原文标题**：Guerra en Irán, en directo | Irán ataca una refinería de gas natural en Qatar y un depósito de combustible en Riad
 - **分类**：伊朗局势
 - **来源**：20 Minutos
 - **链接**：https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-proximo-trump-teheran-ormuz-otan-noticias_6947397_6.html
 
 ---
 
-### 5. 最新！伊朗局势调整影响关注国际的
+### 5. 西班牙税务新动态
 
-- **中文标题**：最新！伊朗局势调整影响关注国际的
-- **原文标题**：Guerra en Irán, en directo | Irán ataca Tel Aviv en represalia por Lariyani y la escalada del conflicto alcanza una central nuclear en Irán
-- **分类**：伊朗局势
-- **来源**：20 Minutos
-- **链接**：https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-medio-trump-teheran-ormuz-otan-noticias_6946862_6.html
+- **中文标题**：西班牙税务新动态
+- **原文标题**：KEY POINTS: What changes about life in Spain in April 2026
+- **分类**：税务
+- **来源**：The Local ES
+- **链接**：https://www.thelocal.es/20260318/key-points-what-changes-about-life-in-spain-in-april-2026
 
 ---
 
-### 6. 注意！西班牙居留严格了
+### 6. 西班牙中东冲突新动态
 
-- **中文标题**：注意！西班牙居留严格了
+- **中文标题**：西班牙中东冲突新动态
+- **原文标题**：Israel ataca un enorme yacimiento iraní de gas en una grave escalada del conflicto
+- **分类**：伊朗局势
+- **来源**：La Vanguardia
+- **链接**：https://www.lavanguardia.com/internacional/20260318/11493223/israel-ataca-enorme-yacimiento-irani-gas-grave-escalada-conflicto.html
+
+---
+
+### 7. 西班牙物价增加
+
+- **中文标题**：西班牙物价增加
+- **原文标题**：Trump flexibiliza las sanciones al petróleo venezolano ante la crisis de precios desatada por la guerra en Irán
+- **分类**：伊朗局势
+- **来源**：elDiario
+- **链接**：https://www.eldiario.es/internacional/trump-flexibiliza-sanciones-petroleo-venezolano-crisis-precios-desatada-guerra-iran_1_13079123.html
+
+---
+
+### 8. 西班牙居留新动态
+
+- **中文标题**：西班牙居留新动态
 - **原文标题**：Echa a andar el centro público para opositores, la apuesta del Gobierno por democratizar el acceso judicial
 - **分类**：居留
 - **来源**：InfoLibre
@@ -65,39 +85,19 @@
 
 ---
 
-### 7. 伊朗局势，对西班牙紧张影响有多大？
+### 9. 西班牙留学上涨
 
-- **中文标题**：伊朗局势，对西班牙紧张影响有多大？
-- **原文标题**：El BCE mantendrá los tipos en su nueva cita, pero se abrirá a subirlos en el futuro
-- **分类**：伊朗局势
-- **来源**：Expansión
-- **链接**：https://www.expansion.com/mercados/2026/03/18/69b9d613e5fdea7d238b457a.html
-
----
-
-### 8. 原来西班牙工作可以这么难找！
-
-- **中文标题**：原来西班牙工作可以这么难找！
-- **原文标题**：El empleo resiste en Semana Santa al golpe de la guerra: se crearán 90.000 puestos de trabajo
-- **分类**：工作
-- **来源**：Expansión Economía
-- **链接**：https://www.expansion.com/economia/2026/03/17/69b9320d468aeb7b358b45aa.html
+- **中文标题**：西班牙留学上涨
+- **原文标题**：Drogas en las aguas residuales europeas: baja la presencia de MDMA y sube la de cocaína y ketamina
+- **分类**：留学
+- **来源**：Euronews ES
+- **链接**：http://es.euronews.com/my-europe/2026/03/18/drogas-aguas-residuales-europeas-mdma-cocaina-ketamina
 
 ---
 
-### 9. 注意！西班牙战争风险上升了
+### 10. 西班牙中东局势新动态
 
-- **中文标题**：注意！西班牙战争风险上升了
-- **原文标题**：Productores de petróleo: compren la paz, no la guerra
-- **分类**：战争风险
-- **来源**：Expansión Economía
-- **链接**：https://www.expansion.com/economia/financial-times/2026/03/17/69b92a7f468aeb44208b457d.html
-
----
-
-### 10. 中东局势到底怎么动荡？关注国际的必看
-
-- **中文标题**：中东局势到底怎么动荡？关注国际的必看
+- **中文标题**：西班牙中东局势新动态
 - **原文标题**：Today in Spain: A roundup of the latest news on Wednesday
 - **分类**：中东局势
 - **来源**：The Local ES
@@ -105,53 +105,53 @@
 
 ---
 
-### 11. 提醒：西班牙伊朗局势有新变化
+### 11. 西班牙伊朗局势新动态 (1)
 
-- **中文标题**：提醒：西班牙伊朗局势有新变化
-- **原文标题**：El paquete de ayudas por la guerra de Irán será más limitado que el de Ucrania
+- **中文标题**：西班牙伊朗局势新动态 (1)
+- **原文标题**：Un ataque en Irán al mayor yacimiento de gas del mundo intensifica la guerra y su repercusión en los mercados
+- **分类**：伊朗局势
+- **来源**：El País
+- **链接**：https://elpais.com/internacional/2026-03-18/un-ataque-en-iran-al-mayor-yacimiento-de-gas-del-mundo-eleva-la-intensidad-de-la-guerra-y-su-repercusion-en-los-mercados.html
+
+---
+
+### 12. 西班牙伊朗局势新动态 (2)
+
+- **中文标题**：西班牙伊朗局势新动态 (2)
+- **原文标题**：El petróleo roza los 110 dólares tras un ataque a unos yacimientos energéticos de Irán
 - **分类**：伊朗局势
 - **来源**：La Vanguardia
-- **链接**：https://www.lavanguardia.com/economia/20260318/11492506/paquete-ayudas-guerra-iran-sera-mas-limitado-ucrania.html
+- **链接**：https://www.lavanguardia.com/economia/20260318/11493339/petroleo-roza-110-dolares-ataque-yacimientos-energeticos-iran.html
 
 ---
 
-### 12. 为什么西班牙政策越来越变？
+### 13. 西班牙伊朗局势新动态 (3)
 
-- **中文标题**：为什么西班牙政策越来越变？
-- **原文标题**：Vox usa datos privados de los afiliados para vender cursos no homologados de sus gurús
-- **分类**：政策
+- **中文标题**：西班牙伊朗局势新动态 (3)
+- **原文标题**：Última hora de la guerra en Irán hoy, en directo | Últimas noticias de los ataques de Israel, EE.UU e Irán y el fallecimiento de Jatib
+- **分类**：伊朗局势
+- **来源**：La Vanguardia
+- **链接**：https://www.lavanguardia.com/internacional/20260318/11492747/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html
+
+---
+
+### 14. 西班牙伊朗局势新动态 (4)
+
+- **中文标题**：西班牙伊朗局势新动态 (4)
+- **原文标题**：Qué son las bombas de racimo, los misiles iraníes que logran atravesar la Cúpula de Hierro israelí
+- **分类**：伊朗局势
+- **来源**：La Vanguardia
+- **链接**：https://www.lavanguardia.com/internacional/20260318/11492963/que-son-bombas-racimo-misiles-iranies-logran-atravesar-cupula-hierro-israeli.html
+
+---
+
+### 15. 西班牙伊朗局势新动态 (5)
+
+- **中文标题**：西班牙伊朗局势新动态 (5)
+- **原文标题**：La fragata 'Almirante Juan de Borbón' marca un hito histórico al cruzar su posición más septentrional
+- **分类**：伊朗局势
 - **来源**：La Razón
-- **链接**：https://www.larazon.es/espana/vox-usa-datos-privados-afiliados-vender-cursos-homologados-sus-gurus_2026031869b9fc463156ba241d59314f.html
-
----
-
-### 13. 注意！西班牙租房涨了
-
-- **中文标题**：注意！西班牙租房涨了
-- **原文标题**：Sumar eleva la presión sobre el PSOE para congelar los alquileres en el decreto anticrisis pero Moncloa mantiene sus reservas
-- **分类**：租房
-- **来源**：20 Minutos
-- **链接**：https://www.20minutos.es/nacional/sumar-eleva-presion-sobre-psoe-para-congelar-los-alquileres-decreto-anticrisis-pero-moncloa-mantiene-sus-reservas_6947277_0.html
-
----
-
-### 14. 欧洲力挺以色列？伊朗局势解读
-
-- **中文标题**：欧洲力挺以色列？伊朗局势解读
-- **原文标题**：La guerra en Irán abre las primeras fracturas en el Gobierno de Trump mientras se aleja una salida negociada
-- **分类**：伊朗局势
-- **来源**：elDiario
-- **链接**：https://www.eldiario.es/internacional/guerra-iran-abre-primeras-fracturas-gobierno-trump-aleja-salida-negociada_1_13076347.html
-
----
-
-### 15. 重要：关注国际的伊朗局势有变动
-
-- **中文标题**：重要：关注国际的伊朗局势有变动
-- **原文标题**：Trump estalla tras la negativa de los aliados a ayudarle con el bloqueo de Ormuz y su guerra en Irán: "¡No necesitamos la ayuda de nadie!"
-- **分类**：伊朗局势
-- **来源**：elDiario
-- **链接**：https://www.eldiario.es/internacional/trump-estalla-negativa-aliados-ayudar-trump-bloqueo-ormuz-guerra-iran-no-necesitamos-nadie_1_13075759.html
+- **链接**：https://www.larazon.es/espana/defensa/fragata-almirante-juan-borbon-marca-hito-historico-cruzar-posicion-mas-septentrional_2026031869bad68a3156ba241d5a9b00.html
 
 ---
 

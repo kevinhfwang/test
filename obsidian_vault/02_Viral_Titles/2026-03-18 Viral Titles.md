@@ -1,6 +1,6 @@
 # 2026-03-18 爆款标题
 
-> 自动生成于 2026-03-18 20:47
+> 自动生成于 2026-03-18 20:53
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
@@ -38,7 +38,7 @@
 ### 4. 西班牙伊朗局势新动态
 
 - **中文标题**：西班牙伊朗局势新动态
-- **原文标题**：Guerra en Irán, en directo | Irán ataca una refinería de gas natural en Qatar y un depósito de combustible en Riad
+- **原文标题**：Guerra en Irán, en directo | Irán ataca refinerías de gas natural en Qatar y Baréin y un depósito de combustible en Riad
 - **分类**：伊朗局势
 - **来源**：20 Minutos
 - **链接**：https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-proximo-trump-teheran-ormuz-otan-noticias_6947397_6.html

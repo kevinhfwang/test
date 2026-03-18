@@ -1,6 +1,6 @@
 # 2026-03-18 爆款标题
 
-> 自动生成于 2026-03-18 21:14
+> 自动生成于 2026-03-18 21:18
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
@@ -38,7 +38,7 @@
 ### 4. 西班牙伊朗局势新动态
 
 - **中文标题**：西班牙伊朗局势新动态
-- **原文标题**：Guerra en Irán, en directo | Irán ataca una refinería de gas natural en Qatar y un depósito de combustible en Riad
+- **原文标题**：Guerra en Irán, en directo | Irán ataca refinerías de gas natural en Qatar y Baréin y un depósito de combustible en Riad
 - **分类**：伊朗局势
 - **来源**：20 Minutos
 - **链接**：https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-proximo-trump-teheran-ormuz-otan-noticias_6947397_6.html
@@ -85,7 +85,17 @@
 
 ---
 
-### 9. 西班牙中东局势新动态
+### 9. 西班牙留学上涨
+
+- **中文标题**：西班牙留学上涨
+- **原文标题**：Drogas en las aguas residuales europeas: baja la presencia de MDMA y sube la de cocaína y ketamina
+- **分类**：留学
+- **来源**：Euronews ES
+- **链接**：http://es.euronews.com/my-europe/2026/03/18/drogas-aguas-residuales-europeas-mdma-cocaina-ketamina
+
+---
+
+### 10. 西班牙中东局势新动态
 
 - **中文标题**：西班牙中东局势新动态
 - **原文标题**：Today in Spain: A roundup of the latest news on Wednesday
@@ -95,7 +105,7 @@
 
 ---
 
-### 10. 西班牙伊朗局势新动态 (1)
+### 11. 西班牙伊朗局势新动态 (1)
 
 - **中文标题**：西班牙伊朗局势新动态 (1)
 - **原文标题**：Un ataque en Irán al mayor yacimiento de gas del mundo intensifica la guerra y su repercusión en los mercados
@@ -105,7 +115,7 @@
 
 ---
 
-### 11. 西班牙伊朗局势新动态 (2)
+### 12. 西班牙伊朗局势新动态 (2)
 
 - **中文标题**：西班牙伊朗局势新动态 (2)
 - **原文标题**：El petróleo roza los 110 dólares tras un ataque a unos yacimientos energéticos de Irán
@@ -115,7 +125,7 @@
 
 ---
 
-### 12. 西班牙伊朗局势新动态 (3)
+### 13. 西班牙伊朗局势新动态 (3)
 
 - **中文标题**：西班牙伊朗局势新动态 (3)
 - **原文标题**：Última hora de la guerra en Irán hoy, en directo | Irán ataca a Qatar y un depósito de combustible en Riad
@@ -125,7 +135,7 @@
 
 ---
 
-### 13. 西班牙伊朗局势新动态 (4)
+### 14. 西班牙伊朗局势新动态 (4)
 
 - **中文标题**：西班牙伊朗局势新动态 (4)
 - **原文标题**：Qué son las bombas de racimo, los misiles iraníes que logran atravesar la Cúpula de Hierro israelí
@@ -135,23 +145,13 @@
 
 ---
 
-### 14. 西班牙伊朗局势新动态 (5)
+### 15. 西班牙伊朗局势新动态 (5)
 
 - **中文标题**：西班牙伊朗局势新动态 (5)
 - **原文标题**：La fragata 'Almirante Juan de Borbón' marca un hito histórico al cruzar su posición más septentrional
 - **分类**：伊朗局势
 - **来源**：La Razón
 - **链接**：https://www.larazon.es/espana/defensa/fragata-almirante-juan-borbon-marca-hito-historico-cruzar-posicion-mas-septentrional_2026031869bad68a3156ba241d5a9b00.html
-
----
-
-### 15. 西班牙伊朗局势新动态 (6)
-
-- **中文标题**：西班牙伊朗局势新动态 (6)
-- **原文标题**：EEUU e Israel bombardean el yacimiento de gas más grande del mundo e Irán responde con un ataque contra Qatar y Arabia Saudí
-- **分类**：伊朗局势
-- **来源**：20 Minutos
-- **链接**：https://www.20minutos.es/internacional/eeuu-israel-atacan-mayor-yacimiento-gas-natural-mundo-que-comparten-iran-qatar_6947714_0.html
 
 ---
 

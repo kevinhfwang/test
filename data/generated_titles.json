@@ -1,25 +1,14 @@
 [
   {
     "title": "西班牙物价新动态",
-    "original_title": "El préstamo de 90.000 millones para Ucrania: Alemania no quiere ser \"chantajeada\" por Hungría",
+    "original_title": "¿Hacienda se enriquece con la subida del precio de la gasolina?",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/03/18/el-prestamo-de-90000-millones-para-ucrania-alemania-no-quiere-ser-chantajeada-por-hungria",
-      "summary": "La cumbre de la UE en Bruselas se centra en la ayuda a Ucrania, el conflicto de Oriente Próximo y los precios de la energía. Alemania se muestra dura con Hungría y rechaza tanto una misión de la OTAN "
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20260319/11493156/hacienda-esta-forrando-subida-precio-gasolina.html",
+      "summary": "La guerra en Irán ha provocado un aumento del coste de repostar los vehículos y un mayor ingreso para el Estado por los impuestos sobre el combustible que algunas estimaciones cifran en 100 millones e"
     },
-    "category": "战争风险",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "西班牙伊朗局势飙升",
-    "original_title": "Guerra en Irán, día 19: Israel bombardea el mayor yacimiento de gas del mundo y la tensión se dispara",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/internacional/guerra-iran-dia-19-israel-asesina-ministro-inteligencia-irani-libano-sigue-asedio_1_2163984.html",
-      "summary": "Tras diecinueve días de conflicto en Oriente Medio, las muertes en Irán se cuentan por millares y la posibilidad de una negociación parece cada vez más lejana. En la mañana de este miércoles, el Organ"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-18"
+    "category": "税务",
+    "date": "2026-03-19"
   },
   {
     "title": "西班牙通胀新动态",
@@ -30,18 +19,18 @@
       "summary": "La tasa de inflación interanual de la eurozona se situó en febrero en el 1,9%, lo que supone una aceleración de dos décimas respecto del dato del 1,7% de enero de 2026, al borde del objetivo de estabi"
     },
     "category": "战争风险",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   },
   {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Guerra en Irán, en directo | Irán ataca refinerías de gas natural en Qatar y Baréin y un depósito de combustible en Riad",
+    "title": "西班牙物价新规",
+    "original_title": "Guerra en Irán, en directo: nueva oleada de ataques de Israel e Irán, amenazas de Trump y última hora del precio de la gasolina",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-proximo-trump-teheran-ormuz-otan-noticias_6947397_6.html",
-      "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio."
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260319/11493686/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-beirut-hoy-en-directo.html",
+      "summary": "Israel bombardeó este miércoles el yacimiento de gas natural más grande del mundo compartido entre Irán y Qatar"
     },
     "category": "伊朗局势",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   },
   {
     "title": "西班牙税务新动态",
@@ -52,7 +41,29 @@
       "summary": "Gibraltar-Spain free movement, full rollout of EES, regularisation of 500,000+ undocumented migrants to kick off, tax season begins, prices forecast to increase, Easter and more - this is what to expe"
     },
     "category": "税务",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
+  },
+  {
+    "title": "西班牙物价增加",
+    "original_title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-03-19/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "summary": "Arabia Saudí, Kuwait y Qatar denuncian nuevos bombardeos contra sus instalaciones | Los líderes europeos se reúnen en Bruselas para intentar contener los precios de la energía"
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "西班牙物价飙升",
+    "original_title": "La UE se prepara para dar un portazo a Trump y aferrarse al multilateralismo",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-03-19/la-ue-se-prepara-para-dar-un-portazo-a-trump-y-aferrarse-al-multilateralismo.html",
+      "summary": "Los líderes europeos debaten este jueves en Bruselas cómo contener los precios de la energía, disparados por la guerra de Irán"
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-19"
   },
   {
     "title": "西班牙中东冲突新动态",
@@ -63,40 +74,73 @@
       "summary": "Pars es la reserva más grande del mundo y está compartida con Qatar"
     },
     "category": "伊朗局势",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   },
   {
-    "title": "西班牙物价增加",
-    "original_title": "Trump flexibiliza las sanciones al petróleo venezolano ante la crisis de precios desatada por la guerra en Irán",
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Guerra en Irán, en directo | Trump dice que \"desconocía por completo\" el ataque a South Pars pero amenaza con hacerlo \"volar por los aires\" si Irán ataca Qatar",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-flexibiliza-sanciones-petroleo-venezolano-crisis-precios-desatada-guerra-iran_1_13079123.html",
-      "summary": "El presidente de EEUU, después de levantar sanciones al petróleo ruso, busca con Venezuela aumentar el suministro mundial de petróleo ante el bloqueo del estrecho de Ormuz con una autorización que per"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-libano-oriente-proximo-trump-teheran-ormuz-otan-noticias_6947397_6.html",
+      "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio."
     },
     "category": "伊朗局势",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   },
   {
-    "title": "西班牙居留新动态",
-    "original_title": "Echa a andar el centro público para opositores, la apuesta del Gobierno por democratizar el acceso judicial",
+    "title": "西班牙物价新规 (1)",
+    "original_title": "Israel marca el paso a Trump con una escalada peligrosa en Irán",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/paso-israel-marca-trump-escalada-peligrosa-iran_1_13079189.html",
+      "summary": "El ejército israelí ha asesinado a varios altos cargos del régimen iraní y también ha bombardeado el mayor yacimiento de gas del mundo, provocando una nueva subida de los precios de la energía y ataqu"
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "El Gobierno vuelve a aparcar los Presupuestos y se vuelca en el plan anticrisis por la guerra",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/gobierno-vuelve-aparcar-presupuestos-vuelca-plan-anticrisis-guerra_1_13079514.html",
+      "summary": "El Ejecutivo no contempla ya cumplir con el compromiso de aprobar las cuentas antes de final de marzo y alega que la prioridad es dar respuesta a las consecuencias del conflicto en Irán: \"Es una de la"
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "Pablo Bustinduy, el ministro que sueña con libros y al que todos (salvo él mismo) ven como líder de la izquierda",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/echa-andar-centro-publico-opositores-apuesta-gobierno-democratizar-acceso-judicial_1_2163459.html",
-      "summary": "Para los jueces y fiscales que convocaron una huelga ilegal el pasado julio para protestar contra el proyecto de ley que democratiza el sistema de acceso a las carreras judicial y fiscal, el centro pú"
+      "url": "https://www.infolibre.es/politica/pablo-bustinduy-ministro-suena-libros-salvo-ven-lider-izquierda_1_2164289.html",
+      "summary": "21 de febrero de 2026. En la Sala de Columnas del Círculo de Bellas Artes no cabe ni un alfiler. Desde los ventanales se divisa todo Madrid, como si fuera un cuadro de Antonio López. La izquierda hier"
     },
-    "category": "居留",
-    "date": "2026-03-18"
+    "category": "签证",
+    "date": "2026-03-19"
   },
   {
-    "title": "西班牙留学上涨",
-    "original_title": "Drogas en las aguas residuales europeas: baja la presencia de MDMA y sube la de cocaína y ketamina",
+    "title": "西班牙战争风险新动态",
+    "original_title": "El Gobierno pide la salida de Escribano como presidente de Indra para acometer la fusión con EM&E",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/03/18/drogas-aguas-residuales-europeas-mdma-cocaina-ketamina",
-      "summary": "Un nuevo estudio ha realizado un seguimiento del consumo de drogas ilícitas mediante el análisis de las aguas residuales en 115 ciudades europeas de 25 países. De 2024 a 2025, los residuos de MDMA en "
+      "name": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/03/18/69bb1dad468aeb6e458b45b6.html",
+      "summary": "La Sepi se pronuncia por primera vez en público sobre la operación entre Indra y EM&amp;E, y pide que se solvente el conflicto de interés para continuar el proceso.&nbsp;Leer"
     },
-    "category": "留学",
-    "date": "2026-03-18"
+    "category": "战争风险",
+    "date": "2026-03-19"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Las tres razones de Goldman Sachs para comprar acciones de Naturgy",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/03/19/69bade66468aebda538b45a7.html",
+      "summary": "Naturgy sumó ayer un 2,03%, hasta los 26,14 euros, en su quinto avance seguido aupado por una mejora de recomendación de Goldman Sachs. En este periodo suma un 5,06% y bate la rentabilidad del Ibex, q"
+    },
+    "category": "政策",
+    "date": "2026-03-19"
   },
   {
     "title": "西班牙中东局势新动态",
@@ -107,61 +151,17 @@
       "summary": "Spain to release 11.5 million barrels of oil to contain prices, Middle East conflict causes medicine shortage in Spain, water reservoirs reach highest level in 12 years and more news on Wednesday Marc"
     },
     "category": "中东局势",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   },
   {
-    "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "Un ataque en Irán al mayor yacimiento de gas del mundo intensifica la guerra y su repercusión en los mercados",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-03-18/un-ataque-en-iran-al-mayor-yacimiento-de-gas-del-mundo-eleva-la-intensidad-de-la-guerra-y-su-repercusion-en-los-mercados.html",
-      "summary": "Teherán lanza su represalia contra instalaciones de hidrocarburos del Golfo. La prensa israelí atribuye el bombardeo a su país, coordinado con EE UU"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (2)",
-    "original_title": "El petróleo roza los 110 dólares tras un ataque a unos yacimientos energéticos de Irán",
+    "title": "西班牙外国人恢复",
+    "original_title": "EAU flexibilizará su fiscalidad para recuperar a los expats que huyeron por el conflicto con Irán",
     "source": {
       "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260318/11493339/petroleo-roza-110-dolares-ataque-yacimientos-energeticos-iran.html",
-      "summary": "Trump suspende una ley de 1920 para facilitar el transporte de crudo por barco en Estados Unidos"
+      "url": "https://www.lavanguardia.com/internacional/20260319/11489139/emiratos-fiscalidad-regreso-expats-huir-conflicto-iran.html",
+      "summary": "La monarquía del golfo permitirá que los extranjeros pasen más días fuera del país en pleno éxodo de expatriados"
     },
     "category": "伊朗局势",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (3)",
-    "original_title": "Última hora de la guerra en Irán hoy, en directo | Irán ataca a Qatar y un depósito de combustible en Riad",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260318/11492747/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html",
-      "summary": "Israel ha bombardeado el yacimiento de gas natural más grande del mundo compartido entre Irán y Qatar"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (4)",
-    "original_title": "Qué son las bombas de racimo, los misiles iraníes que logran atravesar la Cúpula de Hierro israelí",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260318/11492963/que-son-bombas-racimo-misiles-iranies-logran-atravesar-cupula-hierro-israeli.html",
-      "summary": "Tanto en los ataques del 2025 como en los de estas últimas semanas, Irán ha hecho uso de munición de dispersión provocando daños indiscriminados"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-18"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (5)",
-    "original_title": "La fragata 'Almirante Juan de Borbón' marca un hito histórico al cruzar su posición más septentrional",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/defensa/fragata-almirante-juan-borbon-marca-hito-historico-cruzar-posicion-mas-septentrional_2026031869bad68a3156ba241d5a9b00.html",
-      "summary": "La fragata de la Armada Española continúa con su participación en el ejercicio Cold Response 2026"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-18"
+    "date": "2026-03-19"
   }
 ]

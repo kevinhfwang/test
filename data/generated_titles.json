@@ -8,7 +8,7 @@
       "summary": "BBVA Research pronostica que el precio de la vivienda subirá un 10,2% para 2026 y el 6,8% en 2027.&nbsp;Leer"
     },
     "category": "签证",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙签证新动态 (1)",
@@ -19,54 +19,87 @@
       "summary": "La Agencia Internacional de la Energía avisa de que restablecer los flujos de gas y petróleo costará al menos seis meses tras el fin del conflicto y pide medidas para ahorrar combustible.&nbsp;Leer"
     },
     "category": "签证",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
+  },
+  {
+    "title": "西班牙签证新动态 (2)",
+    "original_title": "Carlos Cuerpo: “Garantizo que vigilaremos que no haya enriquecimientos en una situación tan trágica”",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/economia/2026-03-22/carlos-cuerpo-garantizo-que-vigilaremos-que-no-haya-enriquecimientos-en-una-situacion-tan-tragica.html",
+      "summary": "El ministro de Economía explica el plan de ayudas ante la crisis energética, prevé más inflación a corto plazo y promete supervisar los márgenes empresariales"
+    },
+    "category": "签证",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "西班牙租房下降",
+    "original_title": "La guerra de Irán amenaza la recuperación de poder adquisitivo de los trabajadores tras el mazazo de 2022",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/guerra-iran-amenaza-recuperacion-adquisitivo-trabajadores-mazazo-2022_1_13082150.html",
+      "summary": "Los salarios no habían solventado del todo el golpe de la pasada crisis inflacionista y ahora enfrentan un nuevo incremento de precios, aún incierto en su magnitud, en función del conflicto en Oriente"
+    },
+    "category": "租房",
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙税收下降",
     "original_title": "Claves del plan frente a la guerra: del ahorro por litro de gasolina a la cláusula de desactivación",
     "source": {
-      "name": "Expansión Economía",
+      "name": "Expansión",
       "url": "https://www.expansion.com/economia/2026/03/21/69bda58b468aeba21f8b45b2.html",
       "summary": "Hacienda rebaja del 21% al 10% el IVA de luz, gas y combustibles, mientras reduce el Impuesto de Hidrocarburos al mínimo europeo, buscando abaratarlos hasta en 30 céntimos por litro.&nbsp;Leer"
     },
     "category": "税务",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "El Gobierno se reactiva con la guerra",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-03-22/el-gobierno-se-reactiva-con-la-guerra.html",
+      "summary": "Sánchez alecciona a los ministros para un conflicto largo y les anima a presionar al PP"
+    },
+    "category": "战争风险",
+    "date": "2026-03-22"
+  },
+  {
+    "title": "西班牙经济新动态",
+    "original_title": "Guerra en Irán: una bomba de tiempo en el corazón de la economía",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20260322/11495850/guerra-iran-bomba-corazon-economia.html",
+      "summary": "Si la crisis de suministro se consolida, las alzas de tipos sacudirán el sector financiero"
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙伊朗局势新动态",
-    "original_title": "Guerra en Irán, en directo | EEUU desplegará más tropas en Oriente Medio mientras Irán golpea varias ciudades de Israel y bases militares en países del Golfo",
+    "original_title": "Trump desata el pánico energético global con su guerra en Irán",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-ataques-israel-eeuu-oriente-proximo-trump-ormuz-otan-gas-qatar-south-pars_6948422_6.html",
-      "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/trump-desata-panico-energetico-global-guerra-iran_1_13086121.html",
+      "summary": "La Agencia Internacional de la Energía asegura que se ha cortado más petróleo que durante las crisis de los 70 y que actualmente hay el doble de gas paralizado que la cantidad cortada a Europa desde R"
     },
     "category": "伊朗局势",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙物价新动态",
-    "original_title": "Harrison Mann, exanalista del Ejército de EEUU: \"Trump está desconcertado y sin la menor idea de cómo encauzar la guerra\"",
+    "original_title": "La prima de riesgo energética, el doble tributo invisible al petróleo y al gas que amenaza la estabilidad económica global",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/harrison-mann-exanalista-ejercito-eeuu-trump-desconcertado-menor-idea-encauzar-guerra_128_13085420.html",
-      "summary": "“La amenaza inminente de Irán es totalmente fabricada: había quienes sabían lo que iba a ocurrir y estaban dispuestos a pagar el precio”, afirma el excomandante que renunció en 2024 a la Agencia de In"
+      "url": "https://www.eldiario.es/economia/prima-riesgo-energetica-doble-tributo-invisible-petroleo-gas-amenaza-estabilidad-economica-global_129_13084196.html",
+      "summary": "El mercado augura que la prima de riesgo energética puede sobrepasar el 20% del precio del barril y la comercial, rebasar el 1,5% del valor del buque que atraviesa este ‘chokepoint’ estratégico de las"
     },
     "category": "伊朗局势",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "Los demócratas en Estados Unidos, atrapados en su propia ambigüedad con la guerra en Irán",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/democratas-estados-unidos-atrapados-propia-ambiguedad-guerra-iran_1_2165453.html",
-      "summary": "La guerra iniciada por Estados Unidos e Israel contra Irán ha entrado en su tercera semana, y Donald Trump está atascado. El conflicto es muy impopular, incluso en parte de su base Maga (Make America "
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (2)",
     "original_title": "El imperio del gas de Catar, en el punto de mira",
     "source": {
       "name": "Expansión Economía",
@@ -74,7 +107,7 @@
       "summary": "Los ataques iraníes contra la mayor planta de GNL del mundo suponen un duro golpe para un Estado que se ha labrado un papel como mediador en conflictos.&nbsp;Leer"
     },
     "category": "伊朗局势",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙税务新动态",
@@ -85,83 +118,50 @@
       "summary": "Spanish Prime Minister Pedro Sánchez announced Friday a sweeping package worth €5 billion ($5.8 billion) aimed at cushioning the economic impact of the Middle East war, including a \"drastic reduction\""
     },
     "category": "税务",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "¿En qué consiste el plan de choque del Gobierno contra la guerra y cómo afectará a mi bolsillo?",
+    "title": "西班牙伊朗局势新动态 (2)",
+    "original_title": "Pedro Sánchez, ‘superstar’",
     "source": {
       "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260320/11495136/plan-choque-guerra-iva-bonificaciones-alquileres.html",
-      "summary": "Las medidas económicas del Gobierno entrarán en vigor a partir de mañana, aunque las relacionadas con la vivienda no cuentan con apoyo parlamentario suficiente"
+      "url": "https://www.lavanguardia.com/opinion/20260322/11495816/pedro-sanchez-superstar.html",
+      "summary": "Sánchez habla con calma sobre las guerras en Irán y Ucrania, sobre Israel y Gaza o la inmigración y la IA"
     },
-    "category": "租房",
-    "date": "2026-03-21"
+    "category": "移民",
+    "date": "2026-03-22"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Cuánto cobra un GEO de la Policía Nacional: este será su sueldo en 2026",
+    "title": "西班牙战争风险新动态 (1)",
+    "original_title": "España va a la gasolinera con el no a la guerra y una política muy inflamable",
     "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/cuanto-cobra-geo-policia-nacional-este-sera-sueldo-2026_2026032069bd5e1ae89622081d440729.html",
-      "summary": "Esta unidad está especializada en intervenciones de alto riesgo que requieren una preparación muy concreta y estricta y muchos se preguntan cómo está pagada teniendo en cuenta la peligrosidad del carg"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260322/11495958/espana-gasolinera-guerra-politica-inflamable.html",
+      "summary": "El fortalecimiento de Sánchez acentúa tensiones en la izquierda, y habrá pinzas"
     },
-    "category": "政策",
-    "date": "2026-03-21"
+    "category": "战争风险",
+    "date": "2026-03-22"
   },
   {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "El Gobierno 'castiga' acaparar red eléctrica y priorizará viviendas, fábricas y proyectos estratégicos frente a centros de datos",
+    "title": "西班牙经济新动态 (1)",
+    "original_title": "La voluntad de Irán de intensificar la guerra es su mayor arma",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-castiga-acaparar-red-electrica-priorizara-viviendas-fabricas-proyectos-estrategicos-frente-centros-datos_6948795_0.html",
-      "summary": "El decreto con medidas frente a la guerra en Oriente Medio también desbloquea el proyecto para delimitar zonas de aceleración de renovables, con plazos más cortos para construir parques fotovoltaicos "
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/theguardian/voluntad-iran-intensificar-guerra-mayor-arma_129_13087379.html",
+      "summary": "El régimen iraní hará lo que sea necesario para seguir en el poder, incluso si eso supone sacrificar las economías de otros estados del Golfo. En ese escenario, ¿cómo puede llegar a su fin la guerra?U"
     },
-    "category": "租房",
-    "date": "2026-03-21"
+    "category": "伊朗局势",
+    "date": "2026-03-22"
   },
   {
     "title": "西班牙油价新动态",
-    "original_title": "España tirará de sus reservas de petróleo: cuántos barriles se guardan, dónde están y a quién pertenecen",
+    "original_title": "España, paraíso de la gasolina",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/espana-tirara-sus-reservas-petroleo-cuantos-barriles-se-guardan-donde-estan-quien-pertenecen_6947524_0.html",
-      "summary": "España es el 62º país del mundo por sus reservas de crudo, con 150 millones de barriles."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/blog/el-boletin-del-director/paraiso-gasolina_132_13086338.html",
+      "summary": "'El boletín del director' es una carta semanal de Ignacio Escolar exclusiva para socios y socias de elDiario.es. Si tú también lo quieres leer y recibir cada sábado en tu buzón, hazte socio o socia\n  "
     },
     "category": "油价",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "西班牙租房下降",
-    "original_title": "El Gobierno confía en que los socios apoyarán el decreto anticrisis y el del alquiler se queda en el aire",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/gobierno-confia-socios-apoyaran-decreto-anticrisis-alquiler-queda-aire_1_13085465.html",
-      "summary": "EH Bildu y Podemos muestran su descontento con las medidas para combatir la subida de precios por Irán al centrarse en una “bajada de impuestos”, mientras el PP tampoco desvela qué votará. El decreto "
-    },
-    "category": "税务",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (3)",
-    "original_title": "Trump se abre a reconsiderar la presencia de EEUU en las bases de España o Alemania por no ayudarle con Ormuz",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-cree-aliados-otan-espana-alemania-merecen-eeuu-reconsidere-bases-no-ayudarle-ormuz_1_13086094.html",
-      "summary": "El presidente de EEUU da pábulo a la petición del senador Lindsey Graham, que pidió abandonar las bases de Morón y Rota por la negativa española a apoyar la guerra en Irán de EEUU e IsraelTrump llama "
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-21"
-  },
-  {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "Sumar llevará a las calles la presión sobre el decreto de vivienda para lograr el 'sí' de Junts y PNV",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/sumar-llevara-calles-presion-decreto-vivienda-lograr-si-junts-pnv_1_2165608.html",
-      "summary": "El decreto anticrisis aprobado este viernes por el Gobierno para responder al impacto económico de la guerra en Irán —con 80 medidas y que acarreará una factura de 5.000 millones de euros— salió adela"
-    },
-    "category": "租房",
-    "date": "2026-03-21"
+    "date": "2026-03-22"
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "title": "西班牙就业新动态",
+    "original_title": "Más pobres, menos viajes y menos empleo. Así sería el mundo con el petróleo a 200 dólares",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/economia/2026-03-23/mas-pobres-menos-viajes-y-menos-empleo-asi-seria-el-mundo-con-el-petroleo-a-200-dolares.html",
+      "summary": "Los analistas empiezan a ver más cerca la posibilidad de que el precio del crudo rompa todos los récords si persiste el conflicto en Oriente Próximo. En ese caso, una recesión mundial sería casi inevi"
+    },
+    "category": "工作",
+    "date": "2026-03-23"
+  },
+  {
     "title": "西班牙签证新动态",
     "original_title": "BBVA y CaixaBank avisan: el déficit de vivienda se agravará",
     "source": {
@@ -8,109 +19,98 @@
       "summary": "BBVA Research pronostica que el precio de la vivienda subirá un 10,2% para 2026 y el 6,8% en 2027.&nbsp;Leer"
     },
     "category": "签证",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙签证新动态 (1)",
-    "original_title": "La AIE advierte de la mayor amenaza a la energía de la historia",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/03/20/69bdc2ab468aebb4758b45a5.html",
-      "summary": "La Agencia Internacional de la Energía avisa de que restablecer los flujos de gas y petróleo costará al menos seis meses tras el fin del conflicto y pide medidas para ahorrar combustible.&nbsp;Leer"
-    },
-    "category": "签证",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙签证新动态 (2)",
-    "original_title": "Carlos Cuerpo: “Garantizo que vigilaremos que no haya enriquecimientos en una situación tan trágica”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-03-22/carlos-cuerpo-garantizo-que-vigilaremos-que-no-haya-enriquecimientos-en-una-situacion-tan-tragica.html",
-      "summary": "El ministro de Economía explica el plan de ayudas ante la crisis energética, prevé más inflación a corto plazo y promete supervisar los márgenes empresariales"
-    },
-    "category": "签证",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙租房下降",
-    "original_title": "La guerra de Irán amenaza la recuperación de poder adquisitivo de los trabajadores tras el mazazo de 2022",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/guerra-iran-amenaza-recuperacion-adquisitivo-trabajadores-mazazo-2022_1_13082150.html",
-      "summary": "Los salarios no habían solventado del todo el golpe de la pasada crisis inflacionista y ahora enfrentan un nuevo incremento de precios, aún incierto en su magnitud, en función del conflicto en Oriente"
-    },
-    "category": "租房",
-    "date": "2026-03-22"
+    "date": "2026-03-23"
   },
   {
     "title": "西班牙税收下降",
     "original_title": "Claves del plan frente a la guerra: del ahorro por litro de gasolina a la cláusula de desactivación",
     "source": {
-      "name": "Expansión",
+      "name": "Expansión Economía",
       "url": "https://www.expansion.com/economia/2026/03/21/69bda58b468aeba21f8b45b2.html",
       "summary": "Hacienda rebaja del 21% al 10% el IVA de luz, gas y combustibles, mientras reduce el Impuesto de Hidrocarburos al mínimo europeo, buscando abaratarlos hasta en 30 céntimos por litro.&nbsp;Leer"
     },
     "category": "税务",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "El Gobierno se reactiva con la guerra",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-03-22/el-gobierno-se-reactiva-con-la-guerra.html",
-      "summary": "Sánchez alecciona a los ministros para un conflicto largo y les anima a presionar al PP"
-    },
-    "category": "战争风险",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙经济新动态",
-    "original_title": "Guerra en Irán: una bomba de tiempo en el corazón de la economía",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260322/11495850/guerra-iran-bomba-corazon-economia.html",
-      "summary": "Si la crisis de suministro se consolida, las alzas de tipos sacudirán el sector financiero"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Trump desata el pánico energético global con su guerra en Irán",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-desata-panico-energetico-global-guerra-iran_1_13086121.html",
-      "summary": "La Agencia Internacional de la Energía asegura que se ha cortado más petróleo que durante las crisis de los 70 y que actualmente hay el doble de gas paralizado que la cantidad cortada a Europa desde R"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙物价新动态",
-    "original_title": "La prima de riesgo energética, el doble tributo invisible al petróleo y al gas que amenaza la estabilidad económica global",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/prima-riesgo-energetica-doble-tributo-invisible-petroleo-gas-amenaza-estabilidad-economica-global_129_13084196.html",
-      "summary": "El mercado augura que la prima de riesgo energética puede sobrepasar el 20% del precio del barril y la comercial, rebasar el 1,5% del valor del buque que atraviesa este ‘chokepoint’ estratégico de las"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "El imperio del gas de Catar, en el punto de mira",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/financial-times/2026/03/20/69bd787be5fdeabe298b459c.html",
-      "summary": "Los ataques iraníes contra la mayor planta de GNL del mundo suponen un duro golpe para un Estado que se ha labrado un papel como mediador en conflictos.&nbsp;Leer"
-    },
-    "category": "伊朗局势",
-    "date": "2026-03-22"
+    "date": "2026-03-23"
   },
   {
     "title": "西班牙税务新动态",
+    "original_title": "KEY POINTS: What changes about life in Spain in April 2026",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260318/key-points-what-changes-about-life-in-spain-in-april-2026",
+      "summary": "Gibraltar-Spain free movement, full rollout of EES, regularisation of 500,000+ undocumented migrants to kick off, tax season begins, prices forecast to increase, Easter and more - this is what to expe"
+    },
+    "category": "税务",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "Sánchez reclama la reapertura del estrecho de Ormuz y la preservación de los pozos petroleros",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260322/11496378/sanchez-reclama-reapertura-estrecho-ormuz-preservacion-pozos-petroleros.html",
+      "summary": "El presidente del Gobierno considera que la escalda del conflicto puede “desencadenar una crisis energética a largo plazo para toda la humanidad”"
+    },
+    "category": "战争风险",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
+    "original_title": "Sánchez concedió más de 4.700 \"golden visa\" a extranjeros por la compra de vivienda, más del doble que Rajoy",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/sanchez-concedio-mas-4700-golden-visa-extranjeros-compra-vivienda-mas-doble-que-rajoy_2026032369bfc1f9e89622081d470ee2.html",
+      "summary": "Los más beneficiados por los visados de oro fueron los ciudadanos de China (3.538), Rusia (1.157) e Irán (358)."
+    },
+    "category": "签证",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙教育飙升",
+    "original_title": "El PP tacha de \"disparate\" aprobar \"a cachitos\" las ayudas por la guerra de Irán",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/tacha-disparate-aprobar-cachitos-ayudas-guerra-iran-consejo-dinamitado_2026032269c007a9219e1f762b70ecf7.html",
+      "summary": "El vicesecretario popular de Educación e Igualdad ha criticado que el plan fue aprobado en un Consejo de Ministros \"casi dinamitado\""
+    },
+    "category": "教育",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Guerra en Irán, en directo | El conflicto en Oriente Medio escala: Irán amenaza con cerrar el estrecho de Ormuz y castigar la zona tras el ultimátum de Trump",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-israel-trump-eeuu-nuclear-ormuz_6949068_6.html",
+      "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la extensión del conflicto a Oriente Medio."
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙经济下降",
+    "original_title": "Europa se prepara para los efectos \"graves\" de una guerra que prevé larga",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/europa-prepara-efectos-graves-guerra-preve-larga_1_13085620.html",
+      "summary": "A falta de una respuesta unitaria por parte de la Unión Europea, que podría llegar la próxima semana, los distintos Estados miembro han ido aprobando medidas en solitario pero en la misma dirección: r"
+    },
+    "category": "战争风险",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙物价下降",
+    "original_title": "Multas de hasta 6 millones para las petroleras que no den datos de precios",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/03/23/69c065c2468aebd3338b4581.html",
+      "summary": "La medida trata de facilitar la supervisión por parte de la Comisión Nacional de los Mercados y la Competencia, para asegurar que las rebajas de impuestos se trasladen al consumidor.&nbsp;Leer"
+    },
+    "category": "税务",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙税务新动态 (1)",
     "original_title": "Rent, fuel and bills: Spain to spend €5 billion to ease Middle East war fallout",
     "source": {
       "name": "The Local ES",
@@ -118,50 +118,50 @@
       "summary": "Spanish Prime Minister Pedro Sánchez announced Friday a sweeping package worth €5 billion ($5.8 billion) aimed at cushioning the economic impact of the Middle East war, including a \"drastic reduction\""
     },
     "category": "税务",
-    "date": "2026-03-22"
+    "date": "2026-03-23"
   },
   {
-    "title": "西班牙伊朗局势新动态 (2)",
-    "original_title": "Pedro Sánchez, ‘superstar’",
+    "title": "西班牙签证新规",
+    "original_title": "La regularización de migrantes tendrá ventanillas propias en las oficinas de Correos y de la Seguridad Social",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/opinion/20260322/11495816/pedro-sanchez-superstar.html",
-      "summary": "Sánchez habla con calma sobre las guerras en Irán y Ucrania, sobre Israel y Gaza o la inmigración y la IA"
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-03-23/la-regularizacion-de-migrantes-tendra-ventanillas-propias-en-las-oficinas-de-correos-y-de-la-seguridad-social.html",
+      "summary": "El Ministerio de Migraciones se encargará de revisar y acreditar los documentos que se presenten, según el borrador del nuevo decreto"
     },
-    "category": "移民",
-    "date": "2026-03-22"
+    "category": "签证",
+    "date": "2026-03-23"
   },
   {
-    "title": "西班牙战争风险新动态 (1)",
-    "original_title": "España va a la gasolinera con el no a la guerra y una política muy inflamable",
+    "title": "西班牙政策新动态",
+    "original_title": "Paloma Isasia: “Los tribunales deberían contar con especialistas veterinarios cuando interviene un animal”",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20260322/11495958/espana-gasolinera-guerra-politica-inflamable.html",
-      "summary": "El fortalecimiento de Sánchez acentúa tensiones en la izquierda, y habrá pinzas"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/animaleros/paloma-isasia-los-tribunales-deberian-contar-con-especialistas-veterinarios-cuando-interviene-un-animal_6941684_0.html",
+      "summary": "En 2025 nació el Grupo Promede, donde se incluye la compañía de peritaje veterinario Perivet."
+    },
+    "category": "政策",
+    "date": "2026-03-23"
+  },
+  {
+    "title": "西班牙通胀新动态",
+    "original_title": "Prepárense, la inflación no ha hecho más que empezar",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/preparense-inflacion-no-ha-hecho-mas-que-empezar_6949216_3.html",
+      "summary": "Esta guerra es una bomba de relojería y el plan del Gobierno solo vale para sus primeras semanas. Si se alarga, hará falta otro plan con más ambición."
     },
     "category": "战争风险",
-    "date": "2026-03-22"
+    "date": "2026-03-23"
   },
   {
-    "title": "西班牙经济新动态 (1)",
-    "original_title": "La voluntad de Irán de intensificar la guerra es su mayor arma",
+    "title": "西班牙通胀新动态 (1)",
+    "original_title": "La madre de todo",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/theguardian/voluntad-iran-intensificar-guerra-mayor-arma_129_13087379.html",
-      "summary": "El régimen iraní hará lo que sea necesario para seguir en el poder, incluso si eso supone sacrificar las economías de otros estados del Golfo. En ese escenario, ¿cómo puede llegar a su fin la guerra?U"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/madre-todo_6949160_3.html",
+      "summary": "De la guerra en Oriente Medio parece preocuparnos solo los problemas que vamos a sufrir por más inflación y menor crecimiento por obra y gracia de Netanyahu, Trump y los ayatolás."
     },
-    "category": "伊朗局势",
-    "date": "2026-03-22"
-  },
-  {
-    "title": "西班牙油价新动态",
-    "original_title": "España, paraíso de la gasolina",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/blog/el-boletin-del-director/paraiso-gasolina_132_13086338.html",
-      "summary": "'El boletín del director' es una carta semanal de Ignacio Escolar exclusiva para socios y socias de elDiario.es. Si tú también lo quieres leer y recibir cada sábado en tu buzón, hazte socio o socia\n  "
-    },
-    "category": "油价",
-    "date": "2026-03-22"
+    "category": "战争风险",
+    "date": "2026-03-23"
   }
 ]

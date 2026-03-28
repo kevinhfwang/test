@@ -1,42 +1,82 @@
 [
   {
-    "title": "El Congreso convalida el decreto de medidas frente a la guerra gracias a la abstención del PP",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c54fc9e5fdeac4738b4579.html",
-    "summary": "El Gobierno logra ratificar la batería de rebajas fiscales sobre luz, gas y carburantes destinada a paliar el incremento de los precios energéticos derivados del conflicto en Oriente Próximo.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 16:27:33 +0100",
+    "title": "La guerra empieza en el gas y termina en tu plato",
+    "link": "https://www.infolibre.es/opinion/plaza-publica/guerra-empieza-gas-termina-plato_129_2166245.html",
+    "summary": "La agricultura moderna tiene un talón de Aquiles del que casi no hablamos: los fertilizantes fabricados a partir del petróleo y, sobre todo, del gas natural. Cuando estallan guerras en las zonas que controlan esa energía, no solo tiembla el precio de la gasolina; se tambalea algo mucho más básico: l",
+    "published": "Sat, 28 Mar 2026 05:01:18 +0000",
+    "source": "InfoLibre",
+    "score": 5
+  },
+  {
+    "title": "La inflación se eleva al 3,3% en marzo por el impacto de la guerra en Irán",
+    "link": "https://www.expansion.com/economia/2026/03/27/69c638be468aeb1f398b459c.html",
+    "summary": "El Índice de Precios del Consumo (IPC) subió hasta el 3,3% en marzo, un punto más que el mes anterior (2,3%) y su valor más alto desde junio de 2024, por la subida de los carburantes derivada del conflicto en Oriente Próximo, según el dato adelantado hoy por el Instituto Nacional de Estadística.&nbs",
+    "published": "Fri, 27 Mar 2026 09:00:05 +0100",
     "source": "Expansión Economía",
     "score": 5
   },
   {
-    "title": "¿Europa avanza dormida hacia su peor crisis del gas desde 2022?",
-    "link": "http://es.euronews.com/business/2026/03/27/europa-avanza-dormida-hacia-su-peor-crisis-del-gas-desde-2022",
-    "summary": "Los precios del gas en Europa han subido un 70% y las reservas se agotan. Los cortes de suministro, la inflación al alza y la posible subida de tipos del BCE avivan el temor a repetir la crisis energética de 2022.",
-    "published": "Fri, 27 Mar 2026 07:00:58 +0100",
-    "source": "Euronews ES",
+    "title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa factura a la economía española",
+    "link": "https://www.eldiario.es/economia/inflacion-crecimiento-mes-guerra-oriente-medio-le-pasa-factura-economia-espanola_1_13105074.html",
+    "summary": "Las medidas anticrisis han amortiguado ligeramente el dato de inflación de marzo, el primero de toda la zona euro. La primera ola de previsiones económicas ha sido unánime: la economía española crecerá menos y con precios más elevadosEl Banco de España prevé un frenazo en la economía (1,9%) y un IPC",
+    "published": "Fri, 27 Mar 2026 20:35:34 +0000",
+    "source": "elDiario",
     "score": 4
   },
   {
-    "title": "Irak llora a los muertos que deja el peor ataque contra su ejército desde el inicio de la guerra: “¿Por qué nos ha atacado Estados Unidos?”",
-    "link": "https://elpais.com/internacional/2026-03-27/irak-llora-a-los-muertos-que-deja-el-peor-ataque-contra-su-ejercito-desde-el-inicio-de-la-guerra-por-que-nos-han-atacado-los-americanos.html",
-    "summary": "Los ataques cruzados entre EE UU y Teherán contra milicias pro y antiiraníes en suelo iraquí amenazan con derivar en un conflicto abierto alimentado por el aumento de bajas de soldados regulares iraquíes y kurdos",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
-    "source": "El País",
+    "title": "La guerra de Oriente Medio arrastra a Europa a la estanflación",
+    "link": "https://www.eldiario.es/economia/guerra-oriente-medio-arrastra-europa-estanflacion_1_13102578.html",
+    "summary": "La Unión Europea se acerca peligrosamente a la pesadilla económica de bajo crecimiento y alta inflación por el conflicto provocado por Estados Unidos e Israel con sus bombardeos contra Irán y la expansión del enfrentamiento al resto del Golfo PérsicoLa inflación se dispara al 3,3%, un punto más, por",
+    "published": "Fri, 27 Mar 2026 21:04:53 +0000",
+    "source": "elDiario",
+    "score": 4
+  },
+  {
+    "title": "Carlos Cuerpo y Yolanda Díaz: la tensión política entre el PSOE y Sumar escala a las vicepresidencias",
+    "link": "https://www.eldiario.es/politica/carlos-cuerpo-yolanda-diaz-tension-politica-psoe-sumar-escala-vicepresidencias_1_13103628.html",
+    "summary": "Sánchez se mantiene impasible a los focos de conflicto de sus socios con el ministro de Economía e incluso a algunos recelos en sus propias filas con el ascenso fulgurante de un perfil técnico como Cuerpo a vicepresidente primero del GobiernoPerfil - De técnico a la sombra de Calviño a vicepresident",
+    "published": "Fri, 27 Mar 2026 21:04:54 +0000",
+    "source": "elDiario",
+    "score": 4
+  },
+  {
+    "title": "Las televisiones privadas declaran la guerra a RTVE presionadas por un mercado publicitario a la baja",
+    "link": "https://www.infolibre.es/medios/televisiones-privadas-declaran-guerra-rtve-presionadas-mercado-publicitario-baja_1_2169122.html",
+    "summary": "La Unión de Televisiones Comerciales en Abierto (UTECA), que agrupa a Atresmedia, Mediaset España y otros operadores privados de la Televisión Digital Terrestre, ha enviado un requerimiento formal a RTVE exigiéndole que cese la comercialización de espacios publicitarios del Mundial de Fútbol 2026 a ",
+    "published": "Fri, 27 Mar 2026 10:08:09 +0000",
+    "source": "InfoLibre",
+    "score": 4
+  },
+  {
+    "title": "El gasto en pensiones alcanza la cifra récord de 14.307 millones de euros en marzo, un 6% más",
+    "link": "https://www.expansion.com/economia/2026/03/27/69c64f65e5fdeaa7798b457d.html",
+    "summary": "La Seguridad Social destinó en el presente mes de marzo la cifra récord de 14.307,7 millones de euros al pago de la nómina ordinaria mensual de las pensiones contributivas, un 6% más que en igual mes de 2025, según ha informado este viernes el Ministerio de Inclusión, Seguridad Social y Migraciones.",
+    "published": "Fri, 27 Mar 2026 10:35:35 +0100",
+    "source": "Expansión Economía",
+    "score": 4
+  },
+  {
+    "title": "RTVE acusa a las televisiones privadas de intentar desacreditarla y defiende los patrocinios del Mundial",
+    "link": "https://www.infolibre.es/medios/rtve-acusa-teles-privadas-lanzar-campana-descredito-cadena-publica-defiende-publicidad-mundial-legal_1_2169390.html",
+    "summary": "La guerra entre las televisiones privadas y RTVE por la publicidad del Mundial de Fútbol 2026 ha escalado en pocas horas. Apenas un día después de que la patronal de las cadenas comerciales, UTECA, enviara un requerimiento exigiendo a la corporación pública que dejara de vender espacios publicitario",
+    "published": "Fri, 27 Mar 2026 15:49:54 +0000",
+    "source": "InfoLibre",
     "score": 3
   },
   {
-    "title": "La construcción de vivienda protegida se desplomó un 23% en 2025 pese a la crisis de acceso",
-    "link": "https://elpais.com/economia/vivienda/2026-03-27/la-construccion-de-vivienda-protegida-se-desplomo-un-23-en-2025-pese-a-la-crisis-de-acceso.html",
-    "summary": "Madrid aglutina el grueso del descenso, que también se da en País Vasco, Comunidad Valenciana, Castilla y León y Baleares",
-    "published": "Fri, 27 Mar 2026 04:45:01 GMT",
-    "source": "El País",
+    "title": "Música clásica en vivo ayuda a estudiantes de Ámsterdam a concentrarse en exámenes",
+    "link": "http://es.euronews.com/cultura/2026/03/28/musica-clasica-en-vivo-ayuda-a-estudiantes-de-amsterdam-a-concentrarse-en-examenes",
+    "summary": "Organizadas por la asociación juvenil del Concertgebouw, estas sesiones buscan ayudar a los estudiantes a concentrarse y acercar la música clásica al público más joven.",
+    "published": "Sat, 28 Mar 2026 08:18:00 +0100",
+    "source": "Euronews ES",
     "score": 3
   },
   {
-    "title": "CaixaBank, el banco favorito en plena corrección del sector",
-    "link": "https://www.expansion.com/mercados/2026/03/27/69c5b28fe5fdea642c8b458d.html",
-    "summary": "Es el banco español que mejor aguanta la oleada de ventas provocada por la guerra de Irán. También es el que menos cae en 2026.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 02:48:59 +0100",
-    "source": "Expansión",
+    "title": "El IPC se acelera al 3,3% con el petróleo disparado por encima de los 114 dólares",
+    "link": "https://www.expansion.com/economia/2026/03/27/69c70293468aeba54c8b45d8.html",
+    "summary": "La subida de los carburantes impacta en el Índice de Precios de Consumo en marzo, que espera mayores incrementos en los próximos meses por el alza de los alimentos y la electricidad. Las alzas del crudo y el gas se trasladarán también al transporte, plástico, químicos, vidrio, metal o papel.&nbsp;Le",
+    "published": "Fri, 27 Mar 2026 23:20:06 +0100",
+    "source": "Expansión Economía",
     "score": 3
   },
   {
@@ -48,71 +88,143 @@
     "score": 3
   },
   {
-    "title": "Los sindicatos pedirán al Gobierno que las mutuas pasen a ser dirigidas por la Seguridad Social",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c561a2468aeb18378b4584.html",
-    "summary": "CCOO confirma que propondrá que las entidades pasen a ser completamente públicas y que se integren en el sistema. Propone que los órganos de dirección sean elegidos por el Estado, al considerar que existe conflicto de intereses en la gestión de las bajas laborales.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 17:50:55 +0100",
-    "source": "Expansión Economía",
-    "score": 3
-  },
-  {
-    "title": "CONFIRMED: Spain approves measures to curb Middle East war impact",
-    "link": "https://www.thelocal.es/20260326/confirmed-spain-approves-measures-to-curb-middle-east-war-impact",
-    "summary": "Spain's parliament approved Thursday a sweeping package worth €5 billion ($5.8 billion) aimed at curbing the economic impact of the Middle East war, including steep cuts to energy taxes.",
-    "published": "Thu, 26 Mar 2026 17:53:48 +0100",
-    "source": "The Local ES",
-    "score": 3
-  },
-  {
-    "title": "Sánchez rediseña un Gobierno más técnico para hacer frente a la guerra y rematar la legislatura",
-    "link": "https://elpais.com/espana/2026-03-27/sanchez-redisena-un-gobierno-mas-tecnico-para-hacer-frente-a-la-guerra-y-rematar-la-legislatura.html",
-    "summary": "La elección de Cuerpo como vicepresidente pone todo el foco en la economía y, junto con el nombramiento de Arcadi España, busca una imagen de Ejecutivo renovado",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
+    "title": "Comprar una casa por 300.000 euros y acabar pagando 500.000: el precio real de adquirir una vivienda",
+    "link": "https://cincodias.elpais.com/mercados-financieros/2026-03-28/comprar-una-casa-por-300000-euros-y-acabar-pagando-500000-el-precio-real-de-adquirir-una-vivienda.html",
+    "summary": "La sobrevaloración de la vivienda como activo seguro y el cálculo incorrecto de todos los costes puede llevar a rentabilidades escasas e incluso nulas",
+    "published": "Sat, 28 Mar 2026 04:25:00 GMT",
     "source": "El País",
     "score": 2
   },
   {
-    "title": "De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tranquilo Carlos Cuerpo",
-    "link": "https://www.eldiario.es/economia/tecnico-sombra-calvino-vicepresidente-ascenso-fulgurante-tranquilo-carlos-cuerpo_1_13101368.html",
-    "summary": "Cuerpo dio el salto del Tesoro Público a lo más alto del Ministerio en diciembre de 2023. Es el miembro mejor valorado del Gobierno que ahora se enfrenta a los desafíos económicos de la guerra en Oriente MedioSánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi España\n\n     ",
-    "published": "Thu, 26 Mar 2026 17:19:53 +0000",
-    "source": "elDiario",
+    "title": "Militares en Líbano: «Nos llaman solo para ver si su hijo está bien»",
+    "link": "https://www.larazon.es/espana/militares-libano-nos-llaman-solo-ver-hijo-esta-bien_2026032869c6b5aa83aca52e0e3bef32.html",
+    "summary": "No se descarta un ataque sobre el contingente español al estar entre fuego cruzado por dos fuerzas en conflicto",
+    "published": "Sat, 28 Mar 2026 03:55:54 +0100",
+    "source": "La Razón",
     "score": 2
   },
   {
-    "title": "Las redes sociales ante la justicia: el negocio de la adicción empieza a tener precio",
-    "link": "https://www.infolibre.es/medios/redes-sociales-justicia-negocio-adiccion-empieza-precio_1_2168838.html",
-    "summary": "Durante décadas, las grandes plataformas digitales han estado operando bajo un principio casi sagrado: lo que publican sus usuarios no es responsabilidad suya. La Sección 230 de la Ley de Decencia en las Comunicaciones de Estados Unidos les otorgó un escudo legal que las blindaba frente a miles de d",
-    "published": "Fri, 27 Mar 2026 05:01:17 +0000",
-    "source": "InfoLibre",
+    "title": "Comprobar cuponazo ONCE: resultados de hoy, viernes 27 de marzo de 2026",
+    "link": "https://www.20minutos.es/nacional/comprobar-cuponazo-once-resultados-hoy-viernes-27-marzo-2026_6951921_0.html",
+    "summary": "Comprueba los resultados del Cuponazo de la ONCE del viernes 27 de marzo de 2026.",
+    "published": "Fri, 27 Mar 2026 20:00:04 +0100",
+    "source": "20 Minutos",
     "score": 2
   },
   {
-    "title": "Los autónomos con bajos ingresos quedarán exentos de IVA: así funciona el sistema",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c50a63e5fdea522b8b45bb.html",
-    "summary": "El Congreso de los Diputados, con el voto favorable del PSOE, ha aprobado la proposición no de ley de Junts para poner en marcha el régimen de IVA franquiciado para los autónomos que facturen menos 85.000 euros al año, aunque todavía no está claro cuándo entrará en vigor.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 15:27:46 +0100",
+    "title": "Comprobar Bonoloto: resultados de hoy, viernes 27 de marzo de 2026",
+    "link": "https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-viernes-27-marzo-2026_6951919_0.html",
+    "summary": "Comprueba los resultados de la Bonoloto del viernes 27 de marzo de 2026.",
+    "published": "Fri, 27 Mar 2026 20:00:03 +0100",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Comprobar Euromillones: resultados de hoy, viernes 27 de marzo de 2026",
+    "link": "https://www.20minutos.es/nacional/comprobar-euromillones-resultados-hoy-viernes-27-marzo-2026_6951920_0.html",
+    "summary": "Los resultados del Euromillones del viernes 27 de marzo de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es.",
+    "published": "Fri, 27 Mar 2026 20:00:03 +0100",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Las Mères Lyonnaises, las mujeres que dieron forma a la leyenda gastronómica de Lyon",
+    "link": "http://es.euronews.com/cultura/2026/03/28/las-meres-lyonnaises-las-mujeres-que-dieron-forma-a-la-leyenda-gastronomica-de-lyon",
+    "summary": "Las Mères Lyonnaises, grupo de cocineras activo desde el siglo XIX, contribuyó a definir la identidad culinaria de Lyon y dejó una huella duradera en la gastronomía francesa.",
+    "published": "Sat, 28 Mar 2026 07:17:06 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Las granjas europeas sufren la guerra con Irán, los agricultores regenerativos lo veían venir",
+    "link": "http://es.euronews.com/2026/03/28/las-granjas-europeas-sufren-la-guerra-con-iran-los-agricultores-regenerativos-lo-veian-ven",
+    "summary": "La guerra en Irán dispara el precio mundial de los fertilizantes, pero estos agricultores siguen trabajando sin inmutarse",
+    "published": "Sat, 28 Mar 2026 07:02:01 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Últimas noticias | 28 marzo 2026 - Mañana",
+    "link": "http://es.euronews.com/video/2026/03/28/ultimas-noticias-28-marzo-2026-manana",
+    "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 28 marzo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
+    "published": "Sat, 28 Mar 2026 07:00:08 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Comercio UE-Irán: ¿Qué países hacen más negocios con Teherán?",
+    "link": "http://es.euronews.com/business/2026/03/28/comercio-ue-iran-que-paises-hacen-mas-negocios-con-teheran",
+    "summary": "El comercio entre la UE e Irán cayó en 2025 a su nivel más bajo en dos décadas debido a las sanciones. El comercio continúa a escala limitada, y Alemania representa el mayor socio comercial.",
+    "published": "Sat, 28 Mar 2026 06:00:34 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "El Banco de España alerta: en el peor escenario del 'shock' energético el PIB solo crecería un 1,9%",
+    "link": "https://www.expansion.com/economia/2026/03/27/69c6547f468aeb9e4b8b4582.html",
+    "summary": "En su escenario central, la institución prevé un crecimiento del 2,3% en 2026, una décima más de lo que estimaba en diciembre, pero advierte de que la \"elevada imprevisibilidad\" del escenario geopolítico \"introduce riesgos sustanciales\" en torno a este planteamiento base \"y podría dar lugar a escena",
+    "published": "Fri, 27 Mar 2026 12:00:44 +0100",
     "source": "Expansión Economía",
     "score": 2
   },
   {
-    "title": "When do the clocks change next in Spain in 2026?",
-    "link": "https://www.thelocal.es/20260326/when-do-the-clocks-change-next-in-spain-in-2026",
-    "summary": "The clocks are changing again at the end of March in Spain, and the endless debate over scrapping daylight saving rages on.",
-    "published": "Thu, 26 Mar 2026 13:02:11 +0100",
-    "source": "The Local ES",
-    "score": 2
+    "title": "Un progreso hacia el precipicio",
+    "link": "https://elpais.com/opinion/2026-03-28/un-progreso-hacia-el-precipicio.html",
+    "summary": "Parece que no es legítimo preguntarse si Noelia Castillo recibió del sistema público, que la tutelaba, la atención que necesitaba en la adolescencia",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 1
   },
   {
-    "title": "Conejos agotados antes de salir de la chistera",
-    "link": "https://www.larazon.es/espana/conejos-agotados-antes-salir-chistera_2026032769c5c44bbfc2456bae150b14.html",
-    "summary": "Cuerpo se queda solo con la parte buena: una vicepresidencia primera que lo sitúa como segundo detrás del balón. El sanchismo no admite tecnócratas",
-    "published": "Fri, 27 Mar 2026 04:04:05 +0100",
+    "title": "Los vaivenes de Trump alejan el final de la guerra contra Irán",
+    "link": "https://elpais.com/internacional/2026-03-28/los-vaivenes-de-trump-alejan-el-final-de-la-guerra-contra-iran.html",
+    "summary": "El presidente de Estados Unidos manda mensajes contradictorios sobre sus planes bélicos, entre amenazas y marchas atrás por la presión de los mercados y la crisis energética global en marcha",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Irán mantiene su capacidad de atacar con misiles tras un mes de guerra",
+    "link": "https://elpais.com/internacional/2026-03-28/iran-mantiene-su-capacidad-de-atacar-con-misiles-tras-un-mes-de-guerra.html",
+    "summary": "La ofensiva de EE UU e Israel no logra aniquilar uno de los pilares militares de Teherán, que lanza proyectiles a diario. El ataque a la isla de Diego García en el Índico alerta sobre el alcance de su arsenal",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Cómo uso Claude: el agente IA del que todos hablan",
+    "link": "https://elpais.com/espana/2026-03-28/como-uso-claude-el-agente-ia-del-que-todos-hablan.html",
+    "summary": "La inteligencia artificial dio un salto en diciembre. Un agente llamado Claude está en el centro. Me ayuda en todo: a predecir elecciones, instalar una lavadora o editar esta newsletter",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Extranjería eleva a la Fiscalía la ‘estafa’ de los supuestos inmigrantes menores",
+    "link": "https://www.larazon.es/espana/extranjeria-eleva-fiscalia-estafa-supuestos-inmigrantes-menores_2026032869c6cb0383aca52e0e3c0207.html",
+    "summary": "La Policía detecta casos de adultos bajo tutela que falsifican su edad para beneficiarse de recursos destinados a la infancia",
+    "published": "Sat, 28 Mar 2026 03:56:27 +0100",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Guerra en Irán, en directo | EEUU estudia enviar 10.000 soldados más mientras siguen los ataques en el Golfo Pérsico",
+    "title": "Begoña Gómez pidió a Barrabés que rellenase un currículum que ya estaba casi completado",
+    "link": "https://www.larazon.es/espana/begona-gomez-pidio-barrabes-que-rellenase-curriculum-que-estaba-casi-completado_2026032869c6d81f83aca52e0e3c0c74.html",
+    "summary": "Le remitió un documento que tenía información personal del empresario y de sus estudios y trabajo",
+    "published": "Sat, 28 Mar 2026 02:35:13 +0100",
+    "source": "La Razón",
+    "score": 1
+  },
+  {
+    "title": "Carpetazo a la investigación judicial por el espionaje a Sánchez con Pegasus",
+    "link": "https://www.larazon.es/espana/carpetazo-investigacion-judicial-espionaje-sanchez-pegasus_2026032869c6a330bfc2456bae1619f5.html",
+    "summary": "La Audiencia Nacional señala que es un cierre \"temporal\" ante la falta de autor conocido y la falta de colaboración de Israel",
+    "published": "Sat, 28 Mar 2026 02:00:14 +0100",
+    "source": "La Razón",
+    "score": 1
+  },
+  {
+    "title": "Guerra en Irán, en directo | EEUU e Israel bombardean dos complejos nucleares de Irán y grandes siderúrgicas",
     "link": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-israel-libano-acuerdo-trump-eeuu-petroleo-ormuz_6951475_6.html",
     "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la escalada bélica en Oriente Medio y sus consecuencias económicas.",
     "published": "Fri, 27 Mar 2026 08:25:22 +0100",
@@ -120,19 +232,27 @@
     "score": 1
   },
   {
-    "title": "Guerra en Irán, en directo | Israel lanza nuevos ataques contra Teherán",
-    "link": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-israel-libano-acuerdo-trump-eeuu-petroleo_6950913_6.html",
-    "summary": "Última hora y todas las noticias sobre la guerra en Irán, los ataques de EEUU e Israel y la escalada bélica en Oriente Medio.",
-    "published": "Thu, 26 Mar 2026 07:32:40 +0100",
+    "title": "EEUU prevé una reunión \"esta semana\" con Irán para parar la guerra: \"Los barcos están cruzando Ormuz, es una señal muy buena\"",
+    "link": "https://www.20minutos.es/internacional/eeuu-preve-reunion-esta-semana-iran-parar-guerra-barcos-cruzando-ormuz-senal-buena_6951946_0.html",
+    "summary": "El enviado especial de Estados Unidos, Steve Witkoff dice que \"creo que el presidente (Donald Trump) quiere un acuerdo de paz\", ha agregado",
+    "published": "Fri, 27 Mar 2026 22:38:54 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Cambio de planes",
-    "link": "https://www.20minutos.es/nacional/cambio-planes_6951431_3.html",
-    "summary": "La guerra en Oriente Medio va a afectar mucho a las vacaciones de Semana Santa.",
-    "published": "Fri, 27 Mar 2026 05:00:09 +0100",
-    "source": "20 Minutos",
+    "title": "Trump alienta las negociaciones con Irán para salir del avispero y se revuelve ante la soledad frente a sus aliados",
+    "link": "https://www.eldiario.es/internacional/trump-alienta-negociaciones-iran-salir-avispero-revuelve-soledad-frente-aliados_1_13105316.html",
+    "summary": "El presidente de EEUU alarga los plazos de la negociación con Irán y retira un ultimátum para buscar una salida de una guerra que ya ha cumplido cuatro semanasTrump amplía el ultimátum para destruir las plantas energéticas de Irán hasta el 6 de abril: “Las negociaciones van muy bien”\n\n        Con lo",
+    "published": "Fri, 27 Mar 2026 20:46:22 +0000",
+    "source": "elDiario",
+    "score": 1
+  },
+  {
+    "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente de Irán",
+    "link": "https://www.eldiario.es/internacional/theguardian/diario-guerra-nadie-esperaba-confesiones-hijo-presidente-iran_1_13104718.html",
+    "summary": "Las publicaciones en Internet de Yusef Pezeshkian no revelan secretos de Estado, pero ponen de manifiesto las preocupaciones de la sociedad iraní“Detengan a este ser salvaje”: los iraníes temen que el aplazamiento del ataque anunciado por Trump solo retrasa un desastre mayor \n        En un diario, u",
+    "published": "Fri, 27 Mar 2026 21:04:53 +0000",
+    "source": "elDiario",
     "score": 1
   },
   {
@@ -144,67 +264,75 @@
     "score": 1
   },
   {
-    "title": "Noelia muere tras casi dos años de batalla legal de los ultras Abogados Cristianos contra su eutanasia",
-    "link": "https://www.eldiario.es/catalunya/noelia-gana-ultras-abogados-cristianos-muere-anos-batalla-legal-eutanasia_1_13096528.html",
-    "summary": "La joven materializa su muerte digna en un caso que constata el uso espurio de la Justicia por parte de familiares y entidades ultracatólicas contrarias a un derecho reconocido por leyLas presiones de un grupo católico a la joven con la eutanasia suspendida: “Esta opción tiene que ser un infierno”\n\n",
-    "published": "Thu, 26 Mar 2026 18:46:07 +0000",
+    "title": "Científicos del SETI descubren que llevamos décadas haciendo mal la búsqueda de vida inteligente en el espacio",
+    "link": "https://www.eldiario.es/sociedad/cientificos-seti-descubren-llevamos-decadas-haciendo-mal-busqueda-vida-inteligente-espacio_1_13098147.html",
+    "summary": "Un nuevo trabajo revela que no hemos tenido en cuenta la distorsión que las estrellas producirían en las posibles señales de radio enviadas desde los exoplanetas, un problema que afecta a más del 75% de los astros de la Vía LácteaHemeroteca - Cuerpos extraños en el Sistema Solar: lo que nos enseñan ",
+    "published": "Fri, 27 Mar 2026 21:04:54 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "Las purgas de Vox avanzan a un ritmo que hubiera complacido a Stalin",
-    "link": "https://www.eldiario.es/politica/purgas-vox-avanzan-ritmo-hubiera-complacido-stalin_129_13101124.html",
-    "summary": "El partido de Abascal culmina la eliminación de los disidentes con el paso previo a la expulsión de Espinosa de los Monteros. Los rebeldes han descubierto lo que los medios contaron hace tiempo. Abascal es el líder y los demás son los figurantes¿Qué esconden las cuentas de Vox? Sobresueldos, multas ",
-    "published": "Thu, 26 Mar 2026 20:56:57 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Sánchez impulsa el tándem Cuerpo-España para afrontar los convulsos tiempos económicos",
-    "link": "https://www.infolibre.es/politica/sanchez-impulsa-tandem-cuerpo-espana-afrontar-convulsos-tiempos-economicos_1_2168903.html",
-    "summary": "Pedro Sánchez es economista de profesión. Y eso lo lleva grabado a fuego. La sustitución de María Jesús Montero en la Vicepresidencia Primera y en Hacienda era un reto mayúsculo para él. Tenía claro que quería mandar un mensaje claro: gestión en unos tiempos económicos convulsos marcados por la guer",
-    "published": "Thu, 26 Mar 2026 20:28:11 +0000",
+    "title": "Mi mundo muy oscuro",
+    "link": "https://www.infolibre.es/opinion/columnas/desde-la-casa-roja/mundo-oscuro_129_2169434.html",
+    "summary": "A veces, empiezas a escribir un texto sabiendo que nunca vas tocar su fondo. Porque si no estamos para pensar con la complejidad que otras realidades demandan, menos aún para saber ponerle palabras y sintaxis. Aunque se escriba para entender. Para, al menos, si no encuentras respuesta, rozar el hues",
+    "published": "Fri, 27 Mar 2026 19:21:45 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Feijóo no logra fidelizar a los votantes del PP y su liderazgo se debilita con los pasos de Guardiola o Azcón",
-    "link": "https://www.infolibre.es/politica/feijoo-no-convence-propio-electorado-liderazgo-tambalea-frente-guardiola-azcon_1_2168764.html",
-    "summary": "En política, la confianza es clave. Y cuando Alberto Núñez Feijóó llegó a la presidencia nacional del Partido Popular, en abril de 2022,  contaba con un apoyo mayoritario entre los votantes del PP. Es más, daba por descontado que su fama de político moderado y de buen gestor, construida gracias, en ",
-    "published": "Thu, 26 Mar 2026 20:28:30 +0000",
+    "title": "El PP recurre al machismo para atacar al Gobierno: de las \"prostitutas\" al físico de Alegría y el \"aseo\" de Sumar",
+    "link": "https://www.infolibre.es/politica/pp-recurre-machismo-atacar-gobierno-prostitutas-fisico-alegria-aseo-sumar_1_2169157.html",
+    "summary": "Cuatro años después de que una diputada de extrema derecha dijera a la entonces ministra Irene Montero que \"su único mérito\" era \"haberse estudiado en profundidad a Pablo Iglesias\", las expresiones de violencia política en instituciones, actos públicos o televisiones por parte de representantes polí",
+    "published": "Fri, 27 Mar 2026 19:21:04 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Las mujeres que pensaron el clima antes de que el clima fuera un problema",
-    "link": "https://www.infolibre.es/opinion/plaza-publica/mujeres-pensaron-clima-clima-fuera-problema_129_2168171.html",
-    "summary": "A lo largo del año tenemos varias celebraciones que nos recuerdan y permiten visibilizar a la mujer y todo el trabajo que queda por hacer para una sociedad igualitaria. Son celebraciones que permiten dar pasos muy importantes. Esos días se repiten mensajes que, siendo importantes, no son suficientes",
-    "published": "Fri, 27 Mar 2026 05:01:17 +0000",
+    "title": "El Estado retira a Stellantis 20,7 millones de ayuda por no contribuir a desarrollar Galicia, según la UE",
+    "link": "https://www.infolibre.es/politica/retira-stellantis-20-7-millones-ayuda-no-contribuir-desarrollar-galicia-ue_1_2169128.html",
+    "summary": "España acaba de comunicar a la Comisión Europea que retira una ayuda de cerca de 20,7 millones de euros que otorgó en 2017 a Stellantis, entonces aún Peugeot Citroën Automóviles España SA, para su fábrica de Vigo, tras no poder justificar su legalidad durante una investigación que ha durado cerca de",
+    "published": "Sat, 28 Mar 2026 05:01:18 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Europe Today, Rubio se suma a las conversaciones del G7 mientras la guerra de Irán marca el día 2",
-    "link": "http://es.euronews.com/my-europe/2026/03/27/europe-today-rubio-se-suma-a-las-conversaciones-del-g7-mientras-la-guerra-de-iran-marca-el",
-    "summary": "Sintoniza Europe Today, el programa matinal de referencia de Euronews, a las ocho de la mañana, hora de Bruselas. En solo 20 minutos te ponemos al día con las noticias más importantes.",
-    "published": "Fri, 27 Mar 2026 07:51:11 +0100",
-    "source": "Euronews ES",
+    "title": "Repsol y sus socios piden a Londres extraer más petróleo del mar del Norte",
+    "link": "https://www.expansion.com/empresas/energia/2026/03/27/69c6f6f9e5fdea03158b4575.html",
+    "summary": "Las empresas de extracción de petróleo de Reino Unido, entre las que figura Repsol (que ha integrado su negocio de exploración de gas y petróleo en el mar del Norte con NEO y TotalEnergies), han exigido al Gobierno británico que promueva la extracción de más hidrocarburos para garantizar el suminist",
+    "published": "Fri, 27 Mar 2026 23:56:44 +0100",
+    "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Por qué el modelo económico de Costa Rica atrae inversiones en tiempos de incertidumbre",
-    "link": "http://es.euronews.com/business/2026/03/27/por-que-el-modelo-economico-de-costa-rica-atrae-inversiones-en-tiempos-de-incertidumbre",
-    "summary": "Cómo Costa Rica ha construido un ecosistema de inversión resiliente que combina estabilidad, talento, energías renovables y fabricación de precisión para atraer a empresas globales.",
-    "published": "Fri, 27 Mar 2026 07:50:33 +0100",
-    "source": "Euronews ES",
+    "title": "Guía para entender el riesgo de la renta fija",
+    "link": "https://www.expansion.com/mercados/renta-fija/2026/03/27/69c6d06ee5fdea33328b4575.html",
+    "summary": "El temor a la inflación y el consiguiente endurecimiento de las políticas monetarias han disparado las ventas de los principales bonos soberanos y han elevado sus rentabilidades.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:57:31 +0100",
+    "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Este crucero residencial permite vivir a bordo con mascotas",
-    "link": "http://es.euronews.com/viajes/2026/03/27/este-crucero-residencial-permite-vivir-a-bordo-con-mascotas",
-    "summary": "Fabled Voyages busca derribar una barrera clave para los viajes de larga duración, en pleno auge de los cruceros residenciales entre jubilados, teletrabajadores y viajeros de larga estancia.",
-    "published": "Fri, 27 Mar 2026 07:00:22 +0100",
-    "source": "Euronews ES",
+    "title": "Stephen Smith, el rey canadiense de las hipotecas",
+    "link": "https://www.expansion.com/empresas/2026/03/27/69c6ad7fe5fdea26158b456f.html",
+    "summary": "Batió a los grandes bancos del país al diseñar un software pionero en la concesión de préstamos de manera rápida y segura. Apasionado de la prensa, se ha convertido en uno de los principales accionistas de 'The Economist'.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:58:54 +0100",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "La factura para Europa de la guerra contra Irán",
+    "link": "https://www.expansion.com/opinion/2026/03/27/69c6718f468aebf93e8b4579.html",
+    "summary": "&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 13:02:46 +0100",
+    "source": "Expansión Economía",
+    "score": 1
+  },
+  {
+    "title": "Carlos Cuerpo y Arcadi España prometen continuar la senda de Montero",
+    "link": "https://www.expansion.com/economia/2026/03/27/69c6699f468aeb9d638b4585.html",
+    "summary": "María Jesús Montero entrega a Carlos Cuerpo y a Arcadi España las carteras de la vicepresidencia primera del Gobierno y del Ministerio de Hacienda y pone rumbo a Andalucía.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 12:41:39 +0100",
+    "source": "Expansión Economía",
     "score": 1
   },
   {
@@ -212,503 +340,303 @@
     "link": "https://www.expansion.com/economia/2026/03/27/69c59d79e5fdea1f0d8b459d.html",
     "summary": "El presidente pone al titular de Economía, Comercio y Empresa a dirigir al resto de ministros económicos en la Comisión Delegada y fija su cartera como punta de lanza para la recta final de la legislatura.&nbsp;Leer",
     "published": "Fri, 27 Mar 2026 02:23:12 +0100",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "¿Qué les espera a los mercados después de la guerra?",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/26/69c56772e5fdea1f0d8b4582.html",
-    "summary": "Los mercados creen, con razón o sin ella, que la guerra en Irán está más cerca de su fin que del comienzo.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 20:39:36 +0100",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "Sánchez nombra vicepresidente primero a Carlos Cuerpo y a Arcadi España ministro de Hacienda",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c563d0e5fdea55508b4571.html",
-    "summary": "El presidente del Gobierno comparece para comunicar la sustitución de María Jesús Montero en el Consejo de Ministros, que será candidata socialista a la presidencia de Andalucía.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 18:20:15 +0100",
     "source": "Expansión Economía",
     "score": 1
   },
   {
-    "title": "Spain to scrap penalty for non-residents paying 'millionaire tax'",
-    "link": "https://www.thelocal.es/20260326/spain-to-scrap-penalty-for-non-residents-paying-millionaire-tax",
-    "summary": "Following a court ruling last year that eliminated a tax penalty on non-residents paying wealth tax in Spain, the Spanish government is now moving to bring rules on the 'millionaire tax' in line.",
-    "published": "Thu, 26 Mar 2026 16:01:39 +0100",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "What's the medical certificate needed for Spain's non-lucrative visa?",
-    "link": "https://www.thelocal.es/20260326/what-is-the-medical-certificate-you-need-to-apply-for-spains-nlv",
-    "summary": "If you're planning on applying for Spain's non-lucrative visa (NLV), you will need to provide a medical certificate, but what exactly is it and how do you get one?",
-    "published": "Thu, 26 Mar 2026 09:57:35 +0100",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Today in Spain: A roundup of the latest news on Thursday",
-    "link": "https://www.thelocal.es/20260326/today-in-spain-a-roundup-of-the-latest-news-on-thursday-71",
-    "summary": "Civil War air-raid shelters unearthed in Barcelona, polls show a majority in Spain oppose Iran war, plotting jihadist arrested in Mallorca, and more news on Thursday March 26th.",
-    "published": "Thu, 26 Mar 2026 09:06:58 +0100",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Do Spain's green residency certificates for EU nationals expire?",
-    "link": "https://www.thelocal.es/20260325/do-spains-green-residency-certificates-for-eu-nationals-expire",
-    "summary": "If you're an EU/EEA/Swiss citizen living in Spain you will probably have a green residency card or certificate. But do these documents ever expire? And do you need to renew them?",
-    "published": "Wed, 25 Mar 2026 13:04:35 +0100",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Carlos Cuerpo, un perfil técnico y sosegado como número dos del Gobierno",
-    "link": "https://elpais.com/economia/2026-03-26/carlos-cuerpo-un-perfil-tecnico-y-sosegado-como-numero-dos-del-gobierno.html",
-    "summary": "Con una amplia trayectoria en la administración estatal y la comunitaria, tuvo un desembarco discreto en el Ejecutivo, pero con el tiempo ha ganado visibilidad y peso político",
-    "published": "Thu, 26 Mar 2026 17:28:09 GMT",
+    "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfermería",
+    "link": "https://elpais.com/sociedad/2026-03-28/sanidad-agilizara-la-eutanasia-en-casos-urgentes-y-reforzara-el-papel-de-la-enfermeria.html",
+    "summary": "Un nuevo manual de buenas prácticas, que deben votar las comunidades, busca evitar trabas burocráticas y homogeneizar el acceso al derecho en toda España",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Trump retrasa su ultimátum a Irán, pero mantiene el despliegue de refuerzos",
-    "link": "https://elpais.com/internacional/2026-03-27/estados-unidos-se-refuerza-para-desatar-un-infierno-si-fracasan-las-negociaciones-con-iran.html",
-    "summary": "El presidente de EE UU amplía hasta el 6 de abril el plazo que dio a Teherán para aceptar sus condiciones, bajo pena de “desatar el infierno” si no lo hace",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
+    "title": "Por fin ya todo se acabó, chica desolada",
+    "link": "https://elpais.com/television/2026-03-28/por-fin-ya-todo-se-acabo-chica-desolada.html",
+    "summary": "Noelia Castillo intentó largarse un par de veces. No lo logró, pero a cambio quedó parapléjica. Nadie puede imaginar cómo debió de sentirse",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel bombardea de nuevo Teherán y Beirut mientras Irán ataca objetivos estadounidenses en el golfo Pérsico",
-    "link": "https://elpais.com/internacional/2026-03-27/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "summary": "Al menos seis muertos en ataques israelíes en Irán | Alivio moderado en las Bolsas tras retrasar de nuevo Trump los ataques contra las centrales eléctricas iraníes",
-    "published": "Fri, 27 Mar 2026 07:48:11 GMT",
+    "title": "Irán y EE UU, una larga historia de falsas negociaciones de paz",
+    "link": "https://elpais.com/internacional/2026-03-28/iran-y-ee-uu-una-larga-historia-de-falsas-negociaciones-de-paz.html",
+    "summary": "Los supuestos intentos de aproximación entre los dos países para cesar el fuego están lastrados por décadas de rupturas de acuerdos y juego sucio",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "‘Altas capacidades’: así son. Y así nos parecen",
-    "link": "https://elpais.com/cultura/cine/2026-03-27/altas-capacidades-asi-son-y-asi-nos-parecen.html",
-    "summary": "Una de las sensaciones más gratas que puedo recibir en el cine (y en la vida, por supuesto) es que me hagan reír. La nueva película de Víctor García León lo logra",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
+    "title": "Amor y sexo con desnivel: los libros exploran los claroscuros de las parejas descompensadas por edad, clase o dinero",
+    "link": "https://elpais.com/babelia/2026-03-28/amor-y-sexo-con-desnivel-los-claroscuros-de-las-parejas-descompensadas-por-edad-clase-o-dinero.html",
+    "summary": "Las relaciones asimétricas están siendo exploradas con herramientas críticas contemporáneas por escritoras jóvenes. Surgen nuevas lecturas sobre una temática social que salta de los corrillos y las conversaciones cotidianas a la novela",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Así fue cómo The Rolling Stones grabaron el peor disco de su carrera: “Había demasiada amargura, fue el mal final de sus adicciones”",
-    "link": "https://elpais.com/icon/2026-03-27/asi-fue-como-the-rolling-stones-grabaron-el-peor-disco-de-su-carrera-habia-demasiada-amargura-fue-el-mal-final-de-sus-adicciones.html",
-    "summary": "Se cumplen 40 años de ‘Dirty Work’, el álbum que casi terminó con el grupo de Mick Jagger y Keith Richards pero, con el tiempo, acabó representando el giro que salvó y reconcilió a la banda",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
+    "title": "El misterio del segundo bronce celtíbero más importante conocido y que oculta un particular",
+    "link": "https://elpais.com/cultura/2026-03-28/el-misterio-del-segundo-bronce-celtibero-mas-importante-conocido-y-que-oculta-un-particular.html",
+    "summary": "La pieza ahora traducida, de valor incalculable, fue escrita en alfabeto latino, lo que permite a los expertos acercarse más a la pronunciación de este idioma prerromano",
+    "published": "Sat, 28 Mar 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Frugalismo o la felicidad de tener menos: “No va de privarse, va de simplificar y saber elegir”",
-    "link": "https://elpais.com/estilo-de-vida/2026-03-27/frugalismo-o-la-felicidad-de-tener-menos-no-va-de-privarse-va-de-simplificar-y-saber-elegir.html",
-    "summary": "Frente a una cultura que identifica el éxito con el consumo, la comunicadora y experta en finanzas personales Cristina Dayz defiende una forma consciente de relacionarnos con el dinero, el tiempo y el deseo para vivir con más calma y libertad",
-    "published": "Fri, 27 Mar 2026 04:30:00 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "La mercantilización de la Semana Santa divide a Sevilla: balcones a 9.000 euros y sillas a casi 100",
-    "link": "https://elpais.com/espana/andalucia/2026-03-27/la-mercantilizacion-de-la-semana-santa-divide-a-sevilla-balcones-a-9000-euros-y-sillas-a-casi-100.html",
-    "summary": "La masificación de esta fiesta complica el disfrute de los pasos en la calle y las alternativas no son asequibles. “La estamos convirtiendo en un elemento de desigualdad”",
-    "published": "Fri, 27 Mar 2026 04:30:01 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Echenique será juzgado hoy por un polémico tuit en el que tachaba a los curas de \"agresores sexuales\"",
-    "link": "https://www.larazon.es/espana/echenique-sera-juzgado-hoy-polemico-tuit-que-tachaba-curas-agresores-sexuales_2026032769c62c1b83aca52e0e3ae9b3.html",
-    "summary": "Abogados Cristianos denunció al exdiputado de Podemos por un posible delito de provocación al odio y a la discriminación y pide un año de prisión para él",
-    "published": "Fri, 27 Mar 2026 08:05:09 +0100",
+    "title": "Sánchez se olvida del cambio de hora: el Gobierno no publica un informe de su Comité de expertos desde 2019",
+    "link": "https://www.larazon.es/espana/sanchez-olvida-cambio-hora-gobierno-publica-informe-comite-expertos-2019_2026032869c76e7083aca52e0e3c6826.html",
+    "summary": "En la última reunión se señaló la apuesta del presidente como \"precipitada\" sin un gran consenso entre los españoles",
+    "published": "Sat, 28 Mar 2026 07:00:16 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Montero, agitprop del sanchismo para ver si el PSOE pesca algún voto en Andalucía",
-    "link": "https://www.larazon.es/espana/montero-agitprop-sanchismo-ver-psoe-pesca-algun-voto-andalucia_2026032769c57d1a83aca52e0e3a7965.html",
-    "summary": "La candidata del PSOE va a intentar polarizar, en contraposición al talante de Juanma Moreno, para tratar de movilizar a los votantes socialistas.",
-    "published": "Fri, 27 Mar 2026 04:03:33 +0100",
+    "title": "Más lío en Vox: el que iba a velar por los purgados se va y denuncia comportamientos «cuasi mafiosos»",
+    "link": "https://www.larazon.es/espana/mas-lio-vox-que-iba-velar-purgados-denuncia-comportamientos-cuasi-mafiosos_2026032869c7431e83aca52e0e3c53c0.html",
+    "summary": "Era el portavoz en Torre Pacheco. Rompe el carné de militante y denuncia «presiones» en plena crisis interna",
+    "published": "Sat, 28 Mar 2026 03:55:26 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Los purgados de Vox se ponen en modo «Malditos bastardos»",
-    "link": "https://www.larazon.es/espana/purgados-vox-ponen-modo-malditos-bastardos_2026032769c5f343bfc2456bae1523de.html",
-    "summary": "Abascal prosigue con la caza de brujas en su partido. Inicia el proceso para echar a Iván Espinosa",
-    "published": "Fri, 27 Mar 2026 04:02:27 +0100",
+    "title": "Díaz le niega más poder a Cuerpo y le redoblará el pulso para buscar oxígeno",
+    "link": "https://www.larazon.es/espana/diaz-niega-mas-poder-cuerpo-redoblara-pulso-buscar-oxigeno_2026032869c6bc98bfc2456bae16519d.html",
+    "summary": "Yolanda Díaz va a dar la batalla por el registro horario: \"No podemos permitir que el pacto de coalición no se cumpla\".",
+    "published": "Sat, 28 Mar 2026 03:54:47 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El escaso margen del juez para revertir la semilibertad de \"Txeroki\"",
-    "link": "https://www.larazon.es/espana/escaso-margen-juez-revertir-semilibertad-txeroki_2026032769c573606b2f883592582c16.html",
-    "summary": "Si aprecia conexión del programa de tratamiento con los delitos cometidos solo puede realizar modificaciones en la aplicación del 100.2, como reducir el horario de salida de prisión",
-    "published": "Fri, 27 Mar 2026 04:01:52 +0100",
+    "title": "Sánchez vacía al PSOE y entrega el poder a sus asesores",
+    "link": "https://www.larazon.es/espana/sanchez-vacia-psoe-entrega-poder-sus-asesores_2026032869c742bdbfc2456bae16b165.html",
+    "summary": "El presidente ha ido anulando a todos los cuadros que podían ser relevantes. Se bunkeriza con sus gurús, sin carné, de Moncloa. «Han colonizado y anulado al PSOE»",
+    "published": "Sat, 28 Mar 2026 03:53:49 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "La \"ambición\" de Carlos Cuerpo desata recelos en el núcleo duro de Sánchez",
-    "link": "https://www.larazon.es/espana/ambicion-carlos-cuerpo-desata-recelos-nucleo-duro-sanchez_2026032769c5e4ad83aca52e0e3ac434.html",
-    "summary": "El nuevo vicepresidente primero llevaba meses \"dejándose querer\". Sánchez \"despolitiza\" el Ejecutivo y manda un recado a quienes piensan en sucederle aupando a un nuevo peso pesado",
-    "published": "Fri, 27 Mar 2026 03:00:13 +0100",
+    "title": "Iglesias ya tiene claro quién sustituirá a Sánchez en el PSOE: ‘Me apuesto una cena’",
+    "link": "https://www.larazon.es/espana/iglesias-tiene-claro-quien-sustituira-sanchez-psoe-apuesto-cena-b50m_2026032769c6f7f3bfc2456bae1685ac.html",
+    "summary": "El exvicepresidente señala a Óscar Puente como futuro líder socialista y lanza su apuesta en pleno debate televisivo sobre los cambios en el Gobierno",
+    "published": "Fri, 27 Mar 2026 22:36:21 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Barrabés envía al juez Peinado un correo inédito de Begoña Gómez",
-    "link": "https://www.larazon.es/espana/barrabes-envia-juez-peinado-correo-inedito-begona-gomez_2026032769c5ded16b2f883592587e7f.html",
-    "summary": "Con el mail, en el que ella le pide su CV para que participe en el máster, niega su nexo con la cátedra e intenta exonerarse",
-    "published": "Fri, 27 Mar 2026 02:35:13 +0100",
+    "title": "Pablo Crespo, 'número dos’ de la Gürtel, en libertad condicional tras más de 12 años en prisión",
+    "link": "https://www.larazon.es/espana/numero-dos-gurtel-libertad-condicional-mas-12-anos-prision-b50m_2026032769c6efc0bfc2456bae167edb.html",
+    "summary": "Pablo Crespo, exdirigente del PP gallego y figura clave de la trama Gürtel, accede a esta medida tras cumplir dos tercios de su condena y después de más de dos años en tercer grado",
+    "published": "Fri, 27 Mar 2026 22:07:16 +0100",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El Estado Islámico exhibe cadáveres en primera plana para reforzar su presencia en el Sahel",
-    "link": "https://www.larazon.es/espana/estado-islamico-exhibe-cadaveres-primera-plana-reforzar-presencia-sahel_2026032669c5995f83aca52e0e3a94a5.html",
-    "summary": "Utiliza su panfleto semanal para publicar las imágenes de soldados nigerinos asesinados",
-    "published": "Thu, 26 Mar 2026 21:38:55 +0100",
-    "source": "La Razón",
-    "score": 0
-  },
-  {
-    "title": "Arcadi España y las sombras del “Caso Azud”: un pasado oscuro que amenaza al nuevo ministro de Hacienda",
-    "link": "https://www.larazon.es/espana/arcadi-espana-sombras-caso-azud-pasado-oscuro-que-amenaza-nuevo-ministro-hacienda_2026032669c596f06b2f883592584f27.html",
-    "summary": "El pasado político de España vuelve a examinarse tras su llegada a Hacienda, en pleno relevo provocado por la marcha de María Jesús Montero a Andalucía",
-    "published": "Thu, 26 Mar 2026 21:28:32 +0100",
-    "source": "La Razón",
-    "score": 0
-  },
-  {
-    "title": "Felipe González y Juanma Moreno: cuando el entendimiento es posible",
-    "link": "https://www.larazon.es/espana/felipe-gonzalez-juanma-moreno-cuando-entendimiento-posible_2026032669c592db6b2f883592584ad5.html",
-    "summary": "El expresidente del Gobierno participa con el presidente andaluz en un foro en Sevilla sobre la Duquesa de Alba",
-    "published": "Thu, 26 Mar 2026 21:11:07 +0100",
-    "source": "La Razón",
-    "score": 0
-  },
-  {
-    "title": "Liturgia de rodillas",
-    "link": "https://www.20minutos.es/nacional/blogs/1-de-cada10/liturgia-rodillas_6950991_0.html",
-    "summary": "Me pregunto qué diría tu savia si pudiera probarla. Si pudiera inclinarme despacio, con la calma, acercarme sin hacer ruido y acunar con la boca cada una de tus gotas justo antes de que desaparezcan evaporadas por la vida.",
-    "published": "Fri, 27 Mar 2026 07:30:00 +0100",
+    "title": "Euromillones deja un nuevo millonario en España y el bote sube a 71 millones de euros",
+    "link": "https://www.20minutos.es/nacional/euromillones-deja-un-nuevo-millonario-espana-bote-sube-71-millones-euros_6951949_0.html",
+    "summary": "Otro boleto acertante de segunda categoría validado en España ha ganado un premio de 353.647,25 euros.",
+    "published": "Fri, 27 Mar 2026 22:46:45 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Qué hacer si un ave se golpea contra la ventana: el gesto más simple puede salvarle la vida",
-    "link": "https://www.20minutos.es/animaleros/que-hacer-si-un-ave-se-golpea-contra-ventana-gesto-mas-simple-puede-salvarle-vida_6950036_0.html",
-    "summary": "Millones de aves mueren cada año por choques contra cristales invisibles; muchas podrían recuperarse con un protocolo sencillo y adecuado.",
-    "published": "Fri, 27 Mar 2026 07:26:46 +0100",
+    "title": "Cuerpo apuesta por reforzar las relaciones con EEUU en su primera reunión con el nuevo embajador en España",
+    "link": "https://www.20minutos.es/nacional/cuerpo-apuesta-reforzar-relaciones-eeuu-primera-reunion-nuevo-embajador-eeuu-espana_6951945_0.html",
+    "summary": "\"Trabajaremos juntos para proteger el vínculo transatlántico: un activo estratégico que genera prosperidad para trabajadores y empresas a ambos lados del Atlántico\", ha dicho.",
+    "published": "Fri, 27 Mar 2026 22:23:56 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Una vacuna personalizada contra el cáncer diseñada con IA reduce los tumores de una perra: por qué el caso exige cautela",
-    "link": "https://www.20minutos.es/animaleros/una-vacuna-personalizada-contra-cancer-disenada-con-ia-reduce-los-tumores-una-perra-por-que-caso-exige-cautela_6949381_0.html",
-    "summary": "El tratamiento combinó una vacuna de ARN mensajero diseñada a medida y otra inmunoterapia, lo que dificulta aislar su efecto real.",
-    "published": "Fri, 27 Mar 2026 07:23:24 +0100",
+    "title": "Un acertante de la Bonoloto gana el bote de 1,7 millones",
+    "link": "https://www.20minutos.es/nacional/bonoloto-acertantes-ganan-miles-euros-bote-sube-millones_6951944_0.html",
+    "summary": "Otros tres acertantes de segunda categoría han ganado un premio de 60.448,24 euros cada uno.",
+    "published": "Fri, 27 Mar 2026 22:21:32 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Cómo lograr que los niños se impliquen de verdad en el cuidado del perro, según veterinarios y psicólogos",
-    "link": "https://www.20minutos.es/animaleros/perros/como-lograr-que-los-ninos-se-impliquen-verdad-cuidado-perro-segun-veterinarios-psicologos_6941177_0.html",
-    "summary": "Expertos veterinarios y psicólogos recomiendan límites claros, consecuencias coherentes y refuerzo positivo para que los hijos asuman responsabilidades reales.",
-    "published": "Fri, 27 Mar 2026 07:21:02 +0100",
+    "title": "Al menos tres muertos y dos heridos al estrellarse un helicóptero turístico en una playa de Hawái",
+    "link": "https://www.20minutos.es/internacional/muertos-heridos-estrellarse-helicoptero-turistico-playa-hawai_6951943_0.html",
+    "summary": "El helicóptero, de la compañía Airborne Aviation, transportaba un piloto y cuatro pasajeros.",
+    "published": "Fri, 27 Mar 2026 22:17:41 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Trump ordena pagar \"de inmediato\" a los agentes de seguridad ante el caos en los aeropuertos",
-    "link": "https://www.20minutos.es/internacional/trump-ordena-pagar-inmediato-los-agentes-seguridad-ante-caos-los-aeropuertos_6951447_0.html",
-    "summary": "La orden es que se ejecute el pago \"de inmediato\" para hacer frente a la \"situación de emergencia\" y \"detener el caos en los aeropuertos\".",
-    "published": "Fri, 27 Mar 2026 06:57:29 +0100",
+    "title": "El juez pone en libertad a Pablo Crespo, número dos de la trama Gürtel",
+    "link": "https://www.20minutos.es/nacional/juez-pone-libertad-pablo-crespo-numero-dos-trama-gurtel_6951939_0.html",
+    "summary": "Ha cumplido más de dos terceras partes de su condena y la Fiscalía no se ha opuesto a su puesta en libertad.",
+    "published": "Fri, 27 Mar 2026 21:43:36 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Las mejores viñetas de Malagón",
-    "link": "https://www.20minutos.es/nacional/las-mejores-vinetas-malagon_4075913_1.html",
-    "summary": "Todas las viñetas publicadas por Malagón en 20minutos.",
-    "published": "Wed, 08 Oct 2025 13:12:32 +0200",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "La apuesta de Sánchez por Carlos Cuerpo ahonda el choque con Sumar en la recta final de la legislatura",
-    "link": "https://www.20minutos.es/nacional/apuesta-sanchez-por-carlos-cuerpo-ahonda-choque-con-sumar-recta-final-legislatura_6951398_0.html",
-    "summary": "Sánchez sigue reforzando la 'cuota valenciana', en una clara apuesta por esta comunidad como territorio a reconquistar, con el nombramiento de Arcadi España, un perfil orgánico para Hacienda pero con experiencia en dialogar a izquierda y derecha.",
-    "published": "Fri, 27 Mar 2026 05:00:00 +0100",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi España",
-    "link": "https://www.eldiario.es/politica/sanchez-nombra-vicepresidente-carlos-cuerpo-ministro-hacienda-arcadi-espana_1_13101087.html",
-    "summary": "El presidente cubre la salida de María Jesús Montero con el ascenso a vicepresidente económico del hombre que sustituyó hace dos años a Nadia Calviño y da la sorpresa con el nuevo ministro de Hacienda, de la federación socialista valenciana y hasta ahora secretario de estado de Política TerritorialP",
-    "published": "Thu, 26 Mar 2026 17:19:30 +0000",
+    "title": "El Gobierno de Ayuso deberá pronunciarse sobre la construcción de un polígono 'prime' en Valdemoro que amenaza a especies protegidas",
+    "link": "https://www.eldiario.es/politica/ayuso-logistico-prime-especies-protegidas-valdemoro_1_13093277.html",
+    "summary": "Asociaciones denuncian irregularidades en la tramitación del proyecto que acabará con 600.000 metros cuadrados de superficie forestal\nLas otras torres de Madrid que los vecinos repudiaron y Almeida sí aceptó construir: de la Ermita a Cocheras\n        El Gobierno de Isabel D&iacute;az Ayuso deber&aac",
+    "published": "Fri, 27 Mar 2026 21:04:54 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Arcadi España, el discípulo de Ximo Puig que lideró la reforma fiscal de la izquierda en la Generalitat Valenciana",
-    "link": "https://www.eldiario.es/comunitat-valenciana/politica/arcadi-espana-discipulo-ximo-puig-lidero-reforma-fiscal-izquierda-generalitat-valenciana_1_13101349.html",
-    "summary": "El presidente del Gobierno, Pedro Sánchez, sitúa al exconseller valenciano de Hacienda y número dos de Política Territorial al frente del Ministerio que dirige las cuentas públicasSánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi España\n        Arcadi Espa&ntilde;a es pro",
-    "published": "Thu, 26 Mar 2026 17:33:16 +0000",
+    "title": "El exdiputado Serigne Mbaye, tras su detención: \"Los policías vinieron directamente a nosotros súper agresivos y nos empujaron\"",
+    "link": "https://www.eldiario.es/desalambre/exdiputado-serigne-mbaye-detencion-policias-vinieron-directamente-super-agresivos-empujaron_1_13105174.html",
+    "summary": "El activista y secretario de Antirracismo de Podemos fue detenido este jueves acusado de huir de una identificación policial. Serigne Mbaye explica a elDiario.es su versión de los hechos y denuncia que se trata de una intervención policial racistaLa Policía detiene al activista y exdiputado de Podem",
+    "published": "Fri, 27 Mar 2026 20:05:18 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Noelia ya ha muerto: el primer caso de eutanasia impugnada por los ultracatólicos acaba en circo mediático",
-    "link": "https://www.eldiario.es/catalunya/noelia-muerto-primer-caso-eutanasia-impugnada-ultracatolicos-acaba-circo-mediatico_1_13099667.html",
-    "summary": "Al intento de paralizar el derecho de la joven a morir se ha sumado en los últimos días la espectacularización de una causa en la que los expertos consideran que se han cruzado líneas rojasNoelia muere tras casi dos años de batalla legal de los ultras Abogados Cristianos contra su eutanasia\n        ",
-    "published": "Thu, 26 Mar 2026 20:56:57 +0000",
+    "title": "El delegado del Gobierno en Madrid niega racismo en la actuación policial contra Serigne Mbaye",
+    "link": "https://www.eldiario.es/madrid/somos/delegado-gobierno-madrid-niega-racismo-actuacion-policial-serigne-mbaye_1_13105152.html",
+    "summary": "\"Si se apreciara que alguna actuación puntual pudiera haberse apartado de los protocolos establecidos, por supuesto, serán los mecanismos internos y los cauces legalmente previstos los que permitan esclarecer exactamente qué ocurrió y, en su caso, actuar en consecuencia\", afirma Francisco MartínLa P",
+    "published": "Fri, 27 Mar 2026 18:02:31 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Espinosa de los Monteros afirma que Vox le ha abierto expediente para expulsarlo del partido",
-    "link": "https://www.eldiario.es/politica/espinosa-monteros-afirma-vox-le-abierto-expediente-expulsarlo-partido_1_13098971.html",
-    "summary": "Ocurrió, según este exdirigente que tiene el carnet de afiliado número cinco de Vox, dos horas y media después de que Moreno Bonilla convocase las elecciones de Andalucía el lunesEspinosa de los Monteros afirma que Abascal acalla a los dirigentes con “capacidad de liderazgo”: “Busca que no haya nadi",
-    "published": "Thu, 26 Mar 2026 07:54:31 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "La Policía detiene al activista y exdiputado de Podemos Serigne Mbaye en la puerta de su casa",
-    "link": "https://www.eldiario.es/madrid/policia-detiene-activista-exdiputado-serigne-mbaye-puerta-casa_1_13101997.html",
-    "summary": "Tras varias horas en comisaría, ha quedado en libertad durante la madrugada. A su salida, ha denunciado \"persecución y violencia policial\": \"Esto es racismo puro y duro\"\n        La Polic&iacute;a ha detenido este jueves al activista antirracista y exdiputado de Podemos en la Asamblea de Madrid Serig",
-    "published": "Thu, 26 Mar 2026 20:06:15 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "La Fiscalía Europea cita como testigo a Begoña Gómez por los contratos de Red.es adjudicados a Barrabés",
-    "link": "https://www.eldiario.es/politica/fiscalia-europea-cita-testigo-begona-gomez-contratos-red-adjudicados-barrabes_1_13101769.html",
-    "summary": "El empresario recurre el auto por el que Peinado abre la vía del  jurado popular: “No basta con que dos personas se conozcan para admitir la comisión de ilícito alguno”El juez Peinado insiste en llevar a Begoña Gómez ante un jurado popular tras anularse su primer intento\n        El juez Juan Carlos ",
-    "published": "Thu, 26 Mar 2026 20:56:58 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "La Eurocámara da luz verde a las expulsiones de migrantes y los centros de deportación fuera de la UE",
-    "link": "https://www.infolibre.es/union-europea/eurocamara-da-luz-verde-expulsiones-migrantes-centros-deportacion-fuera-ue_1_2168828.html",
-    "summary": "La alianza del Partido Popular europeo con la extrema derecha está a punto de dar la puntilla definitiva a la garantista protección humanitaria que hasta ahora la UE prestaba a refugiados, demandantes de asilo y migrantes en situación irregular. Este jueves la Eurocámara autorizó abrir las negociaci",
-    "published": "Thu, 26 Mar 2026 20:28:42 +0000",
+    "title": "La Comisión de la Verdad sobre el franquismo arranca con 18 meses por delante y el espejo de Argentina y Chile",
+    "link": "https://www.infolibre.es/politica/comision-franquismo-arranca-18-meses-delante-espejo-argentina-chile_1_2168488.html",
+    "summary": "Buenos Aires, 15 de diciembre de 1983. Solo han pasado cinco días desde su llegada a la Casa Rosada. Pero Raúl Alfonsín tiene claro que el pueblo argentino exige verdad y justicia tras siete años de cruenta dictadura. Por eso, ese mismo jueves dicta dos decretos. El primero, pone en marcha la maquin",
+    "published": "Fri, 27 Mar 2026 19:20:10 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El dueño del emporio de marcas de lujo como Louis Vuitton adquiere otro yate a través de paraísos fiscales",
-    "link": "https://www.infolibre.es/mediapart/propietario-emporio-marcas-lujo-louis-vuitton-adquiere-yate-traves-paraisos-fiscales_1_2168443.html",
-    "summary": "Bernard Arnault, director de LVMH, líder mundial del sector del lujo, es el séptimo hombre más rico del mundo, con un patrimonio de unos 150.000 millones de euros, según la revista Forbes. Pero, según él mismo afirma, el hombre más rico de Francia es también un patriota fiscal. En una comparecencia ",
-    "published": "Fri, 27 Mar 2026 05:01:15 +0000",
+    "title": "Montero, detrás de los focos: de la soledad durante la pandemia a las campañas para deshumanizarla",
+    "link": "https://www.infolibre.es/politica/montero-detras-focos-soledad-durante-pandemia-campanas-deshumanizarla_1_2168709.html",
+    "summary": "“Ladran, luego cabalgamos”. María Jesús Montero cerraba así este miércoles su última intervención en la sesión de control en el Congreso como vicepresidenta primera. Yolanda Díaz la abrazaba con fuerza. Y todos los diputados del PSOE y de Sumar se pusieron en pie para aplaudirla. Una ovación larga y",
+    "published": "Fri, 27 Mar 2026 19:20:21 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "La violencia machista deja una mujer asesinada cada semana desde 2003",
-    "link": "https://www.infolibre.es/igualdad/violencia-machista-deja-mujer-asesinada-semana-2003_1_2168445.html",
-    "summary": "Más de una mujer asesinada a manos de su pareja o expareja cada semana. Concretamente, una cada 6,3 días. Es la insoportable realidad que deja tras de sí la violencia machista desde hace más de veinte años, retratada ahora por el Observatorio contra la Violencia Doméstica y de Género, perteneciente ",
-    "published": "Thu, 26 Mar 2026 12:02:25 +0000",
+    "title": "Como toda la vida",
+    "link": "https://www.infolibre.es/opinion/columnas/aspavientos/vida_129_2169399.html",
+    "summary": "Versión palurda de lo de Lutero en Wittenberg: en la puerta de una parroquia de Sagunto, unos zagales han claveteado la única tesis para la que les da la mollera: \"Chicas no\". Trescientos ochenta tíos han dirimido la cuestión con sorprendente resultado: aquí las mujeres no pintan nada. Los cofrades ",
+    "published": "Fri, 27 Mar 2026 19:21:35 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Noelia",
-    "link": "https://www.infolibre.es/opinion/columnas/a-la-escucha/noelia_129_2168557.html",
-    "summary": "Voy a hacer lo que no hay que hacer, escribir una columna de opinión sin tener una opinión. Vomitando aquí con usted todas mis dudas sobre un caso que está ocupando portadas y minutos de televisión. Sí, el caso de Noelia, la chica de 25 años que ha pedido la eutanasia.A esta hora, mediodía del jueve",
-    "published": "Thu, 26 Mar 2026 20:29:07 +0000",
+    "title": "La detención de Mbayé vuelve a aflorar el eterno (y silenciado) problema de las retenciones por perfil racial",
+    "link": "https://www.infolibre.es/politica/detencion-mbaye-vuelve-aflorar-eterno-silenciado-problema-retenciones-perfil-racial_1_2169171.html",
+    "summary": "\"No podemos ir a trabajar. No podemos llevar a nuestros hijos al cole. No podemos volver a nuestra casa. Nos esperan por todas partes\". Quien habla es Serigne Mbayé, exdiputado autonómico y secretario de Antirracismo de Podemos. Lo hace mientras se seca las lágrimas. Y tras abandonar, de madrugada, ",
+    "published": "Sat, 28 Mar 2026 05:01:18 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Las iglesias no eran blancas",
-    "link": "https://www.infolibre.es/opinion/ideas-propias/iglesias-no-blancas_129_2167789.html",
-    "summary": "El Homo sapiens no exterminó al neandertal. Los romanos no eran blancos. Las iglesias no eran de color piedra. Estas son algunas de las falsedades históricas que construyen imaginarios tóxicos al servicio del control social. Un pasado homogéneo, violento y jerárquico hace que el presente homogéneo, ",
-    "published": "Thu, 26 Mar 2026 20:29:21 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Podemos denuncia la detención racista de su exdiputado autonómico Serigne Mbaye",
-    "link": "https://www.infolibre.es/politica/denuncia-detencion-racista-exdiputado-autonomico-serigne-mbaye_1_2168938.html",
-    "summary": "Podemos ha denunciado la detención de su exdiputado en la Asamblea de Madrid y activista antirracista Serigne Mbaye en una \"redada racista\" en la puerta de su domicilio, situado en el distrito de Villaverde (Madrid).La secretaria general de Podemos, Ione Belarra, ha exigido \"la inmediata puesta en l",
-    "published": "Thu, 26 Mar 2026 20:36:38 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Lukashenko regala un fusil de asalto al líder norcoreano Kim Jong Un",
-    "link": "http://es.euronews.com/video/2026/03/27/lukashenko-regala-un-fusil-de-asalto-al-lider-norcoreano-kim-jong-un",
-    "summary": "El presidente bielorruso Alexander Lukashenko y el líder norcoreano Kim Jong Un intercambian regalos durante la visita a Pyongyang: un fusil de asalto y productos bielorrusos por una espada, un jarrón decorado y una moneda conmemorativa de oro.",
-    "published": "Fri, 27 Mar 2026 07:59:58 +0100",
+    "title": "Por qué las personas mayores corren mucho más riesgo por la COVID o la gripe",
+    "link": "http://es.euronews.com/salud/2026/03/28/por-que-las-personas-mayores-corren-mucho-mas-riesgo-por-la-covid-o-la-gripe",
+    "summary": "Una nueva investigación pone de relieve el impacto de la inflamación asociada al envejecimiento, sobre todo por células inmunitarias marcadas por el gen GZMK, detectada primero en personas afectadas por covid grave.",
+    "published": "Sat, 28 Mar 2026 08:00:13 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Fuertes lluvias nocturnas provocan inundaciones y caos en el tráfico y los vuelos en Dubái",
-    "link": "http://es.euronews.com/video/2026/03/27/fuertes-lluvias-nocturnas-provocan-inundaciones-y-caos-en-el-trafico-y-los-vuelos-en-dubai",
-    "summary": "Las intensas lluvias nocturnas inundan las carreteras de Dubái, dejan coches atrapados y trastocan los desplazamientos, mientras las autoridades advierten de nuevas tormentas y retrasos en el aeropuerto de Emiratos Árabes Unidos.",
-    "published": "Fri, 27 Mar 2026 07:45:51 +0100",
+    "title": "Podemos tener un mundo digital mejor, campaña global contra la 'enshitification' en redes",
+    "link": "http://es.euronews.com/next/2026/03/28/podemos-tener-un-mundo-digital-mejor-campana-global-contra-la-enshitification-en-redes",
+    "summary": "Una plataforma se «enshitifica» cuando introduce funciones de pago o suscripciones que empeoran la experiencia del usuario respecto a antes.",
+    "published": "Sat, 28 Mar 2026 07:30:19 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "María Kolésnikova: \"La UE debe hablar ahora con Lukashenko; si no, tendrá que hacerlo con Putin\"",
-    "link": "http://es.euronews.com/2026/03/27/maria-kolesnikova-la-ue-debe-hablar-ahora-con-lukashenko-si-no-tendra-que-hacerlo-con-puti",
-    "summary": "Tras casi cinco años y medio en prisión, la activista opositora bielorrusa María Kolésnikova tiene una clara advertencia para Europa: ve a Bielorrusia cada vez más bajo la influencia rusa. Su llamamiento: hablen con Lukashenko ahora, o pronto tendrán que hacerlo con Putin.",
-    "published": "Fri, 27 Mar 2026 07:44:56 +0100",
+    "title": "Curiosidades de los husos horarios del mundo que muchos viajeros desconocen",
+    "link": "http://es.euronews.com/viajes/2026/03/28/curiosidades-de-los-husos-horarios-del-mundo-que-muchos-viajeros-desconocen",
+    "summary": "Con la llegada inminente del horario de verano europeo, hemos visto una buena ocasión para repasar los husos horarios del planeta entero.",
+    "published": "Sat, 28 Mar 2026 07:00:14 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "La Policía británica dice que reabrirá la investigación por violación y agresión sexual contra Andrew Tate",
-    "link": "http://es.euronews.com/2026/03/27/la-policia-britanica-dice-que-reabrira-la-investigacion-por-violacion-y-agresion-sexual-co",
-    "summary": "La Fiscalía de la Corona (CPS, por sus siglas en inglés), que lleva los casos penales en Inglaterra y Gales, no acusó a la figura de las redes sociales tras la investigación policial inicial en 2019.",
-    "published": "Fri, 27 Mar 2026 07:27:49 +0100",
+    "title": "Orhan Pamuk en el Museo de la Inocencia: \"Creo en el secreto de las cosas\"",
+    "link": "http://es.euronews.com/cultura/2026/03/28/orhan-pamuk-en-el-museo-de-la-inocencia-creo-en-el-secreto-de-las-cosas",
+    "summary": "En una entrevista exclusiva en la casa de Çukurcuma, que el Premio Nobel de Literatura Orhan Pamuk convirtió en museo, hablamos del poder de los objetos para traer recuerdos, del carácter impactante del coleccionismo y del legado del museo como memoria de la ciudad para el futuro.",
+    "published": "Sat, 28 Mar 2026 05:00:32 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Los países despliegan cada vez más armas nucleares y crecen sus arsenales",
-    "link": "http://es.euronews.com/2026/03/27/los-paises-despliegan-cada-vez-mas-armas-nucleares-advierten-los-observadores-internaciona",
-    "summary": "Casi todos los nueve Estados poseedores de armas nucleares han empezado a aumentar sus arsenales o han anunciado planes para hacerlo, según los autores del informe anual Nuclear Weapons Ban Monitor.",
-    "published": "Fri, 27 Mar 2026 07:22:46 +0100",
+    "title": "El nuevo complejo Imam al Bujari en Samarcanda abre para recibir hasta 65.000 visitantes al día",
+    "link": "http://es.euronews.com/cultura/2026/03/28/el-nuevo-complejo-imam-al-bujari-abre-para-recibir-hasta-65000-visitantes-al-dia",
+    "summary": "El recinto cuenta con una mezquita, un museo y servicios organizados para visitantes, pensados para gestionar una elevada afluencia diaria, y se han mejorado tanto el alojamiento como las infraestructuras de transporte para facilitar el acceso.",
+    "published": "Sat, 28 Mar 2026 03:00:51 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Las herramientas de IA pueden distorsionar el juicio de los usuarios al darles tanta razón",
-    "link": "http://es.euronews.com/next/2026/03/27/herramientas-ia-pueden-distorsionar-juicio-de-los-usuarios-al-darles-tanta-razon",
-    "summary": "Según el estudio, incluso una breve interacción con un chatbot adulador puede \"distorsionar el juicio de una persona\" y reducir su disposición a disculparse o intentar reparar sus relaciones.",
-    "published": "Fri, 27 Mar 2026 07:00:29 +0100",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "Santander anticipa una mejora del beneficio este año pese a la crisis en Irán",
-    "link": "https://www.expansion.com/empresas/banca/2026/03/27/69c62db2e5fdea3f2f8b458d.html",
-    "summary": "El banco somete este viernes a aprobación de su junta la ampliación de capital de en torno al 2% para articular la compra de Webster.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 08:34:10 +0100",
+    "title": "Doce valores todoterreno para invertir ahora",
+    "link": "https://www.expansion.com/mercados/2026/03/27/69c6d0d5e5fdea25158b4572.html",
+    "summary": "Cinco compañías de la Bolsa española y siete internacionales son consideradas valores todoterreno aptas para navegar en distintos ciclos. Dan \"estabilidad\" a medio plazo a la cartera, ya que suelen comportarse razonablemente en casi cualquier entorno económico.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:54:01 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Santander absorberá Webster y TSB a pulmón para adelgazar su plan de financiación",
-    "link": "https://www.expansion.com/empresas/banca/2026/03/27/69ba9f52468aebb53f8b45eb.html",
-    "summary": "El banco emitirá más de 50.000 millones de euros en deuda hasta 2028 y su intención es gestionar las adquisiciones para que no impacten en la necesidad de fondos.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 02:48:56 +0100",
+    "title": "Iberia, Vueling y Ryanair proyectan un verano récord pendientes de Irán",
+    "link": "https://www.expansion.com/empresas/2026/03/27/69c6f3ace5fdea39748b457f.html",
+    "summary": "Las principales aerolíneas que operan en España elevarán su capacidad en la temporada alta, que comienza mañana, con incrementos que llegan hasta el 48% en el caso de la húngara Wizz Air.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:54:30 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "La Primera de Expansión sobre Cuerpo, Santander, Asterion, Trump, Irán y China",
-    "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/03/27/69c61681468aebb22f8b45a3.html",
-    "summary": "Pedro Sánchez remodela el Gobierno. Tras la salida de Maria Jesús Montero, nombra a Carlos Cuerpo vicepresidente primero y a Arcadi España ministro de Hacienda.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 07:23:01 +0100",
+    "title": "Así gestiona su fortuna Vicente Boluda",
+    "link": "https://www.expansion.com/valencia/2026/03/27/69c69e56e5fdea6e2b8b459d.html",
+    "summary": "Boluda tiene la mayor remolcadora marítima del mundo, terminales en puertos de todos los continentes y hasta trenes. Es menos conocido su negocio alimentario con el nombre de la familia materna.&nbsp;Leer",
+    "published": "Sat, 28 Mar 2026 00:14:44 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "La 'paradoja Grifols': por qué la Bolsa recela de su milmillonario salto a Wall Street",
-    "link": "https://www.expansion.com/mercados/2026/03/26/69c53d98e5fdea3a0c8b45a5.html",
-    "summary": "La cotización de la farmacéutica no reacciona aunque su filial estadounidense puede valer más que todo el grupo.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 20:45:26 +0100",
+    "title": "El euríbor podría moverse entre el 2,18% y el 2,7% hasta 2027",
+    "link": "https://www.expansion.com/empresas/banca/2026/03/27/69c6f81f468aebee618b4599.html",
+    "summary": "El índice hipotecario se toma un descanso tras rozar el 3% en tipo diario.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:57:06 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Asterion e Inveready ultiman crear una de las mayores 'fiberco' de España",
-    "link": "https://www.expansion.com/empresas/tecnologia/2026/03/27/69c5a84f468aebc2398b45ad.html",
-    "summary": "Los dos fondos agruparán activos de fibra óptica para crear un vehículo que ofrezca cobertura a unos 3,6 millones de hogares con cerca de 400.000 clientes.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 02:48:57 +0100",
+    "title": "La 'villa medieval' en París donde Deloitte forma a sus trabajadores",
+    "link": "https://www.expansion.com/empresas/2026/03/27/69c6dd49468aeb66458b4584.html",
+    "summary": "La firma instruye a sus empleados de 32 países en liderazgo, gestión o negociación. La rotación entre quienes acuden a los cursos es cuatro veces menor.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:57:54 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "El Ibex tantea los 17.000",
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/03/27/69c6288ae5fdeac5738b4593.html",
-    "summary": "La prórroga de diez días anunciada por Trump en el ultimátum lanzado a Irán aplaca las caídas en Bolsa. El petróleo, tras las subidas de ayer, amaga con movimientos más reducidos. Esta minitregua abre la puerta al rebote en índices como el Ibex, que vuelve a buscar los 17.000 puntos.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 08:24:52 +0100",
+    "title": "El supermercado de activos digitales disponible en España",
+    "link": "https://www.expansion.com/mercados/criptomonedas/2026/03/27/69c6d595e5fdea867e8b457b.html",
+    "summary": "Los inversores españoles tienen cada vez un catálogo más amplio para invertir en criptomonedas y fondos de inversión 'cripto', con más regulación.&nbsp;Leer",
+    "published": "Fri, 27 Mar 2026 23:59:49 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Cuatro errores que deben evitar los inversores",
-    "link": "https://www.expansion.com/mercados/2026/03/27/69c5bac2468aebc53b8b45a8.html",
-    "summary": "La firma dice que es un error esperar subidas de tipos y asegura que en breve se demostrará que fue buena idea comprar en las caídas.&nbsp;Leer",
-    "published": "Fri, 27 Mar 2026 00:40:41 +0100",
+    "title": "Hay miedo, pero no pánico",
+    "link": "https://www.expansion.com/mercados/2026/03/28/69b7db91468aeb83618b457c.html",
+    "summary": "La perforación de los mínimos del lunes en las bolsas europeas puede acelerar las caídas.&nbsp;Leer",
+    "published": "Sat, 28 Mar 2026 00:00:12 +0100",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "La herencia de Montero: cinco retos para Arcadi España como ministro de Hacienda",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c58989468aebe0778b457e.html",
-    "summary": "Tras tomar las riendas del Ministerio de Hacienda, Arcadi España deberá hacer frente a numerosos asuntos que su predecesora no concluyó, como los Presupuestos Generales del Estado o la reforma de la financiación autonómica.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 21:41:24 +0100",
+    "title": "María Jesús no supo decir no",
+    "link": "https://www.expansion.com/opinion/2026/03/28/69c6e4b9e5fdea14258b4573.html",
+    "summary": "Le ha recordado María Jesús Montero a Arcadi España, su sustituto en Hacienda, que para ser ministro del ramo hay que tener empatía, inteligencia para comprender lo que se tiene delante, capacidad negociadora y, sobre todo, capacidad para decir que no, cuando llega el momento.&nbsp;Leer",
+    "published": "Sat, 28 Mar 2026 00:06:50 +0100",
     "source": "Expansión Economía",
     "score": 0
   },
   {
-    "title": "Arcadi España, un perfil técnico con recorrido en el PSOE para Hacienda",
-    "link": "https://www.expansion.com/economia/politica/2026/03/26/69c59968468aebf8238b45a0.html",
-    "summary": "Sánchez elige para el relevo de Montero al frente del Ministerio de Hacienda un perfil que combina la experiencia en la gestión económica y territorial con una dilatada carrera política.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 21:39:42 +0100",
+    "title": "Gobierno y sindicatos pactan reducir a 35 horas la jornada de los funcionarios del Estado",
+    "link": "https://www.expansion.com/economia/funcion-publica/2026/03/27/69c65fa5468aeb46338b4577.html",
+    "summary": "La jornada laboral en la Administración General del Estado (AGE) pasará de las actuales 37,5 a las 35 horas semanales, según un acuerdo alcanzado hoy con los sindicatos por el Ministerio de la Función Pública, que dictará \"en la primera quincena de abril\" una resolución para ponerla en marcha.&nbsp;",
+    "published": "Fri, 27 Mar 2026 11:44:56 +0100",
     "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "Sánchez comparece esta tarde para anunciar los cambios en el Gobierno por la salida de Montero",
-    "link": "https://www.expansion.com/economia/2026/03/26/69c56144e5fdea3f2f8b456f.html",
-    "summary": "El presidente del Gobierno, Pedro Sánchez, comparecerá este jueves a las 18:00 horas en el Palacio de la Moncloa para informar de los cambios en el Ejecutivo provocados por la salida de María Jesús Montero.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 17:39:34 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "Apuesta inversora por el diálogo EEUU-Irán",
-    "link": "https://www.expansion.com/opinion/2026/03/26/69c51774468aeb0b0c8b4583.html",
-    "summary": "Los mercados se anotan nuevas subidas pese al rechazo de Irán al plan de paz de Trump.&nbsp;Leer",
-    "published": "Thu, 26 Mar 2026 12:24:47 +0100",
-    "source": "Expansión Economía",
-    "score": 0
-  },
-  {
-    "title": "Spain's brown bear population grows above 400",
-    "link": "https://www.thelocal.es/20260326/spains-brown-bear-population-grows-above-400",
-    "summary": "Conservation measures have helped the Spanish brown bear population go from 70 three decades ago to more than 400 currently, with the animals now venturing into areas where they hadn't been seen in more than a century.",
-    "published": "Thu, 26 Mar 2026 15:14:46 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Q&A: Who will win Andalusia's elections and why does it matter for Spain?",
-    "link": "https://www.thelocal.es/20260326/qa-who-will-win-andalusias-elections-and-why-does-it-matter-for-spain",
-    "summary": "Voters in Spain's most populous region are set to head to the polls in a few weeks. But who's running, what do the polls say, and what could the results of Andalusia's regional election mean for national politics?",
-    "published": "Thu, 26 Mar 2026 11:20:48 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "What are the best cities in Spain to see the Semana Santa processions?",
-    "link": "https://www.thelocal.es/20230321/best-cities-in-spain-to-see-the-semana-santa-processions",
-    "summary": "Semana Santa or Holy Week is held in Spain during the run-up to Easter Sunday. Celebrations and parades take place all over the country, but there are some cities that go all out.",
-    "published": "Tue, 21 Mar 2023 13:16:41 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "'Mi más sentido pésame': How to express condolences in Spanish",
-    "link": "https://www.thelocal.es/20260325/how-to-express-condolences-in-spanish",
-    "summary": "When someone passes away, it's hard enough to find the right words to express your condolences in English, let alone in Spanish. Here are some suitable phrases in Spanish to help you out.",
-    "published": "Wed, 25 Mar 2026 14:43:05 +0100",
-    "source": "The Local ES",
     "score": 0
   }
 ]

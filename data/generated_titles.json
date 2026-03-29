@@ -1,14 +1,14 @@
 [
   {
     "title": "西班牙物价新动态",
-    "original_title": "La guerra empieza en el gas y termina en tu plato",
+    "original_title": "El coste económico de la guerra",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/plaza-publica/guerra-empieza-gas-termina-plato_129_2166245.html",
-      "summary": "La agricultura moderna tiene un talón de Aquiles del que casi no hablamos: los fertilizantes fabricados a partir del petróleo y, sobre todo, del gas natural. Cuando estallan guerras en las zonas que c"
+      "url": "https://www.infolibre.es/opinion/plaza-publica/coste-economico-guerra_129_2169097.html",
+      "summary": "Las medidas aprobadas por el Gobierno para afrontar las consecuencias económicas de la guerra en Irán tienen, en lo fundamental, un carácter coyuntural, que da una respuesta inicial a un precio del ba"
     },
-    "category": "战争风险",
-    "date": "2026-03-28"
+    "category": "伊朗局势",
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙通胀新动态",
@@ -19,18 +19,18 @@
       "summary": "El Índice de Precios del Consumo (IPC) subió hasta el 3,3% en marzo, un punto más que el mes anterior (2,3%) y su valor más alto desde junio de 2024, por la subida de los carburantes derivada del conf"
     },
     "category": "伊朗局势",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
-    "title": "西班牙经济新动态",
-    "original_title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa factura a la economía española",
+    "title": "西班牙奖学金新动态",
+    "original_title": "El Gobierno deja fuera de las becas completas de educación a 380.000 jóvenes que viven en riesgo de pobreza",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/inflacion-crecimiento-mes-guerra-oriente-medio-le-pasa-factura-economia-espanola_1_13105074.html",
-      "summary": "Las medidas anticrisis han amortiguado ligeramente el dato de inflación de marzo, el primero de toda la zona euro. La primera ola de previsiones económicas ha sido unánime: la economía española crecer"
+      "url": "https://www.eldiario.es/sociedad/gobierno-deja-fuera-becas-completas-educacion-380-000-jovenes-viven-riesgo-pobreza_1_13102705.html",
+      "summary": "Año tras año, el límite que marca quien puede recibir una beca completa, que incluye aportaciones económicas directas, se fija por debajo del umbral de la pobreza, lo que deja a cientos de miles de jó"
     },
-    "category": "战争风险",
-    "date": "2026-03-28"
+    "category": "留学",
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙通胀飙升",
@@ -41,29 +41,7 @@
       "summary": "La Unión Europea se acerca peligrosamente a la pesadilla económica de bajo crecimiento y alta inflación por el conflicto provocado por Estados Unidos e Israel con sus bombardeos contra Irán y la expan"
     },
     "category": "伊朗局势",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Carlos Cuerpo y Yolanda Díaz: la tensión política entre el PSOE y Sumar escala a las vicepresidencias",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/carlos-cuerpo-yolanda-diaz-tension-politica-psoe-sumar-escala-vicepresidencias_1_13103628.html",
-      "summary": "Sánchez se mantiene impasible a los focos de conflicto de sus socios con el ministro de Economía e incluso a algunos recelos en sus propias filas con el ascenso fulgurante de un perfil técnico como Cu"
-    },
-    "category": "居留",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "西班牙战争风险下降",
-    "original_title": "Las televisiones privadas declaran la guerra a RTVE presionadas por un mercado publicitario a la baja",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/televisiones-privadas-declaran-guerra-rtve-presionadas-mercado-publicitario-baja_1_2169122.html",
-      "summary": "La Unión de Televisiones Comerciales en Abierto (UTECA), que agrupa a Atresmedia, Mediaset España y otros operadores privados de la Televisión Digital Terrestre, ha enviado un requerimiento formal a R"
-    },
-    "category": "战争风险",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙政策新动态",
@@ -74,29 +52,40 @@
       "summary": "La Seguridad Social destinó en el presente mes de marzo la cifra récord de 14.307,7 millones de euros al pago de la nómina ordinaria mensual de las pensiones contributivas, un 6% más que en igual mes "
     },
     "category": "政策",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙战争风险新动态",
-    "original_title": "RTVE acusa a las televisiones privadas de intentar desacreditarla y defiende los patrocinios del Mundial",
+    "original_title": "Spain's economy faces 'significant slowdown' due to Middle East war",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/rtve-acusa-teles-privadas-lanzar-campana-descredito-cadena-publica-defiende-publicidad-mundial-legal_1_2169390.html",
-      "summary": "La guerra entre las televisiones privadas y RTVE por la publicidad del Mundial de Fútbol 2026 ha escalado en pocas horas. Apenas un día después de que la patronal de las cadenas comerciales, UTECA, en"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260327/spains-annual-inflation-rises-in-march-due-to-higher-fuel-costs",
+      "summary": "Spain’s economy could face a \"significant slowdown\" due to the Middle East war, the Bank of Spain said on Friday, although it still predicts growth of 2.3 percent in 2026."
     },
     "category": "战争风险",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
-    "title": "西班牙学生新动态",
-    "original_title": "Música clásica en vivo ayuda a estudiantes de Ámsterdam a concentrarse en exámenes",
+    "title": "西班牙通胀下降",
+    "original_title": "Esto dicen los datos sobre qué hogares se benefician más de la rebaja de impuestos a los combustibles",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/03/28/musica-clasica-en-vivo-ayuda-a-estudiantes-de-amsterdam-a-concentrarse-en-examenes",
-      "summary": "Organizadas por la asociación juvenil del Concertgebouw, estas sesiones buscan ayudar a los estudiantes a concentrarse y acercar la música clásica al público más joven."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/dicen-datos-hogares-benefician-rebaja-impuestos-combustibles_1_13104143.html",
+      "summary": "Los hogares con más ingresos disponibles, que son también los que más consumen en carburantes, pueden ahorrar unos 25€ de media al mes, frente a unos 9€ de media en el caso de las familias con rentas "
     },
-    "category": "留学",
-    "date": "2026-03-28"
+    "category": "税务",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Europa queda varada en tierra de nadie ante la guerra de Irán",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/europa-queda-varada-tierra-nadie-guerra-iran_1_13101276.html",
+      "summary": "Aunque los países europeos definieron su posición en el conflicto de Oriente Medio con un claro \"esta no es nuestra guerra\", mantienen un silencioso apoyo logístico a EEUU, y se debate qué hacer para "
+    },
+    "category": "伊朗局势",
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙物价飙升",
@@ -107,7 +96,7 @@
       "summary": "La subida de los carburantes impacta en el Índice de Precios de Consumo en marzo, que espera mayores incrementos en los próximos meses por el alza de los alimentos y la electricidad. Las alzas del cru"
     },
     "category": "油价",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙战争风险新动态 (1)",
@@ -118,50 +107,61 @@
       "summary": "La Guerra del Golfo, versión 2026, propaga severos daños colaterales a la Alianza Atlántica, divide a los del 'America First', fractura la fachada de unión que Bruselas se esfuerza por mostrar y penal"
     },
     "category": "战争风险",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "Comprar una casa por 300.000 euros y acabar pagando 500.000: el precio real de adquirir una vivienda",
+    "title": "西班牙经济新动态",
+    "original_title": "Larry Fink, presidente de BlackRock y el hombre más poderoso del mercado: “La economía mundial entrará en recesión si la guerra en Irán se alarga más de un año”",
     "source": {
       "name": "El País",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-03-28/comprar-una-casa-por-300000-euros-y-acabar-pagando-500000-el-precio-real-de-adquirir-una-vivienda.html",
-      "summary": "La sobrevaloración de la vivienda como activo seguro y el cálculo incorrecto de todos los costes puede llevar a rentabilidades escasas e incluso nulas"
+      "url": "https://elpais.com/economia/negocios/2026-03-28/larry-fink-presidente-de-blackrock-y-el-hombre-mas-poderoso-del-mercado-si-la-guerra-en-iran-se-alarga-mas-de-un-ano-la-economia-mundial-entrara-en-recesion.html",
+      "summary": "“España es una esperanza para Europa”, dice en una entrevista exclusiva con EL PAÍS el responsable de la mayor gestora de fondos del mundo con un patrimonio total de 14 billones de dólares"
     },
-    "category": "租房",
-    "date": "2026-03-28"
-  },
-  {
-    "title": "西班牙战争风险新动态 (2)",
-    "original_title": "Militares en Líbano: «Nos llaman solo para ver si su hijo está bien»",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/militares-libano-nos-llaman-solo-ver-hijo-esta-bien_2026032869c6b5aa83aca52e0e3bef32.html",
-      "summary": "No se descarta un ataque sobre el contingente español al estar entre fuego cruzado por dos fuerzas en conflicto"
-    },
-    "category": "战争风险",
-    "date": "2026-03-28"
+    "category": "伊朗局势",
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Comprobar cuponazo ONCE: resultados de hoy, viernes 27 de marzo de 2026",
+    "original_title": "Lotería Nacional de hoy sábado 28 de marzo de 2026: resultados y premios",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/comprobar-cuponazo-once-resultados-hoy-viernes-27-marzo-2026_6951921_0.html",
-      "summary": "Comprueba los resultados del Cuponazo de la ONCE del viernes 27 de marzo de 2026."
+      "url": "https://www.20minutos.es/nacional/loteria-nacional-hoy-sabado-28-marzo-2026-directo-resultados-premios_6952009_6.html",
+      "summary": "Última hora del sorteo de la Lotería Nacional de este sábado, que pone en juego 42 millones de euros en premios."
     },
     "category": "政策",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
+  },
+  {
+    "title": "西班牙居留推出",
+    "original_title": "Carlos Cuerpo y Yolanda Díaz, dos enfoques económicos frente a frente en las vicepresidencias",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia/carlos-cuerpo-yolanda-diaz-enfoques-economicos-vuelven-batir-vicepresidencia_1_2169219.html",
+      "summary": "La salida de María Jesús Montero de la Vicepresidencia Primera y del Ministerio de Hacienda para presentarse como candidata socialista en Andalucía ha propiciado que Carlos Cuerpo, actual ministro de "
+    },
+    "category": "居留",
+    "date": "2026-03-29"
+  },
+  {
+    "title": "西班牙政策新规",
+    "original_title": "La 'Patrulla canina', 'Pokémon' y LEGO, los destinos turísticos del juguete que abren en 2026",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/viajes/2026/03/29/paw-patrol-pokemon-y-lego-los-grandes-destinos-turisticos-del-juguete-que-abren-en-2026",
+      "summary": "Analizamos los mejores destinos para los aficionados a los juguetes este año, desde una gala en LEGOLAND Windsor Resort, en el Reino Unido, hasta un nuevo parque de Pokémon en Japón."
+    },
+    "category": "政策",
+    "date": "2026-03-29"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "Comprobar Bonoloto: resultados de hoy, viernes 27 de marzo de 2026",
+    "original_title": "Últimas noticias | 29 marzo 2026 - Mañana",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-viernes-27-marzo-2026_6951919_0.html",
-      "summary": "Comprueba los resultados de la Bonoloto del viernes 27 de marzo de 2026."
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/03/29/ultimas-noticias-29-marzo-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 29 marzo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   }
 ]

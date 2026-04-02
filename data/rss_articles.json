@@ -1,33 +1,33 @@
 [
   {
-    "title": "El mapa del precio de la gasolina tras la rebaja de impuestos: caídas de 15 y 25 céntimos por litro",
-    "link": "https://www.eldiario.es/economia/mapa-precio-gasolinera-espana-subidas-guerra-iran-eeuu_1_13035280.html",
-    "summary": "Comparamos el precio del diésel, gasolina 95 y gasolina 98 de más de 12.000 estaciones de servicio en todo el territorio ante la subida de precios por el conflicto en Oriente Medio. Busca la tuya en el mapa y compara con el resto de gasolineras de tu zona Las gasolineras empiezan a subir precios tra",
-    "published": "Wed, 25 Mar 2026 08:00:00 +0000",
-    "source": "elDiario",
-    "score": 6
-  },
-  {
-    "title": "\"No volveremos a la normalidad\": La UE advierte de que los precios del petróleo y el gas no bajarán con el fin de la guerra",
-    "link": "http://es.euronews.com/business/2026/04/01/ue-advierte-precios-petroleo-gas-no-bajaran",
-    "summary": "La Unión Europea ha advertido de que los precios de la energía no bajarán pronto, aunque termine la guerra de Irán, citando la presión sobre el suministro de combustible y los apuros de los mercados mundiales, mientras prepara medidas para prestar apoyo a hogares y empresas.",
-    "published": "Wed, 01 Apr 2026 08:02:22 +0200",
-    "source": "Euronews ES",
-    "score": 5
-  },
-  {
-    "title": "Italia y Francia siguen a España y amplían sus vetos a las operaciones militares de EEUU en su territorio",
-    "link": "https://www.infolibre.es/union-europea/italia-francia-siguen-espana-amplian-vetos-operaciones-militares-eeuu-territorio_1_2171188.html",
-    "summary": "“Las Fuerzas Armadas de Estados Unidos no necesitan ayuda de España ni de nadie más” para cumplir los objetivos de la guerra emprendida contra Irán. La Casa Blanca responde al Gobierno español por el cierre del espacio aéreo a los aviones estadounidenses que participan en ese conflicto y presume sob",
-    "published": "Tue, 31 Mar 2026 18:55:23 +0000",
-    "source": "InfoLibre",
+    "title": "Trump pide paciencia a un público cansado de una guerra que “está a punto de acabar”",
+    "link": "https://elpais.com/internacional/2026-04-02/trump-pide-paciencia-a-un-publico-cansado-sobre-una-guerra-que-esta-a-punto-de-acabar.html",
+    "summary": "El estrecho de Ormuz, cerrado por Irán, se abrirá “naturalmente” cuando concluya el conflicto “en dos o tres semanas”, pronostica el presidente de Estados Unidos, que amenaza con “golpear duramente” al adversario en ese plazo",
+    "published": "Thu, 02 Apr 2026 02:23:19 GMT",
+    "source": "El País",
     "score": 4
   },
   {
-    "title": "La inflación de la eurozona repunta al 2,5% en marzo por el impacto de la guerra",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cb921ce5fdeaef138b45b1.html",
-    "summary": "La inflación de la eurozona repuntó seis décimas en marzo, hasta una tasa interanual del 2,5%, debido principalmente al encarecimiento de los precios de la energía como consecuencia de la guerra en Oriente Medio, según el dato preliminar publicado este martes por Eurostat.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 11:21:34 +0200",
+    "title": "15 detenidos en España por estafar casi 200.000 euros y más de 18.000 litros de diésel",
+    "link": "http://es.euronews.com/2026/04/02/15-detenidos-en-espana-por-estafar-casi-200000-euros-y-mas-de-18000-litros-de-diesel",
+    "summary": "La Guardia Civil ha desarticulado una organización criminal que operó entre julio y noviembre de 2025 en Almería, Alicante y Murcia. 15 detenidos, 18.000 litros de gasoil incautados y un fraude que supera los 196.000 euros.",
+    "published": "Thu, 02 Apr 2026 09:39:18 +0200",
+    "source": "Euronews ES",
+    "score": 4
+  },
+  {
+    "title": "Trump promete \"terminar pronto el trabajo\" en su ofensiva contra Irán",
+    "link": "http://es.euronews.com/2026/04/02/trump-promete-terminar-pronto-el-trabajo-en-su-ofensiva-contra-iran",
+    "summary": "En su primer mensaje en 'prime time', el presidente de Estados Unidos asegura que la victoria está cerca tras 32 días de conflicto. Pese al mensaje del Gobierno, el crudo sube un 4% y la tensión crece en el Golfo mientras los ataques alcanzan bases de EE.UU. e Israel.",
+    "published": "Thu, 02 Apr 2026 09:19:39 +0200",
+    "source": "Euronews ES",
+    "score": 4
+  },
+  {
+    "title": "La industria española sufre por la guerra en Irán: caen la producción y el empleo",
+    "link": "https://www.expansion.com/economia/2026/04/02/69cd65d3e5fdeacb1d8b456d.html",
+    "summary": "El sector manufacturero español acusó el mes pasado el impacto del conflicto en Oriente Próximo: la actividad fabril se contrajo, disminuyeron los nuevos pedidos y se recortaron plantillas.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 01:46:05 +0200",
     "source": "Expansión Economía",
     "score": 4
   },
@@ -40,194 +40,146 @@
     "score": 4
   },
   {
-    "title": "Los inversores se dejan llevar por la euforia: el Ibex se dispara más del 2,5% y el petróleo cotiza por debajo de 100 dólares el barril",
-    "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-01/la-bolsa-y-el-ibex-35.html",
-    "summary": "El optimismo por el posible fin del conflicto en Oriente Próximo se deja sentir en los mercados tras las últimas declaraciones de Trump",
-    "published": "Wed, 01 Apr 2026 08:07:50 GMT",
+    "title": "El falso giro social de Vox en vivienda tras el ascenso de Quero: viejas recetas y la misma xenofobia",
+    "link": "https://www.infolibre.es/politica/falso-giro-social-vox-vivienda-ascenso-quero-viejas-recetas-xenofobia_1_2171101.html",
+    "summary": "La vivienda nunca ha estado entre las prioridades de Vox. El partido ultraderechista liderado por Santiago Abascal está más cómodo con temas como la inmigración, la seguridad, la natalidad, las bajadas de impuestos, el campo o la unidad nacional. Pero la crisis habitacional, la subida de los alquile",
+    "published": "Thu, 02 Apr 2026 04:01:16 +0000",
+    "source": "InfoLibre",
+    "score": 3
+  },
+  {
+    "title": "Antisanchismo: la obsesión que descarrila al PP",
+    "link": "https://www.infolibre.es/opinion/columnas/segunda-vuelta/antisanchismo-obsesion-descarrila-pp_129_2171711.html",
+    "summary": "El antisanchismo más que una estrategia es una obsesión desmedida. Y, como todos los excesos, resulta más contraproducente para quien lo padece. Desde el ‘No a la guerra’ del Gobierno por el conflicto en Irán, el PP reacciona tarde y mal, rectifica a remolque de los acontecimientos y, por oponerse a",
+    "published": "Wed, 01 Apr 2026 18:50:39 +0000",
+    "source": "InfoLibre",
+    "score": 3
+  },
+  {
+    "title": "El PMI manufacturero de España se contrajo en marzo por la guerra de Irán",
+    "link": "https://www.expansion.com/economia/2026/04/01/69ccd965468aebbe358b456e.html",
+    "summary": "El dato de la zona euro siguió al alza y registró máximos desde mediados de 2022, a pesar del conflicto.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 10:37:59 +0200",
+    "source": "Expansión Economía",
+    "score": 3
+  },
+  {
+    "title": "Israel raciona misiles interceptores ante el riesgo de caer en una guerra de desgaste con Irán",
+    "link": "https://elpais.com/internacional/2026-04-02/israel-raciona-misiles-interceptores-ante-el-riesgo-de-caer-en-una-guerra-de-desgaste-con-iran.html",
+    "summary": "El ejército utiliza sistemas más baratos y accesibles para derribar proyectiles, con resultado desigual. Los expertos señalan la importancia de su uso eficiente y de destruir las lanzaderas",
+    "published": "Thu, 02 Apr 2026 03:30:01 GMT",
     "source": "El País",
-    "score": 3
+    "score": 2
   },
   {
-    "title": "La traición gallega de Feijóo",
-    "link": "https://elpais.com/opinion/2026-04-01/la-traicion-gallega-de-feijoo.html",
-    "summary": "Si todas las solicitudes de asilo y los permisos de residencia viniesen redactados con la convicción poética de Álvaro Cunqueiro, no habría leyes migratorias ni muros ni deportaciones ni garitas fronterizas",
-    "published": "Wed, 01 Apr 2026 03:30:01 GMT",
-    "source": "El País",
-    "score": 3
-  },
-  {
-    "title": "El ganador de esta guerra",
-    "link": "https://www.lavanguardia.com/opinion/20260401/11503611/ganador-guerra.html",
-    "summary": "Putin puede beneficiarse todavía más de las consecuencias del conflicto en Irán",
-    "published": "01 Apr 2026 00:05:00 +0200",
-    "source": "La Vanguardia",
-    "score": 3
-  },
-  {
-    "title": "La recaudación por impuestos se dispara hasta un nuevo récord de 325.000 millones",
-    "link": "https://www.lavanguardia.com/economia/20260401/11503584/recaudacion-impuestos-dispara-nuevo-record-325-000-millones.html",
-    "summary": "España redujo el déficit al 2,2% del PIB en 2025, el mínimo desde hace 18 años",
-    "published": "01 Apr 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 3
-  },
-  {
-    "title": "Guerra en Irán, en directo | Trump prevé que la guerra terminará \"en dos semanas\" y afirma que Irán ya no tiene armas nucleares",
-    "link": "https://www.20minutos.es/internacional/guerra-iran-directo-trump-preve-que-guerra-terminara-dos-semanas-afirma-que-iran-ya-no-tiene-armas-nucleares_6953273_6.html",
-    "summary": "Última hora de la guerra de EEUU e Israel contra Irán y la extensión del conflicto a Oriente Medio.",
-    "published": "Wed, 01 Apr 2026 07:18:30 +0200",
-    "source": "20 Minutos",
-    "score": 3
-  },
-  {
-    "title": "Trump dice que Estados Unidos podría terminar la guerra de Irán “en dos o tres semanas”",
-    "link": "https://www.eldiario.es/internacional/trump-dice-estados-unidos-terminar-guerra-iran-tres-semanas_1_13113689.html",
-    "summary": "El presidente de EEUU se dirigirá a la nación este miércoles por la noche después de afirmar que Washington abandonaría \"muy pronto\" el conflictoBases y espacio aéreo vetado: el pulso de Europa con Trump se acrecienta ante la falta de planes para acabar con la guerra\n\n        Donald Trump ha asegura",
-    "published": "Wed, 01 Apr 2026 05:17:47 +0000",
-    "source": "elDiario",
-    "score": 3
-  },
-  {
-    "title": "Los valores del Ibex con más potencial tras un mes de guerra en Irán",
-    "link": "https://www.expansion.com/mercados/2026/03/31/69cbcc2be5fdea1c288b4574.html",
-    "summary": "El conflicto en Oriente Medio ha lastrado las principales Bolsas del mundo y el Ibex 35 no ha sido una excepción. El selectivo español ha saldado marzo con una caída del 7,14%.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 18:21:25 +0200",
-    "source": "Expansión",
-    "score": 3
-  },
-  {
-    "title": "Repsol y Enagás brillan en el peor mes del Ibex desde 2022",
-    "link": "https://www.expansion.com/mercados/2026/03/31/69cbfcbae5fdeafe698b4592.html",
-    "summary": "El índice baja el 7,14% en marzo y rompe con ocho meses al alza. Las petroleras lideran las subidas en un mes marcado por las caídas debido al conflicto bélico en Irán. La petrolera española se anota un 29,63%, mientras que Indra y ArcelorMittal bajan más del 20% y son los peores del Ibex.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 00:23:21 +0200",
-    "source": "Expansión",
-    "score": 3
-  },
-  {
-    "title": "La recaudación de impuestos se dispara un 13,5% en el arranque de 2026",
-    "link": "https://www.expansion.com/economia/2026/04/01/69cc1a07e5fdeaed178b457f.html",
-    "summary": "La Agencia Tributaria ingresa 56.700 milones de euros en los dos primeros meses del año.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 00:11:48 +0200",
-    "source": "Expansión Economía",
-    "score": 3
-  },
-  {
-    "title": "Hacienda bate récord de recaudación con 325.000 millones y rebaja el déficit a su mínimo desde 2008",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cba938e5fdeafe698b4575.html",
-    "summary": "La Agencia Tributaria ingresa más de 325.000 millones de euros en 2025, lo que ayuda al Estado a reducir el déficit presupuestario al 2,2% del PIB (2,4% sumando la factura de la Dana) y a marcar el primer superávit primario desde 2007.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 13:24:53 +0200",
-    "source": "Expansión Economía",
-    "score": 3
-  },
-  {
-    "title": "El déficit público cierra 2025 en el 2,18% del PIB, con 36.780 millones, y mejora el objetivo del Gobierno",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cba7b8468aebd1558b458c.html",
-    "summary": "E&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 12:53:46 +0200",
-    "source": "Expansión Economía",
-    "score": 3
-  },
-  {
-    "title": "El «No a la guerra» de Sánchez no frena su desgaste electoral",
-    "link": "https://www.larazon.es/espana/guerra-sanchez-frena-desgaste-electoral_2026040169cc821383aca52e0e40025b.html",
-    "summary": "La experiencia y los datos apuntan a un efecto limitado y pasajero. El plan de Moncloa no servirá para el rescate electoral",
-    "published": "Wed, 01 Apr 2026 04:25:23 +0200",
+    "title": "Vox, un partido sin corrupción",
+    "link": "https://www.larazon.es/espana/vox-partido-corrupcion_2026040269cd9c7f6b2f8835925eab37.html",
+    "summary": "El 15 de octubre de 2025 el Tribunal Supremo dictó sentencia firme anulando la sanción del Tribunal de Cuentas sobre el partido",
+    "published": "Thu, 02 Apr 2026 00:30:23 +0200",
     "source": "La Razón",
     "score": 2
   },
   {
-    "title": "Sanidad alerta de listeria en un lote de salmón noruego ahumado",
-    "link": "https://www.20minutos.es/nacional/sanidad-alerta-listeria-un-lote-salmon-noruego-ahumado_6953287_0.html",
-    "summary": "Se trata del lote 361214 de la marca Skandia, con fecha de caducidad 13/04/2026, y está envasado en un sobre de plástico y refrigerado.",
-    "published": "Wed, 01 Apr 2026 08:21:23 +0200",
+    "title": "Horario de Mercadona y otros supermercados esta Semana Santa 2026",
+    "link": "https://www.20minutos.es/nacional/horario-mercadona-otros-supermercados-festivos-semana-santa-2026_6953332_0.html",
+    "summary": "La Semana Santa 2026 ya está aquí. Te contamos el horario de los supermercados españoles que no abren durante estos días festivos.",
+    "published": "Thu, 02 Apr 2026 09:02:04 +0200",
     "source": "20 Minutos",
     "score": 2
   },
   {
-    "title": "Bases y espacio aéreo vetado: el pulso de Europa con Trump se acrecienta ante la falta de planes para acabar con la guerra",
-    "link": "https://www.eldiario.es/internacional/bases-espacio-aereo-vetado-pulso-europa-trump-acrecienta-falta-planes-acabar-guerra_1_13112768.html",
-    "summary": "Ante la negativa a la utilización de las bases en territorio europeo o incluso el cierre del espacio aéreo por parte de países europeos, Trump vuelve a amenazar a los aliados con que \"Estados Unidos ya no estará más ahí para ayudarlos\"EEUU amplía su despliegue en la región y juega con una posible in",
-    "published": "Tue, 31 Mar 2026 20:05:07 +0000",
+    "title": "Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”",
+    "link": "https://www.eldiario.es/internacional/trump-insiste-estadounidenses-guerra-iran-terminara-pronto-proximas-semanas-les-golpearemos-duro_1_13116338.html",
+    "summary": "\"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTANTrump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria\n        Donald T",
+    "published": "Thu, 02 Apr 2026 05:39:45 +0000",
     "source": "elDiario",
     "score": 2
   },
   {
-    "title": "Más de medio millón de hijos y nietos de españoles siguen en un limbo por la nacionalidad: \"Es un auténtico colapso\"",
-    "link": "https://www.eldiario.es/sociedad/medio-millon-hijos-nietos-espanoles-siguen-limbo-nacionalidad-autentico-colapso_1_13098010.html",
-    "summary": "El atasco en los consulados de países como Argentina, Cuba, Brasil o México por el aluvión de solicitudes en base a la Ley de Memoria Democrática hace que 632.760 peticiones estén aún pendientes y solo un 25% hayan sido inscritas, según los datos a los que ha accedido elDiario.esLos 'niños de la Gue",
-    "published": "Tue, 31 Mar 2026 20:05:08 +0000",
-    "source": "elDiario",
+    "title": "La OCDE alaba a España por su transparencia, pero la suspende en financiación de partidos y control del 'lobby'",
+    "link": "https://www.infolibre.es/politica/ocde-alaba-regulacion-espanola-conflictos-interes-transparencia-espana-suspende-control-cuentas-partidos_1_2171448.html",
+    "summary": "España está a la cabeza de los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE) en el acceso que proporciona a los ciudadanos a la información pública: en transparencia. También en el control de los conflictos de intereses de los políticos y altos cargos. Sin e",
+    "published": "Wed, 01 Apr 2026 18:49:57 +0000",
+    "source": "InfoLibre",
     "score": 2
   },
   {
-    "title": "La solar ahorra a Europa 3.000 M€ en fósiles en marzo, ¿qué país lidera?",
-    "link": "http://es.euronews.com/2026/04/01/la-solar-ahorra-a-europa-3000-m-en-fosiles-en-marzo-que-pais-lidera",
-    "summary": "Un nuevo análisis concluye que la capacidad solar de Europa podría ahorrar al continente 67.500 millones de euros a final de año si los precios del gas siguen altos.",
-    "published": "Wed, 01 Apr 2026 10:00:37 +0200",
-    "source": "Euronews ES",
+    "title": "La peligrosa deriva de los medios digitales que se ponen al servicio de los anunciantes",
+    "link": "https://www.infolibre.es/medios/peligrosa-deriva-webs-noticias-dependientes-espias-servicio-anunciantes_1_2171591.html",
+    "summary": "Abrir una web de noticias en 2026 se parece cada vez menos a leer un periódico y cada vez más a cruzar un control de seguridad aeroportuario: tienes que depositar tus datos aquí, firmar este consentimiento allá, esquivar esta ventana emergente, cerrar aquella otra antes de que te redirija a ninguna ",
+    "published": "Wed, 01 Apr 2026 18:50:28 +0000",
+    "source": "InfoLibre",
     "score": 2
   },
   {
-    "title": "Camioneros protestan cerca de París por la subida del precio del combustible",
-    "link": "http://es.euronews.com/video/2026/04/01/camioneros-protestan-cerca-de-paris-por-la-subida-del-precio-del-combustible",
-    "summary": "Decenas de camiones y tractores protagonizaron una marcha lenta al este de París para denunciar el encarecimiento del combustible ligado a la guerra en Oriente Medio.",
-    "published": "Wed, 01 Apr 2026 08:15:01 +0200",
-    "source": "Euronews ES",
+    "title": "Los hidrocarburos, ¿nueva palanca diplomática de Argelia?",
+    "link": "https://www.infolibre.es/mediapart/hidrocarburos-nueva-palanca-diplomatica-argelia_1_2171610.html",
+    "summary": "La noticia se dio a conocer en Marruecos la tarde del 16 de marzo y se extendió como la pólvora: a partir de medianoche, el precio del combustible subiría 2 dirhams (0,2 euros), y el gasóleo —de lejos, el más utilizado— alcanzaría casi los 13 dirhams (1,2 euros) el litro. Ante la inminencia de la su",
+    "published": "Thu, 02 Apr 2026 04:01:17 +0000",
+    "source": "InfoLibre",
     "score": 2
   },
   {
-    "title": "El Ibex anticipa el fin de la guerra con un rally",
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/04/01/69ccb13e468aeb42058b45b2.html",
-    "summary": "Los inversores anticipan un próximo fin de la guerra en Irán, y este optimismo se extiende a los mercados. Las rebajas en el precio del petróleo desinflan los intereses de la deuda, y las Bolsas replican el acelerón de ayer de Wall Street. El Ibex apunta en su subida hacia los 17.300 puntos.&nbsp;Le",
-    "published": "Wed, 01 Apr 2026 10:06:21 +0200",
+    "title": "El decepcionante dólar",
+    "link": "https://www.expansion.com/economia/financial-times/2026/04/02/69cd910be5fdea30788b457a.html",
+    "summary": "El conflicto en Oriente debería haber sido la tormenta perfecta a favor del dólar, pero el hábito de comprar dólares tras las crisis globales se desvanece.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 00:13:59 +0200",
     "source": "Expansión",
     "score": 2
   },
   {
-    "title": "Por qué el petróleo baja hoy de golpe un 16%",
-    "link": "https://www.expansion.com/mercados/2026/04/01/69ccbb1ce5fdeae9178b4588.html",
-    "summary": "La mayor parte del severo descuento que refleja hoy la cotización del petróleo no es fruto del optimismo de los mercados sobre un próximo fin de la guerra. Backwardation y cambio de mes son los dos factores clave en esta rebaja.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 10:02:33 +0200",
-    "source": "Expansión",
-    "score": 2
-  },
-  {
-    "title": "Renta 2025: ¿ha rescatado un plan de pensiones con más de diez años de antigüedad?",
-    "link": "https://www.expansion.com/economia/declaracion-renta/2026/04/01/69cb9baf468aebd1558b4585.html",
-    "summary": "EXPANSIÓN y el Registro de Economistas Asesores Fiscales (REAF-CGE) analizan todos los detalles al respecto y explican cómo tributar tras el rescate de un plan de pensiones. &nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 02:15:22 +0200",
-    "source": "Expansión",
-    "score": 2
-  },
-  {
-    "title": "Bruselas pide reducir los desplazamientos por carretera ante el riesgo de cortes energéticos",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cbf1c2468aeb85028b458d.html",
-    "summary": "La Comisión Europea envía a los Veintisiete un comunicado con recomendaciones para reducir al máximo el consumo de combustibles previendo la extensión del conflicto bélico en Irán.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 18:09:43 +0200",
+    "title": "Los parches presupuestarios superaron los 120.000 millones en el último año",
+    "link": "https://www.expansion.com/economia/2026/04/02/69cd600fe5fdea14668b4573.html",
+    "summary": "El Gobierno sortea las limitaciones de la prórroga presupuestaria aprobando ampliaciones de crédito por 77.000 millones y transferencias entre ministerios por otros 41.000. Hacienda dispara un 250% los cambios para encajar las cuentas de 2023 al año 2025.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 01:48:55 +0200",
     "source": "Expansión Economía",
     "score": 2
   },
   {
-    "title": "La subida de las pensiones con el IPC dispara el gasto hasta los 240.000 millones al año",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cbb70d468aeb912c8b4585.html",
-    "summary": "La Seguridad Social ingresa 176.918 millones de euros en cotizaciones sociales de empresarios y trabajadores, 11.341 millones más que hace un año. El déficit contributivo del sistema ronda los 60.000 millones de euros.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 17:28:36 +0200",
+    "title": "El Estado inyecta 63.000 millones de los impuestos a la Seguridad Social para pagar pensiones",
+    "link": "https://www.expansion.com/economia/2026/04/02/69cd005b468aeb7b108b4574.html",
+    "summary": "El sistema necesita 52.990 millones de euros en transferencias, un 10% más que en el año anterior, además de un préstamo de 10.003 millones para hacer frente a los compromisos de pago en pensiones y demás prestaciones contributivas.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 01:46:51 +0200",
     "source": "Expansión Economía",
     "score": 2
   },
   {
-    "title": "La deuda pública cierra 2025 en el 100,7% del PIB, tras caer un punto, y mejora el objetivo del Gobierno",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cb86b3468aebd1558b457a.html",
-    "summary": "La deuda de las administraciones públicas ha cerrado 2025 en 1,698 billones de euros, lo que supone un incremento del 4,8% respecto al año anterior, pero ha registrado una caída en relación al PIB, hasta el 100,7%, lo que supone un punto porcentual menos que la tasa anotada en 2024 y su nivel más ba",
-    "published": "Tue, 31 Mar 2026 10:32:53 +0200",
+    "title": "Trump amenazó con cortar el suministro de armas a Ucrania si Europa no le apoyaba en Ormuz",
+    "link": "https://www.expansion.com/economia/financial-times/2026/04/01/69cd63db468aeb6c718b4586.html",
+    "summary": "Mark Rutte, máximo responsable de la OTAN, instó a miembros clave de la alianza a ofrecer ayuda a EEUU para reabrir una vía marítima clave.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 20:36:38 +0200",
     "source": "Expansión Economía",
     "score": 2
   },
   {
-    "title": "Industria y alimentos, en jaque por el alza de plásticos, aluminio o fertilizantes",
-    "link": "https://www.expansion.com/economia/2026/03/31/69cac3dd468aeb865b8b45a1.html",
-    "summary": "Organismos internacionales avisan de que la guerra en Irán golpea ya materias primas críticas para la industria, al tiempo que pone en riesgo la seguridad alimentaria por su impacto sobre los fertilizantes.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 02:31:50 +0200",
+    "title": "País Vasco suaviza la fiscalidad empresarial para contrarrestar los efectos de la guerra",
+    "link": "https://www.expansion.com/pais-vasco/2026/04/01/69cd2b3ae5fdea565f8b4598.html",
+    "summary": "Inyección de óxigeno y de liquidez al tejido empresarial, sobre todo a pymes y autónomos. Éste es el objetivo de las medidas que lanzan las tres Haciendas forales, desde aplazamiento de deudas hasta amortización acelerada de activos nuevos, pasando por rapidez en la devolución del IVA.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 17:28:30 +0200",
+    "source": "Expansión Economía",
+    "score": 2
+  },
+  {
+    "title": "El precio de la vivienda y la inseguridad jurídica",
+    "link": "https://www.expansion.com/opinion/2026/04/01/69ccec8d468aeb77158b4573.html",
+    "summary": "Sumar quiere imponer ya la congelación de alquileres sin el aval del Parlamento.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 11:59:45 +0200",
+    "source": "Expansión Economía",
+    "score": 2
+  },
+  {
+    "title": "Récord de recaudación con muchas sombras",
+    "link": "https://www.expansion.com/opinion/2026/04/01/69ccea70468aeb6c718b4571.html",
+    "summary": "El Estado volvió a batir en 2025 un récord de recaudación al ingresar 325.356 millones de euros, un 10,4% más que el año anterior.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 11:52:16 +0200",
+    "source": "Expansión Economía",
+    "score": 2
+  },
+  {
+    "title": "CEV prevé que la economía valenciana crecerá este año más que la media española",
+    "link": "https://www.expansion.com/valencia/2026/04/01/69ccda11468aebb6288b4570.html",
+    "summary": "La patronal señala que se pevé un ajuste a la baja derivado la guerra en Irán, con repercusión desigual según los sectores.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 10:53:09 +0200",
     "source": "Expansión Economía",
     "score": 2
   },
@@ -240,562 +192,530 @@
     "score": 2
   },
   {
-    "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra de Irán",
-    "link": "https://elpais.com/internacional/2026-04-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-    "summary": "Israel mata a siete personas en varios ataques en Beirut, según el Gobierno libanés",
-    "published": "Wed, 01 Apr 2026 08:02:32 GMT",
+    "title": "Las Bolsas sufren y el petróleo sube tras el decepcionante discurso de Trump",
+    "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-02/la-bolsa-y-el-ibex-35.html",
+    "summary": "Las palabras del presidente de EE UU caen como un jarro de agua fría en los mercados. Tras la euforia de ayer, el Ibex pierde un 1,6%  y el crudo escala un 6%",
+    "published": "Thu, 02 Apr 2026 07:48:18 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "Bruselas pide a los países que tomen medidas para ahorrar energía en el transporte",
-    "link": "https://www.lavanguardia.com/economia/20260331/11503341/bruselas-pide-paises-tomen-medidas-ahorrar-energia-transporte.html",
-    "summary": "La Comisión Europea eleva el tono y llama a prepararse para el escenario de un bloqueo a largo plazo del estrecho de Ormuz",
-    "published": "31 Mar 2026 14:24:53 +0200",
-    "source": "La Vanguardia",
+    "title": "Buscador de bares y restaurantes de carretera: Más de ochenta pistas por toda España",
+    "link": "https://elpais.com/gastronomia/restaurantes/2026-04-01/buscador-de-bares-y-restaurantes-de-carretera-mas-de-ochenta-pistas-por-toda-espana.html",
+    "summary": "Viajar también es descubrir la gastronomía local y opciones no faltan si se sabe elegir bien. Bares, restaurantes y cafeterías ofrecen propuestas para todos los gustos. Consulte nuestras recomendaciones y encuentre esos lugares donde merece la pena hacer un alto en el camino",
+    "published": "Wed, 01 Apr 2026 15:36:55 GMT",
+    "source": "El País",
     "score": 1
   },
   {
-    "title": "Irán aplica un bloqueo selectivo en Ormuz: los petroleros pagan millones por pasar por el estrecho",
-    "link": "https://www.lavanguardia.com/internacional/20260401/11503349/bloqueo-selectivo-ormuz.html",
-    "summary": "Dos portacontenedores chinos, entre los últimos buques en cruzar el estrecho con la autorización de Teherán",
-    "published": "01 Apr 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 1
-  },
-  {
-    "title": "Sánchez busca a Junts en vivienda sin oír a Cuerpo",
-    "link": "https://www.larazon.es/espana/sanchez-busca-junts-vivienda-oir-cuerpo_2026040169ccb5e7bfc2456bae1a884b.html",
-    "summary": "Regatea para sacar el decreto que Sumar le arrancó, tras decir que no se aprobaría. El hoy vicepresidente siempre se opuso",
-    "published": "Wed, 01 Apr 2026 08:06:31 +0200",
+    "title": "Para lo que me queda en el convento…",
+    "link": "https://www.larazon.es/espana/que-queda-convento_2026040269cdc10d83aca52e0e40f206.html",
+    "summary": "Yolanda Díaz ni es actriz, ni millonaria, es la ministra de Trabajo que se ausenta de su trabajo",
+    "published": "Thu, 02 Apr 2026 03:06:21 +0200",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Numerosos 'robotaxis' del 'Google chino' se detienen súbitamente en las calles de Wuhan",
-    "link": "https://www.20minutos.es/internacional/numerosos-robotaxis-google-chino-se-detienen-subitamente-las-calles-wuhan_6953317_0.html",
-    "summary": "El problema fue causado por un \"error de sistema\", y los pasajeros que transportaban esos vehículos pudieron salir de ellos de forma segura.",
-    "published": "Wed, 01 Apr 2026 09:29:08 +0200",
+    "title": "Guerra de EEUU e Irán, en directo | Irán promete \"acciones más devastadoras\" tras las amenazas de Trump: \"Esta guerra continuará hasta su humillación\"",
+    "link": "https://www.20minutos.es/internacional/guerra-eeuu-iran-directo-iran-responde-las-palabras-trump-sobre-debilidad-sus-capacidades-militares-con-un-nuevo-ataque-israel_6953695_6.html",
+    "summary": "Sigue en directo la guerra entre EEUU e Irán en Oriente Medio.",
+    "published": "Thu, 02 Apr 2026 09:17:22 +0200",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la Operación Kitchen",
-    "link": "https://www.eldiario.es/politica/juicio-final-guerra-sucia-pp-especial-eldiario-operacion-kitchen_1_13104422.html",
-    "summary": "elDiario.es ofrece imágenes inéditas de la confesión de los implicados en uno de los mayores escándalos políticos de la democracia junto a documentos esenciales para entender la Operación KitchenPrimera entrega - Caso Kitchen: juicio a la guerra sucia del Partido Popular sin la X en el banquillo\n\n  ",
-    "published": "Sun, 29 Mar 2026 20:10:07 +0000",
+    "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer año de su cruzada arancelaria",
+    "link": "https://www.eldiario.es/internacional/trump-enfrenta-descontento-popular-subida-precios-primer-ano-cruzada-arancelaria_1_13112963.html",
+    "summary": " A pesar de la anulación del Supremo, los gravámenes aplicados por Trump ya han cambiado el sistema de libre comercio como se le conocía hasta ahora, pero los estadounidenses solo ven cómo el precio de la cesta de la compra ha aumentadoMiles de protestas se multiplican en todo EEUU contra el autorit",
+    "published": "Wed, 01 Apr 2026 20:16:21 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "El Supremo tumba los pluses salariales basados en evaluaciones del trabajador que abundan en muchas empresas",
-    "link": "https://www.eldiario.es/economia/supremo-tumba-pluses-salariales-basados-evaluaciones-trabajador-abundan-empresas_1_13104439.html",
-    "summary": "Rechaza un complemento que dependía de análisis cualitativo del desempeño de un empleado por su superior, una práctica muy extendida, y que el Supremo anula por su indefinición y posible arbitrariedad El Supremo avala que los trabajadores decidan cuándo iniciar el permiso de cinco días para cuidar a",
-    "published": "Tue, 31 Mar 2026 20:05:07 +0000",
+    "title": "Vox se enreda en su política internacional de seguidismo a Trump y Netanyahu",
+    "link": "https://www.eldiario.es/politica/vox-enreda-politica-internacional-seguidismo-trump-netanyahu_1_13113886.html",
+    "summary": "El partido de Abascal tarda en responder al bloqueo de la misa del Domingo de Ramos en Jerusalén, evita criticar a Trump por Groenlandia y apoya su guerra contra IránEl portavoz de Vox en Torre Pacheco abandona el partido: “Los comportamientos de la cúpula son casi mafiosos”\n        Vox presume de d",
+    "published": "Wed, 01 Apr 2026 20:16:22 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "¿Un impuesto a los ultrarricos? Más que necesario",
-    "link": "https://www.eldiario.es/opinion/zona-critica/impuesto-ultrarricos-necesario_129_13110385.html",
-    "summary": "Gravar con un 2% los patrimonios de más de 100 millones permitiría recaudar hasta 5.200 millones en España\nEspaña amplía sus milmillonarios hasta las 33 personas, con una riqueza que se dispara a niveles récord\n        Tenemos diagnosticado c&oacute;mo mueren las democracias porque los profesores St",
-    "published": "Tue, 31 Mar 2026 20:04:14 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Renfe tira la toalla en Francia y aparca su proyecto de alta velocidad a París ante las trabas para operar sus trenes",
-    "link": "https://www.eldiario.es/economia/renfe-tira-toalla-francia-aparca-proyecto-alta-velocidad-paris-trabas-operar-trenes_1_13111908.html",
-    "summary": "Tanto la empresa española como el ministro de Transportes, Óscar Puente, han reclamado en varias ocasiones \"reciprocidad\", dado que España ha abierto las puertas al operador público francés, OuigoEl ministro Puente reclama a Francia “reciprocidad” para un acceso “sin trabas” a su mercado ferroviario",
-    "published": "Tue, 31 Mar 2026 17:51:18 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "La división de la izquierda andaluza, un problema grave para los últimos escaños y para competir con Vox",
-    "link": "https://www.infolibre.es/politica/division-izquierda-andaluza-problema-grave-ultimos-escanos-competir-vox_1_2171147.html",
-    "summary": "Andalucía, camino de las urnas. Y las derechas dominan las encuestas. La última palabra la tendrán los ciudadanos del sur el próximo 17 de mayo. Pero en los colegios habrá como mínimo dos papeletas por parte de la izquierda transformadora: Por Andalucía (a la espera de saber si Podemos se integrará ",
-    "published": "Tue, 31 Mar 2026 18:55:10 +0000",
+    "title": "Feijóo pide investigar a RTVE tras ocho años de protestas en los medios públicos gallegos",
+    "link": "https://www.infolibre.es/medios/feijoo-lanza-investigacion-rtve-ocho-anos-protestas-medios-publicos-gallegos_1_2171357.html",
+    "summary": "El próximo mayo se cumplirán ocho años desde que personal de la entonces denominada Corporación Radio e Televisión de Galicia (CRTVG) se agrupó por primera vez en el colectivo 'Defende a Galega'. Bajo ese paraguas, a través de las movilizaciones simbólicas de los viernes negros, el personal moviliza",
+    "published": "Thu, 02 Apr 2026 04:01:16 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Los perfiles 'junior', el grupo laboral más expuesto a los avances de la inteligencia artificial",
-    "link": "https://www.infolibre.es/economia/perfiles-junior-grupo-laboral-expuesto-avances-inteligencia-artificial_1_2168814.html",
-    "summary": "La inteligencia artificial (IA) sigue llenando titulares a golpe de previsiones, pero en medio del desarrollo vertiginoso de estas tecnologías comienzan a emerger algunas certezas. Una de ellas es el impacto de esta tecnología en el acceso al empleo de los jóvenes. Los perfiles con menos experiencia",
-    "published": "Wed, 01 Apr 2026 04:01:15 +0000",
-    "source": "InfoLibre",
-    "score": 1
-  },
-  {
-    "title": "Cuando no hay más líneas rojas que traspasar: así es el racista e intolerable plan de pena de muerte de Israel",
-    "link": "https://www.infolibre.es/mediapart/no-hay-lineas-rojas-traspasar-racista-e-intolerable-plan-pena-muerte-israel_1_2171071.html",
-    "summary": "La extrema derecha israelí puede saltar de alegría. Ha salido victoriosa. El Knesset, el Parlamento israelí, aprobó el lunes 30 de marzo por la tarde una ley que establece la pena de muerte para los palestinos y palestinas declarados culpables de haber matado a israelíes en el marco de actos “terror",
-    "published": "Tue, 31 Mar 2026 18:55:38 +0000",
-    "source": "InfoLibre",
-    "score": 1
-  },
-  {
-    "title": "El refugio del viejo mundo",
-    "link": "https://www.infolibre.es/opinion/columnas/la-guillotina/refugio-viejo-mundo_129_2170799.html",
-    "summary": "España se ha convertido en la retaguardia de Europa. La guerra cultural ha dado paso a la guerra cognitiva. Ya no se disputa una identidad. Lo que está en guerra es la dominación del mensaje, de la idea, del cerebro. Peter Thiel ha traído el anticristo, un mundo sin reglas, y León XIV, el pastor de ",
-    "published": "Tue, 31 Mar 2026 18:56:19 +0000",
-    "source": "InfoLibre",
-    "score": 1
-  },
-  {
-    "title": "España necesita reforzar su soberanía tecnológica, escala industrial y talento para competir",
-    "link": "https://www.infolibre.es/opinion/plaza-publica/espana-necesita-reforzar-soberania-tecnologica-escala-industrial-talento-competir_129_2169265.html",
-    "summary": "La gran aceleración tecnológica y la creciente tensión geopolítica redefinen la competitividad en el marco internacional. Ser competitivo en el mundo actual implica contar con capacidades propias —industriales, tecnológicas y de talento— para innovar, sostener cadenas de suministro y proteger infrae",
-    "published": "Wed, 01 Apr 2026 04:01:16 +0000",
-    "source": "InfoLibre",
-    "score": 1
-  },
-  {
-    "title": "\"Comunión\": ¿prepara JD Vance su candidatura presidencial de 2028 con su nuevo libro?",
-    "link": "http://es.euronews.com/cultura/2026/04/01/comunion-prepara-jd-vance-su-candidatura-presidencial-de-2028-con-su-nuevo-libro",
-    "summary": "JD Vance será el primer vicepresidente de Estados Unidos en tiempos recientes que publica un libro mientras está en el cargo. El anuncio de su segundo libro alimenta las especulaciones de que Vance prepara el terreno para una candidatura presidencial en 2028.",
-    "published": "Wed, 01 Apr 2026 10:09:17 +0200",
+    "title": "La falta de vivienda pública agrava la crisis de Portugal, advierte el Parlamento Europeo",
+    "link": "http://es.euronews.com/my-europe/2026/04/02/la-falta-de-vivienda-publica-agrava-la-crisis-de-portugal-advierte-el-parlamento-europeo",
+    "summary": "Una delegación de eurodiputados que visitó Lisboa señaló la \"grave crisis\" de la vivienda en Portugal y pidió una acción conjunta de los Estados miembros para resolver el problema a escala europea.",
+    "published": "Thu, 02 Apr 2026 08:12:03 +0200",
     "source": "Euronews ES",
     "score": 1
   },
   {
-    "title": "Las bolsas suben y el petróleo cae mientras Trump reaviva la esperanza de fin de la guerra con Irán",
-    "link": "http://es.euronews.com/business/2026/04/01/las-bolsas-suben-y-el-petroleo-cae-mientras-trump-reaviva-la-esperanza-de-fin-de-la-guerra",
-    "summary": "Los mercados europeos y asiáticos se dispararon el miércoles ante las renovadas esperanzas de que la guerra de Irán pueda acabar pronto, después de que el presidente estadounidense Donald Trump anunciara que las tropas de Estados Unidos se irán en dos o tres semanas, haya o no acuerdo.",
-    "published": "Wed, 01 Apr 2026 09:58:05 +0200",
+    "title": "Valencia limitará los pisos turísticos al 2% en cada barrio",
+    "link": "http://es.euronews.com/viajes/2026/04/02/buscas-una-vivienda-turistica-en-espana-valencia-planea-limitar-su-numero-en-toda-la-ciuda",
+    "summary": "El Ayuntamiento de Valencia ha aprobado una normativa para que las viviendas turísticas no superen el 2% del total en cada barrio. El Gobierno municipal busca frenar la saturación y dar prioridad a los residentes, aunque las asociaciones vecinales denuncian que hay 9.000 pisos ilegales.",
+    "published": "Thu, 02 Apr 2026 08:00:45 +0200",
     "source": "Euronews ES",
     "score": 1
   },
   {
-    "title": "Lo que las guerras en Ucrania e Irán enseñan a Europa sobre la defensa aérea moderna",
-    "link": "http://es.euronews.com/business/2026/04/01/que-ensenan-a-europa-sobre-la-defensa-aerea-la-invasion-de-ucrania-y-la-guerra-en-iran",
-    "summary": "El centro de estudios Bruegel alerta: mientras EE.UU. e Israel agotan su arsenal para hacer frente a los drones iraníes, Europa se arriesga a enfrentar una batalla aún más difícil en casa.",
-    "published": "Wed, 01 Apr 2026 08:00:55 +0200",
-    "source": "Euronews ES",
-    "score": 1
-  },
-  {
-    "title": "Trump, frustrado por la guerra con Irán y la UE pide una desescalada urgente",
-    "link": "http://es.euronews.com/my-europe/2026/04/01/europe-today-trump-muestra-frustracion-por-la-guerra-con-iran-y-la-ue-pide-rebajar-la-tens",
-    "summary": "Conéctese a Europe Today, el programa matinal de referencia de 'Euronews', a las 8:00, hora de Bruselas. En solo 20 minutos le ponemos al día con las noticias más importantes del día.",
-    "published": "Wed, 01 Apr 2026 07:51:37 +0200",
-    "source": "Euronews ES",
-    "score": 1
-  },
-  {
-    "title": "ACS lanza un plan de incentivos valorado en 854 millones",
-    "link": "https://www.expansion.com/empresas/inmobiliario/2026/04/01/69cc2e76e5fdea5f158b4588.html",
-    "summary": "ACS, que celebra junta de accionistas el próximo 8 de mayo, ha propuesto un potente plan de incentivos por objetivos para la dirección de la constructora. El plan, en acciones y opciones sobre acciones, equivale a un 3% del capital de la multinacional española lo que, a los actuales precios en Bolsa",
-    "published": "Wed, 01 Apr 2026 02:15:21 +0200",
+    "title": "Los bancos españoles, fuera de la primera línea de fuego del crédito privado",
+    "link": "https://www.expansion.com/empresas/banca/2026/04/02/69b40ee0468aebea5b8b4587.html",
+    "summary": "Santander es el más expuesto, con BBVA, CaixaBank y Sabadell por debajo de la media. La falta de detalle en los datos europeos eleva la incertidumbre.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 02:28:08 +0200",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Los mejores días de la semana para comprar y vender en Bolsa durante la guerra",
-    "link": "https://www.expansion.com/mercados/2026/04/01/69cbb6ad468aeb25258b4574.html",
-    "summary": "Desde el inicio de la guerra en Irán, hace ahora un mes, los datos bursátiles arrojan un mismo patrón sobre el comportamiento, en términos de rentabilidad en Bolsa, de cada uno de los días de la semana.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 00:11:58 +0200",
+    "title": "El Ibex cae hasta los 17.300 puntos y el petróleo repunta un 7% tras el decepcionante mensaje de Trump",
+    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/04/02/69ce0aae468aeb927b8b4584.html",
+    "summary": "Los futuros de los principales índices europeos anticipan caídas de entre el 1,5% y el 2% después del duro discurso a la nación ofrecido esta noche por Donald Trump, en el que ha amenazado a Irán con hacer retroceder al país \"a la Edad de Piedra\" si no llegan a un acuerdo para poner fin a la guerra.",
+    "published": "Thu, 02 Apr 2026 08:20:43 +0200",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Sqrups y Primaprix: cómo funcionan los 'category killers' españoles de la alimentación",
-    "link": "https://www.expansion.com/empresas/2026/04/01/69ccb54be5fdea226c8b458b.html",
-    "summary": "Restos de temporada, excedentes, productos de otro país.... Así logran dar salida a alimentos que otros no venderían, y con precios más bajos.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 08:31:36 +0200",
+    "title": "El oro registra su racha alcista más larga desde enero",
+    "link": "https://www.expansion.com/mercados/2026/04/02/69cd9cfd468aebbe358b459a.html",
+    "summary": "El presidente de EEUU afirmó este martes que la guerra podría terminar en las próximas dos o tres semana y los inversores no dudan en aferrarse a estas buenas noticias, aunque saben lo volátiles que son los mensajes de Trump.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 00:47:57 +0200",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "La llegada de turistas a España creció un 2,8% en febrero y el gasto, un 4,6%",
-    "link": "https://www.expansion.com/economia/2026/04/01/69ccca62e5fdea6c198b459e.html",
-    "summary": "La llegada de turistas internacionales a España aumentó un 2,8% en febrero, hasta los 5,6 millones, en tanto que su gasto aumentó un 4,6% y alcanzó los 7.606 millones de euros, según los datos publicados este miércoles por el Instituto Nacional de Estadística (INE).&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 09:33:59 +0200",
+    "title": "Cómo posicionarse en Bolsa para el fin de la guerra en Irán",
+    "link": "https://www.expansion.com/mercados/2026/04/02/69cd0f4e468aeb52148b45b5.html",
+    "summary": "Los inversores no solo deben estar en guardia ante posibles caídas. La mejora puede aflorar oportunidades. Los analistas advierten que el mercado ya se está posicionando para el final de la guerra, y enumeran varias apuestas tanto \"duraderas\" como tácticas para \"comprar con las caídas\".&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 02:40:30 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "Los 5 valores mejor preparados para un escenario de paz",
+    "link": "https://www.expansion.com/mercados/2026/04/02/69cd990c468aeb927b8b4576.html",
+    "summary": "El mes de marzo ha dejado un reguero de pérdidas en el Ibex 35. La caída del 7,14% del selectivo, la mayor desde septiembre de 2022 por el impacto de la guerra en Oriente Próximo, ha afectado de lleno a un puñado de valores que, sin embargo, mantienen intacto el apoyo de los analistas.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 00:31:20 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "Hacienda prorroga los límites de módulos para los autónomos en estimación objetiva",
+    "link": "https://www.expansion.com/economia/2026/04/01/69cd3d25468aeba5248b458b.html",
+    "summary": "La Agencia Tributaria envía una nota técnica que 'de facto' supone la prórroga de los límites de facturación por debajo de los cuales los autónomos pueden acogerse al sistema de módulos.&nbsp;Leer",
+    "published": "Wed, 01 Apr 2026 17:43:37 +0200",
     "source": "Expansión Economía",
     "score": 1
   },
   {
-    "title": "Irán podría salir de la guerra más fuerte y peligroso",
-    "link": "https://www.expansion.com/economia/financial-times/2026/03/31/69cbd87c468aeb653d8b4587.html",
-    "summary": "La república islámica pretende establecer un peaje en el estrecho de Ormuz, y puede conseguirlo.&nbsp;Leer",
-    "published": "Tue, 31 Mar 2026 16:21:50 +0200",
-    "source": "Expansión Economía",
-    "score": 1
-  },
-  {
-    "title": "IN PICTURES: 'No Kings' demos in Spain see Americans slam Trump and Iran War",
-    "link": "https://www.thelocal.es/20260331/in-images-no-kings-demos-in-spain-see-americans-slam-trump-and-iran-war",
-    "summary": "Over the past weekend, several ‘No Kings’ protests took place in cities across Spain to protest President Donald Trump’s policies and the war with Iran.",
-    "published": "Tue, 31 Mar 2026 13:50:35 +0200",
+    "title": "What's happening with VAT for self-employed workers in Spain?",
+    "link": "https://www.thelocal.es/20260401/whats-happening-with-vat-for-self-employed-workers-in-spain",
+    "summary": "There have been lots of rumours in recent weeks regarding new rules on VAT payments for Spain's self-employed. Is it true that 'autónomos' no longer need to charge and declare VAT if they earn below a certain amount?",
+    "published": "Wed, 01 Apr 2026 11:33:56 +0200",
     "source": "The Local ES",
     "score": 1
   },
   {
-    "title": "European airports record longer waits at borders as EES deadline looms",
-    "link": "https://www.thelocal.es/20260330/european-airports-record-longer-border-waiting-times-as-ees-deadline-looms",
-    "summary": "European airports and airlines organisations issued on Monday the latest warning about the next implementation phase of the EU's new biometric border system, “as the transition phase comes to an end right in the travel peak of the Easter holidays.”",
-    "published": "Mon, 30 Mar 2026 21:31:07 +0200",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Así será el recorrido de Artemis 2 hacia la cara oculta de la Luna: el reto de explorar lo que nadie ha visto",
-    "link": "https://elpais.com/ciencia/2026-04-01/asi-sera-el-recorrido-de-artemis-2-hacia-la-cara-oculta-de-la-luna-el-reto-de-explorar-lo-que-nadie-ha-visto.html",
-    "summary": "Cuatro astronautas sobrevolarán zonas inexploradas de la superficie lunar. El vuelo, que prioriza la seguridad de la tripulación, usa una trayectoria ‘boomerang’ capaz de devolver la nave a la Tierra sin usar sus motores",
-    "published": "Wed, 01 Apr 2026 03:30:00 GMT",
+    "title": "El cohete tripulado más potente lanza a los cuatro astronautas de Artemis 2 hacia un viaje histórico",
+    "link": "https://elpais.com/ciencia/2026-04-01/el-cohete-mas-potente-jamas-construido-lanza-a-los-cuatro-astronautas-de-artemis-2-hacia-un-viaje-historico.html",
+    "summary": "Despega con éxito la nave Orion desde Florida para un vuelo de 10 días de ida y vuelta al satélite, al que la humanidad regresa por primera vez en más de medio siglo",
+    "published": "Thu, 02 Apr 2026 00:43:34 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Dentro del Centro Espacial Kennedy, a unos metros del Artemis II",
-    "link": "https://elpais.com/videos/2026-03-31/dentro-del-centro-espacial-kennedy-a-unos-metros-del-artemis-ii.html",
-    "summary": "El enviado especial de EL PAÍS enseña el dispositivo que ha preparado la NASA para los periodistas que estarán presentes durante el despegue",
-    "published": "Tue, 31 Mar 2026 17:03:30 GMT",
+    "title": "Los astronautas siguen adelante con la misión a pesar de una pérdida de comunicación y problemas con el retrete",
+    "link": "https://elpais.com/ciencia/2026-04-02/los-astronautas-siguen-adelante-con-la-mision-a-pesar-de-una-perdida-de-comunicacion-y-problemas-con-el-retrete.html",
+    "summary": "Los técnicos de la NASA informan de varios incidentes menores después del despegue de la Artemis 2, primera misión tripulada al satélite en más de medio siglo",
+    "published": "Thu, 02 Apr 2026 06:53:29 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Lori Glaze, administradora asociada de la NASA: “Es un vuelo de prueba. Muchos sistemas críticos se ensayarán por primera vez”",
-    "link": "https://elpais.com/ciencia/2026-04-01/lori-glaze-administradora-asociada-de-la-nasa-es-un-vuelo-de-prueba-muchos-sistemas-criticos-se-ensayaran-por-primera-vez.html",
-    "summary": "Una de las máximas responsables de la agencia espacial explica a EL PAÍS los grandes hitos de la primera misión tripulada a la Luna en más de 50 años, y de las posibilidades de abortarla si hay problemas graves",
-    "published": "Wed, 01 Apr 2026 03:30:00 GMT",
+    "title": "Videoanálisis | El Artemis 2 inicia la misión que busca ganar la carrera espacial",
+    "link": "https://elpais.com/us/2026-04-02/videoanalisis-el-artemis-2-inicia-la-mision-que-busca-ganar-la-carrera-espacial.html",
+    "summary": "EL PAÍS ha estado presente en el lanzamiento histórico de la nave Orion desde el Centro Espacial Kennedy en Florida",
+    "published": "Thu, 02 Apr 2026 03:26:30 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "La NASA explica cómo salvarles la vida a los astronautas que viajan a la Luna",
-    "link": "https://elpais.com/ciencia/2026-04-01/la-nasa-explica-como-salvarle-la-vida-a-los-astronautas-que-viajan-a-la-luna.html",
-    "summary": "Expertos de la misión Artemis 2 exponen a EL PAÍS todas las posibilidades de escape para la tripulación en caso de fallos graves. Todo está preparado para lanzar este miércoles",
-    "published": "Wed, 01 Apr 2026 03:30:00 GMT",
+    "title": "¿Qué va a pasar en la misión Artemis 2 cada día? Así es el viaje a la Luna más sencillo y seguro",
+    "link": "https://elpais.com/ciencia/2026-04-03/que-va-a-pasar-en-la-mision-artemis-2-cada-dia-asi-es-el-viaje-a-la-luna-mas-sencillo-y-seguro.html",
+    "summary": "La nave Orion afronta unas pruebas en espacio profundo antes de propulsarse como un búmeran espacial que tardará cuatro días en ir a la Luna y otros cuatro en regresar a la Tierra",
+    "published": "Thu, 02 Apr 2026 04:13:04 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozaban desde 2018",
-    "link": "https://elpais.com/espana/2026-04-01/espana-cerrara-a-los-venezolanos-la-via-expres-de-regularizacion-de-la-que-gozaban-desde-2018.html",
-    "summary": "El Gobierno pondrá fin en junio a un mecanismo privilegiado que regularizó a casi un cuarto de millón de migrantes de Venezuela",
-    "published": "Wed, 01 Apr 2026 03:30:01 GMT",
+    "title": "El lanzamiento de Artemis 2 a la Luna, en imágenes",
+    "link": "https://elpais.com/ciencia/2026-04-01/el-lanzamiento-de-artemis-2-a-la-luna-en-imagenes.html",
+    "summary": "Los astronautas Victor Glover, Reid Wiseman, Christina Koch y Jeremy Hansen están a punto de convertirse en los primeros seres humanos en viajar al único satélite natural de la Tierra en más de medio siglo",
+    "published": "Wed, 01 Apr 2026 22:05:56 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "El cántico racista en el RCDE Stadium: “Musulmán el que no bote”",
-    "link": "https://elpais.com/deportes/futbol/2026-03-31/el-cantico-racista-en-el-rcde-stadium-musulman-el-que-no-bote.html",
-    "summary": "Algunos aficionados pitan el himno de Egipto y entonan una frase xenófoba contra sus jugadores",
-    "published": "Tue, 31 Mar 2026 19:44:13 GMT",
+    "title": "La gran batalla por el estadio de Shakira: a favor o en contra de sus 11 conciertos en macroeventos con 500.000 localidades vendidas",
+    "link": "https://elpais.com/espana/madrid/2026-04-02/la-gran-batalla-por-el-estadio-de-shakira-a-favor-o-en-contra-de-sus-11-conciertos-en-macroeventos-con-500000-localidades-vendidas.html",
+    "summary": "El Ayuntamiento de Madrid y el PP apoyan los conciertos; Getafe y el PSOE alegan problemas vecinales, de movilidad y de seguridad en Makondo Park, en el Iberdrola Music, un recinto que tendrá una actividad multitudinaria de 12 horas al día",
+    "published": "Thu, 02 Apr 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Un apunte ni siquiera cultural",
-    "link": "https://elpais.com/opinion/2026-04-01/un-apunte-ni-siquiera-cultural.html",
-    "summary": "En fin, tómenselo con calma. Todos seremos cancelados alguna vez",
-    "published": "Wed, 01 Apr 2026 03:30:01 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Trump planea una retirada de Irán en “dos o tres semanas”",
-    "link": "https://www.lavanguardia.com/internacional/20260401/11503618/trump-sugiere-terminar-guerra-solucionar-caos-estrecho.html",
-    "summary": "El presidente de EE.UU. exige reducir el país a la “edad de piedra” y se desentiende del caos en el estrecho",
-    "published": "01 Apr 2026 00:05:00 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Trump ofrecerá “una importante actualización sobre Irán” en un discurso la próxima madrugada",
-    "link": "https://www.lavanguardia.com/internacional/20260401/11503588/guerra-iran-ataque-estados-unidos-trump-putin-espana-israel-bombardeos-teheran-hoy-en-directo.html",
-    "summary": "Israel mantiene una intensa campaña de bombardeos principalmente en el sur y el este de Líbano",
-    "published": "01 Apr 2026 08:34:39 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "China y Pakistán lanzan una iniciativa conjunta de 5 puntos por la paz en Oriente Medio",
-    "link": "https://www.lavanguardia.com/internacional/20260331/11503558/china-pakistan-lanzan-iniciativa-conjunta-5-puntos-paz-golfo-persico.html",
-    "summary": "El ministro de Exteriores pakistaní voló a Pekín tras reunirse con sus homólogos de Turquía, Egipto y Arabia",
-    "published": "31 Mar 2026 19:01:49 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "España reafirma su compromiso con la OTAN pese a las amenazas de EE.UU.",
-    "link": "https://www.lavanguardia.com/politica/20260401/11503581/espana-reafirma-compromiso-otan-pese-amenazas-ee-uu.html",
-    "summary": "Robles defiende que la restricción en las bases  “no rompe el vínculo” con la Alianza",
-    "published": "01 Apr 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "Vox ve al PP dispuesto a renuncias significativas para pactar los gobiernos",
-    "link": "https://www.lavanguardia.com/politica/20260401/11503552/vox-ve-pp-dispuesto-renuncias-significativas-pactar-gobiernos.html",
-    "summary": "Ambos partidos retomarán las negociaciones sectoriales tras la Semana Santa",
-    "published": "01 Apr 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "La penitencia del PP",
-    "link": "https://www.lavanguardia.com/politica/20260401/11503590/penitencia-pp.html",
-    "summary": "",
-    "published": "01 Apr 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 0
-  },
-  {
-    "title": "El Estado Islámico utiliza la expulsión de los invasores musulmanes de España para justificar la matanza de cristianos",
-    "link": "https://www.larazon.es/espana/estado-islamico-utiliza-expulsion-invasores-musilmanes-espana-justificar-matanza-cristianos_2026040169ccd094bfc2456bae1a9d68.html",
-    "summary": "Mensaje de los yihadistas para los que niegan el genocidio en África",
-    "published": "Wed, 01 Apr 2026 10:00:20 +0200",
+    "title": "Jueces progresistas denuncian \"falta de transparencia\" en la subida de sueldo de los vocales del CGPJ",
+    "link": "https://www.larazon.es/espana/jueces-progresistas-denuncian-falta-transparencia-subida-sueldo-vocales-cgpj_2026040269ce15df83aca52e0e411b55.html",
+    "summary": "JJpD critica también que se pretenda \"blanquear\" al anterior Consejo condecorando a algunos de sus integrantes",
+    "published": "Thu, 02 Apr 2026 09:08:28 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Begoña Gómez afronta una nueva cita ante el juez Peinado que le deja a un paso del banquillo",
-    "link": "https://www.larazon.es/espana/begona-gomez-afronta-nueva-cita-juez-peinado-que-deja-paso-banquillo_2026040169cccd85bfc2456bae1a9afa.html",
-    "summary": "No está previsto que ni la mujer del presidente, ni su asesora o el empresario Barrabés acudan personalmente a la vistilla",
-    "published": "Wed, 01 Apr 2026 09:47:17 +0200",
+    "title": "Liquidación trimestral",
+    "link": "https://www.larazon.es/espana/liquidacion-trimestral_2026040269cdc0716b2f8835925ebd34.html",
+    "summary": "Los supervivientes de los Juegos del Hambre ven cómo vuelven a ser tendencia los ministros tecnócratas",
+    "published": "Thu, 02 Apr 2026 03:03:45 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Así es la fragata 'Méndez Núñez', el buque de la Armada que operará en Chipre: sistema AEGIS y misiles de largo alcance",
-    "link": "https://www.larazon.es/espana/defensa/asi-fragata-mendez-nunez-buque-armada-que-operara-chipre-sistema-aegis-misiles-largo-alcance_2026040169ccbcbb6b2f8835925deb62.html",
-    "summary": "Con más de 145 metros de eslora y 5.853 toneladas a plena carga, el buque destaca por su alta capacidad de defensa aérea y misiones internacionales complejas",
-    "published": "Wed, 01 Apr 2026 09:26:05 +0200",
+    "title": "Sánchez se encamina por cuarto año consecutivo a evitar el Debate sobre el Estado de la Nación",
+    "link": "https://www.larazon.es/espana/sanchez-encamina-cuarto-ano-consecutivo-evitar-debate-estado-nacion_2026040269cdc054bfc2456bae1b6168.html",
+    "summary": "La última comparecencia del presidente se produjo en junio de 2022 y contrasta con la \"renegación\" de Bolaños",
+    "published": "Thu, 02 Apr 2026 03:03:15 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Juanma diez, Marisú cero",
-    "link": "https://www.larazon.es/espana/juanma-diez-marisu-cero_2026040169ccb0eebfc2456bae1a84c0.html",
-    "summary": "La campaña del PSOE, liderada por «María Jesús del Gran Poder», la que habla en tercera persona como Julio César, será sucia y bronca",
-    "published": "Wed, 01 Apr 2026 07:45:18 +0200",
+    "title": "Cuatro años,15 victorias: la «legislatura» de Feijóo en el PP",
+    "link": "https://www.larazon.es/espana/cuatro-anos15-victorias-legislatura-feijoo_2026040269cdc02683aca52e0e40f1a0.html",
+    "summary": "Encara las andaluzas como un nuevo punto de partida para el asalto definitivo de la Moncloa",
+    "published": "Thu, 02 Apr 2026 03:02:30 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Los Juzgados de Cataluña lideran los litigios por okupación: concentran uno de cada cinco casos registrados en toda España",
-    "link": "https://www.larazon.es/espana/juzgados-cataluna-lideran-litigios-okupacion-concentran-uno-cada-cinco-casos-registrados-toda-espana_2026040169cc017f83aca52e0e3fb06c.html",
-    "summary": "Los tribunales recibieron 1.845 denuncias en el último año natural, pero la estadística oficial no incluye todas las denuncias presentadas ni los datos de inquiocupación",
-    "published": "Wed, 01 Apr 2026 04:26:40 +0200",
+    "title": "Los críticos de PSOE se mueven: «pelearán» otras candidaturas en Madrid y en Valencia",
+    "link": "https://www.larazon.es/espana/criticos-psoe-mueven-pelearan-otras-candidaturas-madrid-valencia_2026040269cdbf9e83aca52e0e40f138.html",
+    "summary": "Sánchez se prepara para aguantar hasta 2027. En el PSOE esperan «más gestos de rebeldía». López y Morant dudan de sus candidaturas",
+    "published": "Thu, 02 Apr 2026 03:00:14 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "La UCO, tras el negocio paralelo de AirBnB del financiador de Alvise",
-    "link": "https://www.larazon.es/espana/uco-negocio-paralelo-airbnb-financiador-alvise_2026033169c6cec9bfc2456bae1661f7.html",
-    "summary": "Identifica pagos de casi 344.500 euros procedentes de la plataforma de alquiler y consolida los indicios de blanqueo",
-    "published": "Wed, 01 Apr 2026 03:38:15 +0200",
+    "title": "Como Juan Palomo",
+    "link": "https://www.larazon.es/espana/como-juan-palomo_2026040269cda6586b2f8835925eb0bb.html",
+    "summary": "Sánchez ha jibarizado el PSOE identificándolo con su persona",
+    "published": "Thu, 02 Apr 2026 01:12:24 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El Gobierno teme que Trump tome represalias con las bases militares en España",
-    "link": "https://www.larazon.es/espana/diplomacia-teme-golpe-fuerte-estados-unidos_2026040169cc6e1e6b2f8835925dc06a.html",
-    "summary": "Moncloa niega una crisis, pero el cuerpo diplomático tiene miedo a «un gesto fuerte» de EEUU en plena campaña de las andaluzas",
-    "published": "Wed, 01 Apr 2026 03:00:14 +0200",
+    "title": "Sorpresa en el \"caso Begoña Gómez\": Manos Limpias reclama que se deje de investigar a la asesora de Moncloa",
+    "link": "https://www.larazon.es/espana/sorpresa-caso-begona-gomez-manos-limpias-reclama-que-deje-investigar-asesora-moncloa_2026040169cd67fbbfc2456bae1b2fb8.html",
+    "summary": "El sindicato se desvincula del resto de las acusaciones populares y pide también que no se les mande a un tribunal de jurado",
+    "published": "Wed, 01 Apr 2026 20:46:19 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El financiador de Alvise, encausado por un fraude fiscal de más de un millón en un año",
-    "link": "https://www.larazon.es/espana/financiador-alvise-encausado-fraude-fiscal-mas-millon-ano_2026040169cc6841bfc2456bae1a5d0e.html",
-    "summary": "Un juzgado de Madrid tendrá que investigar si en 2022 no pagó IRPF e IVA por los consejos de elusión a Hacienda que ofrecía",
-    "published": "Wed, 01 Apr 2026 02:35:13 +0200",
+    "title": "Un pakistaní dirigía una de las redes más importantes para introducir inmigrantes en España desde Marruecos",
+    "link": "https://www.larazon.es/espana/pakistani-dirigia-redes-mas-importantes-introducir-inmigrantes-espana-marruecos_2026040169cd5dd9bfc2456bae1b287a.html",
+    "summary": "\"Qhasi Goraya\" llegaba a cobrar hasta 30.000 euros por persona para \"garantizar\" el éxito del viaje",
+    "published": "Wed, 01 Apr 2026 20:03:05 +0200",
     "source": "La Razón",
-    "score": 0
-  },
-  {
-    "title": "El gobierno de EEUU investiga cómo se gestionó la eutanasia de Noelia en España por \"fallos de derechos humanos\"",
-    "link": "https://www.20minutos.es/nacional/gobierno-eeuu-investiga-como-se-gestiono-eutanasia-noelia-espana-por-fallos-derechos-humanos_6953291_0.html",
-    "summary": "Según publica el 'New York Post', EEUU ha comenzado una pesquisa sobre como España gestionó el caso. Recalcan la preocupación por falta de protección a personas en un estado indefenso y vulneración de derechos humanos.",
-    "published": "Wed, 01 Apr 2026 09:36:51 +0200",
-    "source": "20 Minutos",
     "score": 0
   },
   {
     "title": "Huelga en los aeropuertos de España: a quién afecta, cuánto durará y servicios mínimos",
-    "link": "https://www.20minutos.es/nacional/huelga-aeropuertos-semana-santa-espana-quien-afecta-cuanto-dura-servicios-minimos_6952681_0.html",
+    "link": "https://www.20minutos.es/nacional/huelga-aeropuertos-semana-santa-espana-calendario-quien-afecta-cuanto-dura-servicios-minimos_6952681_0.html",
     "summary": "La convocatoria, respaldada por los sindicatos CCOO, UGT y USO, afecta a más de 5.500 trabajadores de una docena de aeropuertos del país.",
-    "published": "Wed, 01 Apr 2026 08:10:52 +0200",
+    "published": "Thu, 02 Apr 2026 09:01:17 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "El segundo gran éxodo de la Semana Santa arranca este miércoles: la DGT prevé 10 millones de desplazamientos",
-    "link": "https://www.20minutos.es/nacional/segundo-gran-exodo-semana-santa-arranca-este-miercoles-dgt-preve-10-millones-desplazamientos_6953246_0.html",
-    "summary": "La Dirección General de Tráfico prevé 10 millones de desplazamientos hasta el lunes 6 de abril.",
-    "published": "Wed, 01 Apr 2026 07:16:04 +0200",
+    "title": "Un puente temblando, edificios colapsados... Los vídeos del fuerte terremoto que ha dejado al menos un muerto en Indonesia",
+    "link": "https://www.20minutos.es/internacional/un-puente-temblando-edificios-colapsados-los-videos-devastador-terremoto-que-ha-dejado-menos-un-muerto-indonesia_6953686_0.html",
+    "summary": "El temblor generó una alerta de tsunami para Indonesia, Malasia y Filipinas. El Centro de Alertas de Tsunami del Pacífico desactivó la alerta poco después.",
+    "published": "Thu, 02 Apr 2026 08:42:27 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Semana Santa pet-friendly: cómo conseguir que nuestros perros disfruten del viaje",
-    "link": "https://www.20minutos.es/animaleros/perros/semana-santa-pet-friendly-como-conseguir-que-nuestros-perros-disfruten-viaje_6952134_0.html",
-    "summary": "Señales sutiles como jadeos, bostezos o inmovilidad pueden indicar que el animal no está disfrutando del trayecto, sino sufriendo un proceso de estrés.",
-    "published": "Wed, 01 Apr 2026 07:51:46 +0200",
+    "title": "Tropas de élite, elementos anfibios y avisos de \"destrucción\": todas las pistas que da Trump sobre una posible incursión terrestre en Irán",
+    "link": "https://www.20minutos.es/internacional/tropas-elite-elementos-anfibios-avisos-destruccion-todas-las-pistas-que-da-trump-sobre-una-posible-incursion-terrestre-iran_6953343_0.html",
+    "summary": "Los expertos se dividen entre quienes creen que EEUU está ganando tiempo para lanzar una ofensiva por tierra y quienes consideran estos movimientos una medida de presión.",
+    "published": "Thu, 02 Apr 2026 07:23:33 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "El paso histórico de una ciudad al autorizar el entierro de mascotas dentro de los panteones familiares",
-    "link": "https://www.20minutos.es/animaleros/paso-historico-una-ciudad-autorizar-entierro-mascotas-dentro-los-panteones-familiares_6940648_0.html",
-    "summary": "En la entrada del cementerio donde vivió más de una década se alza hoy una estatua en su honor.",
-    "published": "Wed, 01 Apr 2026 07:51:17 +0200",
+    "title": "Un terremoto de magnitud 7,4 sacude Indonesia y deja al menos un muerto",
+    "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-7-4-sacude-indonesia-deja-menos-un-muerto_6953684_0.html",
+    "summary": "El temblor generó una alerta de tsunami para Indonesia, Malasia y Filipinas. El Centro de Alertas de Tsunami del Pacífico desactivó la alerta poco después.",
+    "published": "Thu, 02 Apr 2026 08:14:47 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Comportamiento canino: por qué los perros rascan y lanzan tierra tras orinar o defecar",
-    "link": "https://www.20minutos.es/animaleros/perros/comportamiento-canino-por-que-los-perros-rascan-lanzan-tierra-tras-orinar-defecar_6938302_0.html",
-    "summary": "Aproximadamente solo alrededor del 10% de los perros lo hace, y la calma o inseguridad pueden influir más que el sexo y la castración.",
-    "published": "Wed, 01 Apr 2026 07:50:49 +0200",
+    "title": "Trump dice que las próximas dos semanas va a atacar a Irán con \"mucha fuerza\" y que está \"cerca\" de lograr sus objetivos",
+    "link": "https://www.20minutos.es/internacional/trump-reiterara-que-necesitara-dos-tres-semanas-mas-para-poner-fin-guerra-iran-su-discurso-este-miercoles_6953670_0.html",
+    "summary": "El presidente de EEUU se ha dirigido a la nación no aclara si habrá un despliegue de tropas en el país.",
+    "published": "Wed, 01 Apr 2026 22:53:20 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Las mejores viñetas de Álvaro Terán",
-    "link": "https://www.20minutos.es/nacional/las-mejores-vinetas-alvaro-teran_4077416_1.html",
-    "summary": "Todas las viñetas publicadas por Terán en 20minutos.",
-    "published": "Wed, 08 Oct 2025 12:02:02 +0200",
+    "title": "Una escultura conmemora en Kazajistán el rescate que dio la vuelta al mundo hace una década",
+    "link": "https://www.20minutos.es/animaleros/una-escultura-conmemora-kazajistan-rescate-que-dio-vuelta-mundo-hace-una-decada_6950985_0.html",
+    "summary": "La escena, grabada por una testigo, acumuló millones de visualizaciones y se convirtió en uno de los rescates animales más virales.",
+    "published": "Thu, 02 Apr 2026 07:50:15 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Las otras puertas de Kitchen que García Castellón cerró: el falso cura, el espionaje en la cárcel y el rastro del CNI",
-    "link": "https://www.eldiario.es/politica/puertas-kitchen-garcia-castellon-cerro-falso-cura-espionaje-carcel-rastro-cni_1_13109911.html",
-    "summary": "Una nueva revelación se suma a los indicios sobre la participación del servicio de Inteligencia dependiente de Soraya Sáenz de Santamaría en el espionaje a Bárcenas: existen imágenes de unas cámaras colocadas en el chalet del extesorero del PP en Baqueira clasificadas como secreto'Juicio final a la ",
-    "published": "Tue, 31 Mar 2026 20:05:06 +0000",
+    "title": "Qué dice realmente la ciencia sobre la gatoterapia: beneficios potenciales y límites actuales",
+    "link": "https://www.20minutos.es/animaleros/gatos/que-dice-realmente-ciencia-sobre-gatoterapia-beneficios-potenciales-limites-actuales_6952136_0.html",
+    "summary": "Un informe de Sanicat y Biak Bat recoge cómo las intervenciones asistidas con gatos están ganando presencia en entornos terapéuticos y educativos.",
+    "published": "Thu, 02 Apr 2026 07:48:43 +0200",
+    "source": "20 Minutos",
+    "score": 0
+  },
+  {
+    "title": "¿Qué será de Carlos Cuerpo?",
+    "link": "https://www.20minutos.es/nacional/que-sera-carlos-cuerpo_6953443_3.html",
+    "summary": "Consulta aquí todos los artículos de Miguel Ángel Aguilar.",
+    "published": "Thu, 02 Apr 2026 07:19:48 +0200",
+    "source": "20 Minutos",
+    "score": 0
+  },
+  {
+    "title": "Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de un nuevo bloque de poder en Oriente Medio",
+    "link": "https://www.eldiario.es/internacional/theguardian/negociaciones-iran-impulsadas-pakistan-muestran-nacimiento-nuevo-bloque-oriente-medio_129_13111222.html",
+    "summary": "La imprevista asociación entre Egipto, Pakistán, Arabia Saudí y Turquía trata de articular un alto el fuego y limitar la preponderancia de Irán e Israel El escepticismo de los países del golfo Pérsico sobre las “intensas conversaciones” con Irán evidencia una desconfianza hacia Trump \n        La reu",
+    "published": "Wed, 01 Apr 2026 20:16:22 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: \"Tuvo que haber alguien detrás, estaba demasiado planeado\"",
-    "link": "https://www.eldiario.es/politica/willy-barcenas-asalto-falso-cura-casa-tuvo-haber-alguien-detras-planeado_1_13111579.html",
-    "summary": "El hijo del extesorero del PP declaró ante el juez que \"la lógica\" le indicaba que el intento de secuestro no pudo ser un hecho aislado: \"Estaba todo demasiado orquestado, planeado, con demasiados detalles\"Tercera entrega - Las tres puertas de Kitchen que García Castellón no abrió: el falso cura, el",
-    "published": "Tue, 31 Mar 2026 20:05:06 +0000",
+    "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio global navega sin motor ni rumbo",
+    "link": "https://www.eldiario.es/economia/ano-i-despues-dia-liberacion-arancelaria-trump-comercio-global-navega-motor-rumbo_129_13114418.html",
+    "summary": "Doce meses después del viraje proteccionista de la Casa Blanca, los flujos de mercancías y servicios emiten tantas vulnerabilidades como signos de resistencia. Entre otros, el coste del veto del Supremo americano a los gravámenes, los brotes inflacionistas del petróleo y las disrupciones de las cade",
+    "published": "Wed, 01 Apr 2026 20:16:22 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "España, en el pelotón europeo que no ha hecho los deberes para frenar las demandas abusivas contra periodistas",
-    "link": "https://www.infolibre.es/medios/espana-peloton-europeo-no-hecho-deberes-frenar-demandas-abusivas-periodistas_1_2169176.html",
-    "summary": "La lista de países de la UE que, a poco más de un mes de que venza el plazo europeo para trasponer la directiva europea que busca blindar a los medios de las demandas infundadas que tratan de silenciarlos —conocidas como SLAPP—, es larga. No han iniciado debates parlamentarios, no han presentado pro",
-    "published": "Wed, 01 Apr 2026 04:01:15 +0000",
+    "title": "Vox sigue perdiendo apoyos: nueva salida en Cartagena en plena crisis interna",
+    "link": "https://www.eldiario.es/murcia/politica/vox-sigue-perdiendo-apoyos-nueva-salida-cartagena-plena-crisis-interna_1_13113857.html",
+    "summary": "Sánchez del Álamo se convierte la segunda baja del partido de ultraderecha en la ciudad portuaria y deja la mayoría de gobierno de PP y Vox en entredichoCrisis interna de Vox en Torre Pacheco tras el pacto de gobierno con el PP: dos concejalas más abandonan el partido\n        El goteo de bajas es in",
+    "published": "Wed, 01 Apr 2026 09:08:02 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "IU y Podemos afrontan la reunión clave para decidir si se presentan unidos en Andalucía",
+    "link": "https://www.eldiario.es/politica/iu-afrontan-reunion-clave-decidir-si-presentan-unidos-andalucia_1_13115814.html",
+    "summary": "Los de Ione Belarra mantienen este jueves un encuentro con la formación de Antonio Maíllo, así como con Sumar e Iniciativa del Pueblo Andaluz, para intentar cerrar una negociación 'exprés' para su integración en la alianza Por Andalucía. Todos los actores se conjuran para no apurar el plazo, que ter",
+    "published": "Wed, 01 Apr 2026 20:16:23 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "Las bases validan que Podemos entre en una coalición de izquierdas en Andalucía que ahora debe forjarse en pocas horas",
+    "link": "https://www.eldiario.es/andalucia/bases-validan-coalicion-izquierdas-andalucia-ahora-debe-forjarse-horas_1_13115430.html",
+    "summary": "Las partes mantendrán este jueves una reunión contrarreloj para negociar si la formación que lidera Ione Belarra vuelve a estar en Por Andalucía con IU y Sumar, un pacto que debe sellarse en tiempo récordIU y Sumar citan a Podemos a una reunión el jueves para decidir si se integra en la coalición Po",
+    "published": "Wed, 01 Apr 2026 16:15:04 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "La misión Artemisa II despega con éxito y comienza el regreso a la Luna después de más de medio siglo",
+    "link": "https://www.eldiario.es/sociedad/directo-cuenta-lanzamiento-mision-artemisa-ii-cuatro-astronautas-rumbo-luna_1_13114592.html",
+    "summary": "A las 00.35 h (hora peninsular española), Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen han partido hacia la Luna, en un viaje de diez días que dará una vuelta a nuestro satélite en la primera misión lunar tripulada desde el programa ApoloArtemisa II: claves y horarios para seguir el r",
+    "published": "Wed, 01 Apr 2026 15:16:25 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "Radiografía del vapeo adolescente: problemas de salud antes de los 18 y una industria con ganancias millonarias",
+    "link": "https://www.eldiario.es/sociedad/radiografia-vapeo-adolescente-problemas-salud-18-industria-ganancias-millonarias_1_12921848.html",
+    "summary": "Muchos empezaron a fumar cigarrillos electrónicos como \"un juego\" siendo menores. Ahora algunos de ellos tienen que enfrentarse a serios problemas de salud mientras los expertos alertan de que cada vez hay más evidencia de las consecuencias negativas de estos aparatos¿Qué puedo hacer si le encuentro",
+    "published": "Wed, 01 Apr 2026 20:16:23 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "La NASA aspira a que su viaje a la Luna vuelva a unir a un mundo polarizado por Trump",
+    "link": "https://www.infolibre.es/internacional/nasa-aspira-viaje-luna-vuelva-unir-mundo-polarizado-trump_1_2171686.html",
+    "summary": "Esta semana comienza el primer viaje tripulado que se acercará a la Luna en más de medio siglo. Está liderado por Estados Unidos, a través de la NASA, y tiene lugar apenas un año después de la llegada de Donald Trump a la Casa Blanca. La agencia espacial estadounidense aspira a que este hito, como o",
+    "published": "Wed, 01 Apr 2026 16:29:43 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "“Las mejoras tras Adamuz no pueden quedar dormidas por interés político como en Angrois”, la demanda de los maquinistas",
-    "link": "https://www.infolibre.es/politica/mejoras-adamuz-no-quedar-dormidas-interes-politico-angrois-demanda-sindicato-maquinistas_1_2170557.html",
-    "summary": "Diego Martín es secretario general del Sindicato Español de Maquinistas Ferroviarios (Semaf) desde 2022 y lleva un comienzo de año especialmente duro. El 18 de enero el descarrilamiento de Adamuz dejó 46 personas muertas, entre ellas un maquinista. El 20 de enero murió otro maquinista en otro accide",
-    "published": "Wed, 01 Apr 2026 04:01:15 +0000",
+    "title": "Resignación o participación popular: ¿cómo viven los ateos una ciudad tomada por la Semana Santa?",
+    "link": "https://www.infolibre.es/politica/resignacion-participacion-popular-viven-ateos-ciudad-tomada-semana-santa_1_2171766.html",
+    "summary": "Casi 40.000 cofrades desfilan estos días en una ciudad de 61.000 habitantes. El dato, apabullante, tiene letra pequeña. Muchos lo son de varias cofradías a la vez, más los que son de pueblos de la provincia o emigrantes que regresan puntualmente para procesionar. Aun así, el dato sirve para mostrar ",
+    "published": "Wed, 01 Apr 2026 18:50:16 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Hungría, ¿el principio del fin del 'orbanismo'?",
-    "link": "https://www.infolibre.es/opinion/ideas-propias/hungria-principio-orbanismo_129_2170817.html",
-    "summary": "Por primera vez en más de una década, el horizonte político húngaro aparece atravesado por una incertidumbre real. Las elecciones legislativas del próximo 12 de abril no son una cita electoral más; conforman, en muchos sentidos, un plebiscito sobre el modelo de poder construido por Viktor Orbán desd",
-    "published": "Tue, 31 Mar 2026 18:56:31 +0000",
+    "title": "Mientras miramos a Irán, desaparece Palestina",
+    "link": "https://www.infolibre.es/opinion/ideas-propias/miramos-iran-desaparece-palestina_129_2171348.html",
+    "summary": "Desde su creación en 1948, el Estado de Israel carece de un texto constitucional estructurado de forma análoga a la de la mayoría de los Estados que conforman la comunidad democrática internacional. Se justifica porque la Knesset (el Parlamento) no fue capaz de conseguir una norma que satisficiese l",
+    "published": "Wed, 01 Apr 2026 18:50:49 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Rosalía, una aparición mariana entre el fervor y el delirio en su primer concierto en Madrid",
-    "link": "https://www.infolibre.es/cultura/musica/rosalia-aparicion-mariana-fervor-delirio-primer-concierto-madrid_1_2170813.html",
-    "summary": "Hay en todo esto de Rosalía algo de aparición mariana que se mueve entre el fervor y el delirio. Porque menudo griterío, vaya océano de teléfonos móviles alzados intentando captar el momento. Hay emoción y llanto, pareciera por momentos que el gentío va a terminar asaltando el escenario como si fuer",
-    "published": "Tue, 31 Mar 2026 08:51:37 +0000",
+    "title": "Jesús de Nazaret, persona de grandeza moral",
+    "link": "https://www.infolibre.es/opinion/ideas-propias/jesus-nazaret-persona-grandeza-moral_129_2170534.html",
+    "summary": "De Jesús de Nazaret casi nadie habla mal. Las religiones han sido objeto de crítica desde antiguo, una crítica que se ha generalizado a partir de la Modernidad. De ellas se ha dicho que fomentan la superstición, el fanatismo y la intolerancia, y muchas veces con razón. A Dios también le han llovido ",
+    "published": "Thu, 02 Apr 2026 04:01:16 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "¿Sigue permitiendo la UE que los socios usen el veto como arma de presión?",
-    "link": "http://es.euronews.com/my-europe/2026/04/01/sigue-permitiendo-la-ue-que-los-socios-usen-el-veto-como-arma-de-presion",
-    "summary": "¿Qué ocurre cuando un mecanismo concebido para proteger la soberanía nacional se convierte en un pulso de poder contra todo el bloque? Se lo explicamos en el vídeo.",
-    "published": "Wed, 01 Apr 2026 09:45:39 +0200",
+    "title": "El petróleo sube un 6% tras la promesa de Trump de \"golpear duro\"",
+    "link": "http://es.euronews.com/business/2026/04/02/el-petroleo-sube-un-6-tras-la-promesa-de-trump-de-golpear-duro",
+    "summary": "La ambigüedad del presidente sobre el fin de las hostilidades decepciona a los inversores y dispara el Brent por encima de los 107 dólares. Pese a que el Gobierno afirma que los objetivos están cerca, la falta de detalles sobre el estrecho de Ormuz lastra las bolsas en Asia.",
+    "published": "Thu, 02 Apr 2026 09:26:51 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "EE.UU. pide explicaciones a España e investiga el caso de Noelia Castillo tras su eutanasia",
-    "link": "http://es.euronews.com/salud/2026/04/01/eeuu-explicaciones-espana-investiga-caso-noelia-castillo-eutanasia",
-    "summary": "La Administración Trump ha ordenado a su Embajada en Madrid indagar la actuación de las autoridades españolas y alerta de fallos en derechos humanos. Noelia Castillo recibió la muerte asistida la pasada semana tras casi dos años luchando en los tribunales.",
-    "published": "Wed, 01 Apr 2026 09:23:49 +0200",
+    "title": "El ayuno de Cuaresma es bueno para la salud",
+    "link": "http://es.euronews.com/salud/2026/04/02/el-ayuno-de-cuaresma-es-bueno-para-la-salud",
+    "summary": "Un ayuno adecuado de unas semanas puede reducir los niveles de colesterol y azúcar en sangre",
+    "published": "Thu, 02 Apr 2026 09:10:53 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Adiós, Daniel Craig, se desvela la identidad del nuevo James Bond",
-    "link": "http://es.euronews.com/cultura/2026/04/01/adios-daniel-craig-se-desvela-la-identidad-del-nuevo-james-bond",
-    "summary": "Por fin se ha anunciado el reparto que todos esperábamos y la elección del sucesor de Daniel Craig como 007 puede sorprender a algunos fans.",
-    "published": "Wed, 01 Apr 2026 09:18:35 +0200",
+    "title": "Lindsey Buckingham sufre un asalto por parte de una acosadora",
+    "link": "http://es.euronews.com/cultura/2026/04/02/lindsey-buckingham-de-fleetwood-mac-atacado-por-mujer-con-sustancia-desconocida",
+    "summary": "El guitarrista de 76 años fue sorprendido por una mujer que le arrojó un objeto antes de huir en Santa Mónica. Pese al incidente, el músico no resultó herido y se espera una detención en las próximas horas. El suceso ocurre tras el relanzamiento de 'Buckingham Nicks'.",
+    "published": "Thu, 02 Apr 2026 09:05:08 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "La Primera de Expansión sobre Aena, Santander, ACS, petróleo y encarecimiento de las hipotecas",
-    "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/04/01/69ccaa00e5fdea35468b4598.html",
-    "summary": "Aena disparará al menos un 50% su negocio fuera de España, hasta 1.300 millones de euros en ingresos y 500 millones de resultado bruto de explotación.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 07:15:54 +0200",
+    "title": "Al menos un muerto en el terremoto de 7,4 grados de Indonesia que activó la alerta de tsunami",
+    "link": "http://es.euronews.com/2026/04/02/al-menos-un-muerto-en-el-terremoto-de-74-grados-de-indonesia-que-activo-la-alerta-de-tsuna",
+    "summary": "Una mujer de 70 años falleció en uno de los derrumbes provocados por el terremoto. La intensidad del mismo hizo salta las alertas de tsunami, que a has 8:40, hora española, ya han sido desactivadas.",
+    "published": "Thu, 02 Apr 2026 08:47:04 +0200",
+    "source": "Euronews ES",
+    "score": 0
+  },
+  {
+    "title": "El MAS de Amberes explora historia y legado de las artes marciales",
+    "link": "http://es.euronews.com/cultura/2026/04/02/el-mas-de-amberes-explora-historia-y-legado-de-las-artes-marciales",
+    "summary": "Una nueva exposición en el MAS de Amberes explora las artes marciales como cultura, identidad y comunidad, y reúne tradiciones globales e historias locales más allá del combate.",
+    "published": "Thu, 02 Apr 2026 08:24:51 +0200",
+    "source": "Euronews ES",
+    "score": 0
+  },
+  {
+    "title": "Artemis II partió rumbo a la Luna y Europa desempeña un papel clave",
+    "link": "http://es.euronews.com/2026/04/02/artemis-ii-llega-a-la-luna-y-europa-desempena-un-papel-clave",
+    "summary": "La noche del 2 de abril, cuatro astronautas partieron hacia la Luna por primera vez en más de 50 años. A bordo de la misión de la NASA hay mucha más tecnología alemana y europea de lo que la mayoría de la gente cree.",
+    "published": "Thu, 02 Apr 2026 08:07:50 +0200",
+    "source": "Euronews ES",
+    "score": 0
+  },
+  {
+    "title": "Indra nombra nuevo presidente no ejecutivo a Ángel Simón de forma exprés",
+    "link": "https://www.expansion.com/empresas/2026/04/02/69cde801e5fdeaa63c8b4588.html",
+    "summary": "A las 3.29 horas de este Jueves Santo, Indra comunicó a la CNMV el nombramiento de Ángel Simón como consejero y presidente no ejecutivo.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 05:54:09 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Buffett ve signos de fragilidad en la banca",
-    "link": "https://www.expansion.com/mercados/2026/04/01/69cc47dce5fdeafc6f8b4584.html",
-    "summary": "\"Si alguien grita 'fuego' en un teatro lleno, todo el mundo sale corriendo; conviene ser el primero en llegar a la puerta [...]. \"Yo me quedaré atrás diciendo: 'Mantengan la calma', pero es porque no puedo correr rápido\", dice Buffett.&nbsp;Leer",
-    "published": "Wed, 01 Apr 2026 00:21:05 +0200",
+    "title": "Indra vale 5.400 millones más tras el paso de Escribano",
+    "link": "https://www.expansion.com/mercados/2026/04/01/69cd11a4468aeb7b288b4582.html",
+    "summary": "Indra se deja torno a un 6% en Bolsa ante la noticia de la previsible dimisión de Ángel Escribano como presidente de la compañía esta tarde.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 01:55:58 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Today in Spain: A roundup of the latest news on Wednesday",
-    "link": "https://www.thelocal.es/20260401/today-in-spain-a-roundup-of-the-latest-news-on-wednesday-76",
-    "summary": "Variable mortgages in Spain increase by €160 in a month, US Secretary of State questions Nato's purpose using Spain as example and more news from Spain this Wednesday April 1st.",
-    "published": "Wed, 01 Apr 2026 08:58:21 +0200",
+    "title": "EEUU emitirá  el primer bono con  respaldo del bitcoin",
+    "link": "https://www.expansion.com/mercados/criptomonedas/2026/04/02/69cd5fb2e5fdea30788b456f.html",
+    "summary": "Moody's ha otorgado una calificación crediticia a esta deuda de 'Ba2' con grado especulativo&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 01:51:20 +0200",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "Los astronautas del Artemis II inician su viaje a la Luna",
+    "link": "https://www.expansion.com/sociedad/2026/04/02/69cdb41be5fdea7f368b457e.html",
+    "summary": "La misión lunar Artemis II, ahora en la órbita terrestre, superó este miércoles los primeros ocho minutos y medio críticos tras su despegue desde Florida, donde también afrontó dos problemas técnicos que causaron tensión en la NASA apenas momentos antes del lanzamiento.&nbsp;Leer",
+    "published": "Thu, 02 Apr 2026 02:15:19 +0200",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "'Tarnished' Spain probes anti-Muslim chants at Egypt friendly",
+    "link": "https://www.thelocal.es/20260402/tarnished-spain-probes-anti-muslim-chants-at-egypt-friendly",
+    "summary": "Spanish police on Wednesday said they were investigating \"Islamophobic and xenophobic\" chants that were heard during a Spain-Egypt international football match in Barcelona, which the Prime Minister said \"tarnish\" the country.",
+    "published": "Thu, 02 Apr 2026 08:31:58 +0200",
     "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "Spain uncovers 'maze-like' drug tunnel to Morocco",
-    "link": "https://www.thelocal.es/20260331/spain-uncovers-maze-like-drug-tunnel-to-morocco",
-    "summary": "Spanish police on Tuesday said they had uncovered a technologically sophisticated and \"maze-like\" underground tunnel used to smuggle tonnes of hashish from Morocco to Spain's North African exclave of Ceuta and Europe.",
-    "published": "Tue, 31 Mar 2026 17:04:48 +0200",
+    "title": "Judge again seeks jury trial for Spanish PM's wife",
+    "link": "https://www.thelocal.es/20260402/judge-again-seeks-jury-trial-for-spanish-pms-wife",
+    "summary": "A judge who has investigated Spanish Prime Minister Pedro Sánchez's wife Begoña Gómez for two years for alleged corruption made a fresh attempt to send her to a jury trial on Wednesday.",
+    "published": "Thu, 02 Apr 2026 08:24:10 +0200",
     "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "An A to Z of the Spanish Semana Santa vocabulary you need to know",
-    "link": "https://www.thelocal.es/20230406/an-a-to-z-of-the-spanish-semana-santa-vocabulary-you-need-to-know",
-    "summary": "Semana Santa or Holy Week is a big deal in Spain. The holiday even comes with its own set of special Spanish words you'll hear over and over again during this time.",
-    "published": "Thu, 06 Apr 2023 17:22:18 +0200",
+    "title": "Today in Spain: A roundup of the latest news on Thursday",
+    "link": "https://www.thelocal.es/20260402/today-in-spain-a-roundup-of-the-latest-news-on-thursday-72",
+    "summary": "Spain partially lifts bird flu poultry confinement, Yamal slams 'intolerable' anti-Muslim 'mockery', US to investigate controversial euthanasia case, and more news from Spain on Thursday April 2nd.",
+    "published": "Thu, 02 Apr 2026 08:13:01 +0200",
     "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "What to expect from the next days of airport strikes in Spain this Easter",
-    "link": "https://www.thelocal.es/20260331/what-to-expect-from-the-next-days-of-airport-strikes-in-spain-this-easter",
-    "summary": "The first day of ground staff strikes at 12 Spanish airports caused \"mountains of luggage\" on the tarmac and flight delays. Here's what you can expect from the two different airport strikes taking place across Spain this week.",
-    "published": "Tue, 31 Mar 2026 11:18:58 +0200",
+    "title": "What will the weather be like in Spain this Easter?",
+    "link": "https://www.thelocal.es/20260317/what-will-the-weather-be-like-in-spain-this-easter-2",
+    "summary": "Easter week is finally upon us and many will be wondering what the weather will be over the bank holidays and this weekend. While the forecast has changed several times, here's what to expect.",
+    "published": "Tue, 17 Mar 2026 10:19:58 +0100",
     "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "Spain rules non-consensual kiss on hand is sexual assault",
-    "link": "https://www.thelocal.es/20260331/spain-rules-non-consensual-kiss-on-hand-is-sexual-assault",
-    "summary": "Spain’s Supreme Court has ruled that kissing a person’s hand without their consent constitutes sexual assault rather than street harassment, according to a decision obtained by AFP on Monday.",
-    "published": "Tue, 31 Mar 2026 09:28:28 +0200",
+    "title": "Strikes at seven airports in Spain called off but other stoppages remain",
+    "link": "https://www.thelocal.es/20260401/strikes-at-seven-airports-in-spain-called-off-but-other-stoppages-remain",
+    "summary": "Workers for one of the two ground handling companies planning strikes over the busy Easter period in Spain have cancelled their stoppages, but other ground staff will continue with their walkouts.",
+    "published": "Wed, 01 Apr 2026 13:23:48 +0200",
     "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "Today in Spain: A roundup of the latest news on Tuesday",
-    "link": "https://www.thelocal.es/20260331/today-in-spain-a-roundup-of-the-latest-news-on-tuesday-73",
-    "summary": "White House says it doesn't need Spain after airspace closure to US military, Spain's Catholic Church signs deal to compensate abuse victims and more news on Tuesday March 31st.",
-    "published": "Tue, 31 Mar 2026 09:04:44 +0200",
+    "title": "'Danza de la Muerte': Spanish Holy Week's spookiest celebration",
+    "link": "https://www.thelocal.es/20260401/dance-of-death-spanish-holy-weeks-spookiest-celebration",
+    "summary": "Every year, the small Catalan town of Verges celebrates Easter in a unique way - the hair-raising 'Danza de la Muerte', or Dance of Death.",
+    "published": "Wed, 01 Apr 2026 11:00:01 +0200",
+    "source": "The Local ES",
+    "score": 0
+  },
+  {
+    "title": "Islamophobic chants at Egypt friendly a new low for Spanish football",
+    "link": "https://www.thelocal.es/20260401/islamophobic-chants-in-egypt-friendly-a-new-low-for-spanish-football",
+    "summary": "The national side's friendly against Egypt on Tuesday was marred by more xenophobic incidents which continue to damage the image of Spanish football, as fans booed the Egyptian national anthem and sang chants mocking Muslims.",
+    "published": "Wed, 01 Apr 2026 10:37:56 +0200",
     "source": "The Local ES",
     "score": 0
   }

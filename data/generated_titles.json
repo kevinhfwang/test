@@ -1,47 +1,47 @@
 [
   {
-    "title": "西班牙物价下降",
-    "original_title": "El mapa del precio de la gasolina tras la rebaja de impuestos: caídas de 15 y 25 céntimos por litro",
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Trump pide paciencia a un público cansado de una guerra que “está a punto de acabar”",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/mapa-precio-gasolinera-espana-subidas-guerra-iran-eeuu_1_13035280.html",
-      "summary": "Comparamos el precio del diésel, gasolina 95 y gasolina 98 de más de 12.000 estaciones de servicio en todo el territorio ante la subida de precios por el conflicto en Oriente Medio. Busca la tuya en e"
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-04-02/trump-pide-paciencia-a-un-publico-cansado-sobre-una-guerra-que-esta-a-punto-de-acabar.html",
+      "summary": "El estrecho de Ormuz, cerrado por Irán, se abrirá “naturalmente” cuando concluya el conflicto “en dos o tres semanas”, pronostica el presidente de Estados Unidos, que amenaza con “golpear duramente” a"
     },
-    "category": "税务",
-    "date": "2026-04-01"
+    "category": "伊朗局势",
+    "date": "2026-04-02"
   },
   {
-    "title": "西班牙物价下降 (1)",
-    "original_title": "\"No volveremos a la normalidad\": La UE advierte de que los precios del petróleo y el gas no bajarán con el fin de la guerra",
+    "title": "西班牙油价新动态",
+    "original_title": "15 detenidos en España por estafar casi 200.000 euros y más de 18.000 litros de diésel",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/04/01/ue-advierte-precios-petroleo-gas-no-bajaran",
-      "summary": "La Unión Europea ha advertido de que los precios de la energía no bajarán pronto, aunque termine la guerra de Irán, citando la presión sobre el suministro de combustible y los apuros de los mercados m"
+      "url": "http://es.euronews.com/2026/04/02/15-detenidos-en-espana-por-estafar-casi-200000-euros-y-mas-de-18000-litros-de-diesel",
+      "summary": "La Guardia Civil ha desarticulado una organización criminal que operó entre julio y noviembre de 2025 en Almería, Alicante y Murcia. 15 detenidos, 18.000 litros de gasoil incautados y un fraude que su"
     },
-    "category": "伊朗局势",
-    "date": "2026-04-01"
+    "category": "油价",
+    "date": "2026-04-02"
   },
   {
-    "title": "西班牙买房新动态",
-    "original_title": "Italia y Francia siguen a España y amplían sus vetos a las operaciones militares de EEUU en su territorio",
+    "title": "西班牙伊朗局势上涨",
+    "original_title": "Trump promete \"terminar pronto el trabajo\" en su ofensiva contra Irán",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/union-europea/italia-francia-siguen-espana-amplian-vetos-operaciones-militares-eeuu-territorio_1_2171188.html",
-      "summary": "“Las Fuerzas Armadas de Estados Unidos no necesitan ayuda de España ni de nadie más” para cumplir los objetivos de la guerra emprendida contra Irán. La Casa Blanca responde al Gobierno español por el "
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/04/02/trump-promete-terminar-pronto-el-trabajo-en-su-ofensiva-contra-iran",
+      "summary": "En su primer mensaje en 'prime time', el presidente de Estados Unidos asegura que la victoria está cerca tras 32 días de conflicto. Pese al mensaje del Gobierno, el crudo sube un 4% y la tensión crece"
     },
-    "category": "伊朗局势",
-    "date": "2026-04-01"
+    "category": "工作",
+    "date": "2026-04-02"
   },
   {
-    "title": "西班牙通胀取消",
-    "original_title": "La inflación de la eurozona repunta al 2,5% en marzo por el impacto de la guerra",
+    "title": "西班牙就业新规",
+    "original_title": "La industria española sufre por la guerra en Irán: caen la producción y el empleo",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/03/31/69cb921ce5fdeaef138b45b1.html",
-      "summary": "La inflación de la eurozona repuntó seis décimas en marzo, hasta una tasa interanual del 2,5%, debido principalmente al encarecimiento de los precios de la energía como consecuencia de la guerra en Or"
+      "url": "https://www.expansion.com/economia/2026/04/02/69cd65d3e5fdeacb1d8b456d.html",
+      "summary": "El sector manufacturero español acusó el mes pasado el impacto del conflicto en Oriente Próximo: la actividad fabril se contrajo, disminuyeron los nuevos pedidos y se recortaron plantillas.&nbsp;Leer"
     },
-    "category": "战争风险",
-    "date": "2026-04-01"
+    "category": "工作",
+    "date": "2026-04-02"
   },
   {
     "title": "西班牙税务新动态",
@@ -52,116 +52,116 @@
       "summary": "Gibraltar-Spain free movement, full rollout of EES, airport strikes, regularisation of 500,000+ undocumented migrants to kick off, tax season begins, prices forecast to increase, Easter and more - thi"
     },
     "category": "税务",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "title": "西班牙油价飙升",
-    "original_title": "Los inversores se dejan llevar por la euforia: el Ibex se dispara más del 2,5% y el petróleo cotiza por debajo de 100 dólares el barril",
+    "title": "西班牙住房下降",
+    "original_title": "El falso giro social de Vox en vivienda tras el ascenso de Quero: viejas recetas y la misma xenofobia",
     "source": {
-      "name": "El País",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-04-01/la-bolsa-y-el-ibex-35.html",
-      "summary": "El optimismo por el posible fin del conflicto en Oriente Próximo se deja sentir en los mercados tras las últimas declaraciones de Trump"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/falso-giro-social-vox-vivienda-ascenso-quero-viejas-recetas-xenofobia_1_2171101.html",
+      "summary": "La vivienda nunca ha estado entre las prioridades de Vox. El partido ultraderechista liderado por Santiago Abascal está más cómodo con temas como la inmigración, la seguridad, la natalidad, las bajada"
     },
-    "category": "战争风险",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "La traición gallega de Feijóo",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/opinion/2026-04-01/la-traicion-gallega-de-feijoo.html",
-      "summary": "Si todas las solicitudes de asilo y los permisos de residencia viniesen redactados con la convicción poética de Álvaro Cunqueiro, no habría leyes migratorias ni muros ni deportaciones ni garitas front"
-    },
-    "category": "居留",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "El ganador de esta guerra",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/opinion/20260401/11503611/ganador-guerra.html",
-      "summary": "Putin puede beneficiarse todavía más de las consecuencias del conflicto en Irán"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "西班牙税收新规",
-    "original_title": "La recaudación por impuestos se dispara hasta un nuevo récord de 325.000 millones",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260401/11503584/recaudacion-impuestos-dispara-nuevo-record-325-000-millones.html",
-      "summary": "España redujo el déficit al 2,2% del PIB en 2025, el mínimo desde hace 18 años"
-    },
-    "category": "税务",
-    "date": "2026-04-01"
+    "category": "移民",
+    "date": "2026-04-02"
   },
   {
     "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "Guerra en Irán, en directo | Trump prevé que la guerra terminará \"en dos semanas\" y afirma que Irán ya no tiene armas nucleares",
+    "original_title": "Antisanchismo: la obsesión que descarrila al PP",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-trump-preve-que-guerra-terminara-dos-semanas-afirma-que-iran-ya-no-tiene-armas-nucleares_6953273_6.html",
-      "summary": "Última hora de la guerra de EEUU e Israel contra Irán y la extensión del conflicto a Oriente Medio."
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/opinion/columnas/segunda-vuelta/antisanchismo-obsesion-descarrila-pp_129_2171711.html",
+      "summary": "El antisanchismo más que una estrategia es una obsesión desmedida. Y, como todos los excesos, resulta más contraproducente para quien lo padece. Desde el ‘No a la guerra’ del Gobierno por el conflicto"
     },
     "category": "伊朗局势",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
     "title": "西班牙伊朗局势新动态 (2)",
-    "original_title": "Trump dice que Estados Unidos podría terminar la guerra de Irán “en dos o tres semanas”",
+    "original_title": "El PMI manufacturero de España se contrajo en marzo por la guerra de Irán",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-dice-estados-unidos-terminar-guerra-iran-tres-semanas_1_13113689.html",
-      "summary": "El presidente de EEUU se dirigirá a la nación este miércoles por la noche después de afirmar que Washington abandonaría \"muy pronto\" el conflictoBases y espacio aéreo vetado: el pulso de Europa con Tr"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/01/69ccd965468aebbe358b456e.html",
+      "summary": "El dato de la zona euro siguió al alza y registró máximos desde mediados de 2022, a pesar del conflicto.&nbsp;Leer"
     },
     "category": "伊朗局势",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
     "title": "西班牙伊朗局势新动态 (3)",
-    "original_title": "Los valores del Ibex con más potencial tras un mes de guerra en Irán",
+    "original_title": "Israel raciona misiles interceptores ante el riesgo de caer en una guerra de desgaste con Irán",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/03/31/69cbcc2be5fdea1c288b4574.html",
-      "summary": "El conflicto en Oriente Medio ha lastrado las principales Bolsas del mundo y el Ibex 35 no ha sido una excepción. El selectivo español ha saldado marzo con una caída del 7,14%.&nbsp;Leer"
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-04-02/israel-raciona-misiles-interceptores-ante-el-riesgo-de-caer-en-una-guerra-de-desgaste-con-iran.html",
+      "summary": "El ejército utiliza sistemas más baratos y accesibles para derribar proyectiles, con resultado desigual. Los expertos señalan la importancia de su uso eficiente y de destruir las lanzaderas"
     },
     "category": "伊朗局势",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "title": "西班牙伊朗局势下降",
-    "original_title": "Repsol y Enagás brillan en el peor mes del Ibex desde 2022",
+    "title": "西班牙政策新动态",
+    "original_title": "Vox, un partido sin corrupción",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/03/31/69cbfcbae5fdeafe698b4592.html",
-      "summary": "El índice baja el 7,14% en marzo y rompe con ocho meses al alza. Las petroleras lideran las subidas en un mes marcado por las caídas debido al conflicto bélico en Irán. La petrolera española se anota "
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "西班牙税收飙升",
-    "original_title": "La recaudación de impuestos se dispara un 13,5% en el arranque de 2026",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/01/69cc1a07e5fdeaed178b457f.html",
-      "summary": "La Agencia Tributaria ingresa 56.700 milones de euros en los dos primeros meses del año.&nbsp;Leer"
-    },
-    "category": "税务",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "西班牙政策下降",
-    "original_title": "Hacienda bate récord de recaudación con 325.000 millones y rebaja el déficit a su mínimo desde 2008",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/03/31/69cba938e5fdeafe698b4575.html",
-      "summary": "La Agencia Tributaria ingresa más de 325.000 millones de euros en 2025, lo que ayuda al Estado a reducir el déficit presupuestario al 2,2% del PIB (2,4% sumando la factura de la Dana) y a marcar el pr"
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/vox-partido-corrupcion_2026040269cd9c7f6b2f8835925eab37.html",
+      "summary": "El 15 de octubre de 2025 el Tribunal Supremo dictó sentencia firme anulando la sanción del Tribunal de Cuentas sobre el partido"
     },
     "category": "政策",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Horario de Mercadona y otros supermercados esta Semana Santa 2026",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/horario-mercadona-otros-supermercados-festivos-semana-santa-2026_6953332_0.html",
+      "summary": "La Semana Santa 2026 ya está aquí. Te contamos el horario de los supermercados españoles que no abren durante estos días festivos."
+    },
+    "category": "政策",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas semanas les golpearemos muy duro”",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/trump-insiste-estadounidenses-guerra-iran-terminara-pronto-proximas-semanas-les-golpearemos-duro_1_13116338.html",
+      "summary": "\"Los devolveremos a la Edad de Piedra\", asegura el presidente de EEUU en un discurso a la nación plagado de mensajes repetidos durante los últimos días y sin alusión a la OTANTrump se enfrenta al desc"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "La OCDE alaba a España por su transparencia, pero la suspende en financiación de partidos y control del 'lobby'",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/ocde-alaba-regulacion-espanola-conflictos-interes-transparencia-espana-suspende-control-cuentas-partidos_1_2171448.html",
+      "summary": "España está a la cabeza de los países miembros de la Organización para la Cooperación y el Desarrollo Económico (OCDE) en el acceso que proporciona a los ciudadanos a la información pública: en transp"
+    },
+    "category": "战争风险",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "西班牙政策宣布",
+    "original_title": "La peligrosa deriva de los medios digitales que se ponen al servicio de los anunciantes",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medios/peligrosa-deriva-webs-noticias-dependientes-espias-servicio-anunciantes_1_2171591.html",
+      "summary": "Abrir una web de noticias en 2026 se parece cada vez menos a leer un periódico y cada vez más a cruzar un control de seguridad aeroportuario: tienes que depositar tus datos aquí, firmar este consentim"
+    },
+    "category": "政策",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "西班牙物价新规",
+    "original_title": "Los hidrocarburos, ¿nueva palanca diplomática de Argelia?",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/mediapart/hidrocarburos-nueva-palanca-diplomatica-argelia_1_2171610.html",
+      "summary": "La noticia se dio a conocer en Marruecos la tarde del 16 de marzo y se extendió como la pólvora: a partir de medianoche, el precio del combustible subiría 2 dirhams (0,2 euros), y el gasóleo —de lejos"
+    },
+    "category": "政策",
+    "date": "2026-04-02"
   }
 ]

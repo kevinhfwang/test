@@ -1,80 +1,58 @@
 [
   {
-    "title": "西班牙物价下降",
-    "original_title": "La OCDE insta a los gobiernos a eliminar rápidamente las rebajas de los impuestos sobre el combustible",
+    "title": "西班牙签证改革",
+    "original_title": "Los cambios de regulación, la subida de los precios y un euro fuerte enfrían la compra de viviendas por extranjeros no residentes",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/financial-times/2026/04/09/69d7b1ca468aeb382c8b457e.html",
-      "summary": "Desde el comienzo de la guerra en Irán, más de 25 países han introducido medidas universales para proteger a los consumidores de los altos precios de la energía.&nbsp;Leer"
-    },
-    "category": "税务",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙签证新动态",
-    "original_title": "How long does it take to get a non-lucrative visa for Spain in 2026?",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260409/how-long-does-it-take-to-get-a-non-lucrative-visa-for-spain-in-2026",
-      "summary": "The NLV is one of the most popular residency options for non-EU citizens wanting to live in Spain, but how long does the application process take before you can move here (in theory and in practice)?"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/vivienda/los-cambios-regulacion-subida-los-precios-un-euro-fuerte-enfrian-compra-viviendas-por-extranjeros-no-residentes_6956664_0.html",
+      "summary": "Las operaciones de este tipo de inversores se redujeron un 9,4% en 2025. Los expertos descartan que la supresión de las golden visa haya influido."
     },
     "category": "签证",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   },
   {
-    "title": "西班牙伊朗局势新规",
-    "original_title": "En una guerra sin vencedores, Netanyahu parece el gran perdedor",
+    "title": "西班牙通胀新动态",
+    "original_title": "La inflación interanual en EEUU salta al 3,3% en marzo por el efecto de la guerra en Irán",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/theguardian/guerra-vencedores-netanyahu-parece-gran-perdedor_129_13130212.html",
-      "summary": "Con el frágil alto el fuego, el conflicto ha resultado ser un \"desastre político\" para el primer ministro israelí, según sus rivales políticos y analistas de defensa en IsraelEl frágil alto el fuego e"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/10/69d8fcbc468aebf7258b458a.html",
+      "summary": "El Índice de Precios de Consumo (IPC) de EEUU repuntó en marzo hasta un 3,3% interanual, el nivel más alto desde mayo de 2024 y a tono con los pronósticos del mercado, que estimaban una subida conside"
     },
     "category": "伊朗局势",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   },
   {
-    "title": "西班牙伊朗局势变化",
-    "original_title": "El giro del PP con la guerra de Irán: de aplaudir el ataque inicial a \"discrepar\" de \"borrar una civilización\"",
+    "title": "西班牙住房新动态",
+    "original_title": "Precios de la vivienda en Europa, qué países registran mayores subidas en 2025",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/giro-pp-guerra-iran-aplaudir-ataque-inicial-discrepar-borrar-civilizacion_1_13131246.html",
-      "summary": "El partido de Feijóo defiende que no ha cambiado de posición y que desde el principio pidió una \"desescalada\" del \"conflicto\", pero ha dejado de justificar la deriva de Trump y ya solo defiende a Isra"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/04/11/precios-de-la-vivienda-en-europa-que-paises-registran-mayores-subidas-en-2025",
+      "summary": "Los precios de la vivienda subieron un 5,5 % en la UE en el último trimestre de 2025, con mayor crecimiento en Portugal, Croacia y España; expertos explican para Euronews Business las diferencias entr"
     },
-    "category": "伊朗局势",
-    "date": "2026-04-10"
+    "category": "租房",
+    "date": "2026-04-11"
   },
   {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Así afecta la guerra de Irán a los grandes dividendos de la Bolsa española y europea",
+    "title": "西班牙经济下降",
+    "original_title": "El turismo, beneficiario potencial del conflicto",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/04/10/69d8c99f468aeb426b8b458f.html",
+      "summary": "Aunque la economía española se verá impactada de forma inevitable por el conflicto bélico en Oriente Próximo -los principales organismos han rebajado la previsión de PIB nacional hasta el 2,1% y avanz"
+    },
+    "category": "战争风险",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙税收新规",
+    "original_title": "Este fin de semana con Expansión: Fuera de Serie, Guía de la Bolsa y Guía del IRPF",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/04/09/69d7dc44468aeb24408b45a4.html",
-      "summary": "Goldman da sus previsiones hasta 2030 de pagos a los accionistas por parte de firmas como Santander, BBVA, Inditex e Iberdrola. Todo pendiente de una resolución del conflicto.&nbsp;Leer"
+      "url": "https://www.expansion.com/empresas/2026/04/10/69d93adf468aebf8258b4597.html",
+      "summary": "EXPANSIÓN ofrece este fin de semana 11 y 12 de abril un gran despliegue especial con un nuevo número de la publicación de estilo de vida Fuera de Serie, la Guía de los Valores de la Bolsa y el primer "
     },
-    "category": "伊朗局势",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙经济新动态",
-    "original_title": "El PIB de EEUU creció un 0,1% en el último trimestre de 2025, una décima menos de lo estimado",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/09/69d7aff8e5fdea9b548b457c.html",
-      "summary": "El producto interior bruto (PIB) de Estados Unidos creció un 0,1% en el cuarto trimestre de 2025 con respecto al tercero, mientras que la economía estadounidense se expandió un 0,5% a ritmo anualizado"
-    },
-    "category": "政策",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙经济新动态 (1)",
-    "original_title": "El Gobierno prevé contener el gasto en pensiones en el 14% del PIB de media hasta 2050 sin más reformas",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/09/69d7748de5fdeada328b4588.html",
-      "summary": "Los ministerios de Economía y Seguridad Social desarrollan una herramienta para estimar el coste de las prestaciones contributivas, que en su pico máximo alcanzaría el 15,3% del PIB para dentro de dos"
-    },
-    "category": "政策",
-    "date": "2026-04-10"
+    "category": "税务",
+    "date": "2026-04-11"
   },
   {
     "title": "西班牙税务新动态",
@@ -85,83 +63,105 @@
       "summary": "If you're a resident of Andalusia, there are several new tax deductions you may be able to benefit from on this year’s personal income tax return, the 2025/2026 'declaración de la renta'."
     },
     "category": "税务",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙税务新动态 (1)",
+    "original_title": "Tax season in Spain: The regional deductions you can get in Catalonia",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260410/tax-season-in-spain-the-regional-deductions-you-can-get-in-catalonia",
+      "summary": "If you live in Barcelona or somewhere else in Catalonia, it's important to be aware of the regional tax deductions available to you before you file your annual tax return, covering everything from hou"
+    },
+    "category": "税务",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "‘Defensa mosaico’, la estrategia con la que Irán resiste la embestida de Estados Unidos e Israel",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-04-11/defensa-mosaico-la-estrategia-con-la-que-iran-resiste-la-embestida-de-estados-unidos-e-israel.html",
+      "summary": "Ante la continúa decapitación de su cúpula, el régimen iraní opera en la guerra a través de la descentralización del mando militar, para mantener así sus capacidades ante ejércitos superiores y poder "
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙中东冲突新动态",
+    "original_title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por la detención del militar español en Líbano",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/partido-iustitia-europa-denuncia-netanyahu-audiencia-nacional-detencion-militar-espanol-libano_1_13134679.html",
+      "summary": "Va también contra el Jefe del Estado Mayor de las Fuerzas de Defensa de Israel (IDF), Herzi Halevi, por la presunta comisión de delitos de crímenes contra las personas y bienes protegidos en caso de c"
+    },
+    "category": "中东冲突",
+    "date": "2026-04-11"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "El BOE publica la ley de multirreincidencia que contempla penas de prisión por hurtos con una rectificación",
+    "original_title": "Amargas bombas climáticas",
     "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/boe-publica-ley-multirreincidencia-que-contempla-penas-prision-hurtos-rectificacion_2026041069d8afcb9e87c91dbfef5e26.html",
-      "summary": "El Congreso utilizó su derecho a veto sobre dos enmiendas, una denunciaba la ausencia de antecedentes penales para obtener la nacionalidad"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/opinion/plaza-publica/amargas-bombas-climaticas_129_2165933.html",
+      "summary": "Una destructiva bomba social extremadamente peligrosa es que el poder actúe contra la ciudadanía mundial. Lo tenemos muy cerca; lo sentimos muy lejos, si solamente nos asimos a la visible e inmediato."
     },
     "category": "政策",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙工作新动态",
-    "original_title": "La leyenda de Old Hemp: así nació el estilo de trabajo del border collie moderno",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/animaleros/perros/leyenda-old-hemp-asi-nacio-estilo-trabajo-border-collie-moderno_6954124_0.html",
-      "summary": "Nacido en 1893 en el norte de Inglaterra, este perro pastor transformó el trabajo con ovejas y está considerado el antecesor original del border collie."
-    },
-    "category": "工作",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙身份合法化新动态",
-    "original_title": "Somos más",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/ideas-propias/somos-mas_129_2175263.html",
-      "summary": "Cuando el Gobierno anunció la regularización extraordinaria el pasado 26 de enero, las redes sociales se incendiaron, como era de esperar. Todo lo relativo a la migración genera debates. No es casual;"
-    },
-    "category": "移民",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "La gripe porcina, las tormentas y ahora la guerra encarecen los alimentos un 10% en origen en solo un mes",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/gripe-porcina-tormentas-guerra-encarecen-alimentos-10-origen-mes_1_2175300.html",
-      "summary": "La presión sobre las cadenas de suministro por la guerra de Irán empieza a notarse en los alimentos. La cesta semanal que elabora el Ministerio de Agricultura, formada por más de un centenar de produc"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-10"
-  },
-  {
-    "title": "西班牙留学新动态",
-    "original_title": "Un estudio genético apunta por primera vez a que Colón era español y descendía de la nobleza gallega",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/04/10/un-estudio-genetico-apunta-por-primera-vez-a-que-colon-descendia-de-la-nobleza-gallega",
-      "summary": "Un estudio publicado en abril de 2026 ha aportado por primera vez evidencia genética compatible con la hipótesis de que Cristóbal Colón procedía de la nobleza gallega, concretamente del linaje de los "
-    },
-    "category": "留学",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Brasil, marchas indígenas en Brasilia cumplen tercer día por derechos de la tierra",
+    "original_title": "Últimas noticias | 11 abril 2026 - Mañana",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/04/10/brasil-marchas-indigenas-en-brasilia-cumplen-tercer-dia-por-derechos-de-la-tierra",
-      "summary": "Miles de indígenas marcharon por Brasilia el nueve de abril de 2026 durante el 22º Campamento Tierra Libre, pidiendo al Gobierno que reconozca sus tierras ancestrales antes de las elecciones de octubr"
+      "url": "http://es.euronews.com/video/2026/04/11/ultimas-noticias-11-abril-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 11 abril 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   },
   {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Pavel Talankin, ganador del Óscar: \"Es fácil dejar el Estado, pero es imposible abandonar la patria\"",
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "Guía de valores en Bolsa: potencial por descorchar tras el conflicto",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/04/10/pavel-talankin-es-facil-abandonar-el-estado-pero-es-imposible-abandonar-la-patria",
-      "summary": "El ganador del Oscar-2026 al mejor documental habló a 'Euronews' en una entrevista exclusiva sobre la diferencia entre patria y Estado, la generación de los \"descartados\" y para quién y por qué Pavel "
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html",
+      "summary": "El conflicto en Irán ha puesto una piedra en el camino de la buena racha que llevaban las empresas españolas hasta finales de febrero, pero cerca de una veintena del Ibex bate todavía la subida del 5,"
     },
-    "category": "政策",
-    "date": "2026-04-10"
+    "category": "伊朗局势",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "¿Qué esperar de las bolsas a partir de ahora?",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/04/11/69d9347a468aeb122e8b458f.html",
+      "summary": "La resolución del conflicto daría alas a las bolsas, pero por ahora hay recelo sobre que suceda a corto plazo. Se esperan sesiones de volatilidad a golpe de noticia.&nbsp;Leer"
+    },
+    "category": "战争风险",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙工资上涨",
+    "original_title": "Los salarios suben menos que el IPC por primera vez en casi dos años",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/11/69d93290e5fdea7c118b4573.html",
+      "summary": "La guerra en Irán amenaza el poder adquisitivo de los hogares: tras 20 meses con alzas de sueldos superiores al IPC, la inflación vuelve a crecer más que las retribuciones: un 3,3% frente al 2,9%.&nbs"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-11"
+  },
+  {
+    "title": "西班牙经济新动态",
+    "original_title": "La economía valenciana puede perder un punto de PIB por la guerra de Irán, según la Cámara",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/valencia/2026/04/10/69d91747468aeb452c8b4586.html",
+      "summary": "Frente a una previsión de crecimiento del 3% para este año, podría quedar entre el 2% y el 2,5%. Señala que 20.000 empresas van a reducir sus márgenes.&nbsp;Leer"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-11"
   }
 ]

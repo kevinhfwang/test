@@ -1,14 +1,36 @@
 [
   {
-    "title": "西班牙政策新动态",
-    "original_title": "'Value', energía y Latinoamérica: los fondos españoles más rentables",
+    "title": "西班牙失业新动态",
+    "original_title": "La España docente se rebela en la calle y pide apoyo a las familias: \"Tienen que cuidarnos, estamos educando a sus niños\"",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/fondos/2026/04/18/69e2a9dd468aeb94268b457d.html",
-      "summary": "Los gestores españoles que logran mayores ganancias en 2026 invierten en energía y compañías latinoamericanas. Los fondos 'value' también destacan en rentabilidad.&nbsp;Leer"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/espana-docente-rebela-calle-pide-apoyo-familias-cuidarnos-educando-ninos_1_13150146.html",
+      "summary": "Al menos diez comunidades autónomas han vivido huelgas, paros y manifestaciones de docentes en los últimos meses; desde Infantil a Bachillerato, la creciente diversidad, ratios, horas lectivas, salari"
     },
     "category": "政策",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙工作新动态",
+    "original_title": "Cobrar la nómina a tiempo en Nike Francia, un deporte de riesgo para sus empleados",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/mediapart/cobrar-nomina-tiempo-nike-francia-deporte-riesgo-empleados_1_2178110.html",
+      "summary": "“¿Por qué implicarte en el trabajo cuando tu jefe te tiene tan poca consideración?”. Yacine fue contratado por Nike como vendedor en la región de Île-de-France con un contrato temporal en diciembre de"
+    },
+    "category": "工作",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙经济新动态",
+    "original_title": "Trump critica lo \"mal\" que va la economía en España: \"Sus cifras son horrendas\"",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/politica/2026/04/18/69e38b54e5fdea771b8b4595.html",
+      "summary": "El presidente de Estados Unidos vuelve a cargar contra España y asegura que su economía \"es triste de ver\". El FMI rebajó esta semana las previsiones de crecimiento de España para 2026 -dos décimas me"
+    },
+    "category": "政策",
+    "date": "2026-04-19"
   },
   {
     "title": "西班牙战争风险下降",
@@ -19,95 +41,95 @@
       "summary": "Los hogares más acaudalados, que son también los que más energía consumen, absorben hasta el 16% del coste de las rebajas fiscales a luz, gas y carburantes, mientras los más humildes disfrutan del 5,5"
     },
     "category": "战争风险",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙税收新动态",
-    "original_title": "La cumbre progresista busca recetas contra el populismo: poner coto al negocio con los servicios públicos e impuestos a los ultrarricos",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-04-18/la-cumbre-progresista-busca-recetas-contra-el-populismo-poner-coto-al-negocio-con-los-servicios-publicos-e-impuestos-a-los-ultrarricos.html",
-      "summary": "Los socialistas abogan por un impuesto que grave las grandes fortunas para corregir las desigualdades"
-    },
-    "category": "税务",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙工作新动态",
-    "original_title": "Gabriel Weston: “Los cirujanos somos egocéntricos. Hay que tener un alto concepto de uno mismo para cortar a alguien”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/eps/2026-04-18/gabriel-weston-los-cirujanos-somos-egocentricos-hay-que-tener-un-alto-concepto-de-uno-mismo-para-cortar-a-alguien.html",
-      "summary": "Estudió Filología Inglesa, pero saltó a la cirugía por la pasión con la que el padre de un amigo describía sus operaciones. Llevaba seis años operando cuando publicó las historias que había vivido. En"
-    },
-    "category": "工作",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙物价下降",
-    "original_title": "El precio de petróleo y gas bajan en picado tras la reapertura del estrecho de Ormuz",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260417/11516356/petroleo-baja-reapertura-estrecho-ormuz.html",
-      "summary": "Las bolsas reaccionan con alivio tras el anuncio de Irán de permitir el paso de buques comerciales por este sitio estratégico durante el alto el fuego en Líbano"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙签证新动态",
-    "original_title": "Sánchez avisa a PP y Vox que recurrirá las leyes que pongan en riesgo “derechos y libertades”",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20260417/11516373/sanchez-avisa-pp-vox-recurrira-leyes-pongan-riesgo-derechos-libertades.html",
-      "summary": "El presidente califica de “bloqueo, frenazo e involución” el pacto alcanzado para investir a Guardiola"
-    },
-    "category": "签证",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "El impuesto a los megarricos marca la agenda económica de las izquierdas en la cumbre de Barcelona",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/impuesto-megarricos-marca-agenda-economica-izquierdas-cumbre-barcelona_1_13151912.html",
-      "summary": "Académicos y políticos progresistas apoyan unánimamente gravar a las grandes fortunas, intervenir el mercado de la vivienda y acelerar la transición ecológica, medidas que no avanzan al ritmo necesari"
-    },
-    "category": "税务",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙税务新动态",
-    "original_title": "‘Tax the super rich’, más feminismo y unidad de acción: la izquierda internacional labra su camino",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/tax-the-super-rich-feminismo-unidad-accion-izquierda-internacional-labra-camino_1_2179534.html",
-      "summary": "“No estamos solos. Ellos tienen las mismas estrategias en todo el mundo. ¿Por qué no hacemos lo mismo? Por eso es tan importante este evento. No hablar solo de los autoritarios, sino sobre lo que la g"
-    },
-    "category": "税务",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Últimas noticias | 18 abril 2026 - Mañana",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/04/18/ultimas-noticias-18-abril-2026-manana",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 18 abril 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   },
   {
     "title": "西班牙战争风险新动态",
-    "original_title": "¿Un buen plato de callos en la 'Odissea'?: Grecia y Turquía se enfrentan por el origen de la receta",
+    "original_title": "Sánchez llama a combatir “el miedo con más democracia y la desigualdad con más justicia”",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/04/18/grecia-y-turquia-se-enfrentan-por-la-autoria-de-la-sopa-de-callos",
-      "summary": "¿Puede una sopa de callos provocar un conflicto diplomático? Un restaurador griego quiere registrar este plato en la Unesco alegando que ya aparecía en la 'Odisea', pero Turquía reclama su autoría com"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260418/11516826/sanchez-llama-combatir-miedo-mas-democracia-desigualdad-com-mas-justicia.html",
+      "summary": "La reunión de líderes progresistas en defensa de la democracia finaliza con una apuesta por reformar la ONU ante su ineficacia en resolver conflictos internacionales y los retos globales"
     },
     "category": "战争风险",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Guerra en Irán, en directo | Máxima tensión en Ormuz tras el ataque a petroleros a menos de 72 horas para el final de la tregua",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/guerra-iran-directo-ultima-hora-estrecho-ormuz-eeuu-trump-noticias-israel-libano_6959938_6.html",
+      "summary": "Última hora sobre la guerra en Irán, la situación del estrecho de Ormuz y el alto el fuego de Israel en el Líbano."
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que \"todo pasará\"",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/los-refugios-improvisados-los-desplazados-libano-cristales-rotos-charcos-suelo-esperanza-que-todo-pasara_6959914_0.html",
+      "summary": "Médicos Sin Fronteras (MSF) presta apoyo a las comunidades desplazadas por la fuerza en todo el Líbano a través de clínicas móviles, medicamentos, servicios de salud sexual y reproductiva, y apoyo en "
+    },
+    "category": "签证",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "La falta de voluntad negociadora del Gobierno de Pérez Llorca aboca a los docentes valencianos a una huelga indefinida",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/falta-voluntad-negociadora-gobierno-perez-llorca-aboca-docentes-valencianos-huelga-indefinida_1_13148307.html",
+      "summary": "Los sindicatos califican la mesa sectorial de este jueves de \"inútil\", \"decepcionante\", \"engaño\" y de \"auténtica pérdida de tiempo\", mientras que la Conselleria se escuda en que el gasto previsto en l"
+    },
+    "category": "政策",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "Irán refuerza su control en Hormuz, Qatar alerta de un impacto inminente",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/04/19/iran-refuerza-su-control-en-hormuz-qatar-alerta-de-un-impacto-inminente",
+      "summary": "Se acerca todo el impacto y lo que el mundo ha visto hasta ahora en los costes de la energía es solo la punta del iceberg, advierte el ministro de Finanzas de Catar ante un posible shock energético y "
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Viaja con cabeza: gadgets y accesorios clave para el verano de 2026",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/viajes/2026/04/19/viaja-con-cabeza-gadgets-y-accesorios-clave-para-el-verano-de-2026",
+      "summary": "Desde baterías externas hasta almohadas de viaje, estos son los artículos imprescindibles que debes meter en la maleta para viajar por Europa este verano con menos estrés."
+    },
+    "category": "政策",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "Madrid mantiene el ritmo: el precio de la vivienda escala un 18% en el inicio del año",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/04/18/69e22b6a468aeb09308b4576.html",
+      "summary": "Las subidas más fuertes se registran en distritos 'prime' como el Barrio de Salamanca (20,8%) y, al mismo tiempo, en otras zonas más baratas como Puente de Vallecas (22,1%).&nbsp;Leer"
+    },
+    "category": "租房",
+    "date": "2026-04-19"
+  },
+  {
+    "title": "西班牙住房飙升",
+    "original_title": "Barcelona se dispara un 11,5% y supera máximos históricos",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/04/18/69e3b73ce5fdea6c5f8b456e.html",
+      "summary": "Los precios de la vivienda por metro cuadrado en la capital catalana superan en términos nominales los máximos de 2007 en el primer trimestre. Nou Barris, Sant Andreu y Sant Martí encabezan las alzas."
+    },
+    "category": "租房",
+    "date": "2026-04-19"
   },
   {
     "title": "西班牙政策新动态 (2)",
@@ -118,50 +140,28 @@
       "summary": "Entre enero y febrero, las ventas europeas al mercado estadounidense se desplomaron hasta los 73.103 millones de euros, frente a los 100.208 millones registrados en igual periodo de 2025.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Gustavo Petro: “Habrá rebelión si Estados Unidos no replantea su política con Latinoamérica”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-04-18/gustavo-petro-habra-rebelion-si-ee-uu-no-replantea-su-politica-con-latinoamerica.html",
-      "summary": "El presidente de Colombia, en entrevista con EL PAÍS, siembra dudas sobre las próximas elecciones presidenciales. A la pregunta sobre si respetará el resultado, responde: “Sí, pero no el fraude”"
-    },
-    "category": "居留",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   },
   {
     "title": "西班牙政策新动态 (3)",
-    "original_title": "El largo camino para restablecer el suministro energético tras la reapertura de Ormuz",
+    "original_title": "All the fun of the fair: A guide to Seville's Feria de Abril in 2026",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-04-18/el-largo-camino-para-restablecer-el-suministro-energetico-tras-la-reapertura-de-ormuz.html",
-      "summary": "El suministro tardará semanas en empezar a recomponerse, aunque el desbloqueo, aún frágil, puede evitar un escenario crítico"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20190503/feria-guide-spain-fair-april-fiesta",
+      "summary": "As Seville prepares to celebrate its famed April Fair, here's everything you need to know about one of the Andalusian capital's most important festivals."
     },
     "category": "政策",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   },
   {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que hay “noticias bastante buenas” sobre Irán pero deja en el aire la prórroga del alto el fuego",
+    "title": "西班牙买房新动态",
+    "original_title": "Trump se convierte en un activo tóxico para la extrema derecha en Europa",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/internacional/2026-04-18/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "summary": "El presidente estadounidense amenaza con reanudar los bombardeos en la República Islámica si no hay acuerdo antes del miércoles | Teherán advierte de que Ormuz “no permanecerá abierto” si continúa el "
+      "url": "https://elpais.com/internacional/2026-04-19/trump-se-convierte-en-un-activo-toxico-para-la-extrema-derecha-en-europa.html",
+      "summary": "Los partidos nacionalistas europeos celebraban hace unos meses el apoyo de la Casa Blanca. Pero la guerra de Irán y el comportamiento errático del presidente de EE UU pueden convertirlo en un lastre"
     },
     "category": "伊朗局势",
-    "date": "2026-04-18"
-  },
-  {
-    "title": "西班牙签证新动态 (1)",
-    "original_title": "Sánchez y Lula apuestan por redoblar esfuerzos ante la ola que “hiere” la democracia",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20260417/11516346/sanchez-lula-apuestan-redoblar-esfuerzos-ola-autoritaria-hiere-democracia.html",
-      "summary": "El presidente español y el brasileño eluden citar a Trump pero avisan de que el deterioro democrático lleva al fascismo"
-    },
-    "category": "签证",
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   }
 ]

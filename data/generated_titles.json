@@ -1,14 +1,25 @@
 [
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "La guerra en el Golfo eleva los riesgos de escasez y racionamiento de combustible",
+    "title": "西班牙伊朗局势改革",
+    "original_title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el petróleo y ataje el cambio climático",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-04-20/la-guerra-en-el-golfo-eleva-los-riesgos-de-escasez-y-racionamiento-de-combustible.html",
-      "summary": "El efímero desbloqueo del estrecho de Ormuz y el enquistamiento del conflicto provocan los primeros problemas en Asia y amenazan incluso a Europa"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/guerra-iran-evidencia-necesidad-electroshock-corte-petroleo-ataje-cambio-climatico_1_13123490.html",
+      "summary": "La electrificación del transporte sigue en niveles muy bajos a pesar de que el 60% de los productos petrolíferos importados por España y ahora encarecidos por el conflicto en Oriente Próximo se dedica"
     },
-    "category": "战争风险",
-    "date": "2026-04-20"
+    "category": "伊朗局势",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙伊朗局势变化",
+    "original_title": "Cómo acabar la guerra",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/opinion/20260421/11518538/como-acabar-guerra.html",
+      "summary": "El conflicto en Irán es un auténtico Dragon Khan porque las expectativas cambian continuamente"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-21"
   },
   {
     "title": "西班牙移民新动态",
@@ -19,106 +30,128 @@
       "summary": "Barcelona no puede entenderse sin la migración y el crisol de voces y culturas diversas que la forman. Sus barrios, mezcla de convivencia y, en ocasiones, conflictos; las migraciones internas que tuvi"
     },
     "category": "移民",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙经济新动态",
-    "original_title": "Trump critica lo \"mal\" que va la economía en España: \"Sus cifras son horrendas\"",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/politica/2026/04/18/69e38b54e5fdea771b8b4595.html",
-      "summary": "El presidente de Estados Unidos vuelve a cargar contra España y asegura que su economía \"es triste de ver\". El FMI rebajó esta semana las previsiones de crecimiento de España para 2026 -dos décimas me"
-    },
-    "category": "政策",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙经济新动态 (1)",
-    "original_title": "El cheque militar de Netanyahu somete a la economía de Israel a una erosión presupuestaria sin controles oficiales",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/cheque-militar-netanyahu-somete-economia-israel-erosion-presupuestaria-controles-oficiales_1_13149045.html",
-      "summary": "El sueño del Gran Israel de Benjamin Netanyahu ha generado en la economía hebrea mecanismos de resiliencia que han eludido la recesión. Pero la elevada factura de los dos años de conflictividad bélica"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙住房增加",
-    "original_title": "Una década de subidas sin tregua del alquiler: el mapa de cómo se han disparado los precios, calle a calle",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/decada-subidas-tregua-alquiler-mapa-han-disparado-precios-calle-calle_1_13133228.html",
-      "summary": "El precio medio del alquiler ha crecido cada año de forma continuada y ya es un 40% más caro que en 2015, según las declaraciones del IRPF; en el mismo periodo, los sueldos han aumentado la mitadEl Go"
-    },
-    "category": "租房",
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   },
   {
     "title": "西班牙签证新动态",
-    "original_title": "La guerra santa de Pete Hegseth: la teología cristiana militante que ha alentado el ataque de EEUU contra Irán",
+    "original_title": "La \"trampa alcista\" para la Bolsa que aflora el mercado de divisas",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/theguardian/guerra-santa-pete-hegseth-teologia-cristiana-militante-alentado-ataque-eeuu-iran_1_13151236.html",
-      "summary": "El secretario de Defensa estadounidense, ferviente defensor de la Biblia, está supervisando otro desastre en Oriente Medio. ¿Es una guerra o una cruzada?“Un tipo muy peligroso”: alarma en el Ejército "
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/04/21/69e623a5e5fdea057c8b45a7.html",
+      "summary": "Los inversores han atemperado las alertas procedentes del conflicto en Oriente Próximo. Detrás de esta menor volatilidad, y mayor optimismo, emergen señales menos favorables para la Bolsa, como las se"
     },
     "category": "签证",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "El Gobierno quiere que la app que limitará el uso de internet a menores esté operativa antes de que termine el año",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/gobierno-quiere-app-limitara-internet-menores-operativa-termine-ano_1_2179298.html",
-      "summary": "Antes de que acabe 2026, cualquier español que intente acceder desde su móvil a una web de pornografía, a una plataforma de juego en línea o a una red social con restricción de edad podría encontrarse"
-    },
-    "category": "政策",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Los soldados de las Fuerzas Armadas de Alemania desarrollan sus propios drones",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/04/20/soldados-fuerzas-armadas-alemania-desarrollan-sus-propios-drones",
-      "summary": "Durante el ejercicio militar Grand Quadriga 2026, los soldados de las Fuerzas Armadas de Alemania desarrollan sus propios drones y sistemas de defensa probándolos directamente sobre el terreno."
-    },
-    "category": "政策",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "Obama y Mamdani cantan con niños en su primer encuentro en Nueva York",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/04/20/obama-y-mamdani-cantan-con-ninos-en-su-primer-encuentro-en-nueva-york",
-      "summary": "Barack Obama se unió al alcalde de Nueva York Zohran Mamdani en un centro de cuidado infantil, leyó a niños de preescolar y apoyó su agenda de hacer más asequible la vida de las familias."
-    },
-    "category": "政策",
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "Lucas: \"El control de precios del alquiler está dando muy buen resultado\"",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/2026/04/20/69e5d0f1468aebc2178b4596.html",
-      "summary": "El secretario de Estado de Vivienda y Agenda Urbana afirma que \"no hay soluciones magníficas\" al problema de acceso a la vivienda por el desajuste entre oferta y demanda.&nbsp;Leer"
-    },
-    "category": "租房",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙身份合法化新动态",
-    "original_title": "Oficinas de Correos, Seguridad Social y Extranjería comienzan mañana a atender a migrantes sobre la regularización",
+    "original_title": "Los sindicatos llevan el 1 de Mayo a Málaga con el foco en el \"No a la guerra\" y la subida de salarios",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/19/69e4b9f3468aeb2c4b8b45a1.html",
-      "summary": "Oficinas de Correos, de la Seguridad Social y de Extranjería comienzan este lunes 20 de abril a atender a migrantes sobre la regularización extraordinaria aprobada por el Gobierno.&nbsp;Leer"
+      "url": "https://www.expansion.com/economia/2026/04/20/69e607cfe5fdea75778b45ba.html",
+      "summary": "'Derechos, no trincheras. Salarios, vivienda y democracia'. Con este lema, UGT y CCOO desplazan fuera de Madrid la marcha central del Primero de Mayo doce años después. Reivindican, además, el acceso "
+    },
+    "category": "租房",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "Jørgensen: “Nos tenemos que preparar para un verano bastante duro”",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20260421/11518516/dan-jorgensen-preparar-verano-duro.html",
+      "summary": "El comisario europeo de Energía y Vivienda asegura que aunque mañana se declare la paz, “nos esperan semanas, meses y años difíciles”"
+    },
+    "category": "租房",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Qué es una “zona de interés para la Defensa” y por qué puede afectar a terrenos privados",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/defensa/que-zona-interes-defensa-que-puede-afectar-terrenos-privados_2026042169e7333d749308005f9ee2de.html",
+      "summary": "La Ley de Zonas e Instalaciones de Interés para la Defensa permite al Estado imponer restricciones de uso, acceso y construcción incluso sobre terrenos privados cuando se consideran estratégicos para "
     },
     "category": "政策",
-    "date": "2026-04-20"
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "Las claves del nuevo Plan Estatal de Vivienda: ayudas para rehabilitar, alquilar viviendas vacías y comprar en zonas rurales",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/vivienda/claves-nuevo-plan-estatal-vivienda-ayudas-rehabilitar-alquilar-viviendas-vacias-comprar-zonas-rurales_6960369_0.html",
+      "summary": "El programa contará con una dotación de hasta 7.000 millones de euros, con un reparto del 60% por parte del Estado y un 40% por las autonomías."
+    },
+    "category": "租房",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙政策恢复",
+    "original_title": "Podemos sopesa primarias conjuntas para recuperar peso en la izquierda tras abrirse a hablar \"con todos\"",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/sopesa-primarias-conjuntas-recuperar-peso-izquierda-abrirse-hablar_1_13157827.html",
+      "summary": "Pablo Iglesias ha exteriorizado el debate dentro del partido morado, que tras meses de rechazar cualquier alianza en la que estuviera presente Movimiento Sumar se abre ahora a negociar y baraja la ide"
+    },
+    "category": "政策",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙居留新动态",
+    "original_title": "53 países unen fuerzas para abandonar los combustibles fósiles en plena crisis por la guerra de Irán",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/53-paises-unen-fuerzas-abandonar-combustibles-fosiles-plena-crisis-guerra-iran_1_13156932.html",
+      "summary": "Colombia y la presidencia brasileña de la COP30 se alían para potenciar la Primera Conferencia para la Transición más allá de los Combustibles Fósiles, que se celebra en la ciudad caribeña de Santa Ma"
+    },
+    "category": "居留",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙政策推出",
+    "original_title": "Carlos Alcaraz, Lamine Yamal y Aryna Sabalenka triunfan en los Laureus 2026 celebrados en Madrid",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/04/21/carlos-alcaraz-y-lamine-yamal-triunfan-en-los-laureus-2026-celebrados-en-madrid",
+      "summary": "El tenista murciano se alzó con el premio al mejor deportista masculino y el jugador del Barça repitió distinción como mejor deportista joven en la gala Laureus 2026, celebrada por tercer año consecut"
+    },
+    "category": "政策",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Por qué el sueldo seguirá siendo un secreto, con Beatriz Ardid",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/podcasts/trabajo-y-mas/2026/04/21/69e61a70468aebad418b4596.html",
+      "summary": "La entrada en vigor de la ley de transparencia salarial el próximo mes de junio, no dejará al descubierto su sueldo, pero a partir de entonces desaparece la cláusula de confidencialidad de los contrat"
+    },
+    "category": "政策",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "España y el 'efecto refugio': recibió un 6% más de viajeros internacionales en marzo",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/21/69e6738de5fdeac30c8b4578.html",
+      "summary": "El mes pasado, la llegada de pasajeros aéreos del exterior aumentó hasta rozar los 8,6 millones, en plena efervescencia del conflicto en Oriente Próximo.&nbsp;Leer"
+    },
+    "category": "战争风险",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "西班牙工作新动态",
+    "original_title": "Bruselas planteará reducir el IVA de las calderas y los paneles solares",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/financial-times/2026/04/21/69e6b346e5fdea77578b4572.html",
+      "summary": "La Comisión Europea también recomienda subvenciones para bombas de calor y transporte público, que se unirían a las sugerencias de fomentar el teletrabajo.&nbsp;Leer"
+    },
+    "category": "工作",
+    "date": "2026-04-21"
   },
   {
     "title": "西班牙政策新动态 (2)",
@@ -126,42 +159,9 @@
     "source": {
       "name": "The Local ES",
       "url": "https://www.thelocal.es/20190503/feria-guide-spain-fair-april-fiesta",
-      "summary": "As Seville prepares to celebrate its famed April Fair, here's everything you need to know about one of the Andalusian capital's most important festivals."
+      "summary": "As Seville celebrates its famed April Fair, here's everything you need to know about one of the Andalusian capital's most important festivals."
     },
     "category": "政策",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Las negociaciones de paz entre EE UU e Irán, en el aire tras la intercepción de un barco iraní en Ormuz",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-04-20/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "summary": "Teherán amenaza con represalias tras el ataque de Estados Unidos a un barco con bandera iraní | El ejército israelí pide a los residentes del sur del Líbano que eviten las zonas restringidas"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙战争风险新动态 (1)",
-    "original_title": "La guerra fractura la sociedad iraní entre quienes temen más ataques y quienes se oponen a cualquier concesión",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-04-20/la-guerra-fractura-la-sociedad-irani-entre-quienes-temen-mas-ataques-y-quienes-se-oponen-a-cualquier-concesion.html",
-      "summary": "La incertidumbre atraviesa una población únicamente unida por la denuncia de su precaria situación económica"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-20"
-  },
-  {
-    "title": "西班牙工作下降",
-    "original_title": "Trabajar gratis",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/opinion/2026-04-20/trabajar-gratis.html",
-      "summary": "Preguntar por los honorarios a la hora de decidir si haces un trabajo parece para algunos una preocupación típica de almas mercenarias"
-    },
-    "category": "工作",
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   }
 ]

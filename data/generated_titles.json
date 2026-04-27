@@ -1,39 +1,50 @@
 [
   {
-    "title": "西班牙通胀飙升",
-    "original_title": "La inflación industrial se dispara al 3,4% en marzo, su mayor alza en un año, por la subida del crudo",
+    "title": "西班牙住房新动态",
+    "original_title": "De Madrid a Castilla y León: el precio de la vivienda aviva el éxodo inmobiliario fuera de los grandes mercados",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/24/69eb208de5fdea84628b4586.html",
-      "summary": "Los precios industriales subieron un 3,4% en marzo en relación al mismo mes de 2025, su mayor alza en el último año, tras dispararse los precios de coquerías y refino de petróleo en un 42,9%, su mayor"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia/madrid-castilla-leon-precio-vivienda-aviva-exodo-inmobiliario-fuera-grandes-mercados_1_2178263.html",
+      "summary": "Que en Canarias o en Madrid bajen las compraventas de casas y en Castilla y León se disparen puede parecer contraintuitivo, pero es lo que ha ocurrido en 2025. Si se mira solo el volumen de operacione"
     },
-    "category": "油价",
-    "date": "2026-04-26"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Ni guerra ni paz en Irán",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260426/11522699/guerra-paz-iran.html",
-      "summary": "El conflicto llega a los dos meses con una tregua que es papel mojado en Ormuz"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-26"
-  },
-  {
-    "title": "西班牙政策推出",
-    "original_title": "Siete compañías con tirón bursátil al calor de sus resultados",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/04/25/69ebdcc3e5fdea11388b45a9.html",
-      "summary": "Las cotizadas españolas encaran la presentación de resultados del primer trimestre de 2026 con mejores perspectivas que sus homólogas europeas.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-04-26"
+    "category": "租房",
+    "date": "2026-04-27"
   },
   {
     "title": "西班牙政策新动态",
+    "original_title": "Hasta 30.000 euros de multa por realizar obras sin autorización de Defensa cerca de una zona de seguridad militar",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/defensa/30000-euros-multa-realizar-obras-autorizacion-defensa-cerca-zona-seguridad-militar_2026042769ef1d22fc22f2299f77e0fb.html",
+      "summary": "Realizar obras sin permiso en las inmediaciones de una zona de seguridad militar puede considerarse una infracción grave según la Ley 8/1975, con sanciones que alcanzan los 30.000 euros incluso en ter"
+    },
+    "category": "政策",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "La dependencia, una ley en pausa en Andalucía: \"Hay 500.000 personas en listas de espera\"",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/sindicato-pensionistas-sevilla-manifiesta-aplicacion-ley-dependencia-andalucia_1_2181790.html",
+      "summary": "“Cada 16 minutos fallece algún dependiente. En 2025 más de 6.000 sin haberles reconocido o hecho efectivo el derecho a recibir los servicios de dependencia”. Son los preocupantes datos que ofrece el s"
+    },
+    "category": "政策",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "西班牙居留新动态",
+    "original_title": "Trump ordena a las agencias que denieguen la tarjeta de residencia a quienes critiquen a Israel",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/04/27/trump-ordena-agencias-denieguen-tarjeta-residencia-criticas-israel",
+      "summary": "Zach Kahler, portavoz de los Servicios de Ciudadanía e Inmigración de Estados Unidos, subrayó: \"Si odias a Estados Unidos, no tienes derecho a pretender vivir aquí\"."
+    },
+    "category": "居留",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
     "original_title": "Key Points: What changes about life in Spain in May 2026",
     "source": {
       "name": "The Local ES",
@@ -41,127 +52,116 @@
       "summary": "May 1st bank holiday, Mother's Day, preschool and petrol station strikes and plenty of festivals, this is what to expect in May 2026 in Spain."
     },
     "category": "政策",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙租房新规",
-    "original_title": "La subida de los precios diluye el Bono Joven: 50 euros más de ayuda al mes pero alquileres un 44% más caros",
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "La ministra de Vivienda admite que el decreto de alquileres no tiene aún los apoyos para salir adelante a horas de llegar al Congreso",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/subida-los-precios-diluye-bono-joven-50-euros-mas-ayuda-mes-pero-alquileres-un-44-mas-caros_6962091_0.html",
-      "summary": "El nuevo Plan Estatal eleva a 1.000 euros mensuales el tope que pueden pagar de alquiler los beneficiarios, aunque cada comunidad puede acordar un límite superior con el Gobierno."
+      "url": "https://www.20minutos.es/nacional/ministra-vivienda-admite-que-decreto-los-alquileres-no-saldra-adelante-drama-es-que-parlamento-no-este-altura_6963108_0.html",
+      "summary": "Isabel Rodríguez asegura que \"la derecha y la derecha nacionalista se están alejando de lo que espera la ciudadanía de ellos\"."
     },
     "category": "租房",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙住房增加",
-    "original_title": "¿Gravar la vivienda para distribuir riqueza? La receta del Nueva York de Mamdani que ya se baraja en España",
+    "title": "西班牙工作新动态",
+    "original_title": "¿Debe el algoritmo favorecer a los medios públicos? Google dice que no, la UE debate si deben tener más visibilidad",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/gravar-vivienda-distribuir-riqueza-receta-nueva-york-mamdani-baraja-espana_1_2181737.html",
-      "summary": "Las ideas para aumentar la contribución fiscal de los grandes patrimonios están ganando espacio en la conversación pública de muchos países. De la tasa Zucman en Francia al impuesto sobre las grandes "
+      "url": "https://www.infolibre.es/medios/debe-algoritmo-favorecer-medios-publicos-google-dice-no-ue-debate-si-deben-visibilidad_1_2182603.html",
+      "summary": "Abra YouTube en cualquier dispositivo. No busque nada. Deje que la pantalla de inicio haga su trabajo. Lo que aparecerá —vídeos de entretenimiento, tutoriales, reacciones, piezas de creadores que el a"
     },
-    "category": "税务",
-    "date": "2026-04-26"
+    "category": "工作",
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙政策改革",
-    "original_title": "Los demócratas abrazan el método de Trump para ganar las elecciones",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/internacional/democratas-abrazan-metodo-trump-ganar-elecciones_1_2182632.html",
-      "summary": "Lo habitual en Estados Unidos es que cada diez años los estados ajusten los mapas electorales para la siguiente década. Pero este 2026 el país está llevando a cabo unos cambios no vistos desde 1800: a"
-    },
-    "category": "政策",
-    "date": "2026-04-26"
-  },
-  {
-    "title": "西班牙大学新动态",
-    "original_title": "El hijo del obrero, a la universidad",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/tintalibre/hijo-obrero-universidad_1_2171170.html",
-      "summary": "“Papá, quiero dejar de estudiar”. Con esta frase tan simple, corta y directa me despedí de los estudios. Como tantos otros, como tantas otras, como casi todos. Me consideraba un estudiante no demasiad"
-    },
-    "category": "留学",
-    "date": "2026-04-26"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Un experto alerta de riesgo nuclear tras los ataques a Chernóbil y Zaporiyia: \"Hay que abandonar esa energía\"",
+    "title": "西班牙移民新规",
+    "original_title": "Chipre: Las llegadas de inmigrantes caen un 30% en el primer trimestre de 2026",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/04/26/experto-riesgo-nuclear-ataques-chernobil-zaporiyia-abandonar-energia",
-      "summary": "A 40 años del desastre de Chernóbil, Ucrania conmemora la fecha en guerra. Un experto advierte sobre los riesgos en sus centrales nucleares y el futuro de esta energía en el mundo."
+      "url": "http://es.euronews.com/my-europe/2026/04/27/chipre-llegadas-inmigrantes-caen-30-por-ciento-primer-trimestre-2026",
+      "summary": "La República de Chipre participa activamente en las consultas en curso en Bruselas sobre la formulación del nuevo reglamento europeo en materia de retorno. Según el Gobierno chipriota, ya se han reali"
     },
-    "category": "战争风险",
-    "date": "2026-04-26"
+    "category": "移民",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Las marcas de automóvil chinas podrían dominar el 30% del mercado de la UE en 2035",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/next/2026/04/27/auto-china-2026-asi-reescriben-los-gigantes-chinos-del-automovil-el-mercado-europeo",
+      "summary": "Uno de cada dos europeos se plantea comprar un coche chino, según los datos de Auto China 2026. Gigantes como BYD, Chery y Xiaomi lideran la carrera tecnológica con plataformas digitales e IA. Los fab"
+    },
+    "category": "政策",
+    "date": "2026-04-27"
   },
   {
     "title": "西班牙政策新规",
-    "original_title": "Nuevos hoteles en Japón, las aperturas más destacadas para 2026",
+    "original_title": "Fuerte aumento: cada vez más jóvenes se niegan a servir en las fuerzas armadas",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/viajes/2026/04/26/nuevos-hoteles-en-japon-las-aperturas-mas-destacadas-para-2026",
-      "summary": "De alojamientos históricos en Kioto a una antigua prisión reconvertida en Nara, los nuevos hoteles de Japón apuestan por el diseño, la identidad y la experiencia del viajero."
+      "url": "http://es.euronews.com/my-europe/2026/04/27/fuerte-aumento-cada-vez-mas-jovenes-se-niegan-a-servir-en-las-fuerzas-armadas",
+      "summary": "El debate sobre una posible vuelta al servicio militar obligatorio está teniendo repercusiones: cada vez son más los jóvenes alemanes que solicitan la objeción de conciencia. Ya hay indicios de un nue"
     },
     "category": "政策",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Últimas noticias | 26 abril 2026 - Mañana",
+    "title": "西班牙买房新动态",
+    "original_title": "Críticas a la seguridad, disparos y un sospechoso con muchos objetivos: reconstrucción del ataque fallido contra Trump y su Gobierno",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/04/26/ultimas-noticias-26-abril-2026-manana",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 26 abril 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-04-27/fallos-de-seguridad-disparos-y-un-sospechoso-con-muchos-objetivos-reconstruccion-del-ataque-contra-trump-y-su-gobierno.html",
+      "summary": "Cole Allen, el joven que interrumpió a tiros la Cena de Corresponsales de la Casa Blanca, quería matar a tantos miembros de la Administración como fuese posible, según los investigadores"
     },
     "category": "政策",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙政策增加",
-    "original_title": "Europa no responde al ritmo del cambio climático: crecen las muertes por calor y las enfermedades",
+    "title": "西班牙政策新动态 (4)",
+    "original_title": "La solidaridad total con Trump une a los aliados cercanos y los más críticos",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/salud/2026/04/26/el-tiempo-para-proteger-la-salud-ante-el-cambio-climatico-se-acaba",
-      "summary": "Las muertes por calor, las enfermedades infecciosas y la inseguridad alimentaria aumentan en toda Europa mientras la acción política y la concienciación pública se quedan atrás, según el informe de La"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11523215/solidaridad-total-trump-une-aliados-cercanos-mas-criticos.html",
+      "summary": "Starmer y Von der Leyen hablaron por teléfono con el presidente tras el ataque"
     },
     "category": "政策",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙物价新动态",
-    "original_title": "La industria ya acusa el impacto de la guerra",
+    "title": "西班牙失业新动态",
+    "original_title": "El intento de asesinato contra Reagan fue en el mismo hotel que el tiroteo con Trump",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/opinion/2026/04/24/69eb49ec468aeb6b578b4576.html",
-      "summary": "El escenario de una estanflación en la zona euro toma cuerpo por el alza de precios industriales.&nbsp;Leer"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11523122/intento-asesinato-reagan-hotel-tiroteo-trump.html",
+      "summary": "En 1981, Reagan recibió un disparo que le perforó el pulmón a las fueras del Hilton de Washington"
     },
-    "category": "战争风险",
-    "date": "2026-04-26"
+    "category": "政策",
+    "date": "2026-04-27"
   },
   {
-    "title": "西班牙税收推出",
-    "original_title": "Sánchez pide a la UE un impuesto a las eléctricas y extender los fondos comunitarios un año",
+    "title": "西班牙失业新动态 (1)",
+    "original_title": "Golpes sordos, un silencio inquietante... y luego el caos",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/24/69eb14f0e5fdeae81e8b457b.html",
-      "summary": "El presidente del Gobierno considera que Bruselas debe ser más ambiciosa de lo que lo ha sido con la batería de medidas presentada esta semana para contener el impacto económico sobre el bloque de la "
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260426/11523030/golpes-sordos-silencio-inquietante-luego-caos.html",
+      "summary": "Una avalancha de invitados huyendo o escondiéndose debajo de las mesas se desató cuando los&nbsp;agentes del Servicio Secreto gritaron: “¡disparos!”"
     },
-    "category": "税务",
-    "date": "2026-04-26"
+    "category": "政策",
+    "date": "2026-04-27"
   },
   {
     "title": "西班牙签证新动态",
-    "original_title": "Trump comparece tras el tiroteo de la cena de corresponsales: “La de presidente es una profesión peligrosa”",
+    "original_title": "Advierten a los marroquíes que no se dejen engañar por los que les prometen que la regularización en España no trae más que beneficios",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-04-26/trump-comparece-tras-el-atentado-de-la-cena-de-corresponsales-la-de-presidente-es-una-profesion-peligrosa.html",
-      "summary": "El republicano da una conferencia de prensa improvisada en la que celebra la actuación del Servicio Secreto y afirma que el hombre que abrió fuego en el vestíbulo del Hilton es un “lobo solitario”"
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/advierten-marroquies-que-dejen-enganar-que-les-prometen-que-regularizacion-espana-trae-mas-que-beneficios_2026042769ef232bfc22f2299f77e9e4.html",
+      "summary": "Les avisan que no dejen atraapar por una \"retórica engañosa\" que les terminará llevando a la pobreza y el sufrimiento"
     },
     "category": "签证",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   }
 ]

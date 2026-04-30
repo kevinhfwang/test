@@ -1,124 +1,157 @@
 [
   {
-    "title": "西班牙签证新规",
-    "original_title": "Cuerpo teme que la guerra en Irán arrebate hasta 6.700 millones al PIB",
+    "title": "西班牙战争风险新动态",
+    "original_title": "Spain's inflation rate slows down despite Middle East War",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260429/spains-inflation-rate-slows-down-despite-middle-east-war",
+      "summary": "Spanish inflation cooled in April thanks to falling electricity prices even as the Middle East war roiled global energy markets, official data showed on Wednesday."
+    },
+    "category": "战争风险",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙战争风险新动态 (1)",
+    "original_title": "La libertad de prensa en crisis: cae a su nivel más bajo en 25 años según Reporteros Sin Fronteras",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/libertad-prensa-crisis-cae-nivel-25-anos-reporteros-fronteras_1_2185461.html",
+      "summary": "“¿Hasta cuándo vamos a tolerar la asfixia del periodismo y la erosión continua de la libertad de prensa?” Con esta pregunta comienza su informe de 2026 la ONG Reporteros Sin Fronteras (RSF) en el que "
+    },
+    "category": "战争风险",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙战争风险新动态 (2)",
+    "original_title": "La guerra provoca un sobrecoste de 3.100 millones en pensiones y sueldos de funcionarios",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/04/29/69f0fd7c468aebc36e8b457e.html",
-      "summary": "El Gobierno calcula que España iba camino de crecer más del 2,2% previsto pero que el conflicto en Oriente Próximo restará de 0,1 a 0,4 décimas al avance de 2026. Esperará para revisar el PIB y decidi"
-    },
-    "category": "签证",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙经济下降",
-    "original_title": "La inflación da un leve respiro en abril y se modera al 3,2% gracias a la bajada en el precio de la electricidad",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/inflacion-da-leve-respiro-abril-modera-3-2-gracias-bajada-precio-electricidad_1_13180795.html",
-      "summary": "La subida de precios se ralentiza en dos décimas con respecto a marzo en el primer mes en que se han desplegado por completo las medidas del Gobierno para amortiguar los efectos de la guerra en Orient"
+      "url": "https://www.expansion.com/economia/2026/04/30/69f240eb468aebcb3a8b4574.html",
+      "summary": "La revalorización de las prestaciones contributivas de 2027 se situará entre el 3,1% y el 3,5%, un punto más de lo previsto a inicios de año. Y se aplicará el 0,5% pendiente de 2026 a los empleados pú"
     },
     "category": "战争风险",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
-    "title": "西班牙健康新动态",
-    "original_title": "El debate | ¿Se debe prohibir la compra de tabaco a mayores de edad?",
+    "title": "西班牙战争风险飙升",
+    "original_title": "La factura energética de la UE se dispara en 27.000 millones extra en dos meses de guerra",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/opinion/2026-04-29/el-debate-se-debe-prohibir-la-compra-de-tabaco-a-mayores-de-edad.html",
-      "summary": "El Parlamento británico ha aprobado una ley que sanciona la venta de cigarrillos a los nacidos después del 1 de enero de 2009. La medida ha reavivado el conflicto entre salud pública y libertad indivi"
-    },
-    "category": "医疗",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "Crece la desconfianza política entre los jóvenes: \"Les pido que dejen el debate agresivo y nos escuchen activamente\"",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/crece-desconfianza-politica-entre-los-jovenes-les-pido-que-dejen-debate-agresivo-nos-escuchen-activamente_6963881_0.html",
-      "summary": "Tres jóvenes relatan a 20minutos cuáles son sus prioridades en la vida, que según el nuevo informe Jóvenes Españoles 2026 de la Fundación SM, son la salud, la familia y ganar dinero. El estudio alerta"
-    },
-    "category": "留学",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙住房变化",
-    "original_title": "Los precios disparados de la vivienda impidieron mudarse a 125.000 personas en Galicia el año pasado",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/precios-disparados-vivienda-impidieron-mudarse-125-000-personas-galicia-ano-pasado_1_2184713.html",
-      "summary": "Los elevados precios de la vivienda —para su compra o alquiler— se han convertido en los últimos años en uno de los principales problemas para la ciudadanía. El encarecimiento de los inmuebles está di"
-    },
-    "category": "租房",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙就业变化",
-    "original_title": "“Es un error pensar que en todas partes te van a pagar igual”: ¿Por qué un ingeniero en España puede cobrar entre 42.000 y 227.000 euros?",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/tecnologia/2026-04-29/es-un-error-pensar-que-en-todas-partes-te-van-a-pagar-igual-por-que-un-ingeniero-en-espana-puede-cobrar-entre-42000-y-227000-euros.html",
-      "summary": "Borja Pérez, responsable de marketing de Manfred, explica cómo el trabajo remoto y la IA están cambiando las opciones para los aspirantes a empleos tecnológicos"
-    },
-    "category": "工作",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙大学新动态",
-    "original_title": "Un informe encargado por Begoña Gómez afirma que la Complutense no sufrió \"perjuicio alguno\": \"Hay superávit\"",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/informe-encargado-begona-gomez-afirma-complutense-no-sufrio-perjuicio-software-hay-superavit_1_13181014.html",
-      "summary": "El documento sostiene que \"nunca puede suponer un perjuicio\" para la Universidad gastar unos fondos que proporcionan terceras empresas \"en las finalidades previstas por el convenio\"La defensa de Begoñ"
-    },
-    "category": "留学",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙失业新动态",
-    "original_title": "Donald Trump desprecia al Congreso en su guerra contra Irán",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/donald-trump-desprecia-congreso-guerra-iran_1_2184770.html",
-      "summary": "La senadora Tammy Duckworth, de 58 años, participó en la guerra de Irak como piloto de helicóptero, compromiso militar que pagó en su propia carne. Su helicóptero se estrelló tras ser alcanzado por un"
-    },
-    "category": "伊朗局势",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙油价宣布",
-    "original_title": "Emiratos Árabes Unidos sale de la OPEP: cuál es su estrategia y cómo afecta al mercado",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/la-letra-pequena/emiratos-arabes-unidos-sale-opep-estrategia-afecta-mercado_1_2185088.html",
-      "summary": "Emiratos Árabes Unidos (EAU), quinto mayor productor de crudo del mundo y segundo del golfo Pérsico gracias a sus explotaciones petrolíferas, ha anunciado que abandona la OPEP, la Organización de País"
-    },
-    "category": "油价",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "\"Siempre le dije que no fuera\": El dinero empuja a miles de colombianos a combatir en Ucrania",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/04/29/drama-mercenarios-colombianos-luchan-ucrania",
-      "summary": "Según cálculos de la ONU, unos 10.000 colombianos participan en conflictos internacionales por todo el mundo. Muchos lo hacen acuciados por la difícil situación económica en el país. Sin embargo, al f"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/29/69f226f0468aeb556a8b456e.html",
+      "summary": "La presidenta de la Comisión Europea, Ursula von der Leyen, advierte de que \"las consecuencias de este conflicto pueden repercutir durante meses o incluso años\",  y urge a \"reducir nuestra excesiva de"
     },
     "category": "战争风险",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "Iberdrola evita la crisis del Golfo Pérsico y dispara su beneficio un 11%",
+    "title": "西班牙政策新动态",
+    "original_title": "Una madre que ha denunciado violencia sexual contra su hija en el colegio Waldorf de Zaragoza: “Contarlo puede ayudar a otras personas”",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/04/29/69f1a5b3468aebd3178b45b7.html",
-      "summary": "La buena marcha de la empresa, por las inversions en redes en Reino Unido y EEUU, le llevan a elevar de nuevo su prevision de beneficios para 2026, en un 8% más.&nbsp;Leer"
+      "name": "El País",
+      "url": "https://elpais.com/sociedad/2026-04-30/una-madre-que-ha-denunciado-violencia-sexual-contra-su-hija-en-el-colegio-waldorf-de-zaragoza-contarlo-puede-ayudar-a-otras-personas.html",
+      "summary": "Diez familias han denunciado agresiones sexuales y físicas a menores de entre 0 y 6 años en ese centro privado. El caso está en instrucción desde septiembre y la investigación a cargo de la Policía Na"
     },
     "category": "政策",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙经济新动态",
+    "original_title": "La economía francesa se frena por el impacto energético de la guerra con Irán",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/04/30/la-economia-francesa-se-frena-por-el-impacto-energetico-de-la-guerra-con-iran",
+      "summary": "Los datos del primer trimestre en Francia muestran menor crecimiento, precios al alza y exportaciones hundidas, prueba de lo rápido que el choque energético de la guerra de Irán golpea a la segunda ec"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "El petróleo supera los 126 dólares por barril mientras la guerra de Irán se recrudece",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/04/30/el-petroleo-supera-los-126-dolares-por-barril-mientras-la-guerra-de-iran-se-recrudece",
+      "summary": "Los mercados petroleros están bajo una fuerte presión, el Brent llegó a tocar brevemente los 126 dólares el jueves por la mañana ante el probable fracaso de las negociaciones diplomáticas entre Estado"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙经济减少",
+    "original_title": "El PIB se reduce dos décimas en el primer trimestre de 2026 hasta el 0,6%",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/04/30/69f2fe40468aeb7e5a8b4570.html",
+      "summary": "El PIB crece un 0,6% en el primer trimestre de 2026 respecto al trimestre anterior gracias a la fortaleza de la demanda interna en un contexto internacionalmente complejo, dos décimas menos respecto a"
+    },
+    "category": "政策",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙税务新动态",
+    "original_title": "Do I have to file my annual tax declaration if I just arrived in Spain?",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20240612/do-i-have-to-do-spains-annual-tax-declaration-if-i-arrived-recently",
+      "summary": "There are two months left to file Spain’s annual tax return, so where do new arrivals stand regarding this? Are they already tax residents? What if they didn’t work in Spain last year and only arrived"
+    },
+    "category": "税务",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "Perder la centralidad",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/blog/sin-filtro/perder-centralidad_132_13183271.html",
+      "summary": "Feijóo, que llegó a Madrid para retomar el eterno viaje al centro que el PP nunca concluyó, ignora las cuestiones públicas de urgencia que tienen que ver con los problemas reales de la gente, y no sol"
+    },
+    "category": "租房",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙政策排名",
+    "original_title": "La gran noche de los fondos: estos son los ganadores",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/fondos/2026/04/30/69f2047b468aeb293f8b45bb.html",
+      "summary": "Los premios EXPANSIÓN-Allfunds reconocieron la gestión de los mejores fondos de inversión y planes de pensiones de 2025.&nbsp;Leer"
+    },
+    "category": "政策",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙战争风险改革",
+    "original_title": "Por qué no hay que salir ahora de la Bolsa",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/04/30/69f1c26e468aebae178b45a7.html",
+      "summary": "En los últimos 60 años, las bolsas han tenido que enfrentarse a grandes desafíos: conflictos bélicos, crisis económicas y cambios políticos de relevancia. En la mayor parte de estos episodios, los índ"
+    },
+    "category": "战争风险",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙伊朗局势上涨",
+    "original_title": "El Ibex sufre de nuevo con el petróleo",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/04/30/69f2edc7e5fdea1a188b459d.html",
+      "summary": "La jornada está plagada de referencias clave en los mercados, pero una vez más el petróleo adquiere un papel protagonista. La posible reanudación de los ataques de EEUU en Irán dispara el barril de Br"
+    },
+    "category": "伊朗局势",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "西班牙政策排名 (1)",
+    "original_title": "Las imágenes de los premios EXPANSIÓN-Allfunds",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/fondos/album/2026/04/30/69f2f646e5fdeaac138b456d.html",
+      "summary": "La XXXVII edición de los prestigiosos premios EXPANSIÓN-Allfunds reunió un año más al sector de la inversión colectiva para reconocer a los mejores fondos y planes de pensiones de 2025. El acto, que c"
+    },
+    "category": "政策",
+    "date": "2026-04-30"
   },
   {
     "title": "西班牙通胀下降",
@@ -129,39 +162,6 @@
       "summary": "El Índice de Precios de Consumo (IPC), principal indicador de la inflación, se contiene dos décimas en abril por el efecto de la bajada de la electricidad que amortigua la presión al alza de los combu"
     },
     "category": "政策",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Reencuentro de los pioneros de EL PAÍS: “Teníamos voluntad de servicio público”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/aniversario/2026-04-28/reencuentro-de-los-pioneros-de-el-pais-teniamos-voluntad-de-servicio-publico.html",
-      "summary": "Los periodistas que sacaron a la calle el periódico hace ahora 50 años se reúnen para conmemorar la aventura de impulsar un diario en plena Transición Española"
-    },
-    "category": "政策",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙租房新动态",
-    "original_title": "¿Qué ocurre con los alquileres cuando el decreto decaiga? Se prevén demandas de los inquilinos",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260428/11524734/que-ocurre-alquileres-decreto-decaiga-preven-demandas-inquilinos.html",
-      "summary": "La no convalidación de la ley en el Congreso de Diputados abre un escenario inexplorado, con consecuencias jurídicas poco claras para arrendatarios y propietarios, y con el foco puesto en las decision"
-    },
-    "category": "租房",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Carlos III, al Capitolio: “Nos hemos ayudado históricamente. Necesitamos esa determinación en Ucrania”",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260428/11525013/carlos-iii-capitolio-hemos-ayudado-historicamente-necesitamos-determinacion-ucrania.html",
-      "summary": "En su primera visita desde que heredó el trono y el segundo discurso de un monarca británico ante el Congreso, el discurso del rey recibe una gran ovación bipartidista"
-    },
-    "category": "政策",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   }
 ]

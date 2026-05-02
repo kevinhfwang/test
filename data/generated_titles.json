@@ -1,36 +1,69 @@
 [
   {
-    "title": "西班牙住房新动态",
-    "original_title": "Salarios, vivienda y servicios públicos: la agenda urgente del Primero de Mayo",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/plaza-publica/salarios-vivienda-servicios-publicos-agenda-urgente-mayo_129_2184293.html",
-      "summary": "Este Primero de Mayo la agenda más estrictamente sindical y la sociopolítica confluyen necesariamente. Porque pocas veces se percibe con tanta nitidez el vínculo entre las reivindicaciones ligadas a l"
-    },
-    "category": "租房",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙养老金新动态",
-    "original_title": "Repsol alza un escudo anticrisis de 1.600 millones por la guerra en Irán",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/05/01/69f3bc18e5fdeafa3f8b45a1.html",
-      "summary": "Los autónomos que cotizan al colegio profesional podrán traspasar su capital a la Seguridad Social y acceder a la pensión mínima de jubilación.&nbsp;Leer"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙住房下降",
-    "original_title": "Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivienda y el crecimiento de la ultraderecha",
+    "title": "西班牙物价新动态",
+    "original_title": "La vida bajo el frágil alto el fuego en Teherán: “La guerra fue aterradora, pero lo que me preocupa hoy es subsistir”",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/economia/2026-05-01/los-sindicatos-se-manifiestan-en-toda-espana-contra-el-precio-de-la-vivienda-y-el-crecimiento-de-la-ultraderecha.html",
-      "summary": "Convocados por UGT y CC OO, los trabajadores salen a las calle de unas 80 ciudades en el Primero de Mayo. La principal protesta se celebra en Málaga, coincidiendo con el arranque de la campaña elector"
+      "url": "https://elpais.com/planeta-futuro/2026-05-02/la-vida-bajo-el-fragil-alto-el-fuego-en-teheran-la-guerra-fue-aterradora-pero-lo-que-me-preocupa-hoy-es-la-inflacion.html",
+      "summary": "El cese de las hostilidades que rige desde principios de abril ha dado una tregua a la población, asfixiada ahora por una desorbitada subida de los precios y temerosa de una posible reanudación del co"
+    },
+    "category": "战争风险",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙物价新动态 (1)",
+    "original_title": "Los países petroleros de fuera del Golfo hacen caja con la crisis de Ormuz",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/economia/2026-05-02/los-paises-petroleros-de-fuera-del-golfo-hacen-caja-con-la-crisis-de-ormuz.html",
+      "summary": "A los mayores precios de venta se suman aumentos modestos de la producción que ayudan a cubrir el boquete global abierto por la guerra. Estados Unidos y Rusia, entre los beneficiados"
+    },
+    "category": "战争风险",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙住房飙升",
+    "original_title": "Boom de la vivienda de lujo en Europa: las ciudades que disparan los precios",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/05/02/boom-de-la-vivienda-de-lujo-en-europa-que-ciudades-impulsan-el-alza-de-precios",
+      "summary": "Praga lideró el mercado inmobiliario de lujo en Europa en 2025, mientras Londres registró la mayor caída. A escala global, Tokio se disparó con un alza cercana al 60%."
     },
     "category": "租房",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "60 días de conflicto: la guerra de Trump en Irán ya es tan impopular como la de Vietnam",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-05-01/60-dias-de-conflicto-la-guerra-de-trump-en-iran-ya-es-tan-impopular-como-la-de-vietnam.html",
+      "summary": "El presidente estadounidense, que ha rechazado este viernes la tercera propuesta de paz de Teherán, ha declarado terminadas las hostilidades para evitar el veto del Congreso"
+    },
+    "category": "伊朗局势",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙经济增加",
+    "original_title": "España aumenta un 122% su gasto en defensa en la última década pese al \"no a la guerra\" que defiende Pedro Sánchez",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/espana-aumenta-un-122-su-gasto-defensa-ultima-decada-pese-no-guerra-que-defiende-pedro-sanchez_6963889_0.html",
+      "summary": "Según los datos del Sipri, es la gran economía del G-20 en la que crece más, por delante del alza del 118% de Alemania o al 96% de Rusia y Polonia."
+    },
+    "category": "战争风险",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙通胀新动态",
+    "original_title": "Dónde invertir para ganar en tiempos de inflación",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/05/01/69f50358468aeb0f618b4595.html",
+      "summary": "Una acertada selección de valores, con el foco en 'utilities', alimentación y tecnología, los bonos de corta duración y la inversión en metales como el oro conforman una buena estrategia. Preservar el"
+    },
+    "category": "战争风险",
+    "date": "2026-05-02"
   },
   {
     "title": "西班牙政策上涨",
@@ -41,10 +74,10 @@
       "summary": "España prevé un crecimiento del gasto computable para el año 2026 del 4,2% en términos anuales, por debajo de los límites que establecen las reglas fiscales europeas, aunque por encima del objetivo pl"
     },
     "category": "政策",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
   },
   {
-    "title": "西班牙养老金新动态 (1)",
+    "title": "西班牙养老金新动态",
     "original_title": "El Gobierno abre las puertas de la Seguridad Social a 100.000 mutualistas",
     "source": {
       "name": "Expansión Economía",
@@ -52,7 +85,7 @@
       "summary": "Los autónomos que cotizan al colegio profesional podrán traspasar su capital a la Seguridad Social y acceder a la pensión mínima de jubilación.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
   },
   {
     "title": "西班牙政策新动态",
@@ -63,7 +96,7 @@
       "summary": "May 1st bank holiday, social media ban, new flights, migrant regularisation to continue, Mother's Day, preschool and petrol station strikes and plenty of festivals, this is what to expect in May 2026 "
     },
     "category": "政策",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
   },
   {
     "title": "西班牙战争风险新动态",
@@ -74,94 +107,61 @@
       "summary": "Spain's dynamic economy withstood the turmoil unleashed by the Middle East war to post 0.6 percent growth in the first quarter, in line with expectations, official data showed on Thursday."
     },
     "category": "战争风险",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
   },
   {
-    "title": "西班牙战争风险新动态 (1)",
-    "original_title": "Los sindicatos toman la calle el Primero de Mayo “contra las guerras y el fascismo”",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260501/11527392/sindicatos-toman-calle-primero-mayo-guerras-fascismo.html",
-      "summary": "El acto central del Día Internacional del Trabajo se traslada a Málaga justo en el inicio de campaña de las elecciones andaluzas"
-    },
-    "category": "工作",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙买房新动态",
-    "original_title": "Trump se salta el límite legal para continuar la guerra de Irán sin autorización del Congreso y sin un plan de salida",
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "El Primero de Mayo en EEUU se transforma en una ola de protestas contra el autoritarismo de Trump y su guerra en Irán",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-desafia-limite-legal-continuar-guerra-iran-autorizacion-congreso-plan-salida_1_13186915.html",
-      "summary": "La Casa Blanca llega a este viernes, 1 de mayo, sin la aprobación del Congreso a su guerra tras haber superado el plazo de 60 días que comenzó a correr el 2 de marzo, cuando Trump notificó formalmente"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙伊朗局势新规",
-    "original_title": "Trump vuelve a pedir ayuda para reabrir el estrecho de Ormuz con el petróleo desbocado",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/trump-vuelve-pedir-ayuda-reabrir-estrecho-ormuz-petroleo-desbocado_1_13186319.html",
-      "summary": "Mientras el tráfico marino en el estrecho de Ormuz sigue bloqueado y el petróleo Brent alcanza los 126 dólares, EEUU propone una nueva coalición internacional para reactivar el paso de barcosTrump dic"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙就业新动态",
-    "original_title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muchas dudas sobre su impacto real",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/inteligencia-artificial-irrumpe-despidos-mercado-trabajo-dudas-impacto-real_1_13175570.html",
-      "summary": "Los temores sobre la destrucción de empleos debido a la IA cobran fuerza tras varios anuncios de recortes en tecnológicas, aunque no es la tendencia general por ahora y hay quien duda incluso de los m"
+      "url": "https://www.eldiario.es/internacional/mayo-eeuu-transforma-ola-protestas-autoritarismo-trump-guerra-iran_1_13189217.html",
+      "summary": "El día del trabajo internacional, que no es festivo en EEUU, se ha convertido en este viernes en un grito contra la agenda ultra del presidente de EEUU, tanto dentro como fuera de las fronteras del pa"
     },
     "category": "工作",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙工作下降",
-    "original_title": "La brecha se dispara: los grandes ejecutivos cobraron casi 100 veces el sueldo medio en España en 2025",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/brecha-dispara-grandes-ejecutivos-cobraron-100-veces-sueldo-medio-espana-2025_1_2185748.html",
-      "summary": "Hay una brecha salarial que ya no cabe en una nómina. En España, un director general de una gran empresa gana en un año lo que una persona trabajadora con sueldo medio tardaría casi un siglo en cobrar"
-    },
-    "category": "工作",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙物价新规",
-    "original_title": "El petróleo registra un nuevo escalón bajista con el cambio de mes",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/05/01/69f44532468aeb1d608b456f.html",
-      "summary": "El precio del petróleo activó todas las alarmas a primera hora de ayer cuando llegó a superar los 125 dólares. Hoy el barril de Brent se abarata notablemente tras confirmar el escalón bajista previsto"
-    },
-    "category": "油价",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "西班牙住房下降 (1)",
-    "original_title": "Primero de Mayo: los sindicatos reivindican acceso a la vivienda y subida de sueldos del 4% al 7% hasta 2028",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/politica/2026/05/01/69f4459b468aeb450d8b4580.html",
-      "summary": "Los sindicatos mayoritarios CCOO y UGT han convocado más de un centenar de manifestaciones para hoy 1 de Mayo, Día del Trabajador, para reivindicar que se garantice el acceso a la vivienda y mejoras e"
-    },
-    "category": "租房",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Así es Roland Berger, la mayor consultora estratégica de origen europeo",
+    "original_title": "La segregación acordada por Vox y PP dejaría fuera al 23% de la población de las grandes ciudades gallegas",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/fondos/2026/04/30/69f219cf468aeb0c1c8b459f.html",
-      "summary": "El equipo de la Península Ibérica, liderado por seis socios y tres directores, realizó en 2025 más de 50 'due diligence' comerciales, de las que 23 se cerraron con transacciones o refinanciaciones.&nb"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/segregacion-acordada-vox-pp-dejaria-fuera-23-poblacion-grandes-ciudades-gallegas_1_2185991.html",
+      "summary": "Hace unos días, Vox obligó al PP a incorporar en sus pactos de gobierno en Extremadura y Aragón el principio de \"prioridad nacional\" en el acceso a \"ayudas, subvenciones y prestaciones públicas\". Lite"
     },
     "category": "政策",
-    "date": "2026-05-01"
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Ana Requena, periodista feminista: \"Solo permitimos el aborto si es un drama o un trauma\"",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/igualdad/ana-requena-periodista-feminista-permitimos-aborto-si-drama-trauma_1_2185706.html",
+      "summary": "\"Le dije que quería abortar. Me aconsejó que si lo hacía no se lo contara a nadie. Tras la consulta tomé la decisión de no decírselo a nadie\". Es uno de los testimonios que la periodista Ana Requena ("
+    },
+    "category": "政策",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "\"El rentismo no es un trabajo, es parasitar sueldos violando el derecho a una vivienda\", en el tuitómetro",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/opinion/humor/tuitometro/rentismo-no-trabajo-parasitar-sueldos-violando-derecho-vivienda-digna_1_2186138.html",
+      "summary": "Para sorpresa de nadie, la votación del decreto del alquiler salió mal. Obtuvo 166 votos a favor, 177 en contra y cinco abstenciones, por lo que no logró convalidarse. El rechazo salió adelante por lo"
+    },
+    "category": "租房",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Últimas noticias | 02 mayo 2026 - Mañana",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/05/02/ultimas-noticias-02-mayo-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 02 mayo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+    },
+    "category": "政策",
+    "date": "2026-05-02"
   }
 ]

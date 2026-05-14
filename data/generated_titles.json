@@ -1,61 +1,138 @@
 [
   {
-    "title": "西班牙教育新动态",
-    "original_title": "ERC acerca los presupuestos en Cataluña mientras crece la tensión por el conflicto laboral en educación",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/erc-acerca-presupuestos-cataluna-crece-preocupacion-govern-conflicto-laboral-educacion_1_2191924.html",
-      "summary": "Al Govern se le acumulan los deberes para un final de curso minado de negociaciones y huelgas. El profesorado ha realizado un paro general en toda Cataluña y ha provocado el corte de varias carreteras"
-    },
-    "category": "教育",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙学生新动态",
-    "original_title": "Una pelea masiva durante el recreo en un instituto de Chile deja siete docentes heridos y catorce estudiantes detenidos",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/una-pelea-masiva-durante-recreo-un-instituto-chile-deja-siete-docentes-heridos-catorce-estudiantes-detenidos_6969738_0.html",
-      "summary": "La pelea se inserta en un contexto nacional en el que más de la mitad de los colegios registraron denuncias en 2025."
-    },
-    "category": "留学",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙医疗新动态",
-    "original_title": "Andalucía, farolillo rojo en el gasto sanitario público por habitante: 300 euros menos que la media en España",
+    "title": "西班牙通胀下降",
+    "original_title": "La caída del precio de la luz y el gas en abril levanta la rebaja del IVA por la guerra a partir del 1 de junio",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/andalucia/andalucia-farolillo-rojo-gasto-sanitario-publico-habitante-300-euros-media-espana_1_13210798.html",
-      "summary": "El Ministerio de Sanidad acaba de publicar la última estadística. La Junta recurre habitualmente a otra, del mismo departamento, que recoge sólo presupuestos aprobados e incluye la inversión privadaEl"
+      "url": "https://www.eldiario.es/economia/caida-precio-luz-gas-abril-levanta-rebaja-iva-guerra-partir-1-junio_1_13219894.html",
+      "summary": "El INE confirma que la inflación se moderó al 3,2% en abril, con la electricidad y el gas natural cayendo un 4,3% y un 9,6%, respectivamente, en comparación con el año pasado. Siguen en vigor los aliv"
     },
-    "category": "医疗",
-    "date": "2026-05-13"
+    "category": "战争风险",
+    "date": "2026-05-14"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Las dos caras de Moreno: defensor de lo público en campaña, aliado de lo privado en la Junta",
+    "title": "西班牙通胀宣布",
+    "original_title": "Los descuentos a la electricidad y el gas terminarán el 1 de junio y el IVA reducido de las gasolinas seguirá vigente hasta el 30",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/caras-moreno-defensor-publico-campana-aliado-privado-junta_1_2192123.html",
-      "summary": "El presidente andaluz Juanma Moreno Bonilla llegó el lunes al debate de Canal Sur con el objetivo de reforzar una imagen de gestor moderado, proteger el flanco sanitario y repetir que su Gobierno ha f"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/05/14/6a041312e5fdea41078b4570.html",
+      "summary": "El Gobierno anuncia que  tras hacerse pública la inflación de abril, a partir del 1 de junio iniciará la desactivación de las medidas sobre el Impuesto Especial sobre la Electricidad y el IVA aplicabl"
+    },
+    "category": "税务",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "Xi avisa a Trump de posibles \"fricciones e incluso conflictos\" con EEUU si \"no se gestiona bien\" el diálogo de Taiwán",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/xi-avisa-trump-posibles-fricciones-incluso-conflictos-con-eeuu-si-no-se-gestiona-bien-dialogo-taiwan_6970311_0.html",
+      "summary": "Describiendo la cuestión de Taiwán como \"el asunto más importante en las relaciones\" entre ambos países, el mandatario chino ha mantenido que \"la independencia de Taiwán y la paz en el estrecho de Tai"
+    },
+    "category": "签证",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙通胀下降 (1)",
+    "original_title": "La inflación se modera al 3,2% en abril: la rebaja en el IVA de la luz y el gas termina en junio",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/05/14/6a05621d468aebd92d8b457b.html",
+      "summary": "El Índice de Precios de Consumo (IPC) se contuvo dos décimas el mes pasado hasta el 3,2% por el efecto de la bajada del recibo de la luz que amortigua la presión al alza de los combustibles en la infl"
     },
     "category": "政策",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "La eurozona frena su crecimiento al 0,1% en el primer trimestre, pero la UE lo mantiene en el 0,2%",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/05/13/6a0453a6468aeb90268b45ad.html",
+      "summary": "El ritmo de crecimiento del producto interior bruto (PIB) de la zona euro se moderó al 0,1% en los tres primeros meses de 2026, que incluyen el impacto del primer mes de guerra en Oriente Próximo, fre"
+    },
+    "category": "战争风险",
+    "date": "2026-05-14"
   },
   {
     "title": "西班牙伊朗局势新动态",
-    "original_title": "Marina Pereda relata su vida en el Opus de los 14 a los 25 años: \"Deja secuelas físicas, psicológicas y económicas\"",
+    "original_title": "La guerra secreta de Arabia Saudí y Emiratos Árabes contra Irán",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/cultura/libros/marina-pereda-cuenta-vida-opus-14-25-anos-deja-secuelas-psicologicas-fisicas-economicas_1_2191381.html",
-      "summary": "Marina Pereda (Miranda de Ebro, 1989) entró en el Opus Dei con 14 años y consiguió salir con 25. Con la perspectiva que da el tiempo, cuenta ahora su vida en La Obra (Aguilar, 2026), un libro en el qu"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260514/11537365/guerra-secreta-golfo-arabia-saudi-emiratos-arabes-unidos-atacaron-iran.html",
+      "summary": "La revelación de que los dos países del Golfo atacaron al régimen de los ayatolás echa por tierra su discurso público de contención"
     },
     "category": "伊朗局势",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Illa apuesta desde Silicon Valley por que Catalunya lidere los próximos 10 años “sin pedir permiso a nadie”",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260514/11537843/illa-apuesta-silicon-valley-catalunya-lidere-proximos-10-anos-pedir-permiso-nadie.html",
+      "summary": "El president preside la firma de dos convenios de colaboración del Barcelona Supercomputing Center con empresas tecnológicas punteras"
+    },
+    "category": "政策",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙养老金新动态",
+    "original_title": "Batería de denuncias de Abogados Cristianos para forzar la suspensión de la médico de la eutanasia de Noelia",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/bateria-denuncias-abogados-cristianos-forzar-suspension-medico-eutanasia-noelia_202605146a0569b7b5b06629960f923e.html",
+      "summary": "Reclama la nulidad del procedimiento y que se sancione a la que identifica como su responsable por \"graves conflictos de intereses\""
+    },
+    "category": "战争风险",
+    "date": "2026-05-14"
   },
   {
     "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "Rubio dice que EEUU busca que China presione a Irán para reducir la tensión en el golfo Pérsico",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/rubio-dice-que-eeuu-busca-que-china-presione-iran-para-reducir-tension-golfo-persico_6970266_0.html",
+      "summary": "El jefe de la diplomacia estadounidense aseguró que el bloqueo del estrecho de Ormuz y el conflicto han tenido repercusiones en China."
+    },
+    "category": "伊朗局势",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "Un millón de jóvenes votan en Andalucía y la izquierda no sabe qué ofrecerles",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/blog/contraoferta/millon-jovenes-votan-andalucia-izquierda-no-ofrecerles_132_13219431.html",
+      "summary": "El malestar económico (vivienda, salarios, precariedad) está redibujando el mapa electoral sin que la izquierda seduzca con propuestas convicentesApúntate para que te enviemos cada semana las claves d"
+    },
+    "category": "租房",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (2)",
+    "original_title": "Así fue la llegada de Trump a China: ceremonia con honores en Pekín",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/05/14/trump-visita-pekin-mientras-china-y-ee-uu-buscan-estabilizar-sus-tensas-relaciones",
+      "summary": "China recibió el jueves en Pekín al presidente estadounidense Donald Trump para una cumbre con Xi Jinping, mientras las potencias intentan calmar las tensiones por el comercio, Taiwán y el conflicto c"
+    },
+    "category": "伊朗局势",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙政策下降",
+    "original_title": "Telefónica pierde 411 millones por las ventas de Chile, Colombia y México, pero confirma previsiones",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/05/14/6a055508468aeba61c8b456e.html",
+      "summary": "Telefónica registró unas pérdidas netas de 411 millones de euros en el primer trimestre de 2026. La teleco, además, registra un fuerte descenso de la deuda, que ha bajado en 1.500 millones y confirma "
+    },
+    "category": "政策",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (3)",
     "original_title": "VII Foro Internacional EXPANSIÓN",
     "source": {
       "name": "Expansión",
@@ -63,105 +140,28 @@
       "summary": "Líderes económicos y empresariales de todo el mundo analizarán los días 19 y 20 de mayo cuestiones clave, como el impacto de la guerra en Irán y las últimas tendencias en sectores estratégicos como la"
     },
     "category": "伊朗局势",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "La creación de empresas se dispara un 35% en el mejor mes de marzo desde 2007",
+    "title": "西班牙通胀减少",
+    "original_title": "Cuerpo lanza un guiño a Junts desde las Torres Negras",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/05/13/6a042aa8e5fdea4e7d8b458d.html",
-      "summary": "El número de nuevas sociedades mercantiles se disparó un 35% en marzo en comparación con el mismo mes de 2025, hasta sumar un total de 14.307 empresas.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Meloni se estrella en sus guerras culturales",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/cultura/2026-05-13/meloni-se-estrella-en-sus-guerras-culturales.html",
-      "summary": "La ultraderecha italiana se marcó como prioridad al llegar al poder en 2022 imponer una agenda propia en el mundo del espectáculo, pero una larga serie de polémicas certifica su fracaso"
+      "url": "https://www.expansion.com/catalunya/2026/05/13/6a04b7a2468aebc3718b4587.html",
+      "summary": "Las medidas del Gobierno por la guerra reducen en más de un punto la inflación.&nbsp;Leer"
     },
     "category": "战争风险",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
-    "title": "西班牙居留新规",
-    "original_title": "Florentino Pérez convoca elecciones a la presidencia del Real Madrid: “Hay una confabulación de periodistas que se creen que mandan en el club. Me tendrán que echar a tiros”",
+    "title": "西班牙经济新动态",
+    "original_title": "La relación entre China y Estados Unidos también importa en España",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/deportes/futbol/2026-05-12/florentino-perez-convoca-elecciones-a-la-presidencia-del-real-madrid.html",
-      "summary": "El mandatario anuncia en una rueda de prensa celebrada en Valdebebas que abrirá la opción a un nuevo camino en el club blanco"
-    },
-    "category": "居留",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙学校新动态",
-    "original_title": "La segunda jornada de huelga prevé alterar la B-23 y la AP-7 a la altura de Vilafranca del Penedès",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20260512/11536758/segunda-jornada-huelga-preve-alterar-b-23-ap-7-altura-vilafranca-penedes.html",
-      "summary": "Sindicatos convocan este miércoles a los docentes de escuelas del Baix Llobregat y del Penedès&nbsp;"
+      "url": "https://elpais.com/videos/2026-05-14/la-relacion-entre-china-y-estados-unidos-tambien-importa-en-espana.html",
+      "summary": "El gigante asiático es ya el segundo socio comercial, aunque las inversiones estadounidenses siguen siendo fundamentales para la economía española"
     },
     "category": "政策",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Toque de la ONU a España por no investigar crímenes de lesa humanidad en el franquismo",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/toque-onu-espana-investigar-crimenes-lesa-humanidad-franquismo_202605136a04358fdd62c3164d280497.html",
-      "summary": "Cuatro relatores de Naciones Unidas advierten de que la aplicación de la Ley de Amnistía de 1977 \"no es compatible\" con el derecho internacional"
-    },
-    "category": "政策",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙身份合法化新动态",
-    "original_title": "Ayuso alega ante el Supremo que la regularización de migrantes \"desbordará\" los servicios públicos",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/ayuso-alega-supremo-regularizacion-migrantes-desbordara-servicios-publicos_1_13216041.html",
-      "summary": "El Gobierno de la Comunidad de Madrid afirma en el recurso por el que pide suspender el decreto que \"no existe una necesidad imperiosa de regularizar de forma inmediata a cientos de miles de personas\""
-    },
-    "category": "政策",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙医疗新动态 (1)",
-    "original_title": "El alto cargo que archivó la investigación por el material caducado en un hospital fue el primer gerente de la Sanidad andaluza nombrado por Moreno",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/andalucia/malaga/alto-cargo-archivo-investigacion-material-caducado-hospital-primer-gerente-sanidad-andaluza-nombrado-moreno_1_13204190.html",
-      "summary": "Miguel Moreno Verdugo, que desembarcó en La Axarquía tras diez meses dirigiendo el SAS, dio carpetazo al expediente reservado en una resolución que no contiene motivación“Si sale caducado, no lo tiréi"
-    },
-    "category": "医疗",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "El Supremo declara fija a una interina tras el fallo de la justicia europea y abre varias vías de sanción a la Administración",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/supremo-declara-fija-interina-fallo-justicia-europea-abre-vias-sancion-administracion_1_13213840.html",
-      "summary": "El alto tribunal precisa que la fijeza no corresponderá a todos los casos de abuso en contratos temporales, sino solo cuando se haya superado un proceso selectivo La Justicia europea dicta que España "
-    },
-    "category": "政策",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "Sin rastro de los gastos de Ayuso: la Comunidad de Madrid omite cuánto cuestan la mayoría de sus viajes",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/rastro-gastos-ayuso-comunidad-madrid-omite-cuestan-mayoria-viajes_1_2192170.html",
-      "summary": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, respondió este martes en el programa 'En boca de todos', de Cuatro, a las preguntas sobre el coste de su polémico viaje a México —que termin"
-    },
-    "category": "政策",
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   }
 ]

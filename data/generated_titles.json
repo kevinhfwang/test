@@ -1,138 +1,105 @@
 [
   {
-    "title": "西班牙通胀下降",
-    "original_title": "La caída del precio de la luz y el gas en abril levanta la rebaja del IVA por la guerra a partir del 1 de junio",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/caida-precio-luz-gas-abril-levanta-rebaja-iva-guerra-partir-1-junio_1_13219894.html",
-      "summary": "El INE confirma que la inflación se moderó al 3,2% en abril, con la electricidad y el gas natural cayendo un 4,3% y un 9,6%, respectivamente, en comparación con el año pasado. Siguen en vigor los aliv"
-    },
-    "category": "战争风险",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙通胀宣布",
-    "original_title": "Los descuentos a la electricidad y el gas terminarán el 1 de junio y el IVA reducido de las gasolinas seguirá vigente hasta el 30",
+    "title": "西班牙物价下降",
+    "original_title": "Las rebajas fiscales sobre luz y gas decaen el 1 de junio por la moderación de precios",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/05/14/6a041312e5fdea41078b4570.html",
-      "summary": "El Gobierno anuncia que  tras hacerse pública la inflación de abril, a partir del 1 de junio iniciará la desactivación de las medidas sobre el Impuesto Especial sobre la Electricidad y el IVA aplicabl"
-    },
-    "category": "税务",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙签证新动态",
-    "original_title": "Xi avisa a Trump de posibles \"fricciones e incluso conflictos\" con EEUU si \"no se gestiona bien\" el diálogo de Taiwán",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/xi-avisa-trump-posibles-fricciones-incluso-conflictos-con-eeuu-si-no-se-gestiona-bien-dialogo-taiwan_6970311_0.html",
-      "summary": "Describiendo la cuestión de Taiwán como \"el asunto más importante en las relaciones\" entre ambos países, el mandatario chino ha mantenido que \"la independencia de Taiwán y la paz en el estrecho de Tai"
-    },
-    "category": "签证",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙通胀下降 (1)",
-    "original_title": "La inflación se modera al 3,2% en abril: la rebaja en el IVA de la luz y el gas termina en junio",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/05/14/6a05621d468aebd92d8b457b.html",
-      "summary": "El Índice de Precios de Consumo (IPC) se contuvo dos décimas el mes pasado hasta el 3,2% por el efecto de la bajada del recibo de la luz que amortigua la presión al alza de los combustibles en la infl"
-    },
-    "category": "政策",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "La eurozona frena su crecimiento al 0,1% en el primer trimestre, pero la UE lo mantiene en el 0,2%",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/05/13/6a0453a6468aeb90268b45ad.html",
-      "summary": "El ritmo de crecimiento del producto interior bruto (PIB) de la zona euro se moderó al 0,1% en los tres primeros meses de 2026, que incluyen el impacto del primer mes de guerra en Oriente Próximo, fre"
-    },
-    "category": "战争风险",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "La guerra secreta de Arabia Saudí y Emiratos Árabes contra Irán",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260514/11537365/guerra-secreta-golfo-arabia-saudi-emiratos-arabes-unidos-atacaron-iran.html",
-      "summary": "La revelación de que los dos países del Golfo atacaron al régimen de los ayatolás echa por tierra su discurso público de contención"
+      "url": "https://www.expansion.com/economia/2026/05/15/6a0605d9e5fdea6a708b45ac.html",
+      "summary": "La moderación del IPC de abril al 3,2% activa parcialmente la cláusula de desactivación del plan de respuesta del Gobierno a la guerra en Irán y devuelve el IVA de electricidad y gas al 21%.&nbsp;Leer"
     },
     "category": "伊朗局势",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Illa apuesta desde Silicon Valley por que Catalunya lidere los próximos 10 años “sin pedir permiso a nadie”",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20260514/11537843/illa-apuesta-silicon-valley-catalunya-lidere-proximos-10-anos-pedir-permiso-nadie.html",
-      "summary": "El president preside la firma de dos convenios de colaboración del Barcelona Supercomputing Center con empresas tecnológicas punteras"
-    },
-    "category": "政策",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙养老金新动态",
-    "original_title": "Batería de denuncias de Abogados Cristianos para forzar la suspensión de la médico de la eutanasia de Noelia",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/bateria-denuncias-abogados-cristianos-forzar-suspension-medico-eutanasia-noelia_202605146a0569b7b5b06629960f923e.html",
-      "summary": "Reclama la nulidad del procedimiento y que se sancione a la que identifica como su responsable por \"graves conflictos de intereses\""
-    },
-    "category": "战争风险",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "Rubio dice que EEUU busca que China presione a Irán para reducir la tensión en el golfo Pérsico",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/rubio-dice-que-eeuu-busca-que-china-presione-iran-para-reducir-tension-golfo-persico_6970266_0.html",
-      "summary": "El jefe de la diplomacia estadounidense aseguró que el bloqueo del estrecho de Ormuz y el conflicto han tenido repercusiones en China."
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "Un millón de jóvenes votan en Andalucía y la izquierda no sabe qué ofrecerles",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/blog/contraoferta/millon-jovenes-votan-andalucia-izquierda-no-ofrecerles_132_13219431.html",
-      "summary": "El malestar económico (vivienda, salarios, precariedad) está redibujando el mapa electoral sin que la izquierda seduzca con propuestas convicentesApúntate para que te enviemos cada semana las claves d"
-    },
-    "category": "租房",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (2)",
-    "original_title": "Así fue la llegada de Trump a China: ceremonia con honores en Pekín",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/05/14/trump-visita-pekin-mientras-china-y-ee-uu-buscan-estabilizar-sus-tensas-relaciones",
-      "summary": "China recibió el jueves en Pekín al presidente estadounidense Donald Trump para una cumbre con Xi Jinping, mientras las potencias intentan calmar las tensiones por el comercio, Taiwán y el conflicto c"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "title": "西班牙政策下降",
-    "original_title": "Telefónica pierde 411 millones por las ventas de Chile, Colombia y México, pero confirma previsiones",
+    "original_title": "Airef ve necesario un ajuste fiscal de 15.000 millones hasta 2028 para cumplir las reglas fiscales",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/tecnologia/2026/05/14/6a055508468aeba61c8b456e.html",
-      "summary": "Telefónica registró unas pérdidas netas de 411 millones de euros en el primer trimestre de 2026. La teleco, además, registra un fuerte descenso de la deuda, que ha bajado en 1.500 millones y confirma "
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/05/14/6a059cdc468aebc3718b45ad.html",
+      "summary": "La Autoridad Fiscal rebaja el crecimiento al 2,2% en 2026 y advierte de que aplicar la cláusula de escape del gasto en Defensa no bastará para cumplir con las reglas fiscales en el futuro.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
-    "title": "西班牙伊朗局势新动态 (3)",
+    "title": "西班牙就业新规",
+    "original_title": "Optimismo estival para el empleo en turismo",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/05/14/6a059809e5fdea134b8b4599.html",
+      "summary": "Las previsiones apuntan a otro verano récord en el mercado laboral, gracias principalmente a la hostelería, que ha sido la principal actividad generadora de nuevos contratos en el primer trimestre de "
+    },
+    "category": "工作",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor turístico",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-05-15/radiografia-de-la-vivienda-en-andalucia-poca-oferta-mucha-demanda-y-el-factor-turistico.html",
+      "summary": "La comunidad cuenta con 152.000 viviendas turísticas y casi 3.000 conjuntos de apartamentos, una de las grandes claves que explican los precios de récord del metro cuadrado"
+    },
+    "category": "租房",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙医疗新动态",
+    "original_title": "La guerra civil del laborismo paraliza el Gobierno de Starmer",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/guerra-civil-laborismo-paraliza-gobierno-starmer_1_13222817.html",
+      "summary": "El ministro de Sanidad y el acalde de Manchester desafían al primer ministro de su partido y dan los primeros pasos para lanzar unas primarias y sustituirlo en medio de la incertidumbre que anticipa u"
+    },
+    "category": "医疗",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙通胀下降",
+    "original_title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: quién es Kevin Warsh, el nuevo presidente de la Fed",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/vive-rodeado-ricos-viene-wall-street-elegido-trump-kevin-warsh-nuevo-presidente-fed_1_13219704.html",
+      "summary": "Warsh, que fue incapaz de desmarcarse ante el Congreso de la teoría trumpista del supuesto robo electoral de 2020, sucede a Jerome Powell. Tiene ante sí el desafío de lidiar con la presión del preside"
+    },
+    "category": "战争风险",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙住房推出",
+    "original_title": "Del \"no hay pan pa' tanto chorizo\" al \"que no tenemos casa\": qué ha sido de los lemas del 15M",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/no-hay-pan-pa-chorizo-no-casa-sido-lemas-15m_1_13217711.html",
+      "summary": "Analistas reconocen que las consignas que ocuparon las plazas hace 15 años \"siguen vigentes\" y destacan las proclamas por la vivienda, contra la corrupción y frente a la crisis de representación públi"
+    },
+    "category": "租房",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "\"Los invisibles del cine\" se rebelan en Francia en pleno rodaje de una producción de Netflix",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/mediapart/malestar-laboral-invisibles-cine-francia-durante-produccion-netflix_1_2192639.html",
+      "summary": "“Al principio, solo queríamos que se respetaran nuestros derechos. Luego, la situación adquirió unas dimensiones que no habíamos imaginado”. En septiembre y octubre de 2025, Béatrice*, regidora de ext"
+    },
+    "category": "政策",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙学生新动态",
+    "original_title": "Greystar, la gestora especializada en activos inmobiliarios alternativos",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/fondos/2026/05/14/6a0581d6468aeb134e8b45ab.html",
+      "summary": "El equipo liderado por Rafael Fernández-Villaverde, con responsabilidad en el sur de Europa, gestiona en España unos 2.000 millones de euros en residencial en alquiler, residencias de estudiantes y al"
+    },
+    "category": "留学",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
     "original_title": "VII Foro Internacional EXPANSIÓN",
     "source": {
       "name": "Expansión",
@@ -140,28 +107,61 @@
       "summary": "Líderes económicos y empresariales de todo el mundo analizarán los días 19 y 20 de mayo cuestiones clave, como el impacto de la guerra en Irán y las últimas tendencias en sectores estratégicos como la"
     },
     "category": "伊朗局势",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
-    "title": "西班牙通胀减少",
-    "original_title": "Cuerpo lanza un guiño a Junts desde las Torres Negras",
+    "title": "西班牙经济上涨",
+    "original_title": "La logística catalana dispara casi un 40% sus costes operativos",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/catalunya/2026/05/13/6a04b7a2468aebc3718b4587.html",
-      "summary": "Las medidas del Gobierno por la guerra reducen en más de un punto la inflación.&nbsp;Leer"
+      "url": "https://www.expansion.com/catalunya/2026/05/14/6a061bf4e5fdead4128b45a5.html",
+      "summary": "Suben el crudo y otras materias primas y faltan alternativas reales a la carretera. El sector pierde peso en el conjunto de la economía catalana, lo que evidencia su crisis.&nbsp;Leer"
     },
-    "category": "战争风险",
-    "date": "2026-05-14"
+    "category": "油价",
+    "date": "2026-05-15"
   },
   {
-    "title": "西班牙经济新动态",
-    "original_title": "La relación entre China y Estados Unidos también importa en España",
+    "title": "西班牙战争风险新动态",
+    "original_title": "La guerra intensifica el acopio de suministros",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/videos/2026-05-14/la-relacion-entre-china-y-estados-unidos-tambien-importa-en-espana.html",
-      "summary": "El gigante asiático es ya el segundo socio comercial, aunque las inversiones estadounidenses siguen siendo fundamentales para la economía española"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/05/14/6a059b1b468aeb331b8b457e.html",
+      "summary": "Los organismos multilaterales instan a desincentivar el consumo y promover políticas de ahorro.&nbsp;Leer"
+    },
+    "category": "战争风险",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Where to watch the 2026 World Cup on TV in Spain",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260515/where-to-watch-the-2026-world-cup-on-tv-in-spain",
+      "summary": "The world's biggest sporting spectacle kicks off on June 11th, but unfortunately getting to watch all the matches on TV while in Spain is going to be more complicated and expensive than ever. These ar"
     },
     "category": "政策",
-    "date": "2026-05-14"
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙伊朗局势新规",
+    "original_title": "Trump a Xi, sobre la guerra en Irán: “Sentimos lo mismo, ¿verdad? Queremos que esto termine”",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-05-15/trump-a-xi-sobre-la-guerra-en-iran-sentimos-lo-mismo-verdad-queremos-que-esto-termine.html",
+      "summary": "El líder chino asegura que Washington y Pekín han alcanzado “una nueva etapa” en las relaciones bilaterales"
+    },
+    "category": "伊朗局势",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "Embarcaciones chinas cruzan Ormuz mientras Trump y Xi Jinping se reúnen en Pekín",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260514/11538331/embarcaciones-chinas-cruzan-ormuz-trump-xi-jinping-reunen-pekin.html",
+      "summary": "El paso de 30 buques bajo permiso iraní se interpreta como un movimiento estratégico de Teherán para influir en las negociaciones entre las dos superpotencias"
+    },
+    "category": "伊朗局势",
+    "date": "2026-05-15"
   }
 ]

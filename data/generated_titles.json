@@ -1,14 +1,69 @@
 [
   {
-    "title": "西班牙物价新动态",
-    "original_title": "Los agricultores ya pagan los fertilizantes a precio de oro y se espera una fuerte caída en la producción de cereal",
+    "title": "西班牙税务新动态",
+    "original_title": "KEY POINTS: What changes about life in Spain in June 2026",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260519/key-points-what-changes-about-life-in-spain-in-june-2026",
+      "summary": "Tax return deadline, schools break up for summer, increase in electricity and gas prices, changes to asylum rules, new salary transparency law, festivals, protests and more - here's everything to know"
+    },
+    "category": "税务",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙就业宣布",
+    "original_title": "Menos paro, más precariedad: el Banco de Francia avala la política de Macron",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/agricultores-pagan-fertilizantes-precio-oro-espera-fuerte-caida-produccion-cereal_1_2196398.html",
-      "summary": "El calendario sigue corriendo y la guerra de Irán ya se aproxima a su cuarto mes completamente paralizada. El impacto sobre el sector agrícola era uno de los que más preocupaba por su dependencia de l"
+      "url": "https://www.infolibre.es/mediapart/paro-precariedad-banco-francia-avala-politica-macron_1_2196935.html",
+      "summary": "El “objetivo de pleno empleo” anunciado por el presidente de Francia, Emmanuel Macron —una tasa de paro del 5% en 2027— ha quedado fuera de alcance. En el segundo trimestre de 2026, el Instituto Nacio"
+    },
+    "category": "留学",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "El precio del apoyo de ERC y En Comú a Illa: 893 millones en 2026",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/catalunya/2026/05/22/6a10b224e5fdea3e778b45a7.html",
+      "summary": "l Consell Executiu remite al Parlament unas cuentas récord que, incluyendo a todo el sector público, movilizarán más de 54.000 millones de euros.&nbsp;Leer"
+    },
+    "category": "政策",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙物价新动态 (1)",
+    "original_title": "La guerra en Irán reaviva el uso del estiércol, que quiere dejar atrás su pasado contaminante",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/guerra-iran-reaviva-estiercol-quiere-pasado-contaminante_1_2197038.html",
+      "summary": "El subidón de precios de los fertilizantes derivado de la guerra en Irán podría reavivar el uso del estiércol y purines en el campo, una práctica con un pasado sombrío en España porque provocó la cont"
     },
     "category": "伊朗局势",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Kanye West, el rapero vetado en Reino Unido o Polonia por apología nazi que sí actuará en España",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/cultura/musica/kanye-west-rapero-vetado-reino-unido-polonia-francia-suiza-apologia-nazi-si-actuara-madrid_1_2197476.html",
+      "summary": "En julio de 2025, el Gobierno de Australia prohibió la entrada a Kanye West después de la publicación, un par de meses antes, de una canción titulada Heil Hitler (prohibida en todas las plataformas en"
+    },
+    "category": "政策",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "A la segunda va la vencida: los Presupuestos catalanes de 2026 llegan finalmente al Parlament",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/catalunya/2026/05/22/6a1029d3e5fdea34578b45a5.html",
+      "summary": "El impacto económico de los acuerdos con republicanos y comunes asciende a 893 millones. El sector público gestionará este año un récord de casi 55.000 millones.&nbsp;Leer"
+    },
+    "category": "政策",
+    "date": "2026-05-24"
   },
   {
     "title": "西班牙住房增加",
@@ -19,65 +74,87 @@
       "summary": "El Fondo Monetario Internacional (FMI) ha destacado el sólido desempeño de la economía española a pesar del impacto de la guerra de Oriente Próximo.&nbsp;Leer"
     },
     "category": "租房",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
   },
   {
-    "title": "西班牙外国人下降",
-    "original_title": "Izan Llunas, el cantante que emocionó a Pedro Almodóvar: “No tuve una infancia normal”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/gente/2026-05-22/izan-llunas-el-cantante-que-emociono-a-pedro-almodovar-no-tuve-una-infancia-normal.html",
-      "summary": "Es hijo de Marcos Llunas y nieto de Dyango, pero no se considera un ‘nepobaby’ porque, según dice, ha empezado “desde abajo”. Con solo 10 años daba conciertos, con 13 ya trabajaba en el extranjero y q"
-    },
-    "category": "政策",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Así es el Nimitz, el portaaviones más viejo de la flota estadounidense que Trump despliega ya frente a Cuba para presionar al régimen",
+    "title": "西班牙住房新动态",
+    "original_title": "Un propietario convierte la azotea comunitaria en parte de su casa impidiendo el acceso a los vecinos y acaba condenado",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/asi-es-nimitz-portaaviones-mas-viejo-flota-estadounidense-que-trump-despliega-ya-frente-cuba-para-presionar-regimen_6973371_0.html",
-      "summary": "En servicio desde 1975, es el portaaviones estadounidense en activo más antiguo. Iba a ser retirado y desguazado este 2026, pero se ha prolongado su vida hasta marzo de 2027."
+      "url": "https://www.20minutos.es/vivienda/propietario-convierte-azotea-comunitaria-parte-casa-impide-acceso-vecinos-condenado_6974182_0.html",
+      "summary": "Hizo una apertura en el techo de su vivienda y perforó la cubierta del edificio para crear un acceso privado directo a la azotea desde su casa."
+    },
+    "category": "租房",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Oficinas de los expresidentes: privilegios públicos, beneficios privados",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/oficinas-expresidentes-privilegios-publicos-beneficios-privados_129_13245298.html",
+      "summary": "El funcionamiento de las oficinas de los expresidentes del Gobierno en España constituye uno de esos mecanismos institucionales que revelan con meridiana claridad la cultura política del país\n        "
     },
     "category": "政策",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
   },
   {
-    "title": "西班牙通胀变化",
-    "original_title": "Bruselas sitúa a España como la gran excepción económica de la UE pese al shock por la guerra en Irán",
+    "title": "西班牙居留新动态",
+    "original_title": "Trump acelera el modo guerra y convierte el mundo en un campo minado con Cuba, Irán y el cisma con sus aliados",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/bruselas-situa-espana-gran-excepcion-economica-ue-pese-shock-guerra-iran_1_2196861.html",
-      "summary": "La guerra desatada contra Irán por Estados Unidos e Israel ha cambiado de golpe el escenario económico europeo. La UE ha pasado de crecer, reducir la inflación y empezar a reducir sus niveles de endeu"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/trump-acelera-guerra-convierte-mundo-campo-minado-cuba-iran-cisma-aliados_129_13243776.html",
+      "summary": "La presidencia estadounidense lleva meses en modo de guerra, y todas las señales indican que eso no sólo no va a ceder, sino que amenaza con acelerarse tras el ataque a Venezuela y el asalto a Cuba, e"
     },
-    "category": "伊朗局势",
-    "date": "2026-05-22"
+    "category": "居留",
+    "date": "2026-05-24"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "La cantidad retenida en la cuenta de Rodríguez Zapatero y su cónyuge asciende a 490.780 euros",
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Últimas noticias | 24 mayo 2026 - Mañana",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/05/22/la-cantidad-retenida-en-la-cuenta-de-zapatero",
-      "summary": "El juez José Luis Calama opta por no bloquear completamente las cuentas bancarias del expresidente del Gobierno y se cetra en cantidades recibidas entre 2020 y 2025 de Análisis Relevante. La oposición"
+      "url": "http://es.euronews.com/video/2026/05/24/ultimas-noticias-24-mayo-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 24 mayo 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙油价恢复",
+    "original_title": "Los fondos de renovables recuperan el atractivo: ganan un 50%",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/fondos/2026/05/23/6a11c1d6e5fdea457d8b457f.html",
+      "summary": "Tras años relegados, los fondos especializados en energías limpias recuperan el brillo. Los inversores confían en las renovables como alternativa al petróleo y gas.&nbsp;Leer"
+    },
+    "category": "油价",
+    "date": "2026-05-24"
+  },
+  {
+    "title": "西班牙租房新动态",
+    "original_title": "El fin del registro de alquileres abre una guerra judicial de 160 millones contra el Estado",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/05/22/6a10682f468aebb4168b4579.html",
+      "summary": "La patronal del alquiler de corta estancia cifra en 33.000 euros de media las pérdidas de los propietarios por la cancelación de reservas y los gastos de gestión del número de registro anulado por el "
+    },
+    "category": "租房",
+    "date": "2026-05-24"
   },
   {
     "title": "西班牙伊朗局势新动态",
-    "original_title": "Final Four de la Euroliga 2026: Los aspirantes al título y las claves de su historia",
+    "original_title": "Frenazo europeo por Ormuz, salvo para España",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/05/22/final-four-de-la-euroliga-2026-estos-son-los-aspirantes-al-titulo-y-las-claves-de-su-histo",
-      "summary": "La Final Four de Atenas promete hacer historia en el baloncesto europeo. Grecia es el país más exitoso con siete títulos, seguida de España y Turquía."
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/05/22/6a103559468aeb05368b45b5.html",
+      "summary": "La factura por la guerra de Irán crece pese a una menor dependencia de la energía del Golfo.&nbsp;Leer"
     },
     "category": "伊朗局势",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
   },
   {
-    "title": "西班牙物价新动态 (1)",
+    "title": "西班牙物价新动态 (2)",
     "original_title": "La UE suspende temporalmente sus aranceles sobre los fertilizantes ante la crisis de precios",
     "source": {
       "name": "Expansión Economía",
@@ -85,83 +162,6 @@
       "summary": "El bloque comunitario busca formas de aliviar el impacto sobre los agricultores de la guerra en Oriente Próximo para evitar recortes en la producción el próximo año que puedan causar un encarecimiento"
     },
     "category": "战争风险",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "¿Por qué ‘El Rosco’ y ‘Pasapalabra’ no son lo mismo? Preguntas y respuestas de la guerra entre Antena 3 y Telecinco",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/television/2026-05-22/por-que-el-rosco-y-pasapalabra-no-son-lo-mismo-preguntas-y-respuestas-de-la-guerra-entre-antena-3-y-telecinco.html",
-      "summary": "Dos bandos en torno al concurso que define el liderazgo en la televisión española. Por un lado, Atresmedia y la cadena británica ITV. Por el otro, Mediaset y la productora neerlandesa MC&F"
-    },
-    "category": "战争风险",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙战争风险新规",
-    "original_title": "¿Putin está perdiendo la guerra en Ucrania?",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260522/11544291/putin-esta-perdiendo-guerra-ucrania.html",
-      "summary": "Las dificultades que está encontrando Rusia en su ofensiva en territorio ucraniano y la nueva estrategia del gobierno de Zelenski de utilizar masivamente drones para atacar las filas rusas, han dado u"
-    },
-    "category": "战争风险",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙伊朗局势宣布",
-    "original_title": "Trump da marcha atrás y anuncia el envío de 5.000 soldados adicionales a Polonia",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260521/11544556/trump-da-marcha-anuncia-envio-5000-soldados-adicionales-polonia.html",
-      "summary": "El secretario de Estado de EE.UU., Marco Rubio, declaró que el presidente está “decepcionado” y “muy molesto” por la posición de los aliados, entre ellos España, en relación con la guerra en Irán"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙伊朗局势新动态 (1)",
-    "original_title": "Crece la disidencia de legisladores republicanos por la guerra de Irán y el fondo para los golpistas",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260522/11544747/crece-disidencia-legisladores-republicanos-guerra-iran-fondo-golpistas.html",
-      "summary": "El grupo conservador cancela una votación sobre los poderes de guerra del presidente al constatar que la iba a perder y los senadores republicanos posponen legislación presupuestaria por su disconform"
-    },
-    "category": "伊朗局势",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "El Consejo de Ministros usó \"carril VIP\" para Plus Ultra",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/consejo-ministros-uso-carril-vip-plus-ultra_202605226a0feb9d7e0b463207908d2b.html",
-      "summary": "La ayuda de la aerolínea se tramitó en 182 días frente a los 355 días de media del resto. Fue el segundo expediente más rápido por detrás de Air Europa"
-    },
-    "category": "政策",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙工作新动态",
-    "original_title": "El flujo del dinero que investiga la Audiencia Nacional en el caso Zapatero",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/flujo-dinero-investiga-audiencia-nacional-caso-zapatero_1_13236586.html",
-      "summary": "Una quincena de mercantiles, algunas sociedades interpuestas, una sociedad en Dubái, igualas mensuales y trabajos de marketing que parecían ficticios El quién es quién de las empresas salpicadas por l"
-    },
-    "category": "工作",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "西班牙移民新动态",
-    "original_title": "Sánchez se encomienda al Papa",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/opinion/zona-critica/sanchez-encomienda-papa_129_13240891.html",
-      "summary": "La Moncloa busca con la visita del pontífice a España sacar rédito del viraje del PP a las posiciones más ultras en materia de inmigración y del enfrentamiento que Vox mantiene con la Conferencia Epis"
-    },
-    "category": "移民",
-    "date": "2026-05-22"
+    "date": "2026-05-24"
   }
 ]

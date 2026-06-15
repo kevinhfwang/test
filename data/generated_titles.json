@@ -1,36 +1,80 @@
 [
   {
-    "title": "西班牙物价变化",
-    "original_title": "Cómo ha cambiado el mercado del petróleo y el gas tras 100 días de cierre del Estrecho de Ormuz",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/cambiado-mercado-petroleo-gas-100-dias-cierre-estrecho-ormuz_1_2207964.html",
-      "summary": "Tras poco más de 100 días de bloqueo del Estrecho de Ormuz por la guerra de Estados Unidos-Israel contra Irán, que comenzó el pasado 28 de febrero, el precio del crudo sigue una trayectoria de gran vo"
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙税收新动态",
-    "original_title": "Cerdeña limita las sombrillas en la playa: prohibida para adultos, solo para mayores y niños",
+    "title": "西班牙政策推出",
+    "original_title": "TIIF 2026, Uzbekistán presenta proyectos por 75.000 M€ a inversores internacionales",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/viajes/2026/06/14/cerdena-limita-la-sombra-en-la-playa-a-ninos-y-mayores-la-prohibe-a-adultos",
-      "summary": "Tras el incendio que devastó en 2025 la playa de Punta Molentis, este año las autoridades locales han impuesto normas muy estrictas, pero la ciudadanía critica unas medidas que incluyen accesos limita"
+      "url": "http://es.euronews.com/business/2026/06/15/tiif-2026-uzbekistan-presenta-proyectos-por-75000-m-a-inversores-internacionales",
+      "summary": "El Foro Internacional de Inversión de Taskent reúne a cargos públicos, inversores y empresarios de más de 100 países para impulsar inversiones y cooperación regional en Asia Central, con debates sobre"
     },
-    "category": "税务",
-    "date": "2026-06-14"
+    "category": "政策",
+    "date": "2026-06-15"
   },
   {
-    "title": "西班牙大学新动态",
-    "original_title": "Estas son las siete universidades con mayor rendimiento de España",
+    "title": "西班牙教育变化",
+    "original_title": "El ministro francés de Educación pide hacer los exámenes en las horas más frescas por el calor",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/06/15/el-ministro-frances-de-educacion-pide-hacer-los-examenes-en-las-horas-mas-frescas-por-el-c",
+      "summary": "El bachillerato 2026 arranca hoy, pero en el futuro el calendario de exámenes podría cambiar por completo."
+    },
+    "category": "教育",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙伊朗局势宣布",
+    "original_title": "Estados Unidos e Irán anuncian un acuerdo para abrir el estrecho de Ormuz y poner fin a la guerra",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-06-14/trump-anuncia-que-estados-unidos-e-iran-han-alcanzado-un-acuerdo-para-poner-fin-a-la-guerra.html",
+      "summary": "Tras casi cuatro meses de conflicto los dos países pactan una extensión de la tregua que firmarán el viernes en Suiza. Pakistán asegura que las partes se comprometen al cese inmediato de las hostilida"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙买房新动态",
+    "original_title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Israel dice que seguirá ocupando y demoliendo casas en el sur de Líbano pese al acuerdo entre EE UU e Irán",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-06-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "summary": "El ministro de Exteriores iraní pide a Israel que detenga los ataques contra el país vecino | La comunidad internacional celebra el pacto y urge a la reapertura “inmediata y sin peajes” del estrecho d"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙失业新动态",
+    "original_title": "Los médicos elevan el conflicto contra Sanidad y amenazan con una huelga indefinida a partir de septiembre",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/los-medicos-elevan-conflicto-contra-sanidad-amenazan-con-una-huelga-indefinida-partir-septiembre_6983383_0.html",
+      "summary": "El comité de huelga prepara \"paros indefinidos\" después del verano, si no hay avances en las negociaciones."
+    },
+    "category": "医疗",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙经济变化",
+    "original_title": "El monopolio de la FIFA se tambalea: el móvil y los creadores digitales cambian el relato del fútbol",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medios/monopolio-fifa-tambalea-movil-creadores-digitales-cambian-relato-futbol_1_2207766.html",
+      "summary": "El partido de fútbol ha dejado de ser el centro del negocio. Sigue siendo el detonante, la excusa y el catalizador, pero la economía que genera ya no depende de los 90 minutos entre dos pitidos. La Co"
+    },
+    "category": "政策",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙买房新动态 (1)",
+    "original_title": "El acuerdo con Irán lleva a que Trump libre una batalla en casa",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/06/11/6a29cdec468aeb002a8b4581.html",
-      "summary": "Universitat Pompeu Fabra, Universitat Politècnica de Catalunya, Autònoma de Barcelona, Politècnica de València, Universitat de Barcelona, Universidad Autónoma de Madrid y Universidad Carlos III encabe"
+      "url": "https://www.expansion.com/economia/financial-times/2026/06/15/6a2ff4ebe5fdeac1618b4594.html",
+      "summary": "El conflicto ha dividido al Partido Republicano y ha hecho que los estadounidenses afronten precios más altos sin una sensación clara de victoria.&nbsp;Leer"
     },
-    "category": "留学",
-    "date": "2026-06-14"
+    "category": "伊朗局势",
+    "date": "2026-06-15"
   },
   {
     "title": "西班牙政策新动态",
@@ -41,127 +85,83 @@
       "summary": "La competición con más equipos de la historia pone en juego a 48 combinados nacionales durante cinco semanas. Consulte aquí todos los detalles"
     },
     "category": "政策",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙战争风险新规",
-    "original_title": "¿Lucharías por tu país? Los nuevos retos de España en defensa 25 años después del fin de la mili",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/eps/2026-06-14/lucharias-por-tu-pais-los-nuevos-retos-de-espana-en-defensa-25-anos-despues-del-fin-de-la-mili.html",
-      "summary": "Tras la guerra en Ucrania, Europa se rearma y el servicio militar ha vuelto a los vecinos de Rusia y centra el debate público en Francia y Alemania. Nadie cree en su reimplantación en España, pero en "
-    },
-    "category": "战争风险",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙医疗新动态",
-    "original_title": "Más de un millón de personas donaron sangre y plasma en España en 2025, un 2,8% menos en un año",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/mas-un-millon-personas-donaron-sangre-plasma-espana-2025-un-2-8-menos-un-ano_6983017_0.html",
-      "summary": "Con motivo del Día Mundial del Donante de Sangre, el Ministerio de Sanidad ha puesto en valor la importancia de las donaciones para garantizar la atención sanitaria y dar respuesta a procedimientos mé"
-    },
-    "category": "医疗",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙签证下降",
-    "original_title": "El juez mantiene citada para este lunes a Elisa Mouliaá, que podría ser detenida si no acude",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/juez-mantiene-citada-para-este-lunes-elisa-mouliaa-que-podria-ser-detenida-si-no-acude_6983009_0.html",
-      "summary": "Mouliaá ya habría avisado de que no se presentará a la citación del próximo lunes porque se encuentra trabajando entre Dubái y el mar Rojo."
-    },
-    "category": "签证",
-    "date": "2026-06-14"
+    "date": "2026-06-15"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Sábado de sorpresas en el Mundial 2026 con resultados inesperados de Brasil y Suiza",
+    "original_title": "Al menos ocho altos cargos ligados al PP de Madrid cobran los bonos energéticos para familias vulnerables",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/06/14/sabado-de-sorpresas-en-el-mundial-2026-con-resultados-inesperados-de-brasil-y-suiza",
-      "summary": "La estrella brasileña Vinicius Jr. dio un paso al frente y evitó la vergüenza de su selección con una magnífica jugada individual ante Marruecos, semifinalista de 2022."
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/ocho-altos-cargos-ligados-pp-madrid-cobran-bonos-energeticos-familias-vulnerables_1_2208197.html",
+      "summary": "Hace tres años estalló el escándalo de los políticos que se beneficiaban de ayudas ideadas para que familias vulnerables puedan pagar sus facturas de la luz y del gas tras una investigación de infoLib"
     },
     "category": "政策",
-    "date": "2026-06-14"
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Estados Unidos e Irán llegan a un acuerdo para \"transformar Oriente Medio en los próximos 50 años\"",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/internacional/eeuu-e-iran-llegan-acuerdo-paz-poner-guerra-frentes-reabrir-ormuz_1_2208952.html",
+      "summary": "Tras muchos vaivenes y desencuentros, amenazas cruzadas, y anuncios y desmentidos. Este domingo a última hora se ponía fin a más de 100 días de conflicto. El acuerdo de paz siempre estuvo cerca, pero "
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙政策新规",
+    "original_title": "Robert De Niro lanza una referencia de cine de 4 palabras a Donald Trump",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/cultura/2026/06/15/robert-de-niro-lanza-una-referencia-de-cine-de-4-palabras-a-donald-trump",
+      "summary": "Es evidente que la leyenda del cine Robert De Niro no felicitó a Donald Trump por sus 80 años. En un acto en Nueva York usó su libertad de expresión para responder a sus últimas declaraciones y lanzó "
+    },
+    "category": "政策",
+    "date": "2026-06-15"
   },
   {
     "title": "西班牙物价新动态",
-    "original_title": "Por qué España es el destino turístico de moda",
+    "original_title": "El petróleo se desinfla ya hacia los niveles del inicio de la guerra",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/directivos/estilo-vida/viajes/2026/06/13/6a2c76c4468aeb2d7d8b45a5.html",
-      "summary": "Ofrece seguridad, estabilidad, conectividad, diversidad de destinos, clima y oferta gastronómica. El viajero ahora está priorizando calidad, autenticidad y experiencias memorables sobre el factor prec"
+      "url": "https://www.expansion.com/mercados/materias-primas/2026/06/15/6a2f9c9ee5fdeac5738b456d.html",
+      "summary": "La referencia que ha marcado en gran medida la evolución del conjunto de los mercados durante los últimos meses, el precio del petróleo, confirma su desplome como respuesta al acuerdo entre EEUU e Irá"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-15"
+  },
+  {
+    "title": "西班牙政策飙升",
+    "original_title": "El Corte Inglés dispara el beneficio un 22% y supera los 17.000 millones de ingresos",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/empresas/distribucion/2026/06/15/6a2fb6aae5fdeadf5e8b4599.html",
+      "summary": "El gigante de los grandes almacenes situó su deuda financiera neta en 1.648 millones de euros a cierre de su ejercicio 2025, el mínimo en casi dos décadas.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-06-14"
+    "date": "2026-06-15"
   },
   {
-    "title": "西班牙通胀飙升",
-    "original_title": "La inflación de los alimentos se contiene un 2,2% en mayo pero los huevos, el vacuno y el pescado siguen disparados",
+    "title": "西班牙政策减少",
+    "original_title": "La paradoja de España: a más gasto público, menos bienestar ciudadano",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/12/6a2bbb7e468aeb66558b45a0.html",
-      "summary": "Los precios de la cesta de la compra se moderaron un 2,2% en mayo, lo que pudo contener el IPC general, aunque el vacuno y los huevos siguen acumulando un mes más subidas de más del 10% interanual y o"
+      "url": "https://www.expansion.com/opinion/2026/06/15/6a2f120f468aeb32178b45ad.html",
+      "summary": "El Índice de Riqueza de las Naciones confirma que a pesar de tener un gasto público récord, el retorno para los ciudadanos en servicios y prosperidad se reduce desde el año 2021.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-06-14"
+    "date": "2026-06-15"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "Las comunidades ratifican el Plan Estatal de Vivienda y cobrarán 800 millones en julio",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/11/6a2b02d4e5fdeac0028b4584.html",
-      "summary": "El Gobierno efectuará el próximo mes el primer desembolso del Plan de Vivienda hasta 2030, con el foco puesto en la construcción de vivienda pública, la rehabilitación y las ayudas. Las comunidades de"
-    },
-    "category": "租房",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Which airlines are banned in the European Union and why?",
+    "title": "西班牙居留新动态",
+    "original_title": "400,000 more migrants than forecast apply for Spain's residency amnesty",
     "source": {
       "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260612/which-airlines-are-banned-in-the-european-union-and-why",
-      "summary": "A total of 154 airlines are banned in the European Union due to safety concerns, after the 2026 update of the ‘EU air safety list’ announced by the European Commission this week."
+      "url": "https://www.thelocal.es/20260615/400000-more-migrants-than-forecast-apply-for-spains-residency-amnesty",
+      "summary": "The divisive mass regularisation of undocumented migrants in Spain reaches a record 900,000 applications two weeks from the deadline, 400,000 more than initially forecast by the Spanish government and"
     },
-    "category": "政策",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙学生排名",
-    "original_title": "La vida diez años después de la Selectividad perfecta",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/educacion/2026-06-14/la-vida-diez-anos-despues-de-la-selectividad-perfecta.html",
-      "summary": "Fueron los cuatro mejores estudiantes de Madrid, Cataluña, Melilla y Las Palmas de Gran Canaria en 2016. Una década después, hablan con EL PAÍS sobre cómo han evolucionado desde entonces"
-    },
-    "category": "留学",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "Emma Heming, esposa y cuidadora de Bruce Willis: “Necesitaba escuchar que podía pedir ayuda, pensé que era un fracaso tener que hacerlo”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/gente/2026-06-14/emma-heming-esposa-y-cuidadora-de-bruce-willis-necesitaba-escuchar-que-podia-pedir-ayuda-pense-que-era-un-fracaso-tener-que-hacerlo.html",
-      "summary": "La exmodelo, que ha publicado una guía para ayudar a cuidadores de personas dependientes, habla con EL PAÍS sobre las dificultades de enfrentar la demencia frontotemporal del actor y sobre la importan"
-    },
-    "category": "政策",
-    "date": "2026-06-14"
-  },
-  {
-    "title": "西班牙政策新动态 (4)",
-    "original_title": "El PP lanza una web con el mapa de la corrupción del PSOE",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/lanza-web-mapa-corrupcion-psoe_202606146a2e8019f2a09b6364a7aa34.html",
-      "summary": "Pretende ayudar a entender los 15 procesos judiciales que cercan al círculo de Sánchez"
-    },
-    "category": "政策",
-    "date": "2026-06-14"
+    "category": "居留",
+    "date": "2026-06-15"
   }
 ]

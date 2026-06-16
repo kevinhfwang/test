@@ -1,80 +1,36 @@
 [
   {
-    "title": "西班牙政策推出",
-    "original_title": "TIIF 2026, Uzbekistán presenta proyectos por 75.000 M€ a inversores internacionales",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/06/15/tiif-2026-uzbekistan-presenta-proyectos-por-75000-m-a-inversores-internacionales",
-      "summary": "El Foro Internacional de Inversión de Taskent reúne a cargos públicos, inversores y empresarios de más de 100 países para impulsar inversiones y cooperación regional en Asia Central, con debates sobre"
-    },
-    "category": "政策",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙教育变化",
-    "original_title": "El ministro francés de Educación pide hacer los exámenes en las horas más frescas por el calor",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/06/15/el-ministro-frances-de-educacion-pide-hacer-los-examenes-en-las-horas-mas-frescas-por-el-c",
-      "summary": "El bachillerato 2026 arranca hoy, pero en el futuro el calendario de exámenes podría cambiar por completo."
-    },
-    "category": "教育",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙伊朗局势宣布",
-    "original_title": "Estados Unidos e Irán anuncian un acuerdo para abrir el estrecho de Ormuz y poner fin a la guerra",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-06-14/trump-anuncia-que-estados-unidos-e-iran-han-alcanzado-un-acuerdo-para-poner-fin-a-la-guerra.html",
-      "summary": "Tras casi cuatro meses de conflicto los dos países pactan una extensión de la tregua que firmarán el viernes en Suiza. Pakistán asegura que las partes se comprometen al cese inmediato de las hostilida"
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙买房新动态",
-    "original_title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Israel dice que seguirá ocupando y demoliendo casas en el sur de Líbano pese al acuerdo entre EE UU e Irán",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-06-15/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "summary": "El ministro de Exteriores iraní pide a Israel que detenga los ataques contra el país vecino | La comunidad internacional celebra el pacto y urge a la reapertura “inmediata y sin peajes” del estrecho d"
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙失业新动态",
-    "original_title": "Los médicos elevan el conflicto contra Sanidad y amenazan con una huelga indefinida a partir de septiembre",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/los-medicos-elevan-conflicto-contra-sanidad-amenazan-con-una-huelga-indefinida-partir-septiembre_6983383_0.html",
-      "summary": "El comité de huelga prepara \"paros indefinidos\" después del verano, si no hay avances en las negociaciones."
-    },
-    "category": "医疗",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙经济变化",
-    "original_title": "El monopolio de la FIFA se tambalea: el móvil y los creadores digitales cambian el relato del fútbol",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/monopolio-fifa-tambalea-movil-creadores-digitales-cambian-relato-futbol_1_2207766.html",
-      "summary": "El partido de fútbol ha dejado de ser el centro del negocio. Sigue siendo el detonante, la excusa y el catalizador, pero la economía que genera ya no depende de los 90 minutos entre dos pitidos. La Co"
-    },
-    "category": "政策",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙买房新动态 (1)",
-    "original_title": "El acuerdo con Irán lleva a que Trump libre una batalla en casa",
+    "title": "西班牙政策飙升",
+    "original_title": "OpenAI perdió 38.500 millones de dólares en 2025",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/06/15/6a2ff4ebe5fdeac1618b4594.html",
-      "summary": "El conflicto ha dividido al Partido Republicano y ha hecho que los estadounidenses afronten precios más altos sin una sensación clara de victoria.&nbsp;Leer"
+      "url": "https://www.expansion.com/economia-digital/companias/2026/06/16/6a30e9dde5fdeaf3738b4573.html",
+      "summary": "La dueña de ChatGPT ingresó 13.070 millones de dólares y casi triplicó sus pérdidas operativas, que rozan los 21.000 millones de dólares, tras disparar sus gastos.&nbsp;Leer"
     },
-    "category": "伊朗局势",
-    "date": "2026-06-15"
+    "category": "政策",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "La factura fiscal de la vivienda: los impuestos ya suponen el 26% del precio de la obra nueva",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/16/6a301fece5fdeae8798b459e.html",
+      "summary": "Por cada 100.000 euros de precio de vivienda nueva, los compradores asumen más de 26.000 por los impuestos directos e indirectos, dificultando el acceso en plena escalada de precios. La plusvalía se h"
+    },
+    "category": "税务",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙税务新动态",
+    "original_title": "'La renta': What you need to know about filing your Spanish tax return",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20190403/la-renta-what-you-need-to-know-about-filing-your-spanish-tax-return",
+      "summary": "The deadline for Spain's annual income tax return - 'la declaración de la renta' - is on June 30th 2026. Here's a roundup of everything you need to know about the process, from who has to file it to w"
+    },
+    "category": "税务",
+    "date": "2026-06-16"
   },
   {
     "title": "西班牙政策新动态",
@@ -85,73 +41,84 @@
       "summary": "La competición con más equipos de la historia pone en juego a 48 combinados nacionales durante cinco semanas. Consulte aquí todos los detalles"
     },
     "category": "政策",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Al menos ocho altos cargos ligados al PP de Madrid cobran los bonos energéticos para familias vulnerables",
+    "title": "西班牙战争风险推出",
+    "original_title": "La guerra entre Von der Leyen y Kallas socava la frágil diplomacia de la Unión Europea",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/ocho-altos-cargos-ligados-pp-madrid-cobran-bonos-energeticos-familias-vulnerables_1_2208197.html",
-      "summary": "Hace tres años estalló el escándalo de los políticos que se beneficiaban de ayudas ideadas para que familias vulnerables puedan pagar sus facturas de la luz y del gas tras una investigación de infoLib"
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-06-16/la-guerra-entre-von-der-leyen-y-kallas-socava-la-fragilizada-diplomacia-de-la-union-europea.html",
+      "summary": "El pulso por las competencias entre la presidenta de la Comisión Europea y la alta representante para Política Exterior amenaza con minar la posición europea en un momento convulso para Europa"
     },
-    "category": "政策",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Estados Unidos e Irán llegan a un acuerdo para \"transformar Oriente Medio en los próximos 50 años\"",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/internacional/eeuu-e-iran-llegan-acuerdo-paz-poner-guerra-frentes-reabrir-ormuz_1_2208952.html",
-      "summary": "Tras muchos vaivenes y desencuentros, amenazas cruzadas, y anuncios y desmentidos. Este domingo a última hora se ponía fin a más de 100 días de conflicto. El acuerdo de paz siempre estuvo cerca, pero "
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "Robert De Niro lanza una referencia de cine de 4 palabras a Donald Trump",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/06/15/robert-de-niro-lanza-una-referencia-de-cine-de-4-palabras-a-donald-trump",
-      "summary": "Es evidente que la leyenda del cine Robert De Niro no felicitó a Donald Trump por sus 80 años. En un acto en Nueva York usó su libertad de expresión para responder a sus últimas declaraciones y lanzó "
-    },
-    "category": "政策",
-    "date": "2026-06-15"
+    "category": "战争风险",
+    "date": "2026-06-16"
   },
   {
     "title": "西班牙物价新动态",
-    "original_title": "El petróleo se desinfla ya hacia los niveles del inicio de la guerra",
+    "original_title": "Prioridad regional",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/materias-primas/2026/06/15/6a2f9c9ee5fdeac5738b456d.html",
-      "summary": "La referencia que ha marcado en gran medida la evolución del conjunto de los mercados durante los últimos meses, el precio del petróleo, confirma su desplome como respuesta al acuerdo entre EEUU e Irá"
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "西班牙政策飙升",
-    "original_title": "El Corte Inglés dispara el beneficio un 22% y supera los 17.000 millones de ingresos",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/distribucion/2026/06/15/6a2fb6aae5fdeadf5e8b4599.html",
-      "summary": "El gigante de los grandes almacenes situó su deuda financiera neta en 1.648 millones de euros a cierre de su ejercicio 2025, el mínimo en casi dos décadas.&nbsp;Leer"
+      "name": "El País",
+      "url": "https://elpais.com/opinion/2026-06-16/prioridad-regional.html",
+      "summary": "Además de xenófoba, la medida que quiere plantar la Comunidad de Madrid en materia de transporte demuestra un profundo desprecio por lo público, que pasa a concebirse como algo fragmentario y excluyen"
     },
     "category": "政策",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
   },
   {
-    "title": "西班牙政策减少",
-    "original_title": "La paradoja de España: a más gasto público, menos bienestar ciudadano",
+    "title": "西班牙签证新动态",
+    "original_title": "Así es como podría afectar a la estrategia de España el rearme y la modernización militar de Marruecos",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/defensa/asi-como-podria-afectar-estrategia-espana-rearme-modernizacion-militar-marruecos_202606166a3136f98774b34d61daa2f3.html",
+      "summary": "La modernización acelerada de las Fuerzas Armadas marroquíes no implica un riesgo directo de guerra convencional, pero sí obliga a España a revisar su postura estratégica"
+    },
+    "category": "签证",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Ayuso rescata una ley de hace 15 años para excluir a los no empadronados del abono transporte",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/ayuso-rescata-ley-15-anos-excluir-no-empadronados-abono-transporte_1_2209118.html",
+      "summary": "La Comunidad de Madrid ha rescatado una ley que fue aprobada hace 15 años para restringir desde este lunes el acceso a la Tarjeta de Transporte Público Personal a las personas que no estén empadronada"
+    },
+    "category": "政策",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙政策推出",
+    "original_title": "Las jubilaciones demoradas crecen, pero no superan a las anticipadas pese las reformas del Gobierno",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia/jubilaciones-demoradas-crecen-no-superan-anticipada-pese-reformas-gobierno_1_2209256.html",
+      "summary": "Este lunes Comisiones Obreras (CCOO) y la Fundación 1º de Mayo han presentado su informe Observatorio Social de Personas Mayores 2026. El documento alerta del proceso de envejecimiento de la población"
+    },
+    "category": "政策",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Repunte global tras el acuerdo EEUU-Irán",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/opinion/2026/06/15/6a2f120f468aeb32178b45ad.html",
-      "summary": "El Índice de Riqueza de las Naciones confirma que a pesar de tener un gasto público récord, el retorno para los ciudadanos en servicios y prosperidad se reduce desde el año 2021.&nbsp;Leer"
+      "url": "https://www.expansion.com/opinion/2026/06/16/6a313692468aeb76448b45b8.html",
+      "summary": "Los mercados anticipan los efectos positivos del pacto que se escenificará este viernes en Suiza. El final negociado del conflicto no despeja todas las incógnitas para la estabilidad en Oriente Próxim"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙工资上涨",
+    "original_title": "Los costes laborales y los salarios suben en el primer trimestre hasta cifras récord en 26 años",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/16/6a3103fd468aeb6d3f8b45a3.html",
+      "summary": "El coste laboral medio por trabajador y mes (que incluye las remuneraciones y las cotizaciones sociales) subió un 4,9% en el primer trimestre de 2026 en relación al mismo periodo de 2025, hasta situar"
     },
     "category": "政策",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
   },
   {
     "title": "西班牙居留新动态",
@@ -162,6 +129,39 @@
       "summary": "The divisive mass regularisation of undocumented migrants in Spain reaches a record 900,000 applications two weeks from the deadline, 400,000 more than initially forecast by the Spanish government and"
     },
     "category": "居留",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙伊朗局势新动态 (1)",
+    "original_title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que la guerra en Líbano es “menor” y no entorpece el acuerdo con Irán",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-06-16/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "summary": "El republicano asegura en el G-7 que el pacto alcanzado “es justo” y que Teherán “no tendrá nunca armas nucleares” | La República Islámica afirma que el viernes empezará a negociar con EE UU los detal"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙外国人新动态",
+    "original_title": "El juez ordena detener a Mouliaá por no comparecer por la querella de Errejón",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-06-16/el-juez-decreta-la-detencion-de-mouliaa-por-no-comparecer-por-la-querella-de-errejon.html",
+      "summary": "La actriz alegó que no podía acudir a la citación del lunes porque estaba en el extranjero por trabajo"
+    },
+    "category": "工作",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "El G-7 escucha a Zelenski",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260616/11566157/g-7-escucha-zelensky.html",
+      "summary": "Las principales potencias democráticas deben reiterar su apoyo a Ucrania y su compromiso para buscar el fin de la guerra"
+    },
+    "category": "战争风险",
+    "date": "2026-06-16"
   }
 ]

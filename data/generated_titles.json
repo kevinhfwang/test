@@ -1,36 +1,14 @@
 [
   {
-    "title": "西班牙政策新规",
-    "original_title": "El efecto Mamdani, imparable en Nueva York: el alcalde consolida su poder en las primarias demócratas",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/efecto-mamdani-imparable-nueva-york-alcalde-consolida-primarias-democratas_1_2215338.html",
-      "summary": "El “efecto Mamdani” continúa en Nueva York. Un año después de dar la sorpresa al imponerse en las primarias demócratas para las elecciones municipales y de ganar en noviembre de 2025, el alcalde de la"
-    },
-    "category": "政策",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "西班牙教育新动态",
-    "original_title": "La huelga de profesores que ganó el pulso al franquismo",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/huelga-profesores-gano-pulso-franquismo_1_2214203.html",
-      "summary": "“Eres más pobre que un maestro de escuela”. Este refrán, aún popular entre quienes peinan más de una cana, describió durante buena parte del siglo XX español la precaria situación laboral y económica "
-    },
-    "category": "教育",
-    "date": "2026-06-27"
-  },
-  {
     "title": "西班牙住房新动态",
     "original_title": "El \"castigo fiscal\" a la vivienda alcanza el 62% de su precio durante todo su ciclo económico",
     "source": {
-      "name": "Expansión",
+      "name": "Expansión Economía",
       "url": "https://www.expansion.com/economia/2026/06/27/6a3ea901468aebea748b4593.html",
       "summary": "Los impuestos asociados a la promoción, la compra, la tenencia y la venta de vivienda suman más del 60% de su valor de adquisición, lo que supone un freno adicional a la inversión.&nbsp;Leer"
     },
     "category": "税务",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
     "title": "西班牙战争风险下降",
@@ -41,84 +19,84 @@
       "summary": "El sindicato de técnicos del Ministerio de Hacienda (Gestha) recomienda al Ejecutivo reservar las bonificaciones a los colectivos vulnerables, los agricultores y los transportistas en el nuevo decreto"
     },
     "category": "战争风险",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新规 (1)",
-    "original_title": "Vox busca recuperar el pulso tras las crisis internas con una asamblea de \"desregulación\"",
+    "title": "西班牙税务新动态",
+    "original_title": "GUIDE: How to complete Spain's annual tax return",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20220412/how-to-complete-spains-declaracion-de-la-renta-tax-return",
+      "summary": "You must complete your 2025-2026 'Declaración de la Renta' (annual income tax return) before June 30th 2026. This step-by-step guide can help you complete the process."
+    },
+    "category": "税务",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "西班牙居留推出",
+    "original_title": "Ro Khanna, el demócrata al que Elon Musk quiere en la cárcel: “El dinero tiene secuestrada la política en Estados Unidos”",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/us/2026-06-28/ro-khanna-el-democrata-que-pone-contra-las-cuerdas-a-trump-el-dinero-tiene-secuestrada-la-politica-en-estados-unidos.html",
+      "summary": "El congresista, representante por Silicon Valley, lidera la cruzada contra Trump para liberar los papeles de Epstein y no descarta presentarse a la presidencia en 2028. “No van a callarme”, advierte"
+    },
+    "category": "居留",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "西班牙工作新动态",
+    "original_title": "El PP se desmarca de Aldama: \"Es un delincuente con una sentencia firme y no nos gustan los delincuentes\"",
     "source": {
       "name": "La Razón",
-      "url": "https://www.larazon.es/espana/vox-busca-recuperar-pulso-crisis-internas-asamblea-desregulacion_202606276a3f90377a154352a3a63a62.html",
-      "summary": "El partido de Abascal celebra este sábado una nueva asamblea general ordinaria en la aprobará las cuentas anuales del partido correspondientes al ejercicio de 2025"
+      "url": "https://www.larazon.es/espana/desmarca-aldama-delincuente-sentencia-firme-nos-gustan-delincuentes_202606286a40ee247a154352a3a744bd.html",
+      "summary": "Sobre la Kitchen, el vicesecretario Jaime de los Santos pide dejar a los jueces hacer su trabajo y que \"quien haya ido en contra de la ley, sea condenado\""
     },
-    "category": "政策",
-    "date": "2026-06-27"
+    "category": "工作",
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "El Congreso tratará de desencallar el martes la ley de nacionalidad para saharauis al acercar posturas PSOE y Sumar",
+    "title": "西班牙战争风险新动态",
+    "original_title": "¿Cómo defendería España sus fronteras en caso de amenaza?",
     "source": {
       "name": "La Razón",
-      "url": "https://www.larazon.es/espana/congreso-tratara-desencallar-martes-ley-nacionalidad-saharauis-acercar-posturas-psoe-sumar_202606276a3eafb095cc61359cdf30e6.html",
-      "summary": "José Manuel Albares se muestra \"totalmente favorable\" y niega que haya un bloqueo"
+      "url": "https://www.larazon.es/espana/como-defenderia-espana-sus-fronteras-caso-amenaza_202606286a3e9878c7a2892f04a47cab.html",
+      "summary": "Nuestro país ocupa la séptima potencia militar en la OTAN, debido a sus capacidades y las que pudiera llegar a desarrollar para hacer frente a un conflicto armado"
     },
-    "category": "政策",
-    "date": "2026-06-27"
+    "category": "战争风险",
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Un vacío legal abre la puerta a la filtración de agendas y mensajes privados como la denunciada por Zapatero",
+    "title": "西班牙住房下降",
+    "original_title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueldos públicos de la pareja de un consejero de Ayuso",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/vacio-legal-abre-puerta-filtracion-agendas-mensajes-privados-denunciada-zapatero_1_13337417.html",
-      "summary": "La ley prevé un trámite de \"expurgo\" en las escuchas telefónicas, no en el clonado de móviles u ordenadores; si bien juristas consultados sostienen que lo habitual es que se haga un cribado y apuntan "
+      "url": "https://www.eldiario.es/economia/63-134-euros-ano-cursillo-150-horas-ingles-basico-sueldos-publicos-pareja-consejero-ayuso_1_13333795.html",
+      "summary": "La pareja del consejero madrileño de Vivienda ingresa medio millón en una década encadenando puestos a dedo con el PP. La vicealcaldesa de Madrid defiende su fichaje y dice que trabaja \"como uno más\"A"
     },
-    "category": "政策",
-    "date": "2026-06-27"
+    "category": "租房",
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Marc Giró, Silvia Intxaurrondo y Jordi Évole en el FIC 2026: consulta el programa completo",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/festival-de-las-ideas-y-la-cultura/programa/",
-      "summary": ""
-    },
-    "category": "政策",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "西班牙政策取消",
-    "original_title": "Repesca en el Mundial 2026: ¿Qué terceros pasan a la fase eliminatoria?",
+    "title": "西班牙战争风险新动态 (1)",
+    "original_title": "Encuentran un \"barco del infierno\" de la 2ª Guerra Mundial en Filipinas con más de 1.000 prisioneros",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/06/27/repesca-en-el-mundial-2026-que-terceros-pasan-a-la-fase-eliminatoria",
-      "summary": "A diferencia de anteriores Mundiales, en los que solo pasaban los dos primeros de grupo, este año avanzan ocho de los 12 terceros. Bosnia y Herzegovina, Suecia y Ecuador ya están en la fase eliminator"
+      "url": "http://es.euronews.com/cultura/2026/06/28/encuentran-un-barco-del-infierno-de-la-2-guerra-mundial-en-filipinas-con-mas-de-1000-prisi",
+      "summary": "Buceadores han localizado los restos del Hofuku Maru frente a las costas de Luzón, en Filipinas. El carguero japonés se hundió en 1944 con más de 1.200 prisioneros de guerra aliados en sus bodegas. Un"
     },
-    "category": "政策",
-    "date": "2026-06-27"
+    "category": "战争风险",
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策上涨",
-    "original_title": "Las inversiones que más suben y más caen en la primera mitad de 2026",
+    "title": "西班牙买房新动态",
+    "original_title": "Un error estratégico de proporciones colosales, por qué Trump pierde la guerra contra las renovables",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/06/27/las-inversiones-que-mas-suben-y-mas-caen-en-la-primera-mitad-de-2026",
-      "summary": "La primera mitad de 2026 ha premiado a quienes apostaron por el engranaje que impulsa la IA y castigado a los que se volcaron en las criptomonedas y el oro, mientras el auge tecnológico reordena los a"
+      "url": "http://es.euronews.com/2026/06/28/un-error-estrategico-de-proporciones-colosales-por-que-trump-pierde-la-guerra-contra-las-r",
+      "summary": "Los intentos de Donald Trump de volver a imponer el contaminante carbón a los estadounidenses parecen fracasar, mientras cada vez más hogares apuestan por la energía solar en los tejados."
     },
-    "category": "政策",
-    "date": "2026-06-27"
-  },
-  {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "Últimas noticias | 27 junio 2026 - Mañana",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/06/27/ultimas-noticias-27-junio-2026-manana",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 27 junio 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-06-27"
+    "category": "战争风险",
+    "date": "2026-06-28"
   },
   {
     "title": "西班牙战争风险下降 (1)",
@@ -129,7 +107,7 @@
       "summary": "Es recomendable contar con un abogado laboralista o con servicios de asesoría especializada en casos de conflictos laborales.&nbsp;Leer"
     },
     "category": "战争风险",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
     "title": "西班牙住房新动态 (1)",
@@ -140,10 +118,10 @@
       "summary": "La vivienda y sus costes asociados se comen ya un tercio del gasto de las familias. Sumando esta partida a las de alimentación y transporte, destinan más de seis de cada diez euros de su presupuesto a"
     },
     "category": "租房",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新动态 (4)",
+    "title": "西班牙政策新动态",
     "original_title": "EU worries jet fuel supply situation to worsen",
     "source": {
       "name": "The Local ES",
@@ -151,17 +129,39 @@
       "summary": "Commercial supplies of jet fuel may worsen this summer despite the improving situation in the Strait of Hormuz, EU Energy Commissioner Dan Jorgensen said Friday."
     },
     "category": "政策",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
-    "title": "西班牙政策新动态 (5)",
-    "original_title": "How will Spain regulate tourist flats after the end of its national registry?",
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Los equipos de emergencia de Madrid rescatan en Venezuela a un anciano y sus dos nietos",
     "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260626/how-will-spain-regulate-tourist-flats-after-the-end-of-its-national-register",
-      "summary": "A recent ruling by the Spanish Supreme Court meant that the government's national registry of short-term lets was struck down. With Airbnbs blamed by many for rising prices and scarce supply, how will"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/madrid/20260627/11577003/equipos-emergencia-comunidad-madrid-rescatan-venezuela-anciano-dos-nietos-servimedia20260627.html",
+      "summary": "Los efectivos se desplazaron hasta Venezuela junto a otras unidades especializadas para poder ayudar con las labores de rescate tras los dos trágicos terremotos"
     },
     "category": "政策",
-    "date": "2026-06-27"
+    "date": "2026-06-28"
+  },
+  {
+    "title": "西班牙工作新动态 (1)",
+    "original_title": "Comité Federal del PSOE: el escaqueo de Óscar Puente y atascos como antídoto a la libre opinión",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/comite-federal-psoe-escaqueo-oscar-puente-atascos-como-antidoto-libre-opinion_202606276a40289b95cc61359ce05190.html",
+      "summary": "López, Montero y Alegría le hicieron el trabajo sucio a Pedro. Illa rehuyó a Page"
+    },
+    "category": "工作",
+    "date": "2026-06-28"
+  },
+  {
+    "title": "西班牙工作新规",
+    "original_title": "Joyería en piel, la nueva tendencia de los microtatuajes: \"Quería algo sencillo y que no llame demasiado la atención\"",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/joyeria-piel-nueva-tendencia-los-microtatuajes-queria-algo-sencillo-que-no-llame-demasiado-atencion_7005827_0.html",
+      "summary": "Los tatuajes de pocos centímetros ganan terreno por ser menos invasivos estéticamente, pero su aparente sencillez exige mirar también técnica, seguridad y calidad del trabajo."
+    },
+    "category": "工作",
+    "date": "2026-06-28"
   }
 ]

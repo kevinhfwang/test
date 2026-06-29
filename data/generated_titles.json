@@ -1,25 +1,80 @@
 [
   {
-    "title": "西班牙住房新动态",
-    "original_title": "El \"castigo fiscal\" a la vivienda alcanza el 62% de su precio durante todo su ciclo económico",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/27/6a3ea901468aebea748b4593.html",
-      "summary": "Los impuestos asociados a la promoción, la compra, la tenencia y la venta de vivienda suman más del 60% de su valor de adquisición, lo que supone un freno adicional a la inversión.&nbsp;Leer"
-    },
-    "category": "税务",
-    "date": "2026-06-28"
-  },
-  {
     "title": "西班牙战争风险下降",
-    "original_title": "¿Fin a la rebajas fiscales de la luz y la gasolina? Los técnicos de Hacienda piden al Gobierno acabar con las reducciones generales",
+    "original_title": "El Gobierno mantiene las rebajas en la gasolina para profesionales y una retirada \"progresiva\" para hogares hasta octubre",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/26/6a3e9309e5fdea8e198b4584.html",
-      "summary": "El sindicato de técnicos del Ministerio de Hacienda (Gestha) recomienda al Ejecutivo reservar las bonificaciones a los colectivos vulnerables, los agricultores y los transportistas en el nuevo decreto"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/gobierno-mantiene-rebajas-gasolina-profesionales-retirada-progresiva-hogares-octubre_1_13341065.html",
+      "summary": "El Gobierno aprueba un nuevo real decreto-ley en el que prorroga parte de las ayudas adoptadas en marzo, ante unos efectos por la guerra aún persistentes pese al alto el fuegoEl Ejecutivo dispara al 2"
     },
     "category": "战争风险",
-    "date": "2026-06-28"
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "La economía de los jóvenes, peor que hace 30 años por la vivienda y el empleo",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a4187e7468aeb9f618b456d.html",
+      "summary": "La temporalidad involuntaria y el pluriempleo restan calidad a los puestos de trabajo, mientras que la escasez de oferta y el nivel de precios impiden el acceso al mercado inmobiliario.&nbsp;Leer"
+    },
+    "category": "租房",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙住房下降",
+    "original_title": "El Gobierno anuncia que regulará el alquiler de habitaciones y temporada y subirá el IVA a pisos turísticos",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/gobierno-anuncia-regulara-alquiler-habitaciones-temporada-subira-iva-pisos-turisticos_1_13341617.html",
+      "summary": "El nuevo real decreto incluirá también una rebaja del IRPF a caseros que bajen precios y nuevas prórrogas a los contratos de alquilerBoom del 'coliving' y el 'flex living': anglicismos de los fondos p"
+    },
+    "category": "租房",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙伊朗局势下降",
+    "original_title": "El Gobierno reduce las rebajas temporales a la gasolina y mantiene las ayudas sectoriales",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a4245f5e5fdea480c8b45ad.html",
+      "summary": "El Consejo de Ministros ha aprobado este lunes un nuevo real decreto para paliar los efectos de la guerra de Irán. Mantiene la rebaja a los carburantes, aunque irá adaptando los descuentos hasta octub"
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙经济批准",
+    "original_title": "El Gobierno eleva al 2,6% la previsión de crecimiento para 2026 y al 2,2% para 2027",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a422ebc468aeb506a8b4581.html",
+      "summary": "El Consejo de Ministros aprueba la revisión del cuadro macroeconómico que servirá como referencia para elaborar los Presupuestos Generales del Estado. Eleva en cuatro décimas el crecimiento del PIB pr"
+    },
+    "category": "政策",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙通胀新动态",
+    "original_title": "La inflación sigue en el 3,2% en junio, la misma tasa de mayo, pese al alza de gas y luz",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a421732e5fdeac03b8b4596.html",
+      "summary": "La inflación se mantuvo en el 3,2% en junio, la misma tasa que en mayo, en un mes en el que la electricidad y el gas impulsaron los precios al alza, aunque este incremento se compensó con el abaratami"
+    },
+    "category": "政策",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Los españoles viajaron un 4,4% menos hasta marzo, aunque gastaron un 2,5% más",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a4228bf468aebbe3d8b458f.html",
+      "summary": "Los españoles realizaron 33,2 millones de viajes en el primer trimestre del año, un 4,4% menos que en el mismo periodo de 2025 y su menor cifra para un primer trimestre desde el año 2022, según datos "
+    },
+    "category": "政策",
+    "date": "2026-06-29"
   },
   {
     "title": "西班牙税务新动态",
@@ -30,138 +85,83 @@
       "summary": "You must complete your 2025-2026 'Declaración de la Renta' (annual income tax return) before June 30th 2026. This step-by-step guide can help you complete the process."
     },
     "category": "税务",
-    "date": "2026-06-28"
+    "date": "2026-06-29"
   },
   {
-    "title": "西班牙居留推出",
-    "original_title": "Ro Khanna, el demócrata al que Elon Musk quiere en la cárcel: “El dinero tiene secuestrada la política en Estados Unidos”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/us/2026-06-28/ro-khanna-el-democrata-que-pone-contra-las-cuerdas-a-trump-el-dinero-tiene-secuestrada-la-politica-en-estados-unidos.html",
-      "summary": "El congresista, representante por Silicon Valley, lidera la cruzada contra Trump para liberar los papeles de Epstein y no descarta presentarse a la presidencia en 2028. “No van a callarme”, advierte"
-    },
-    "category": "居留",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙工作新动态",
-    "original_title": "El PP se desmarca de Aldama: \"Es un delincuente con una sentencia firme y no nos gustan los delincuentes\"",
+    "title": "西班牙政策修改",
+    "original_title": "La hermana de Óscar Puente implicada en la \"ley de nietos\" de Sánchez: firmó la modificación del exilio para facilitar la nacionalidad",
     "source": {
       "name": "La Razón",
-      "url": "https://www.larazon.es/espana/desmarca-aldama-delincuente-sentencia-firme-nos-gustan-delincuentes_202606286a40ee247a154352a3a744bd.html",
-      "summary": "Sobre la Kitchen, el vicesecretario Jaime de los Santos pide dejar a los jueces hacer su trabajo y que \"quien haya ido en contra de la ley, sea condenado\""
-    },
-    "category": "工作",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "¿Cómo defendería España sus fronteras en caso de amenaza?",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/como-defenderia-espana-sus-fronteras-caso-amenaza_202606286a3e9878c7a2892f04a47cab.html",
-      "summary": "Nuestro país ocupa la séptima potencia militar en la OTAN, debido a sus capacidades y las que pudiera llegar a desarrollar para hacer frente a un conflicto armado"
-    },
-    "category": "战争风险",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙住房下降",
-    "original_title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueldos públicos de la pareja de un consejero de Ayuso",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/63-134-euros-ano-cursillo-150-horas-ingles-basico-sueldos-publicos-pareja-consejero-ayuso_1_13333795.html",
-      "summary": "La pareja del consejero madrileño de Vivienda ingresa medio millón en una década encadenando puestos a dedo con el PP. La vicealcaldesa de Madrid defiende su fichaje y dice que trabaja \"como uno más\"A"
-    },
-    "category": "租房",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙战争风险新动态 (1)",
-    "original_title": "Encuentran un \"barco del infierno\" de la 2ª Guerra Mundial en Filipinas con más de 1.000 prisioneros",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/06/28/encuentran-un-barco-del-infierno-de-la-2-guerra-mundial-en-filipinas-con-mas-de-1000-prisi",
-      "summary": "Buceadores han localizado los restos del Hofuku Maru frente a las costas de Luzón, en Filipinas. El carguero japonés se hundió en 1944 con más de 1.200 prisioneros de guerra aliados en sus bodegas. Un"
-    },
-    "category": "战争风险",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙买房新动态",
-    "original_title": "Un error estratégico de proporciones colosales, por qué Trump pierde la guerra contra las renovables",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/06/28/un-error-estrategico-de-proporciones-colosales-por-que-trump-pierde-la-guerra-contra-las-r",
-      "summary": "Los intentos de Donald Trump de volver a imponer el contaminante carbón a los estadounidenses parecen fracasar, mientras cada vez más hogares apuestan por la energía solar en los tejados."
-    },
-    "category": "战争风险",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙战争风险下降 (1)",
-    "original_title": "El Estatuto de los trabajadores dice: Las empresas están obligadas a pagar un 10% anual de interés si se retrasan con el pago de la nómina",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/25/6a3d24e0e5fdeab6358b4572.html",
-      "summary": "Es recomendable contar con un abogado laboralista o con servicios de asesoría especializada en casos de conflictos laborales.&nbsp;Leer"
-    },
-    "category": "战争风险",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Vivienda, alimentación y transporte devoran el 60% del presupuesto de los hogares",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/26/6a3d4d90e5fdea52048b456f.html",
-      "summary": "La vivienda y sus costes asociados se comen ya un tercio del gasto de las familias. Sumando esta partida a las de alimentación y transporte, destinan más de seis de cada diez euros de su presupuesto a"
-    },
-    "category": "租房",
-    "date": "2026-06-28"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "EU worries jet fuel supply situation to worsen",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260627/eu-worries-jet-fuel-supply-situation-to-worsen",
-      "summary": "Commercial supplies of jet fuel may worsen this summer despite the improving situation in the Strait of Hormuz, EU Energy Commissioner Dan Jorgensen said Friday."
+      "url": "https://www.larazon.es/espana/hermana-oscar-puente-implicada-ley-nietos-sanchez-firmo-modificacion-exilio-facilitar-nacionalidad_202606296a425d23dcb2092ca8bf3235.html",
+      "summary": "El Gobierno flexibilizó los requisitos sin la necesidad de ser descendientes de represaliados"
     },
     "category": "政策",
-    "date": "2026-06-28"
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙伊朗局势批准",
+    "original_title": "Sigue en directo la rueda de prensa posterior al Consejo de Ministros que aprueba la prórroga de medidas por la guerra en Irán",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/sigue-directo-rueda-prensa-posterior-consejo-ministros-que-aprueba-prorroga-medidas-por-guerra-iran_7007958_0.html",
+      "summary": "El Ejecutivo adelanta un día su reunión habitual ante el vencimiento de parte de las ayudas aprobadas hace tres meses."
+    },
+    "category": "伊朗局势",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙教育下降",
+    "original_title": "La rebaja de ratios en infantil exigirá contratar a más de 41.800 educadoras",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/rebaja-ratios-infantil-exigira-contratar-41-800-educadoras_1_2215233.html",
+      "summary": "El Gobierno ha dado esta semana una de las mejores noticias a las educadoras de 0 a 3 años, colectivo que lleva desde abril denunciando la precariedad y las condiciones en las que desempeña su trabajo"
+    },
+    "category": "教育",
+    "date": "2026-06-29"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Los equipos de emergencia de Madrid rescatan en Venezuela a un anciano y sus dos nietos",
+    "original_title": "Estos son los 15 destinos más caros del mundo para viajar en 2026",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/madrid/20260627/11577003/equipos-emergencia-comunidad-madrid-rescatan-venezuela-anciano-dos-nietos-servimedia20260627.html",
-      "summary": "Los efectivos se desplazaron hasta Venezuela junto a otras unidades especializadas para poder ayudar con las labores de rescate tras los dos trágicos terremotos"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/viajes/2026/06/29/estos-son-los-destinos-de-vacaciones-mas-caros-del-mundo-para-viajar-en-2026",
+      "summary": "De la Antártida a Maldivas, estos destinos soñados de vacaciones no son precisamente baratos."
     },
     "category": "政策",
-    "date": "2026-06-28"
+    "date": "2026-06-29"
   },
   {
-    "title": "西班牙工作新动态 (1)",
-    "original_title": "Comité Federal del PSOE: el escaqueo de Óscar Puente y atascos como antídoto a la libre opinión",
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Últimas noticias | 29 junio 2026 - Mediodía",
     "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/comite-federal-psoe-escaqueo-oscar-puente-atascos-como-antidoto-libre-opinion_202606276a40289b95cc61359ce05190.html",
-      "summary": "López, Montero y Alegría le hicieron el trabajo sucio a Pedro. Illa rehuyó a Page"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/06/29/ultimas-noticias-29-junio-2026-mediodia",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 29 junio 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
-    "category": "工作",
-    "date": "2026-06-28"
+    "category": "政策",
+    "date": "2026-06-29"
   },
   {
-    "title": "西班牙工作新规",
-    "original_title": "Joyería en piel, la nueva tendencia de los microtatuajes: \"Quería algo sencillo y que no llame demasiado la atención\"",
+    "title": "西班牙居留新动态",
+    "original_title": "Impar Capital y Marriott se unen para lanzar las primeras 'branded residences' en San Sebastián",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/joyeria-piel-nueva-tendencia-los-microtatuajes-queria-algo-sencillo-que-no-llame-demasiado-atencion_7005827_0.html",
-      "summary": "Los tatuajes de pocos centímetros ganan terreno por ser menos invasivos estéticamente, pero su aparente sencillez exige mirar también técnica, seguridad y calidad del trabajo."
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/06/29/6a422cbbe5fdea732f8b458a.html",
+      "summary": "Palacio Residencial Pakea serán las primeras viviendas con servicios y 'amenities' de hotel de cinco estrellas en la capital donostiarra.&nbsp;Leer"
     },
-    "category": "工作",
-    "date": "2026-06-28"
+    "category": "居留",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "西班牙战争风险新规",
+    "original_title": "La paz de Trump en Ormuz amenaza seis siglos de libertad en los mares",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a418ca7468aebdf7f8b45a9.html",
+      "summary": "Si el nuevo modelo se impone finalmente, el conflicto habrá hecho que las normas que rigen el comercio mundial por el mar sean modificadas de raíz y, con ellas, los equilibrios de poder. Además, const"
+    },
+    "category": "战争风险",
+    "date": "2026-06-29"
   }
 ]

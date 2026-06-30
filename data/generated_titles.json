@@ -1,47 +1,69 @@
 [
   {
-    "title": "西班牙战争风险下降",
-    "original_title": "El Gobierno mantiene las rebajas en la gasolina para profesionales y una retirada \"progresiva\" para hogares hasta octubre",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/gobierno-mantiene-rebajas-gasolina-profesionales-retirada-progresiva-hogares-octubre_1_13341065.html",
-      "summary": "El Gobierno aprueba un nuevo real decreto-ley en el que prorroga parte de las ayudas adoptadas en marzo, ante unos efectos por la guerra aún persistentes pese al alto el fuegoEl Ejecutivo dispara al 2"
-    },
-    "category": "战争风险",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "La economía de los jóvenes, peor que hace 30 años por la vivienda y el empleo",
+    "title": "西班牙物价下降",
+    "original_title": "Escudo frente a la guerra: así quedan las rebajas a la gasolina y el resto de ayudas desde mañana",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/29/6a4187e7468aeb9f618b456d.html",
-      "summary": "La temporalidad involuntaria y el pluriempleo restan calidad a los puestos de trabajo, mientras que la escasez de oferta y el nivel de precios impiden el acceso al mercado inmobiliario.&nbsp;Leer"
+      "url": "https://www.expansion.com/economia/2026/06/30/6a42b50ee5fdea72358b45ab.html",
+      "summary": "Mañana, 1 de julio, entra en vigor el nuevo paquete de medidas aprobadas ayer por el Gobierno en respuesta a la guerra de Irán y el alza de precios por el cierre del estrecho de Ormuz. Las rebajas fis"
     },
-    "category": "租房",
-    "date": "2026-06-29"
+    "category": "税务",
+    "date": "2026-06-30"
   },
   {
-    "title": "西班牙住房下降",
-    "original_title": "El Gobierno anuncia que regulará el alquiler de habitaciones y temporada y subirá el IVA a pisos turísticos",
+    "title": "西班牙大学新动态",
+    "original_title": "La Complutense sanciona a Monedero con un año de suspensión por acoso sexista a alumnas",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/gobierno-anuncia-regulara-alquiler-habitaciones-temporada-subira-iva-pisos-turisticos_1_13341617.html",
-      "summary": "El nuevo real decreto incluirá también una rebaja del IRPF a caseros que bajen precios y nuevas prórrogas a los contratos de alquilerBoom del 'coliving' y el 'flex living': anglicismos de los fondos p"
+      "url": "https://www.eldiario.es/sociedad/complutense-sanciona-monedero-ano-suspension-acoso-sexista-alumnas_1_13343832.html",
+      "summary": "El expediente comenzó en febrero de 2025 cuando una alumna, al amparo del protocolo del centro, denunció al profesorMonedero vuelve a dar clases en la Complutense sin que la Universidad resuelva su in"
     },
-    "category": "租房",
-    "date": "2026-06-29"
+    "category": "留学",
+    "date": "2026-06-30"
   },
   {
     "title": "西班牙伊朗局势下降",
     "original_title": "El Gobierno reduce las rebajas temporales a la gasolina y mantiene las ayudas sectoriales",
     "source": {
-      "name": "Expansión",
+      "name": "Expansión Economía",
       "url": "https://www.expansion.com/economia/2026/06/29/6a4245f5e5fdea480c8b45ad.html",
-      "summary": "El Consejo de Ministros ha aprobado este lunes un nuevo real decreto para paliar los efectos de la guerra de Irán. Mantiene la rebaja a los carburantes, aunque irá adaptando los descuentos hasta octub"
+      "summary": "El Consejo de Ministros ha aprobado este lunes un nuevo real decreto para paliar los efectos de la guerra de Irán. Mantiene la rebaja a los carburantes, aunque irá reduciendo progresivamente los descu"
     },
     "category": "伊朗局势",
-    "date": "2026-06-29"
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙政策取消",
+    "original_title": "Disturbios y detenciones en Países Bajos tras el triunfo de Marruecos",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/06/30/disturbios-en-paises-bajos-tras-la-victoria-de-marruecos-en-el-mundial",
+      "summary": "La fiesta por el pase en el Mundial degenera en choques con la Policía antidisturbios en La Haya. En este 2026, las cargas y los arrestos empañan las celebraciones de la afición marroquí tras eliminar"
+    },
+    "category": "政策",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "Qué hacer cuando cae la Bolsa: los 5 consejos de Warren Buffett",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inversion/2026/06/30/6a428148468aeb812c8b459c.html",
+      "summary": "La incertidumbre geopolítica provocada por los conflictos bélicos sigue pesando sobre los mercados, que registran una elevada inestabilidad.&nbsp;Leer"
+    },
+    "category": "战争风险",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "El déficit público cae al 0,26% del PIB hasta abril",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/06/29/6a427fc3468aebb8688b4588.html",
+      "summary": "El conjunto de administraciones públicas --sin incluir la Administración local-- ha registrado a finales de abril de 2026 un déficit de 4.637 millones de euros, inferior en un 33,4% al del mismo perio"
+    },
+    "category": "政策",
+    "date": "2026-06-30"
   },
   {
     "title": "西班牙经济批准",
@@ -52,116 +74,94 @@
       "summary": "El Consejo de Ministros aprueba la revisión del cuadro macroeconómico que servirá como referencia para elaborar los Presupuestos Generales del Estado. Eleva en cuatro décimas el crecimiento del PIB pr"
     },
     "category": "政策",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙通胀新动态",
-    "original_title": "La inflación sigue en el 3,2% en junio, la misma tasa de mayo, pese al alza de gas y luz",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/29/6a421732e5fdeac03b8b4596.html",
-      "summary": "La inflación se mantuvo en el 3,2% en junio, la misma tasa que en mayo, en un mes en el que la electricidad y el gas impulsaron los precios al alza, aunque este incremento se compensó con el abaratami"
-    },
-    "category": "政策",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Los españoles viajaron un 4,4% menos hasta marzo, aunque gastaron un 2,5% más",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/29/6a4228bf468aebbe3d8b458f.html",
-      "summary": "Los españoles realizaron 33,2 millones de viajes en el primer trimestre del año, un 4,4% menos que en el mismo periodo de 2025 y su menor cifra para un primer trimestre desde el año 2022, según datos "
-    },
-    "category": "政策",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙税务新动态",
-    "original_title": "GUIDE: How to complete Spain's annual tax return",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20220412/how-to-complete-spains-declaracion-de-la-renta-tax-return",
-      "summary": "You must complete your 2025-2026 'Declaración de la Renta' (annual income tax return) before June 30th 2026. This step-by-step guide can help you complete the process."
-    },
-    "category": "税务",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙政策修改",
-    "original_title": "La hermana de Óscar Puente implicada en la \"ley de nietos\" de Sánchez: firmó la modificación del exilio para facilitar la nacionalidad",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/hermana-oscar-puente-implicada-ley-nietos-sanchez-firmo-modificacion-exilio-facilitar-nacionalidad_202606296a425d23dcb2092ca8bf3235.html",
-      "summary": "El Gobierno flexibilizó los requisitos sin la necesidad de ser descendientes de represaliados"
-    },
-    "category": "政策",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙伊朗局势批准",
-    "original_title": "Sigue en directo la rueda de prensa posterior al Consejo de Ministros que aprueba la prórroga de medidas por la guerra en Irán",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/sigue-directo-rueda-prensa-posterior-consejo-ministros-que-aprueba-prorroga-medidas-por-guerra-iran_7007958_0.html",
-      "summary": "El Ejecutivo adelanta un día su reunión habitual ante el vencimiento de parte de las ayudas aprobadas hace tres meses."
-    },
-    "category": "伊朗局势",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "西班牙教育下降",
-    "original_title": "La rebaja de ratios en infantil exigirá contratar a más de 41.800 educadoras",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/rebaja-ratios-infantil-exigira-contratar-41-800-educadoras_1_2215233.html",
-      "summary": "El Gobierno ha dado esta semana una de las mejores noticias a las educadoras de 0 a 3 años, colectivo que lleva desde abril denunciando la precariedad y las condiciones en las que desempeña su trabajo"
-    },
-    "category": "教育",
-    "date": "2026-06-29"
+    "date": "2026-06-30"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Estos son los 15 destinos más caros del mundo para viajar en 2026",
+    "original_title": "EL PAÍS logra su mejor dato en más de cinco años al frente de la prensa generalista",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/viajes/2026/06/29/estos-son-los-destinos-de-vacaciones-mas-caros-del-mundo-para-viajar-en-2026",
-      "summary": "De la Antártida a Maldivas, estos destinos soñados de vacaciones no son precisamente baratos."
+      "name": "El País",
+      "url": "https://elpais.com/comunicacion/2026-06-30/el-pais-logra-su-mejor-difusion-de-los-ultimos-cinco-anos-al-frente-de-la-prensa-generalista.html",
+      "summary": "El diario en papel del Grupo Prisa supera a ‘El Mundo’ y ‘Abc’ juntos, según la segunda ola del EGM en 2026."
     },
     "category": "政策",
-    "date": "2026-06-29"
+    "date": "2026-06-30"
   },
   {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Últimas noticias | 29 junio 2026 - Mediodía",
+    "title": "西班牙住房减少",
+    "original_title": "El 56% de las personas atendidas por Cáritas reduce sus comidas por los gastos de la vivienda y 686.000 pasan \"días sin comer\"",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/06/29/ultimas-noticias-29-junio-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 29 junio 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/56-las-personas-atendidas-por-caritas-reduce-sus-comidas-por-los-gastos-vivienda-686-000-pasan-dias-sin-comer_7008581_0.html",
+      "summary": "La inseguridad alimentaria afecta a uno de cada 10 hogares. Hasta 2,8 millones la padecen de forma moderada: reducen o se saltan comidas. Pero686.000 pasan \"días enteros sin comer\". So nel 1,4% de la "
     },
-    "category": "政策",
-    "date": "2026-06-29"
+    "category": "租房",
+    "date": "2026-06-30"
   },
   {
     "title": "西班牙居留新动态",
-    "original_title": "Impar Capital y Marriott se unen para lanzar las primeras 'branded residences' en San Sebastián",
+    "original_title": "Begoña Gómez pide al juez Peinado permiso para asistir a la cumbre de la OTAN en Ankara y a la graduación de una hija en Londres",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/06/29/6a422cbbe5fdea732f8b458a.html",
-      "summary": "Palacio Residencial Pakea serán las primeras viviendas con servicios y 'amenities' de hotel de cinco estrellas en la capital donostiarra.&nbsp;Leer"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/begona-gomez-pide-juez-peinado-permiso-asistir-cumbre-otan-ankara-graduacion-hija-londres_1_13344227.html",
+      "summary": "El abogado de la esposa de Sánchez argumenta que durante todo el viaje estará acompañada por el dispositivo de seguridad de la Presidencia del Gobierno, por lo que considera plenamente garantizada su "
     },
     "category": "居留",
-    "date": "2026-06-29"
+    "date": "2026-06-30"
   },
   {
-    "title": "西班牙战争风险新规",
-    "original_title": "La paz de Trump en Ormuz amenaza seis siglos de libertad en los mares",
+    "title": "西班牙政策新规",
+    "original_title": "El Mediterráneo registra una anomalía de 8 ºC: \"Es la primera vez que se sale de la escala de colores\"",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/06/29/6a418ca7468aebdf7f8b45a9.html",
-      "summary": "Si el nuevo modelo se impone finalmente, el conflicto habrá hecho que las normas que rigen el comercio mundial por el mar sean modificadas de raíz y, con ellas, los equilibrios de poder. Además, const"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/mediterraneo-registra-anomalia-8-oc-primera-vez-sale-escala-colores_1_2216766.html",
+      "summary": "Un verano más, las temperaturas del mar Mediterráneo vuelven a situarse en niveles inimaginables hace solo dos décadas. Si 2024 y 2025 fueron los dos años más cálidos jamás registrados en estas aguas,"
     },
-    "category": "战争风险",
-    "date": "2026-06-29"
+    "category": "政策",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙医疗新动态",
+    "original_title": "La OMS advierte de que la actual ola de calor en Europa es solo el comienzo",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/salud/2026/06/30/la-ola-de-calor-actual-en-europa-es-solo-un-ensayo-general-advierte-la-oms",
+      "summary": "El organismo alerta de veranos aún más severos mientras el continente se calienta al doble de la media global. En este 2026, junio deja ya más de 1.000 fallecidos en Francia y 892 en España, aunque Sa"
+    },
+    "category": "医疗",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙政策新规 (1)",
+    "original_title": "Suiza devuelve a Nigeria 18 bronces de Benín saqueados en la era colonial",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/cultura/2026/06/30/suiza-devuelve-a-nigeria-18-bronces-de-benin-saqueados",
+      "summary": "Tres museos helvéticos entregan las piezas robadas dentro de un plan para transferir 28 obras. En este 2026, la restitución física en Lagos marca un nuevo hito en la batalla africana por recuperar su "
+    },
+    "category": "政策",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Alemania despliega una brigada permanente en Lituania para reforzar la disuasión frente a Rusia",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/my-europe/2026/06/30/en-el-flanco-oriental-de-la-otan-lituania-refuerza-sus-defensas",
+      "summary": "Berlín avanza de forma histórica en el blindaje del flanco oriental de la OTAN. En este 2026, el jefe del Estado Mayor lituano confirma a 'Euronews' que el despliegue de la brigada acorazada avanza se"
+    },
+    "category": "政策",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Kazajistán y los Emiratos inician un megaparque eólico de 1.200 millones de euros",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/06/30/kazajistan-y-emiratos-arabes-unidos-inician-parque-eolico-de-1200-millones-de-euros",
+      "summary": "Kazajistán y los Emiratos inician la construcción de un gran proyecto de un gigavatio. En este 2026, la monumental obra impulsada por la firma Masdar dotará de electricidad limpia a 300.000 hogares y "
+    },
+    "category": "政策",
+    "date": "2026-06-30"
   }
 ]

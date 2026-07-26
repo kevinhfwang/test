@@ -8,40 +8,62 @@
       "summary": "El sector inmobiliario critica que una ley pretenda acotar los usos de la obra nueva residencial.&nbsp;Leer"
     },
     "category": "居留",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙工作下降",
-    "original_title": "Última hora de los incendios forestales, en directo | El incendio en Madrid continúa activo y sin controlar tras una noche de trabajo intenso",
+    "title": "西班牙战争风险下降",
+    "original_title": "Bomberos forestales de Madrid: un conflicto enconado en medio de una emergencia nacional",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html",
-      "summary": "Sánchez visita el puesto de mando avanzado y las zonas afectadas por el fuego | Los incendios de Ávila y Madrid rozan ya las 25.000 hectáreas quemadas y mantienen a más de 63.000 personas entre evacua"
+      "url": "https://elpais.com/espana/madrid/2026-07-26/bomberos-forestales-de-madrid-un-conflicto-enconado-en-medio-de-una-emergencia-nacional.html",
+      "summary": "El Gobierno regional denuncia el “chantaje” de 60 efectivos y estos a su vez aseguran que los tienen sin trabajar y con contratos irregulares"
     },
-    "category": "工作",
-    "date": "2026-07-25"
+    "category": "战争风险",
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙签证新动态",
-    "original_title": "De casa a un polideportivo, expulsados por el fuego de Aldea del Fresno: \"No he dormido un minuto\"",
+    "title": "西班牙政策新动态",
+    "original_title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se han quemado más",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/sociedad/casa-polideportivo-expulsados-fuego-aldea-fresno-no-he-dormido-minuto_1_13405634.html",
-      "summary": "El polideportivo del Villamanta se ha convertido en un refugio improvisado para cientos de personas que esperan con angustia noticias de sus hogares\nDirecto - El Gobierno alerta de que queda “muy poco"
-    },
-    "category": "签证",
-    "date": "2026-07-25"
-  },
-  {
-    "title": "西班牙政策改革",
-    "original_title": "El cambio climático y las olas de calor exigen planes que protejan vidas más allá de reducir las emisiones",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/no-basta-reducir-emisiones-cambio-climatico-olas-calor-exigen-planes-salven-vidas_1_2229706.html",
-      "summary": "El calor de este verano no es como el de siempre. Según AEMET, entre 1975 y 2025 se registraron 78 olas de calor en España, pero su evolución es lo más relevante: entre 1975 y 1984 había de media tres"
+      "url": "https://www.eldiario.es/sociedad/mapa-incendios-activos-espana-2026-avanzan-zonas-han-quemado_1_13369396.html",
+      "summary": "Consulta en directo las últimas cifras de los fuegos que arrasan hectáreas forestales y de terreno en esta temporada de incendios de 2026 a partir de los datos más actualizados a partir de imágenes de"
     },
     "category": "政策",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
+  },
+  {
+    "title": "西班牙留学新规",
+    "original_title": "Estas son las playas más populares de Italia en 2026",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/viajes/2026/07/26/las-playas-mas-populares-de-italia-para-2026-y-cerdena-domina",
+      "summary": "Italia cuenta con miles de kilómetros de costa, pero Cerdeña acapara la atención este verano. Un nuevo estudio ha identificado las playas más populares de 2026, dos tercios en la isla mediterránea."
+    },
+    "category": "留学",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Últimas noticias | 26 julio 2026 - Mañana",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/07/26/ultimas-noticias-26-julio-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 26 julio 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+    },
+    "category": "政策",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "西班牙住房飙升",
+    "original_title": "El precio de la vivienda sigue disparado en España mientras se modera en Europa",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/25/6a61f070e5fdea41108b4591.html",
+      "summary": "El metro cuadrado se encareció un 12,8% en el mercado español en el primer trimestre, casi el triple que en la zona euro (4,7%).&nbsp;Leer"
+    },
+    "category": "租房",
+    "date": "2026-07-26"
   },
   {
     "title": "西班牙物价新动态",
@@ -52,7 +74,7 @@
       "summary": "Repsol, Enagás y Naturgy salen reforzados por el encarecimiento del precio del petróleo, pero IAG, ArcelorMittal y Acerinox se sitúan entre los valores más perjudicados por el alza de los costes energ"
     },
     "category": "油价",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
     "title": "西班牙经济新动态",
@@ -63,40 +85,62 @@
       "summary": "El ministro Carlos Cuerpo hizo el anuncio en una reunión con AEB y CECA.&nbsp;Leer"
     },
     "category": "政策",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "Tú sí, tú no: los clubes privados para ricos toman Madrid",
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "KEY POINTS: What changes about life in Spain in August 2026",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/icon/2026-07-25/tu-si-tu-no-madrid-empieza-a-llenarse-de-clubes-privados-para-ricos.html",
-      "summary": "En solo dos años han abierto tres nuevos clubes privados en la capital, símbolo de una ciudad que escala posiciones en el mapa internacional del lujo. Sus promotores dicen con satisfacción\ny en varios"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260722/key-points-what-changes-about-life-in-spain-in-august-2026",
+      "summary": "Spain 'closes' for the month, the first total solar eclipse in a century, new AI laws come into effect, more wildfires expected, bottled drinks to cost more at bars, and plenty more -  Here's what's h"
     },
     "category": "政策",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Judith Butler, Slavoj Žižek, Byung-Chul Han: cómo ser una ‘rockstar’ de las ideas",
+    "title": "西班牙学校新动态",
+    "original_title": "Alumnos del Opus y de los jesuitas, consultores de McKinsey o abogados del Estado: estos son los clanes que dirigen las grandes empresas españolas",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/ideas/2026-07-25/judith-butler-slavoj-zizek-byung-chul-han-como-ser-una-rockstar-de-las-ideas.html",
-      "summary": "Hay autores que brincan fuera de los sesudos seminarios académicos y llegan al público general, entre el que levantan pasiones. ¿Por qué tienen fans y no solo lectores?"
+      "url": "https://elpais.com/economia/negocios/2026-07-25/alumnos-del-opus-y-de-los-jesuitas-consultores-de-mckinsey-o-abogados-del-estado-estos-son-los-clanes-que-dirigen-las-grandes-empresas-espanolas.html",
+      "summary": "Muchos de los directivos y consejeros del Ibex 35 comparten lazos al proceder de las mismas consultoras, escuelas de negocios o ciertos puestos de administración pública. Los expertos advierten de los"
     },
     "category": "政策",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙就业新动态",
-    "original_title": "La Guardia Civil detiene a una persona e investiga a otra por causar el incendio de Ávila",
+    "title": "西班牙住房增加",
+    "original_title": "El Gobierno ultima el decreto para contener los alquileres y aumentar la vivienda asequible",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20260724/11600473/guardia-civil-detiene-persona-e-investiga-causar-incendio-avila.html",
-      "summary": "El fuego ya ha calcinado más de 9.000 hectáreas, y su origen es una imprudencia grave por empleo de maquinaria pesada en esta zona donde estaba totalmente prohibido su uso"
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/gobierno-ultima-decreto-contener-alquileres-aumentar-vivienda-asequible_202607266a65b8a54687a22bdecea52f.html",
+      "summary": "Sánchez presentará las medidas del decreto en su comparecencia del martes para hacer balance del curso político"
     },
-    "category": "工作",
-    "date": "2026-07-25"
+    "category": "租房",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Alberto Núñez Feijóo: \"Mi Gobierno limpiará a fondo el Estado\"",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/alberto-nunez-feijoo-gobierno-limpiara-fondo-estado_202607266a64eef44687a22bdecda88c.html",
+      "summary": "Como candidato, anticipa las primeras medidas y las leyes que derogará. Su lema, \"no vengo a hacer un sanchismo de derechas\". Promete una gran reconstrucción nacional"
+    },
+    "category": "政策",
+    "date": "2026-07-26"
+  },
+  {
+    "title": "西班牙政策新动态 (4)",
+    "original_title": "Puente, otra vez a destiempo",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/puente-otra-vez-destiempo_202607266a653ffe4687a22bdece14d3.html",
+      "summary": "La irrupción de Óscar Puente, aprovechando la coyuntura para desgastar a los gobiernos del PP, no puede ser más inoportuna"
+    },
+    "category": "政策",
+    "date": "2026-07-26"
   },
   {
     "title": "西班牙政策推出",
@@ -107,61 +151,17 @@
       "summary": "Así lo expone el representante del Ministerio Público en un escrito"
     },
     "category": "政策",
-    "date": "2026-07-25"
+    "date": "2026-07-26"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Los gatos tienen más del doble de probabilidades de tener pulgas que los perros",
+    "title": "西班牙租房新动态",
+    "original_title": "Desde 500 euros en Andalucía hasta más de 2.000 euros en Baleares: esto cuesta alquilar una casa en la playa este verano",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/animaleros/gatos/los-gatos-tienen-mas-doble-probabilidades-tener-pulgas-que-los-perros_6984416_0.html",
-      "summary": "Las infestaciones alcanzan su punto máximo entre julio y octubre, coincidiendo con la época del año de mayor actividad."
+      "url": "https://www.20minutos.es/vivienda/desde-500-euros-andalucia-hasta-mas-2-000-euros-baleares-esto-cuesta-alquilar-una-casa-playa-este-verano_7018340_0.html",
+      "summary": "El 40% de las ciudades con playa incluidas en el Índice Inmobiliario Fotocasa ya supera el precio medio del alquiler en España."
     },
-    "category": "政策",
-    "date": "2026-07-25"
-  },
-  {
-    "title": "西班牙工作下降 (1)",
-    "original_title": "Bomberos de Madrid advirtieron en abril de que los trabajos para prevenir incendios se habían reducido a la mitad",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/madrid/bomberos-madrid-advirtieron-abril-trabajos-prevenir-incendios-habian-reducido-mitad_1_13405394.html",
-      "summary": "Los profesionales forestales de la Comunidad de Madrid afirman que se ven obligados a trabajar con cinco efectivos en cada dotación en lugar de siete, como ocurría el verano pasado, y el Gobierno de A"
-    },
-    "category": "工作",
-    "date": "2026-07-25"
-  },
-  {
-    "title": "西班牙工作下降 (2)",
-    "original_title": "Última hora de los incendios | Los incendios avanzan fuera de control con más de 63.000 personas evacuadas y confinadas",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/sociedad/ultima-hora-incendios-bomberos-destajo-durante-noche-frenar-avance-fuego-avila-madrid_133_13406252.html",
-      "summary": "\n        Despu&eacute;s de una noche de trabajos sin apenas descanso, los bomberos est&aacute;n logrando contener parcialmente los avances del fuego ante la oportunidad que ha presentado la bajada de "
-    },
-    "category": "工作",
-    "date": "2026-07-25"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "El consejero de Ayuso se jactó de tener el mejor operativo antiincendios de Europa dos días antes de perder el control",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/consejero-ayuso-jacto-mejor-operativo-antiincendios-europa-dias-perder-control_1_2230834.html",
-      "summary": "El Consejero de Medioambiente de la Comunidad de Madrid, Carlos Novillo, salió este miércoles en rueda de prensa para sacar pecho del potente cuerpo de bomberos que tiene a su cargo. Preguntado por el"
-    },
-    "category": "政策",
-    "date": "2026-07-25"
-  },
-  {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "Las \"lágrimas de fumadores y argentinos\" hacen arder las redes esta semana",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/humor/tuitometro/lagrimas-fumadores-argentinos-arder-redes-semana_1_2230578.html",
-      "summary": "El Gobierno ha aprobado el proyecto de ley antitabaco y lo enviará al Congreso para su tramitación. ¿Fumar o no fumar en las terrazas? Esa es la cuestión que trae de cabeza a los usuarios de redes soc"
-    },
-    "category": "政策",
-    "date": "2026-07-25"
+    "category": "租房",
+    "date": "2026-07-26"
   }
 ]

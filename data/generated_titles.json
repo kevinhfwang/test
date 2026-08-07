@@ -1,83 +1,61 @@
 [
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "La investigación 'Bad Practice' en la que participó infoLibre, finalista para el Impact Award 2026 de IJ4EU",
+    "title": "西班牙居留新规",
+    "original_title": "El Gobierno andaluz recorta en plazas de empleados públicos para pagar tres millones de sobregasto en altos cargos y puestos a dedo",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/investigacion-bad-practice-participo-infolibre-finalistas-impact-award-2026-ij4eu_1_2234792.html",
-      "summary": "Investigative Journalism for Europe (IJ4EU), el fondo europeo que apoya investigaciones periodísticas transfronterizas de interés público, ha dado a conocer las diez investigaciones finalistas de la s"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/andalucia/gobierno-andaluz-recorta-plazas-empleados-publicos-pagar-tres-millones-sobregasto-altos-cargos-puestos-dedo_1_13429813.html",
+      "summary": "La estructura del nuevo Ejecutivo de PP y Vox incluye tres vicepresidencias, nuevas direcciones generales y un puesto eventual más en todas las consejerías, \"un incremento de costes\" que obligará a \"q"
     },
-    "category": "战争风险",
-    "date": "2026-08-06"
+    "category": "居留",
+    "date": "2026-08-07"
   },
   {
-    "title": "西班牙买房新动态",
-    "original_title": "Donald Trump niega la escasez de municiones en EE.UU. y amenaza a los filtradores",
+    "title": "西班牙居留新动态",
+    "original_title": "Mojito, piscina y despido: el peligro del teletrabajo en verano fuera de tu residencia habitual",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/08/06/donald-trump-niega-la-escasez-de-municiones-en-eeuu-y-amenaza-a-los-filtradores",
-      "summary": "El presidente estadounidense arremete contra las informaciones periodísticas y asegura tener reservas masivas en pleno conflicto con Irán. En este 2026, la Casa Blanca tacha de falsas las reuniones de"
+      "name": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-08-07/mojito-piscina-y-despido-el-peligro-del-teletrabajo-en-verano.html",
+      "summary": "Esta práctica genera dudas entre los expertos en derecho laboral por el cumplimiento del contrato, los riesgos laborales y el deber de confidencialidad"
     },
-    "category": "伊朗局势",
-    "date": "2026-08-06"
+    "category": "居留",
+    "date": "2026-08-07"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "El sector de la vivienda pide un pacto al Govern tras el fiasco de la última ley",
+    "title": "西班牙学校新动态",
+    "original_title": "Al menos seis muertos y 15 heridos en un tiroteo en un instituto de Tailandia: hallan muertos a los abuelos del sospechoso",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260806/11608587/sector-vivienda-pide-pacto-govern-fiasco-ley-restringir-compra.html",
-      "summary": "Foment, API y propietarios reclaman aparcar la norma pactada entre el Ejecutivo catalán y los comunes"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/tiroteo-una-escuela-tailandia_7023441_0.html",
+      "summary": "La Policía ha identificado al autor como un estudiante de la escuela, que se habría quitado la vida tras matar a seis personas. Las autoridades han hallado muertos a los abuelos del sospechoso en su d"
     },
-    "category": "租房",
-    "date": "2026-08-06"
+    "category": "留学",
+    "date": "2026-08-07"
   },
   {
     "title": "西班牙外国人新动态",
-    "original_title": "El PP rectifica con los menores migrantes de Ceuta pero se pierde en cómo enfrentar el discurso de Vox",
+    "original_title": "Más facilidad para contratar y un empleo irregular que aflora: el gran impacto de la regularización en el empleo",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/pp-rectifica-menores-migrantes-ceuta-pierde-enfrentar-discurso-vox_1_2234782.html",
-      "summary": "La crisis de Ceuta ha vuelto a situar a los menores extranjeros no acompañados en el centro de la disputa entre el Partido Popular y Vox. Pero esta vez el conflicto se desarrolla con una diferencia su"
+      "url": "https://www.infolibre.es/economia/facilidad-contratar-empleo-irregular-aflora-gran-impacto-regularizacion-empleo_1_2234711.html",
+      "summary": "La regularización extraordinaria de migrantes que comenzó en abril y concluyó el pasado mes de junio ha impulsado con fuerza el mercado laboral, al menos si se atiende a los datos de la estadística of"
     },
-    "category": "战争风险",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Ayuso facilitará la vivienda en zonas rurales y aisladas pese a la amenaza de los incendios forestales",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/ayuso-facilitara-vivienda-zonas-rurales-aisladas-pese-amenaza-incendios-forestales_1_2234720.html",
-      "summary": "Apenas 24 horas antes de que se declarase el mayor incendio de la historia de la Comunidad de Madrid, el Consejo de Gobierno de Isabel Díaz Ayuso aprobó el controvertido Proyecto de Ley de Impulso y D"
-    },
-    "category": "租房",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "El puzle imposible de la vivienda: la derecha se niega a regular el mercado y la izquierda insiste en frenarlo",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/puzle-imposible-vivienda-derecha-niega-regular-mercado-izquierda-insiste-frenarlo_1_2234673.html",
-      "summary": "Que la vivienda es un problema fundamental para el bienestar de los españoles es algo en lo que coincide la mayor parte de la ciudadanía y del arco parlamentario. Lo corrobora el Centro de Investigaci"
-    },
-    "category": "租房",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙外国人新规",
-    "original_title": "España roza el máximo histórico de 50 millones por la población extranjera",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html",
-      "summary": "España añadió 104.178 personas más a sus estadísticas de población en el segundo trimestre de 2026 hasta situarse en un nuevo máximo histórico de 49.801.559 habitantes, con 444.205 personas más que ha"
-    },
-    "category": "政策",
-    "date": "2026-08-06"
+    "category": "工作",
+    "date": "2026-08-07"
   },
   {
     "title": "西班牙政策新动态",
+    "original_title": "Michael 2, la secuela del biopic de Michael Jackson inicia su rodaje pronto",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/cultura/2026/08/07/michael-2-la-secuela-del-biopic-de-michael-jackson-inicia-su-rodaje-pronto",
+      "summary": "El exitoso biopic de Michael Jackson de este año, que recaudó 1.000 millones de dólares, tendrá secuela y empezará a rodarse a finales de 2026 o inicios de 2027."
+    },
+    "category": "政策",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
     "original_title": "La producción industrial acelera su avance en junio al 3,8%",
     "source": {
       "name": "Expansión Economía",
@@ -85,83 +63,105 @@
       "summary": "El Índice General de Producción Industrial (IPI) subió un 3,8% en junio en relación al mismo mes de 2025, acelerando en 3,3 puntos el avance que experimentó en mayo, según el dato publicado hoy por el"
     },
     "category": "政策",
-    "date": "2026-08-06"
+    "date": "2026-08-07"
   },
   {
-    "title": "西班牙外国人新动态 (1)",
-    "original_title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
+    "title": "西班牙外国人新规",
+    "original_title": "España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html",
-      "summary": "Los líderes del Partido Popular aseguran que cumplirán la ley pese a estar en contra y a los acuerdos firmados; los niños y jóvenes extranjeros han seguido llegando a la Península al menos hasta media"
-    },
-    "category": "伊朗局势",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙移民推出",
-    "original_title": "La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-08-06/la-aportacion-clave-de-la-comunidad-marroqui-en-espana-las-remesas-son-criticas-para-marruecos.html",
-      "summary": "El dinero enviado desde España representa más del 1% del PIB del país magrebí, mientras que el procedente de toda la emigración alcanza el 7,5%"
-    },
-    "category": "移民",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙移民新动态",
-    "original_title": "Ocaso en la frontera de la buena vecindad entre Ceuta y Marruecos",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-08-06/ocaso-en-la-frontera-de-la-buena-vecindad-entre-ceuta-y-marruecos.html",
-      "summary": "En la ciudad, que alberga cuatro culturas, se añoran los años del paso fluido hacia Marruecos, enrarecido ahora con la migración y moribundo desde la pandemia"
-    },
-    "category": "移民",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "La culpa no se siente igual: por qué unas personas cargan con todo y otras no sienten remordimiento",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/estilo-de-vida/2026-08-06/la-culpa-no-se-siente-igual-por-que-unas-personas-cargan-con-todo-y-otras-no-sienten-remordimiento.html",
-      "summary": "Este sentimiento puede ayudar a reparar, a aprender del error y a fortalecer los vínculos, pero también provoca incomodidad si se entiende que no se ha hecho lo correcto o no aparece en ningún momento"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html",
+      "summary": "España añadió 104.178 personas más a sus estadísticas de población en el segundo trimestre de 2026 hasta situarse en un nuevo máximo histórico de 49.801.559 habitantes, con 444.205 personas más que ha"
     },
     "category": "政策",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙住房新动态 (3)",
-    "original_title": "Vivienda y excesos normativos",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20260806/11608598/vivienda-excesos-normativos.html",
-      "summary": ""
-    },
-    "category": "租房",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "西班牙住房新动态 (4)",
-    "original_title": "Dejen de hacer chapuzas con la vivienda",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/opinion/20260806/11608560/dejen-chapuzas-vivienda.html",
-      "summary": ""
-    },
-    "category": "租房",
-    "date": "2026-08-06"
+    "date": "2026-08-07"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
+    "original_title": "Spain's population on verge of reaching 50 million",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html",
-      "summary": "Un propietario con problemas dejó su piso en manos de unas personas muy conflictivas, y luego falleció"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260806/spains-population-on-verge-of-reaching-50-million",
+      "summary": "Spain’s population reached a record 49.8 million in the second quarter of 2026, the country’s official stats body announced on Thursday, with more than 100,000 new residents added to the census in jus"
     },
     "category": "政策",
-    "date": "2026-08-06"
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
+      "summary": "Los populares abandonan su ambigüedad y prometen que cumplirán una ley a la que se opusieron"
+    },
+    "category": "伊朗局势",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "Vivas agradece el respaldo del Rey pero avisa de que la crisis en Ceuta no ha acabado",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260806/11609238/rey-traslada-vivas-apoyo-solidaridad-pueblo-ceuta.html",
+      "summary": "El Jefe del Estado recibe en Marivent al presidente ceutí quien confía en una próxima visita del jefe del Estado a la ciudad autónoma"
+    },
+    "category": "签证",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙居留新动态 (1)",
+    "original_title": "Moscú manipula la carrera al Elíseo",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260807/11609081/moscu-manipula-carrera-eliseo.html",
+      "summary": "Alerta en Francia por las 'fake news' difamadoras contra varios aspirantes a la presidencia"
+    },
+    "category": "居留",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "Boyas contra la guerra híbrida",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/boyas-guerra-hibrida_202608076a74736ca5690f04736a5666.html",
+      "summary": "El mensaje es claro. Pueden invadir pacíficamente Ceuta cuando quieran, y sobre todo, pueden radicalizar la opinión de los votantes españoles con estas maniobras"
+    },
+    "category": "战争风险",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙战争风险新动态 (1)",
+    "original_title": "El ejército marroquí consigue superar al español en este tema indispensable y cada día está mejor preparado para una guerra",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/ejercito-marroqui-consigue-superar-espanol-este-tema-indispensable-cada-dia-esta-mejor-preparado-guerra_202608076a74780671b42a0b5ddfa18c.html",
+      "summary": "Cuenta con 700.000 militares, gracias a la reinstauración del servicio militar en 2018, frente a los 224.000 de España"
+    },
+    "category": "战争风险",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙政策改革",
+    "original_title": "Pedro Sánchez requisa los móviles de quienes le visitan en La Mareta",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/pedro-sanchez-requisa-moviles-quienes-visitan-mareta_202608076a74d20571b42a0b5de059b4.html",
+      "summary": "LA RAZÓN avanza los cambios en la seguridad del presidente en plena «psicosis» con Rabat. La sombra de Pegasus se cierne sobre Moncloa, que intenta dar carpetazo a una de sus peores crisis políticas"
+    },
+    "category": "政策",
+    "date": "2026-08-07"
+  },
+  {
+    "title": "西班牙战争风险飙升",
+    "original_title": "'Safaris humanos' para cazar civiles durante la guerra: Zelenski acusa a Rusia de hacerlo en Ucrania... y antes pudo pasar en Sarajevo",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/safaris-humanos-para-cazar-civiles-durante-guerra-zelenski-acusa-rusia-hacerlo-ucrania-antes-pudo-pasar-sarajevo_7023205_0.html",
+      "summary": "Varios denunciantes afirman que la caza de civiles ocurrió durante la guerra en Bosnia y el sitio de Sarajevo. Los \"turistas\" pagaron 100.000 euros para poder disparar sobre blancos humanos."
+    },
+    "category": "战争风险",
+    "date": "2026-08-07"
   }
 ]

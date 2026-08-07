@@ -1,58 +1,42 @@
 [
   {
-    "title": "La investigación 'Bad Practice' en la que participó infoLibre, finalista para el Impact Award 2026 de IJ4EU",
-    "link": "https://www.infolibre.es/medios/investigacion-bad-practice-participo-infolibre-finalistas-impact-award-2026-ij4eu_1_2234792.html",
-    "summary": "Investigative Journalism for Europe (IJ4EU), el fondo europeo que apoya investigaciones periodísticas transfronterizas de interés público, ha dado a conocer las diez investigaciones finalistas de la sexta edición de sus Impact Awards, unos premios que reconocen el periodismo colaborativo transfronte",
-    "published": "Thu, 06 Aug 2026 08:41:26 +0000",
-    "source": "InfoLibre",
-    "score": 4
+    "title": "El Gobierno andaluz recorta en plazas de empleados públicos para pagar tres millones de sobregasto en altos cargos y puestos a dedo",
+    "link": "https://www.eldiario.es/andalucia/gobierno-andaluz-recorta-plazas-empleados-publicos-pagar-tres-millones-sobregasto-altos-cargos-puestos-dedo_1_13429813.html",
+    "summary": "La estructura del nuevo Ejecutivo de PP y Vox incluye tres vicepresidencias, nuevas direcciones generales y un puesto eventual más en todas las consejerías, \"un incremento de costes\" que obligará a \"quitar la dotación presupuestaria de puestos vacantes sin cubrir\" y \"la minoración de otras partidas ",
+    "published": "Thu, 06 Aug 2026 19:02:25 +0000",
+    "source": "elDiario",
+    "score": 3
   },
   {
-    "title": "Donald Trump niega la escasez de municiones en EE.UU. y amenaza a los filtradores",
-    "link": "http://es.euronews.com/2026/08/06/donald-trump-niega-la-escasez-de-municiones-en-eeuu-y-amenaza-a-los-filtradores",
-    "summary": "El presidente estadounidense arremete contra las informaciones periodísticas y asegura tener reservas masivas en pleno conflicto con Irán. En este 2026, la Casa Blanca tacha de falsas las reuniones del Pentágono sobre el agotamiento del 80% de los interceptores THAAD del Ejército.",
-    "published": "Thu, 06 Aug 2026 10:06:55 +0200",
+    "title": "Mojito, piscina y despido: el peligro del teletrabajo en verano fuera de tu residencia habitual",
+    "link": "https://elpais.com/economia/negocios/2026-08-07/mojito-piscina-y-despido-el-peligro-del-teletrabajo-en-verano.html",
+    "summary": "Esta práctica genera dudas entre los expertos en derecho laboral por el cumplimiento del contrato, los riesgos laborales y el deber de confidencialidad",
+    "published": "Fri, 07 Aug 2026 03:30:00 GMT",
+    "source": "El País",
+    "score": 2
+  },
+  {
+    "title": "Al menos seis muertos y 15 heridos en un tiroteo en un instituto de Tailandia: hallan muertos a los abuelos del sospechoso",
+    "link": "https://www.20minutos.es/internacional/tiroteo-una-escuela-tailandia_7023441_0.html",
+    "summary": "La Policía ha identificado al autor como un estudiante de la escuela, que se habría quitado la vida tras matar a seis personas. Las autoridades han hallado muertos a los abuelos del sospechoso en su domicilio.",
+    "published": "Fri, 07 Aug 2026 07:52:09 +0200",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Más facilidad para contratar y un empleo irregular que aflora: el gran impacto de la regularización en el empleo",
+    "link": "https://www.infolibre.es/economia/facilidad-contratar-empleo-irregular-aflora-gran-impacto-regularizacion-empleo_1_2234711.html",
+    "summary": "La regularización extraordinaria de migrantes que comenzó en abril y concluyó el pasado mes de junio ha impulsado con fuerza el mercado laboral, al menos si se atiende a los datos de la estadística oficial. El proceso se ha traducido en un total de 262.475 afiliados extranjeros a la Seguridad Social",
+    "published": "Thu, 06 Aug 2026 17:59:55 +0000",
+    "source": "InfoLibre",
+    "score": 2
+  },
+  {
+    "title": "Michael 2, la secuela del biopic de Michael Jackson inicia su rodaje pronto",
+    "link": "http://es.euronews.com/cultura/2026/08/07/michael-2-la-secuela-del-biopic-de-michael-jackson-inicia-su-rodaje-pronto",
+    "summary": "El exitoso biopic de Michael Jackson de este año, que recaudó 1.000 millones de dólares, tendrá secuela y empezará a rodarse a finales de 2026 o inicios de 2027.",
+    "published": "Fri, 07 Aug 2026 10:01:54 +0200",
     "source": "Euronews ES",
-    "score": 4
-  },
-  {
-    "title": "El sector de la vivienda pide un pacto al Govern tras el fiasco de la última ley",
-    "link": "https://www.lavanguardia.com/economia/20260806/11608587/sector-vivienda-pide-pacto-govern-fiasco-ley-restringir-compra.html",
-    "summary": "Foment, API y propietarios reclaman aparcar la norma pactada entre el Ejecutivo catalán y los comunes",
-    "published": "06 Aug 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 2
-  },
-  {
-    "title": "El PP rectifica con los menores migrantes de Ceuta pero se pierde en cómo enfrentar el discurso de Vox",
-    "link": "https://www.infolibre.es/politica/pp-rectifica-menores-migrantes-ceuta-pierde-enfrentar-discurso-vox_1_2234782.html",
-    "summary": "La crisis de Ceuta ha vuelto a situar a los menores extranjeros no acompañados en el centro de la disputa entre el Partido Popular y Vox. Pero esta vez el conflicto se desarrolla con una diferencia sustancial respecto a lo ocurrido hace dos años, cuando se produjo la ruptura entre ambos por la acogi",
-    "published": "Wed, 05 Aug 2026 17:39:19 +0000",
-    "source": "InfoLibre",
-    "score": 2
-  },
-  {
-    "title": "Ayuso facilitará la vivienda en zonas rurales y aisladas pese a la amenaza de los incendios forestales",
-    "link": "https://www.infolibre.es/medioambiente/ayuso-facilitara-vivienda-zonas-rurales-aisladas-pese-amenaza-incendios-forestales_1_2234720.html",
-    "summary": "Apenas 24 horas antes de que se declarase el mayor incendio de la historia de la Comunidad de Madrid, el Consejo de Gobierno de Isabel Díaz Ayuso aprobó el controvertido Proyecto de Ley de Impulso y Desarrollo Equilibrado en la Región –conocido como Líder–, que aspira a ser la mayor reforma de la le",
-    "published": "Tue, 04 Aug 2026 17:27:56 +0000",
-    "source": "InfoLibre",
-    "score": 2
-  },
-  {
-    "title": "El puzle imposible de la vivienda: la derecha se niega a regular el mercado y la izquierda insiste en frenarlo",
-    "link": "https://www.infolibre.es/economia/puzle-imposible-vivienda-derecha-niega-regular-mercado-izquierda-insiste-frenarlo_1_2234673.html",
-    "summary": "Que la vivienda es un problema fundamental para el bienestar de los españoles es algo en lo que coincide la mayor parte de la ciudadanía y del arco parlamentario. Lo corrobora el Centro de Investigaciones Sociológicas (CIS), situándolo como el principal problema de los españoles; lo muestra un males",
-    "published": "Thu, 06 Aug 2026 04:01:27 +0000",
-    "source": "InfoLibre",
-    "score": 2
-  },
-  {
-    "title": "España roza el máximo histórico de 50 millones por la población extranjera",
-    "link": "https://www.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html",
-    "summary": "España añadió 104.178 personas más a sus estadísticas de población en el segundo trimestre de 2026 hasta situarse en un nuevo máximo histórico de 49.801.559 habitantes, con 444.205 personas más que hace un año. De nuevo el impulso de la población de los residentes nacidos en el extranjero compensa e",
-    "published": "Thu, 06 Aug 2026 10:02:45 +0200",
-    "source": "Expansión",
     "score": 2
   },
   {
@@ -64,139 +48,203 @@
     "score": 2
   },
   {
-    "title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
-    "link": "https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html",
-    "summary": "Los líderes del Partido Popular aseguran que cumplirán la ley pese a estar en contra y a los acuerdos firmados; los niños y jóvenes extranjeros han seguido llegando a la Península al menos hasta mediados de julio",
-    "published": "Thu, 06 Aug 2026 03:30:01 GMT",
+    "title": "España gana más de 100.000 habitantes hasta julio y roza el máximo histórico de 50 millones por la población extranjera",
+    "link": "https://www.expansion.com/economia/2026/08/06/6a743489468aebcd6a8b458e.html",
+    "summary": "España añadió 104.178 personas más a sus estadísticas de población en el segundo trimestre de 2026 hasta situarse en un nuevo máximo histórico de 49.801.559 habitantes, con 444.205 personas más que hace un año. De nuevo el impulso de la población de los residentes nacidos en el extranjero compensa e",
+    "published": "Thu, 06 Aug 2026 10:02:45 +0200",
+    "source": "Expansión Economía",
+    "score": 2
+  },
+  {
+    "title": "Spain's population on verge of reaching 50 million",
+    "link": "https://www.thelocal.es/20260806/spains-population-on-verge-of-reaching-50-million",
+    "summary": "Spain’s population reached a record 49.8 million in the second quarter of 2026, the country’s official stats body announced on Thursday, with more than 100,000 new residents added to the census in just three months.",
+    "published": "Thu, 06 Aug 2026 15:14:45 +0200",
+    "source": "The Local ES",
+    "score": 2
+  },
+  {
+    "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+    "link": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
+    "summary": "Los populares abandonan su ambigüedad y prometen que cumplirán una ley a la que se opusieron",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "La aportación clave de la comunidad marroquí en España: “Las remesas son críticas para Marruecos”",
-    "link": "https://elpais.com/economia/2026-08-06/la-aportacion-clave-de-la-comunidad-marroqui-en-espana-las-remesas-son-criticas-para-marruecos.html",
-    "summary": "El dinero enviado desde España representa más del 1% del PIB del país magrebí, mientras que el procedente de toda la emigración alcanza el 7,5%",
-    "published": "Thu, 06 Aug 2026 03:45:01 GMT",
-    "source": "El País",
-    "score": 1
-  },
-  {
-    "title": "Ocaso en la frontera de la buena vecindad entre Ceuta y Marruecos",
-    "link": "https://elpais.com/espana/2026-08-06/ocaso-en-la-frontera-de-la-buena-vecindad-entre-ceuta-y-marruecos.html",
-    "summary": "En la ciudad, que alberga cuatro culturas, se añoran los años del paso fluido hacia Marruecos, enrarecido ahora con la migración y moribundo desde la pandemia",
-    "published": "Thu, 06 Aug 2026 03:30:01 GMT",
-    "source": "El País",
-    "score": 1
-  },
-  {
-    "title": "La culpa no se siente igual: por qué unas personas cargan con todo y otras no sienten remordimiento",
-    "link": "https://elpais.com/estilo-de-vida/2026-08-06/la-culpa-no-se-siente-igual-por-que-unas-personas-cargan-con-todo-y-otras-no-sienten-remordimiento.html",
-    "summary": "Este sentimiento puede ayudar a reparar, a aprender del error y a fortalecer los vínculos, pero también provoca incomodidad si se entiende que no se ha hecho lo correcto o no aparece en ningún momento: “Su ausencia no implica necesariamente falta de empatía ni un trastorno de personalidad”",
-    "published": "Thu, 06 Aug 2026 03:30:00 GMT",
-    "source": "El País",
-    "score": 1
-  },
-  {
-    "title": "Vivienda y excesos normativos",
-    "link": "https://www.lavanguardia.com/economia/20260806/11608598/vivienda-excesos-normativos.html",
-    "summary": "",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "title": "Vivas agradece el respaldo del Rey pero avisa de que la crisis en Ceuta no ha acabado",
+    "link": "https://www.lavanguardia.com/politica/20260806/11609238/rey-traslada-vivas-apoyo-solidaridad-pueblo-ceuta.html",
+    "summary": "El Jefe del Estado recibe en Marivent al presidente ceutí quien confía en una próxima visita del jefe del Estado a la ciudad autónoma",
+    "published": "06 Aug 2026 18:33:40 +0200",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "Dejen de hacer chapuzas con la vivienda",
-    "link": "https://www.lavanguardia.com/opinion/20260806/11608560/dejen-chapuzas-vivienda.html",
-    "summary": "",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "title": "Moscú manipula la carrera al Elíseo",
+    "link": "https://www.lavanguardia.com/internacional/20260807/11609081/moscu-manipula-carrera-eliseo.html",
+    "summary": "Alerta en Francia por las 'fake news' difamadoras contra varios aspirantes a la presidencia",
+    "published": "07 Aug 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
-    "link": "https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html",
-    "summary": "Un propietario con problemas dejó su piso en manos de unas personas muy conflictivas, y luego falleció",
-    "published": "06 Aug 2026 06:00:00 +0200",
-    "source": "La Vanguardia",
-    "score": 1
-  },
-  {
-    "title": "Sabah Hamed, la ceutí que ha convertido su casa en un punto de ayuda humanitaria y atiende a unos 400 migrantes al día: “Llevan días sin comer”",
-    "link": "https://www.lavanguardia.com/vida/20260806/11608891/ceuti-convierte-casa-punto-ayuda-humanitaria-atiende-400-migrantes-dia-llevan-dias-comer.html",
-    "summary": "Su labor solidaria se remonta a la crisis migratoria de 2021 y cuenta con una decena de voluntarias y con las donaciones de vecinos de la ciudad&nbsp;",
-    "published": "06 Aug 2026 10:50:18 +0200",
-    "source": "La Vanguardia",
-    "score": 1
-  },
-  {
-    "title": "Óscar Puente lanza un contundente ataque contra Abascal tras sus críticas al Gobierno por las ayudas a menores en Ceuta: “Pues devuelve tu sueldo”",
-    "link": "https://www.larazon.es/espana/oscar-puente-lanza-contundente-ataque-abascal-sus-criticas-gobierno-ayudas-menores-ceuta-pues-devuelve-sueldo_202608066a7451cda046ad6ebca12905.html",
-    "summary": "El ministro respondió en X al líder de Vox después de que este acusara al Ejecutivo de incentivar la llegada de menores migrantes con ayudas públicas y de “abandonar” a los españoles en la frontera",
-    "published": "Thu, 06 Aug 2026 11:20:13 +0200",
+    "title": "Boyas contra la guerra híbrida",
+    "link": "https://www.larazon.es/espana/boyas-guerra-hibrida_202608076a74736ca5690f04736a5666.html",
+    "summary": "El mensaje es claro. Pueden invadir pacíficamente Ceuta cuando quieran, y sobre todo, pueden radicalizar la opinión de los votantes españoles con estas maniobras",
+    "published": "Fri, 07 Aug 2026 06:00:32 +0200",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Estas son las polémicas medidas que Vito Quiles le propone a Pedro Sánchez para “ayudar” a frenar el caos en Ceuta: “No se pondrá en riesgo la vida de más españoles”",
-    "link": "https://www.larazon.es/espana/estas-son-polemicas-medidas-que-vito-quiles-propone-pedro-sanchez-ayudar-frenar-caos-ceuta-pondra-riesgo-vida-mas-espanoles_202608066a743e86a5690f047369e8aa.html",
-    "summary": "El comunicador difundió un listado de acciones que, según él, deberían aplicarse de inmediato para reforzar la seguridad en la ciudad autónoma y evitar nuevos episodios de tensión en la frontera tras los últimos incidentes registrados",
-    "published": "Thu, 06 Aug 2026 09:57:58 +0200",
+    "title": "El ejército marroquí consigue superar al español en este tema indispensable y cada día está mejor preparado para una guerra",
+    "link": "https://www.larazon.es/espana/ejercito-marroqui-consigue-superar-espanol-este-tema-indispensable-cada-dia-esta-mejor-preparado-guerra_202608076a74780671b42a0b5ddfa18c.html",
+    "summary": "Cuenta con 700.000 militares, gracias a la reinstauración del servicio militar en 2018, frente a los 224.000 de España",
+    "published": "Fri, 07 Aug 2026 06:00:28 +0200",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Cien menores migrantes han pasado su primera noche en uno de los colegios habilitados en Ceuta",
-    "link": "https://www.larazon.es/espana/cien-menores-migrantes-han-pasado-primera-noche-uno-colegios-habilitados-ceuta_202608066a74306fa5690f047369d0d9.html",
-    "summary": "Los traslados a la Península afectan a menores que ya estaban en la ciudad autónoma antes de la crisis del 30 y 31 de julio",
-    "published": "Thu, 06 Aug 2026 08:57:51 +0200",
+    "title": "Pedro Sánchez requisa los móviles de quienes le visitan en La Mareta",
+    "link": "https://www.larazon.es/espana/pedro-sanchez-requisa-moviles-quienes-visitan-mareta_202608076a74d20571b42a0b5de059b4.html",
+    "summary": "LA RAZÓN avanza los cambios en la seguridad del presidente en plena «psicosis» con Rabat. La sombra de Pegasus se cierne sobre Moncloa, que intenta dar carpetazo a una de sus peores crisis políticas",
+    "published": "Fri, 07 Aug 2026 03:00:13 +0200",
     "source": "La Razón",
     "score": 1
   },
   {
-    "title": "Ucrania daña una refinería a 250 kilómetros de Moscú en su mayor ataque desde el inicio de la guerra, con más de 600 drones",
-    "link": "https://www.20minutos.es/internacional/ucrania-dana-una-refineria-250-kilometros-moscu-su-mayor-ataque-desde-inicio-guerra-con-mas-600-drones_7023096_0.html",
-    "summary": "El Ministerio de Defensa de Rusia reportó este jueves el derribo de 605 drones ucranianos de ala fija sobre 18 regiones rusas, la anexionada península de Crimea y los mares Negro y Azov.",
-    "published": "Thu, 06 Aug 2026 10:12:32 +0200",
+    "title": "'Safaris humanos' para cazar civiles durante la guerra: Zelenski acusa a Rusia de hacerlo en Ucrania... y antes pudo pasar en Sarajevo",
+    "link": "https://www.20minutos.es/internacional/safaris-humanos-para-cazar-civiles-durante-guerra-zelenski-acusa-rusia-hacerlo-ucrania-antes-pudo-pasar-sarajevo_7023205_0.html",
+    "summary": "Varios denunciantes afirman que la caza de civiles ocurrió durante la guerra en Bosnia y el sitio de Sarajevo. Los \"turistas\" pagaron 100.000 euros para poder disparar sobre blancos humanos.",
+    "published": "Fri, 07 Aug 2026 07:20:42 +0200",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "El Gobierno de Ayuso no puede destinar directamente la venta del ático de Chamberí a ayudas por los incendios",
-    "link": "https://www.eldiario.es/madrid/somos/gobierno-ayuso-no-destinar-directamente-venta-atico-chamberi-ayudas-incendios_1_13424950.html",
-    "summary": "La Comunidad de Madrid reconoce que el dinero solo podrá salir de Planifica Madrid, la empresa pública que lo compró, a través de un reparto de dividendos al final del ejercicio. Para que la operación aporte una cantidad significativa a la reconstrucción, el inmueble tendría que ser vendido muy por ",
-    "published": "Wed, 05 Aug 2026 19:55:59 +0000",
+    "title": "Trump vuelve a intentar restringir la ciudadanía por nacimiento pese al fallo del Supremo",
+    "link": "https://www.20minutos.es/internacional/trump-vuelve-intentar-restringir-ciudadania-por-nacimiento-pese-fallo-supremo_7023459_0.html",
+    "summary": "La ciudadanía por nacimiento está garantizada por la Decimocuarta Enmienda de la Constitución, y el Tribunal Supremo invalidó en junio una orden ejecutiva de Trump que buscaba restringir ese derecho.",
+    "published": "Fri, 07 Aug 2026 09:01:41 +0200",
+    "source": "20 Minutos",
+    "score": 1
+  },
+  {
+    "title": "Los aviones y helicópteros antiincendios hicieron 12.000 horas en julio y lanzaron 100 millones de litros de agua en 85.000 descargas",
+    "link": "https://www.20minutos.es/nacional/los-aviones-helicopteros-antiincendios-hicieron-12-000-horas-julio-lanzaron-100-millones-litros-agua-85-000-descargas_7023385_0.html",
+    "summary": "Los aviones y helicópteros antiincendios hicieron 12.000 horas en julio y lanzaron 100 millones de litros de agua en 85.000 descargas",
+    "published": "Fri, 07 Aug 2026 07:21:21 +0200",
+    "source": "20 Minutos",
+    "score": 1
+  },
+  {
+    "title": "Vox eleva la presión sobre el PP por la acogida de los menores de Ceuta en las comunidades que gobiernan en coalición",
+    "link": "https://www.eldiario.es/politica/vox-eleva-presion-pp-acogida-menores-ceuta-comunidades-gobiernan-coalicion_1_13431065.html",
+    "summary": "El PP asume que las autonomías cumplirán la ley para el reparto de los niños de Ceuta, una ciudad autónoma que preside un dirigente de su partido, mientras la ultraderecha agita la \"prioridad nacional\"Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Están durmiendo a la ",
+    "published": "Thu, 06 Aug 2026 19:18:20 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "Qué puede \"depurar\" Vox y qué no de las unidades de violencia de género que ahora gestiona en el Gobierno andaluz",
-    "link": "https://www.eldiario.es/andalucia/depurar-vox-no-unidades-violencia-genero-ahora-gestiona-gobierno-andaluz_1_13429363.html",
-    "summary": "La ley estatal impide a Vox, socio del Gobierno de Juanma Moreno, suprimir los servicios psicosociales de atención a víctimas de violencia de género que ahora controlan desde la Consejería de Justicia, pero sí tienen margen para cambiar protocolos, recortar presupuesto, eliminar personal de refuerzo",
-    "published": "Wed, 05 Aug 2026 19:15:43 +0000",
+    "title": "El consejero al que Ayuso señaló por la compra del ático: \"Lo que no se dice es que Madrid no tiene residencia oficial para la presidenta\"",
+    "link": "https://www.eldiario.es/madrid/consejero-ayuso-senalo-compra-atico-izquierda-necesita-buscar-fantasmas-no-hay_1_13431628.html",
+    "summary": "Miguel Ángel García Martín ha evitado responder de nuevo a preguntas como por cuánto pretenden vender el ático de lujo comprado por Planifica Madrid y ha atacado a la \"izquierda y la ultraizquierda\" por \"tratar de estirar el chicle\"El Gobierno de Ayuso no puede destinar directamente la venta del áti",
+    "published": "Thu, 06 Aug 2026 10:28:11 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "Las plazas de las ciudades ya no son espacios para compartir",
-    "link": "https://www.infolibre.es/politica/plazas-ciudades-no-son-espacios-compartir_1_2222144.html",
-    "summary": "El fin del covid-19 nos dejó una configuración de ciudad muy distinta. El adiós al uso de la mascarilla y al gel hidroalcohólico trajo más terrazas, más mesas, más sillas, más espacio público ocupado y menos bancos, menos árboles y menos lugares donde “hacer comunidad”. La urbanista Zlatina Petrova,",
-    "published": "Wed, 05 Aug 2026 17:39:47 +0000",
+    "title": "La victoria de Abdul El-Sayed demuestra que el gran lobby proisraelí de EEUU ya no es intocable",
+    "link": "https://www.eldiario.es/internacional/victoria-abdul-sayed-demuestra-gran-lobby-proisraeli-eeuu-no-intocable_1_13432810.html",
+    "summary": "Hasta ahora, cargar contra AIPAC era un suicidio político, pero la victoria de El-Sayed en Michigan y de otros progresistas en este ciclo de primarias del Partido Demócrata apuntan a que el poder absoluto del millonario grupo de presión se está resquebrajandoLa victoria de Abdul El-Sayed ofrece a lo",
+    "published": "Thu, 06 Aug 2026 19:18:22 +0000",
+    "source": "elDiario",
+    "score": 1
+  },
+  {
+    "title": "La victoria de Abdul El-Sayed ofrece a los demócratas la fórmula para derrotar al trumpismo",
+    "link": "https://www.eldiario.es/internacional/theguardian/victoria-abdul-sayed-ofrece-democratas-formula-derrotar-trumpismo_129_13431511.html",
+    "summary": "El candidato ha forjado un nacionalismo progresista y ha mostrado a su partido cómo usar la ventaja financiera de los republicanos en su contraAbdul El-Sayed gana las primarias de Michigan en una victoria clave para el ala izquierdista del Partido Demócrata\n        De vez en cuando, una contienda po",
+    "published": "Thu, 06 Aug 2026 14:11:17 +0000",
+    "source": "elDiario",
+    "score": 1
+  },
+  {
+    "title": "La radio pública francesa convierte un programa sobre la Guerra Civil en altavoz para un activista contra Sánchez",
+    "link": "https://www.infolibre.es/politica/radio-publica-francesa-convierte-programa-guerra-civil-altavoz-activista-sanchez_1_2234780.html",
+    "summary": "El domingo 2 de agosto, Radio France Internationale dedicó su programa semanal de geopolítica al 90º aniversario del estallido de la Guerra Civil española. Lo que se emitió, sin embargo, tuvo poco de conmemoración histórica: durante casi 50 minutos, un aristócrata español que lleva cuatro años organ",
+    "published": "Thu, 06 Aug 2026 18:00:10 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Precariedad y capitalismo",
-    "link": "https://www.infolibre.es/cultura/teatro/precariedad-capitalismo_1_2233150.html",
-    "summary": "Hablar de precariedad es agotador. Sobre todo, en verano, que apetece salir de la rutina, dejarse llevar y olvidar las cargas diarias. Es agotador porque es hacer presente la fragilidad e incertidumbre con la que convivimos la mayor parte de las personas que nos dedicamos a la cultura en nuestro paí",
-    "published": "Wed, 05 Aug 2026 17:40:01 +0000",
+    "title": "El Supremo pide a la UE el dictamen con el que consideró ilegal la prórroga de Aznar de la AP-9",
+    "link": "https://www.infolibre.es/politica/supremo-pide-ue-dictamen-considero-ilegal-prorroga-aznar-ap-9_1_2234787.html",
+    "summary": "El Tribunal Supremo acaba de pedir a la Comisión Europea el dictamen motivado que emitió hace un año en el que consideró que el Gobierno de Aznar había incumplido la normativa comunitaria al prorrogar la concesión de la AP-9 hasta 2048 sin concurso público para después privatizarla. La petición se p",
+    "published": "Fri, 07 Aug 2026 04:00:25 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Disfraces sin fiesta",
-    "link": "https://www.infolibre.es/cultura/disfraces-fiesta_1_2233917.html",
-    "summary": "¿Puede un gigantón de más de dos metros y medio de altura transmitir sensación de desamparo? Puede. Basta con imaginar el calor que debe dar ese disfraz para que, al menos a mí, me posea irremediablemente un sentimiento de compasión hacia quien lo lleva. El de la imagen estaba apostado en la plaza d",
-    "published": "Thu, 06 Aug 2026 04:01:27 +0000",
+    "title": "Sanguijuelas del Guadiana: \"Los jóvenes, como hace 40 años, tienen que irse de sus pueblos o de Extremadura\"",
+    "link": "https://www.infolibre.es/cultura/musica/sanguijuelas-guadiana-juventud-le-pasa-40-anos-emigrar-desarrollarse_1_2234604.html",
+    "summary": "Sanguijuelas del Guadiana ha irrumpido en el panorama musical español con su disco de debut, Revolá, y una gira de más de 100 conciertos bautizada como Verbena en vena. La banda de Casas de Don Pedro (Badajoz) ha demostrado que se puede conquistar al público sin renunciar a las raíces, pues con un s",
+    "published": "Fri, 07 Aug 2026 04:00:25 +0000",
     "source": "InfoLibre",
+    "score": 1
+  },
+  {
+    "title": "Tsikhanouskaya: el veto a 'Euronews' en Bielorrusia convierte a su audiencia en blanco de la represión",
+    "link": "http://es.euronews.com/my-europe/2026/08/07/tsikhanouskaya-el-veto-a-euronews-en-bielorrusia-convierte-a-su-audiencia-en-blanco-de-la-",
+    "summary": "La opositora bielorrusa Sviatlana Tsikhanouskaya denuncia que Minsk haya calificado a Euronews como medio \"extremista\", un ataque a la libertad de prensa y al público en Bielorrusia.",
+    "published": "Fri, 07 Aug 2026 09:39:01 +0200",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "Al menos 15 heridos y 7 muertos en un tiroteo en una escuela de Tailandia",
+    "link": "http://es.euronews.com/2026/08/07/varios-heridos-y-2-muertos-en-un-tiroteo-en-una-escuela-de-tailandia",
+    "summary": "Algunos informes señalaron que los agentes de Policía habían disparado y matado al sospechoso, mientras que otros indicaron que se había quitado la vida.",
+    "published": "Fri, 07 Aug 2026 07:59:39 +0200",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "Google devuelve el poder de la IA a Brin tras la retirada de Hassabis de DeepMind",
+    "link": "https://www.expansion.com/economia/financial-times/2026/08/07/6a7584b2468aebf6428b4594.html",
+    "summary": "El gigante de Silicon Valley consolida su control a medida que la cultura científica del laboratorio de Londres da paso a la urgencia por crear productos de IA.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 09:16:40 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "Las viviendas de lujo de Ibiza y Mallorca llaman la atención del mundo",
+    "link": "https://www.expansion.com/directivos/estilo-vida/casas/2026/08/07/6a7466d8468aebe3698b4595.html",
+    "summary": "El sector 'prime' en estos dos enclaves está marcado por el inversor internacional, atraído por su conectividad, exclusividad y estilo de vida mediterráneo.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 00:57:37 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "El Ibex se juega sus récords con el empleo de EEUU",
+    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/07/6a75706de5fdea9d2d8b458d.html",
+    "summary": "El dato macro más esperado de la semana, el informe oficial de empleo de EEUU, condiciona los movimientos de los mercados. El repunte que registra ahora el petróleo amenaza además la racha de seis subidas consecutivas que encadena el Ibex, y que ha permitido la conquista de nuevos récords por encima",
+    "published": "Fri, 07 Aug 2026 10:07:13 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "Grifols, Solaria y Cellnex, los rezagados del Ibex con más potencial",
+    "link": "https://www.expansion.com/ahorro/2026/08/07/6a74d75ee5fdea62448b45b0.html",
+    "summary": "Los analistas creen que todos ellos tienen un recorrido de doble dígito hasta su precio objetivo.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 00:57:13 +0200",
+    "source": "Expansión",
+    "score": 1
+  },
+  {
+    "title": "El PP se abre a \"cumplir la ley\" sobre los menores migrantes a pesar de la oposición de Vox",
+    "link": "https://www.expansion.com/economia/politica/2026/08/06/6a747ddd468aeb8f168b458b.html",
+    "summary": "Elías Bendodo responsabiliza al Gobierno del \"problema\" migratorio y lo acusa de \"echarle la pelota a las comunidades\".&nbsp;Leer",
+    "published": "Thu, 06 Aug 2026 14:33:06 +0200",
+    "source": "Expansión Economía",
     "score": 1
   },
   {
@@ -204,31 +252,31 @@
     "link": "https://www.expansion.com/economia/2026/08/06/6a739e90e5fdea1f2b8b45a3.html",
     "summary": "El marco acelerado para aprobar ayudas verdes permite a los países apoyar a sus empresas en la carrera por la descarbonización y facilita el cumplimiento de objetivos de la UE.&nbsp;Leer",
     "published": "Thu, 06 Aug 2026 01:42:29 +0200",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "La marca de ropa Altonadock entra en liquidación al fracasar su reestructuración",
-    "link": "https://www.expansion.com/empresas/distribucion/2026/08/06/6a738782468aebe0198b4571.html",
-    "summary": "La compañía, fundada en 2007 por Ángel Ortega y que llegó a alcanzar una gran popularidad entre el público joven en España, no logró acordar con sus acreedores una salida a su crítica situación financiera.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 00:19:30 +0200",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "Llenar el depósito en agosto cuesta hasta 16 euros más tras el recorte de las rebajas fiscales",
-    "link": "https://www.expansion.com/economia/2026/08/06/6a738795e5fdea66018b45c6.html",
-    "summary": "La reducción de las ayudas fiscales y el regreso del IVA ordinario elevan el coste de llenar el depósito en pleno inicio de las vacaciones de agosto.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 00:24:15 +0200",
     "source": "Expansión Economía",
     "score": 1
   },
   {
-    "title": "El mapa de la financiación autonómica: Murcia, la región más castigada; Madrid, la que más aporta",
-    "link": "https://www.expansion.com/economia/2026/08/05/6a739636e5fdea393d8b4581.html",
-    "summary": "Murcia y Comunidad Valenciana cuentan con una financiación para sus servicios públicos hasta un 8% inferior a la media, mientras que Madrid aporta hasta el 25,9% de sus ingresos tributarios a la solidaridad interautonómica.&nbsp;Leer",
-    "published": "Wed, 05 Aug 2026 22:00:30 +0200",
-    "source": "Expansión Economía",
+    "title": "Warm milk? What shocks Americans about grocery shopping in Spain",
+    "link": "https://www.thelocal.es/20260806/warm-milk-what-shocks-americans-about-grocery-shopping-in-spain",
+    "summary": "Professional jamón cutters, fresh orange juice machines, unrefrigerated milk and eggs, and no rush whatsoever - there are plenty of surprises (many of them pleasant) that Americans face when they start food shopping in Spain, writes Jennifer Lutz.",
+    "published": "Thu, 06 Aug 2026 11:46:41 +0200",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "Today in Spain: A roundup of the latest news on Friday",
+    "link": "https://www.thelocal.es/20260807/today-in-spain-a-roundup-of-the-latest-news-on-friday-89",
+    "summary": "Spanish police warn of another mass crossing to Ceuta being planned, Barça snub game in Morocco, Spain faces high risk of wildfires on day of eclipse and more news on Friday August 7th.",
+    "published": "Fri, 07 Aug 2026 09:01:24 +0200",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
+    "title": "Spain's other 167 islands you've never heard of",
+    "link": "https://www.thelocal.es/20231026/spains-other-167-islands-youve-never-heard-of",
+    "summary": "Spain has a whopping 179 islands, even though most people are only aware of the Canaries and the Balearics, which comprise just 12 of these. Here's what you need to know about the 167 other 'unknown' Spanish islands.",
+    "published": "Thu, 26 Oct 2023 09:43:03 +0200",
+    "source": "The Local ES",
     "score": 1
   },
   {
@@ -240,443 +288,467 @@
     "score": 1
   },
   {
-    "title": "Spain's Navarre to turn monasteries and military barracks into housing",
-    "link": "https://www.thelocal.es/20260805/spains-navarre-to-turn-monasteries-and-military-barracks-into-housing",
-    "summary": "The northern region of Navarre has come up with an innovative new plan to help solve its housing crisis - transform abandoned historical buildings into new shared housing complexes.",
-    "published": "Wed, 05 Aug 2026 10:27:02 +0200",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
-    "link": "https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html",
-    "summary": "EL PAÍS accede a grupos de WhatsApp que coordinan las batidas contra los extranjeros",
-    "published": "Thu, 06 Aug 2026 03:30:01 GMT",
+    "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno pide la comparecencia de Marlaska, Albares, Robles y Bolaños en el Congreso por la crisis en Ceuta",
+    "link": "https://elpais.com/espana/2026-08-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+    "summary": "Sánchez preside este viernes una reunión telemática sobre Ceuta con varios ministros | Sira Rego viaja a la ciudad autónoma para trabajar en la acogida de los menores migrantes",
+    "published": "Fri, 07 Aug 2026 07:15:51 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Una habitación forrada de plástico y un cadáver repartido en bolsas: el asesino de Málaga que se inspiró en ‘Dexter’",
-    "link": "https://elpais.com/espana/2026-08-06/una-habitacion-forrada-de-plastico-y-un-cadaver-repartido-en-bolsas-el-asesino-de-malaga-que-se-inspiro-en-la-serie-dexter.html",
-    "summary": "La Guardia Civil busca los restos de la víctima en distintas zonas de Alhaurín de la Torre señaladas por el autor de los hechos, que confesó tras ser arrestado",
-    "published": "Thu, 06 Aug 2026 03:30:01 GMT",
+    "title": "La crisis migratoria de Ceuta abre grietas entre los partidos de Marruecos que exigen una investigación por las muertes",
+    "link": "https://elpais.com/internacional/2026-08-07/la-crisis-migratoria-de-ceuta-abre-grietas-entre-los-partidos-de-marruecos-que-exigen-una-investigacion-por-las-muertes.html",
+    "summary": "La oposición islamista y de izquierdas se enfrentan al Gobierno a pocas semanas de las elecciones legislativas",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Las bacterias en el semen también condicionan el éxito de los embarazos: “En las clínicas de fertilidad se sigue tratando sobre todo a la mujer”",
-    "link": "https://elpais.com/salud-y-bienestar/2026-08-06/las-bacterias-en-el-semen-tambien-condicionan-el-exito-de-los-embarazos-en-las-clinicas-de-fertilidad-se-sigue-tratando-sobre-todo-a-la-mujer.html",
-    "summary": "Un análisis apunta a que los organismos en el esperma se relacionan con abortos espontáneos y menos nacimientos tras tratamientos reproductivos",
-    "published": "Thu, 06 Aug 2026 03:30:01 GMT",
+    "title": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
+    "link": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
+    "summary": "Los especialistas en rescates en el mar de la Guardia Civil ya estaban desbordados en las primeras horas del jueves, el día que se produjo la gran avalancha en la ciudad autónoma",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Pedro Trapote, empresario nocturno: “He vivido a tope, me he casado cinco veces bajando siempre la edad de la contraria”",
-    "link": "https://elpais.com/gente/2026-08-06/pedro-trapote-empresario-nocturno-he-vivido-a-tope-me-he-casado-cinco-veces-bajando-siempre-la-edad-de-la-contraria.html",
-    "summary": "Quien fuera el rey del ocio nocturno madrileño en los últimos años del siglo XX con la Joy Eslava y el Teatro Barceló, ahora es el “rey de los churros” gracias a San Ginés. A sus 86 años, habla sin tapujos de su vida, sus mujeres, sus negocios, su cuñado Felipe González y su amigo Juan Carlos I",
-    "published": "Thu, 06 Aug 2026 03:30:00 GMT",
+    "title": "Sira Rego, ministra de Infancia: “Es lamentable que PP y Vox hagan un uso propagandístico y electoral de Ceuta”",
+    "link": "https://elpais.com/espana/2026-08-06/sira-rego-ministra-de-infancia-es-lamentable-que-pp-y-vox-hagan-un-uso-propagandistico-y-electoral-de-ceuta.html",
+    "summary": "La ministra de Juventud e Infancia acaba de llegar a la ciudad autónoma y anuncia en una entrevista con EL PAÍS que el traslado de los menores a las comunidades será inminente",
+    "published": "Thu, 06 Aug 2026 19:31:23 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "‘Jeans’ a 40 grados: ¿cómo puede un hombre seguir llevando vaqueros en plena ola de calor?",
-    "link": "https://elpais.com/icon/2026-07-31/jeans-a-40-grados-como-puede-un-hombre-seguir-llevando-vaqueros-en-plena-ola-de-calor.html",
-    "summary": "Frente al furor reciente de las bermudas extracortas, en el armario masculino sigue reinando una sola prenda durante todo el año. Llueva, nieve o abrase, los ‘jeans’ se resisten a morir",
-    "published": "Thu, 06 Aug 2026 03:30:00 GMT",
+    "title": "El control constante durante años del exguardia civil que mató a su expareja: llegó a denunciarla 45 veces solo “por joder”",
+    "link": "https://elpais.com/sociedad/2026-08-07/el-control-constante-durante-anos-del-exguardia-civil-que-mato-a-su-expareja-llego-a-denunciarla-45-veces-solo-por-joder.html",
+    "summary": "Dámaso Fernández mató a Laura Cruz, dejando tres huérfanos, después de una última denuncia de su víctima y tras conocer que había sido expulsado del cuerpo",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Así se hace el Topolino, el helado que levanta pasiones en Cádiz desde los años 50",
-    "link": "https://elpais.com/gastronomia/2026-08-06/asi-se-hace-el-topolino-el-helado-que-levanta-pasiones-en-cadiz-desde-los-anos-50.html",
-    "summary": "Se llama así porque su creador, un heladero italiano, concibió una bola de nata cubierta de chocolate que le recordaba a la cabeza de Mickey Mouse, nombre con el que se conoce en Italia al célebre ratón de Disney",
-    "published": "Thu, 06 Aug 2026 03:25:00 GMT",
+    "title": "La agenda de Planifica Madrid experimenta un apagón desde la compra del ático de Chamberí",
+    "link": "https://elpais.com/espana/madrid/2026-08-07/la-agenda-de-planifica-madrid-experimenta-un-apagon-desde-la-compra-del-atico-de-chamberi.html",
+    "summary": "Hasta abril, la empresa pública mantenía un registro detallado de todos los eventos, reuniones, homenajes, firmas de contratos o visitas previstas para el mes, pero desde entonces no consta ningún acto",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Cortarse la pierna para adelgazar",
-    "link": "https://www.lavanguardia.com/politica/20260806/11608549/cortarse-pierna-adelgazar.html",
+    "title": "El chiringuito, elogio y reivindicación de una institución popular",
+    "link": "https://elpais.com/eps/2026-08-07/el-chiringuito-elogio-y-reivindicacion-de-una-institucion-popular.html",
+    "summary": "No se entiende un verano español sin un chiringuito con mesas de plástico y platos locales. Pero su función social empieza a ser reemplazada por modelos importados",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
+    "source": "El País",
+    "score": 0
+  },
+  {
+    "title": "Abstemio social",
+    "link": "https://elpais.com/cultura/2026-08-07/abstemio-social.html",
+    "summary": "Yo lo que pienso es que ya llevo dos años y medio sin beber y que en algo se tenía que notar, y que esa frescura y esa agilidad mental son ahora las nuevas cadenas de mi identidad",
+    "published": "Fri, 07 Aug 2026 03:30:01 GMT",
+    "source": "El País",
+    "score": 0
+  },
+  {
+    "title": "Robles, Marlaska, Bolaños y Albares comparecerán en el Congreso a finales de agosto por Ceuta",
+    "link": "https://www.lavanguardia.com/politica/20260807/11609510/robles-marlaska-bolanos-albares-compareceran-congreso-finales-agosto-ceuta.html",
+    "summary": "Sánchez preside este viernes una reunión telemática con varios ministros",
+    "published": "07 Aug 2026 08:58:16 +0200",
+    "source": "La Vanguardia",
+    "score": 0
+  },
+  {
+    "title": "¿Qué hacemos con los menores de Ceuta?",
+    "link": "https://www.lavanguardia.com/opinion/20260807/11609298/que-menores-ceuta.html",
     "summary": "",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "published": "07 Aug 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Las obras del soterramiento de Montcada sacuden dos edificios de Trinitat Vella",
-    "link": "https://www.lavanguardia.com/local/barcelona/20260806/11608896/obras-vallbona-sacuden-madrugada-dos-edificios-trinitat-vella.html",
-    "summary": "Los vecinos han sido desalojados y han vuelto a sus domicilios tras comprobar los Bombers que no hay riesgo estructural",
-    "published": "06 Aug 2026 10:34:41 +0200",
+    "title": "Carrera para identificar a los menores sin techo: ¿Adónde irán tras cruzar la frontera en Ceuta?",
+    "link": "https://www.lavanguardia.com/politica/20260807/11609266/menores-nombre-techo-adonde-iran.html",
+    "summary": "Las autoridades y oenegés trabajan sobre el terreno para identificar a los no acompañados y las cifras difieren mucho",
+    "published": "07 Aug 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "La Guardia Civil deberá averiguar si el CNI alertó de la entrada masiva en Ceuta",
-    "link": "https://www.lavanguardia.com/politica/20260806/11608595/guardia-civil-debera-averiguar-cni-alerto-entrada-masiva-ceuta.html",
-    "summary": "La jueza indaga en la responsabilidad de la muerte de casi un centenar de personas",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "title": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
+    "link": "https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html",
+    "summary": "En lo que va de año&nbsp;han llegado al archipiélago balear 219 pateras con 4.145 inmigrantes en situación irregular",
+    "published": "07 Aug 2026 08:42:26 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Marruecos también pierde en Ceuta",
-    "link": "https://www.lavanguardia.com/politica/20260806/11608620/marruecos-pierde-ceuta.html",
-    "summary": "",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "title": "Alerta médica ante el riesgo de lesiones oculares irreversibles por mirar el eclipse sin protección",
+    "link": "https://www.lavanguardia.com/vida/20260807/11609199/alerta-medica-riesgo-lesiones-oculares-irreversibles-mirar-eclipse-proteccion.html",
+    "summary": "Las afectaciones empiezan a aparecer en la retina a las 24 o 48 horas de la exposición",
+    "published": "07 Aug 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Ceuta, la meca electoral de Vox",
-    "link": "https://www.lavanguardia.com/politica/20260806/11608600/ceuta-meca-electoral-vox.html",
-    "summary": "Abascal obtiene en la ciudad autónoma y en Murcia sus mejores resultados porcentuales",
-    "published": "06 Aug 2026 06:00:00 +0200",
+    "title": "La Joya de la Corona del eclipse",
+    "link": "https://www.lavanguardia.com/ciencia/20260807/11597444/joya-corona-eclipse.html",
+    "summary": "La región más externa del Sol, la misteriosa corona solar, será visible durante los instantes de la totalidad",
+    "published": "07 Aug 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "La queja de Manos Limpias contra Peinado, abocada al fracaso",
-    "link": "https://www.larazon.es/espana/queja-manos-limpias-peinado-abocada-fracaso_202608066a745417a5690f04736a1093.html",
-    "summary": "Acusan al instructor del «caso Begoña» de impedirles estar en una vista y de dirigirse a uno de ellos con un «tono impropio»",
-    "published": "Thu, 06 Aug 2026 11:29:58 +0200",
+    "title": "Trump podrá intervenir militarmente en dieciocho países latinoamericanos",
+    "link": "https://www.lavanguardia.com/internacional/20260807/11609280/trump-podra-intervenir-militarmente-dieciocho-paises-latinoamericanos.html",
+    "summary": "Alianza de Estados Unidos con un grupo de naciones del hemisferio contra los cárteles",
+    "published": "07 Aug 2026 06:00:00 +0200",
+    "source": "La Vanguardia",
+    "score": 0
+  },
+  {
+    "title": "La ambición de Iris Tió no tiene freno: “Me gusta ver las medallas, pero lo que me motiva es el oro”",
+    "link": "https://www.lavanguardia.com/deportes/natacion/20260807/11609287/ambicion-iris-tio-freno-me-gusta-ver-medallas-me-motiva-oro.html",
+    "summary": "La nadadora repasa con 'La Vanguardia' un campeonato de ensueño y advierte un futuro en el que pelearán con Rusia y China por ese primer puesto mundial",
+    "published": "07 Aug 2026 06:30:17 +0200",
+    "source": "La Vanguardia",
+    "score": 0
+  },
+  {
+    "title": "Vito Quiles carga contra Sánchez tras impedir la visita del Rey a Ceuta: “Ni siquiera deja que el monarca vea la realidad que ha provocado”",
+    "link": "https://www.larazon.es/espana/vito-quiles-carga-sanchez-impedir-visita-rey-ceuta-siquiera-deja-que-monarca-vea-realidad-que-provocado_202608076a758ee4a5690f04736c0e66.html",
+    "summary": "El comunicador critica al Gobierno por “ocultar la crisis” y acusa al presidente de “censurar” la presencia del Rey Felipe VI en la ciudad autónoma durante la emergencia migratoria",
+    "published": "Fri, 07 Aug 2026 09:53:08 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El Supremo condena al Estado por un preso que asesinó a su compañero de celda",
-    "link": "https://www.larazon.es/espana/supremo-condena-estado-preso-que-asesino-companero-celda_202608066a74496971b42a0b5ddf404c.html",
-    "summary": "El alto tribunal resuelve que incumplió su deber de protección",
-    "published": "Thu, 06 Aug 2026 10:44:44 +0200",
+    "title": "La Comisión Europea registra una denuncia por la \"inacción\" del Gobierno en Ceuta",
+    "link": "https://www.larazon.es/espana/comision-europea-registra-denuncia-inaccion-gobierno-ceuta_202608076a75888a71b42a0b5de1529f.html",
+    "summary": "Tras una evaluación preliminar, decidirá si la archiva o impulsa un requerimiento a España por la supuesta \"falta de medios personales y materiales\"",
+    "published": "Fri, 07 Aug 2026 09:26:32 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "España aumenta el despliegue de la Guardia Civil en el paso fronterizo de Rafah entre la Franja de Gaza y Egipto",
-    "link": "https://www.larazon.es/espana/espana-aumenta-despliegue-guardia-civil-paso-fronterizo-rafah-franja-gaza-egipto_202608066a744492a5690f047369f4f1.html",
-    "summary": "Este refuerzo está integrado por profesionales altamente cualificados del Grupo de Acción Rápida y de la especialidad de Fiscal y Fronteras",
-    "published": "Thu, 06 Aug 2026 10:24:16 +0200",
+    "title": "La Audiencia Nacional impulsa un refuerzo al juez que investiga al exjefe de UDEF",
+    "link": "https://www.larazon.es/espana/audiencia-nacional-impulsa-refuerzo-juez-que-investiga-exjefe-udef_202608076a758148a5690f04736bfa4b.html",
+    "summary": "En la decisión ha pesado la \"preocupación\" de la Fiscalía Antidroga \"ante el enorme incremento de causas\" de narcotráfico",
+    "published": "Fri, 07 Aug 2026 08:58:29 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Encuentro entre el Rey y Vivas: Ceuta lo valora como un \"respaldo institucional y moral\"",
-    "link": "https://www.larazon.es/espana/encuentro-rey-vivas-ceuta-valora-como-respaldo-institucional-moral_202608066a743c49a5690f047369e47a.html",
-    "summary": "Supone un gesto de \"sensibilidad, cercanía y permanente atención que tiene el Rey y que siempre ha demostrado con Ceuta\"",
-    "published": "Thu, 06 Aug 2026 09:52:20 +0200",
+    "title": "Marlaska, Robles, Albares y Bolaños comparecerán en el Congreso para intentar \"atajar\" la crisis de Ceuta",
+    "link": "https://www.larazon.es/espana/marlaska-robles-albares-bolanos-compareceran-peticion-propia-congreso-crisis-ceuta_202608076a757d7c71b42a0b5de13e36.html",
+    "summary": "Será a finales de agosto y lo harán presionados por las investigaciones sobre su polémica gestión",
+    "published": "Fri, 07 Aug 2026 08:38:52 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Giro de Manos Limpias: apremia a la Diputación de Badajoz a reclamar el dinero que pagó a David Sánchez",
-    "link": "https://www.larazon.es/espana/giro-manos-limpias-apremia-diputacion-badajoz-reclamar-dinero-que-pago-david-sanchez_202608066a74373d71b42a0b5ddf1da1.html",
-    "summary": "Se desmarca de la vía del Tribunal de Cuentas y pone en un brete a la presidenta socialista de la institución, a quien insta a activar el procedimiento administrativo",
-    "published": "Thu, 06 Aug 2026 09:27:47 +0200",
+    "title": "Cuenta atrás del juez Peinado para llevar a Begoña Gómez a juicio antes de jubilarse",
+    "link": "https://www.larazon.es/espana/cuenta-atras-juez-peinado-llevar-begona-gomez-juicio-antes-jubilarse_202608076a756b0c71b42a0b5de1252c.html",
+    "summary": "Tiene hasta el 27 de septiembre para recibir los escritos de defensa de la mujer de Sánchez y su asesora, celebrar la vista y tomar la decisión",
+    "published": "Fri, 07 Aug 2026 07:20:12 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Militares en Ceuta y Melilla: “No somos robots. Si nos hacen trabajar 16 horas, mal comer y mal dormir, no se puede rendir”",
-    "link": "https://www.larazon.es/espana/militares-ceuta-melilla-somos-robots-nos-hacen-trabajar-16-horas-mal-comer-mal-dormir-puede-rendir_202608066a74257ba046ad6ebca0dc40.html",
-    "summary": "La Unión de Militares de Tropa denuncia la imposibilidad de cobrar las horas extraordinarias o disfrutar del descanso acumulado por la falta de personal",
-    "published": "Thu, 06 Aug 2026 08:18:31 +0200",
+    "title": "La Fiscalía cree que Leire pasaba facturas de consultoría para cobrar del PSOE",
+    "link": "https://www.larazon.es/espana/fiscalia-cree-que-leire-pasaba-facturas-consultoria-cobrar-psoe_202608076a7559e0a5690f04736bce02.html",
+    "summary": "Apunta a que la exmilitante recibía el dinero a través de dos letrados imputados que facturaban servicios al partido",
+    "published": "Fri, 07 Aug 2026 06:06:56 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "El «tsunami» Aliança Catalana cambia el mapa político catalán",
-    "link": "https://www.larazon.es/espana/tsunami-alianca-catalana-cambia-mapa-politico-catalan_202608066a73765ba046ad6ebc9fa08d.html",
-    "summary": "Todas las encuestas vaticinan que pueda ser la segunda fuerza local por delante de Junts",
-    "published": "Thu, 06 Aug 2026 07:43:20 +0200",
+    "title": "El reintegro del salario de David Sánchez moviliza a las acusaciones en varios frentes",
+    "link": "https://www.larazon.es/espana/reintegro-salario-david-sanchez-moviliza-acusaciones-varios-frentes_202608076a74b932a5690f04736adcc7.html",
+    "summary": "A la vía abierta en el Tribunal de Cuentas se suma una reclamación ante la Diputación de Badajoz",
+    "published": "Fri, 07 Aug 2026 02:00:14 +0200",
     "source": "La Razón",
     "score": 0
   },
   {
-    "title": "Colas de 90 minutos, revisión de pasaportes... Así son los controles aleatorios de Italia a los españoles tras la suspensión de Schengen",
-    "link": "https://www.20minutos.es/internacional/controles-aleatorios-italia-espanoles-suspension-schengen_7023126_0.html",
-    "summary": "Las terminales italianas han instalado un acceso específico para quienes llegan desde España, además de las dos filas habituales para los procedentes de la Unión Europea y para viajeros extracomunitarios.",
-    "published": "Thu, 06 Aug 2026 10:19:50 +0200",
+    "title": "Cuatro ministros comparecerán en agosto en el Congreso de los Diputados para informar de su gestión en la crisis de Ceuta",
+    "link": "https://www.20minutos.es/nacional/cuatro-ministros-compareceran-agosto-congreso-los-diputados-para-informar-su-gestion-crisis-ceuta_7023464_0.html",
+    "summary": "Se celebrarán la última semana y a petición propia ante las comisiones de Defensa, Seguridad Nacional, Interior y Exteriores.",
+    "published": "Fri, 07 Aug 2026 09:18:16 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "No elegí Kenia en vez de España",
-    "link": "https://www.20minutos.es/internacional/opinion-no-elegi-kenia-vez-espana-voluntarios-guillermo-gauna-vivas_7023123_3.html",
-    "summary": "\"Se confunde voluntariado con volunturismo. El voluntariado real exige compromiso y escuchar a la comunidad\"",
-    "published": "Thu, 06 Aug 2026 10:06:30 +0200",
+    "title": "Rotura del ligamento cruzado craneal: una lesión frecuente que puede cambiar la vida de los perros",
+    "link": "https://www.20minutos.es/animaleros/perros/rotura-ligamento-cruzado-craneal-una-lesion-frecuente-que-puede-cambiar-vida-los-perros_7008513_0.html",
+    "summary": "La mitad de los perros afectados en una rodilla desarrollan el mismo problema en la otra durante los meses siguientes.",
+    "published": "Fri, 07 Aug 2026 08:24:00 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Ya somos 49,8 millones: la llegada de 104.000 migrantes en el segundo trimestre vuelve a situar a España en un récord de habitantes",
-    "link": "https://www.20minutos.es/nacional/ya-somos-49-8-millones-llegada-104-000-migrantes-segundo-trimestre-vuelve-situar-espana-un-record-habitantes_7023095_0.html",
-    "summary": "En términos anuales, el crecimiento poblacional es ya de 444.205 personas.",
-    "published": "Thu, 06 Aug 2026 09:21:11 +0200",
+    "title": "Crean un test para descubrir de forma definitiva cuál es la pata dominante de nuestro perro",
+    "link": "https://www.20minutos.es/animaleros/perros/crean-un-test-para-descubrir-forma-definitiva-cual-es-pata-dominante-nuestro-perro_7007959_0.html",
+    "summary": "Investigadores italianos han diseñado un método de cuatro pruebas que divide la preferencia de los perros en cinco niveles de lateralidad.",
+    "published": "Fri, 07 Aug 2026 08:23:37 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Las ciudades de España que disfrutarán del eclipse total de Sol del 12 de agosto: listado de capitales y municipios",
-    "link": "https://www.20minutos.es/nacional/eclipse-solar-total-espana-12-agosto-listado-donde-ver-ciudades-municipios_6509059_0.html",
-    "summary": "Galicia será la primera comunidad en contemplar el eclipse que avanzará de forma gradual por el territorio hasta alcanzar Baleares.",
-    "published": "Thu, 06 Aug 2026 08:59:47 +0200",
+    "title": "Mickey Camerún, el perro que transformó una estafa en una lección de adopción: \"No entiende de desconocidos\"",
+    "link": "https://www.20minutos.es/animaleros/mickey-camerun-perro-que-transformo-una-estafa-una-leccion-adopcion-no-entiende-desconocidos_7022123_0.html",
+    "summary": "La familia de Cristian intentó comprar un chihuahua por internet, pero descubrió que había sido víctima de un fraude. Su historia se explica así: \"Gracias a él aprendimos que los animales no se compran, se adoptan\".",
+    "published": "Fri, 07 Aug 2026 08:23:19 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Trastorno obsesivo compulsivo en gatos: lo que la ciencia sabe de este extraño comportamiento",
-    "link": "https://www.20minutos.es/animaleros/gatos/trastorno-obsesivo-compulsivo-gatos-que-ciencia-sabe-este-extrano-comportamiento_7008710_0.html",
-    "summary": "Algunos gatos llegan a lamerse o morderse tanto que desarrollan calvas, heridas e incluso lesiones cutáneas importantes.",
-    "published": "Thu, 06 Aug 2026 08:14:45 +0200",
+    "title": "Ceuta y la pedagogía democrática",
+    "link": "https://www.20minutos.es/nacional/ceuta-pedagogia-democratica_7023320_3.html",
+    "summary": "Estuve en la manifestación del domingo y no me gustó lo que vi. Lo que vi es el resultado de años de una absoluta ausencia de pedagogía democrática.",
+    "published": "Fri, 07 Aug 2026 07:46:49 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "El misterio del aliento de cachorro: por qué huele tan bien durante sus primeros meses de vida",
-    "link": "https://www.20minutos.es/animaleros/perros/misterio-aliento-cachorro-por-que-huele-tan-bien-durante-sus-primeros-meses-vida_6980529_0.html",
-    "summary": "El característico aroma dulce desaparece poco a poco cuando los cachorros abandonan la leche materna y comienzan a alimentarse como adultos.",
-    "published": "Thu, 06 Aug 2026 08:14:28 +0200",
+    "title": "Ambivaliente",
+    "link": "https://www.20minutos.es/nacional/blogs/1-de-cada10/ambivaliente_7019695_0.html",
+    "summary": "No hay mala intención, seguro. Pero tampoco hay valentía. Y estamos hablando de mí, que no muerdo —bueno, un poco sí, pero en otro contexto más sensual—.",
+    "published": "Fri, 07 Aug 2026 07:30:00 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Cómo prevenir que una idílica jornada de playa con el perro se convierta en una urgencia veterinaria",
-    "link": "https://www.20minutos.es/animaleros/perros/como-prevenir-que-una-idilica-jornada-playa-con-perro-se-convierta-una-urgencia-veterinaria_6981479_0.html",
-    "summary": "La obstrucción por ingesta involuntaria de arena y los anzuelos ocultos exigen mantener una vigilancia estricta durante el descanso veraniego.",
-    "published": "Thu, 06 Aug 2026 08:14:09 +0200",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Finlandia da luz verde al primer almacén permanente de residuos nucleares del mundo",
-    "link": "https://www.20minutos.es/internacional/finlandia-da-luz-verde-primer-almacen-permanente-residuos-nucleares-mundo_7022915_0.html",
-    "summary": "Onkalo está en la costa oeste del país y albergará unas 6.500 toneladas de residuos nucleares en 3.300 contenedores a 430 metros de profundidad.",
-    "published": "Thu, 06 Aug 2026 07:18:39 +0200",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "El \"ángel lleno de bondad\" cuyo cuerpo acabó descuartizado en una maleta: lo que se sabe del asesinato de una mujer escocesa en Grecia",
-    "link": "https://www.20minutos.es/internacional/angel-lleno-bondad-cuyo-cuerpo-acabo-descuartizado-una-maleta-que-se-sabe-asesinato-una-mujer-escocesa-grecia_7022821_0.html",
-    "summary": "La fallecida es una trabajadora humanitaria de 38 años y el presunto asesino un boxeador afgano de 26 años.",
-    "published": "Thu, 06 Aug 2026 07:17:52 +0200",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Ayuso contra Ayuso: cómo ha cambiado su discurso sobre el ático de la Comunidad de Madrid en una semana",
-    "link": "https://www.eldiario.es/madrid/ayuso-ayuso-cambiado-discurso-atico-comunidad-madrid-semana_1_13430070.html",
-    "summary": "La líder madrileña justificó la necesidad del inmueble para llevar a cabo \"reuniones\" durante las obras en la sede de la Puerta del Sol, pero ahora sostiene que \"lo mejor desde el primer minuto es venderlo”\nAyuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Se",
-    "published": "Wed, 05 Aug 2026 16:30:10 +0000",
+    "title": "España mantiene la alerta en Ceuta y estrecha la coordinación con Marruecos tras nuevas llamadas a cruzar la frontera",
+    "link": "https://www.eldiario.es/politica/espana-mantiene-alerta-ceuta-estrecha-coordinacion-marruecos-nuevas-llamadas-cruzar-frontera_1_13432739.html",
+    "summary": "El Gobierno no contempla que un episodio como el del 31 de julio pueda repetirse de forma inminente a pesar de la credibilidad que otorgan a los mensajes por redes con nuevas convocatorias para mediados de agosto: \"Ya estamos sobre aviso\"“¿Cuál es el plan?”: dentro de los grupos de WhatsApp e Instag",
+    "published": "Thu, 06 Aug 2026 19:18:20 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Las cifras del ático: de los honorarios de la inmobiliaria a la estimación de venta del Gobierno de Ayuso",
-    "link": "https://www.eldiario.es/madrid/cifras-atico-honorarios-inmobiliaria-estimacion-venta-gobierno-ayuso_1_13429262.html",
-    "summary": "Todavía son muchas las incógnitas que rodean la polémica compra del inmueble, pero sí se sabe que se pagaron 6,3 millones y que la inmobiliaria que lo vendió obtuvo de la compra unos honorarios del 3%Ayuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Sería muy",
-    "published": "Wed, 05 Aug 2026 19:55:59 +0000",
+    "title": "Qué fácil es odiar a los menores migrantes",
+    "link": "https://www.eldiario.es/opinion/zona-critica/facil-odiar-menores-migrantes_129_13432699.html",
+    "summary": "No hace tanto, apenas diez años, nos conmovían los menores migrantes que intentaban llegar a Europa, los menores ahogados en las playas, los menores huérfanos, los menores solos sin familia. Eran niños, los veíamos como nuestros niños, pedíamos que el Estado se hiciera cargo, ofrecíamos nuestra soli",
+    "published": "Thu, 06 Aug 2026 19:18:20 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Ayuso reina en la era de la impunidad",
-    "link": "https://www.eldiario.es/opinion/zona-critica/ayuso-reina-impunidad_129_13430667.html",
-    "summary": "La presidenta ha erosionado los contrapesos de fiscalización de la CAM, y Feijóo la ha dejado hacer y deshacer porque él llegó a Madrid gracias a una de sus operaciones de eliminación de sus críticos\n        Isabel D&iacute;az Ayuso entendi&oacute; antes y mejor que cualquier otro dirigente del PP q",
-    "published": "Wed, 05 Aug 2026 19:56:05 +0000",
+    "title": "Tatuajes, cicatrices y ADN: dentro de la oficina que busca a los desaparecidos de la tragedia de Ceuta",
+    "link": "https://www.eldiario.es/desalambre/tatuajes-cicatrices-adn-oficina-busca-desaparecidos-tragedia-ceuta_1_13432081.html",
+    "summary": "La oficina habilitada por la Guardia Civil en la frontera del Tarajal ha recibido en sus primeras horas decenas de denuncias y trabaja por confirmar 29 casos en los que existen indicios de correspondencia entre cuerpos recuperados del mar y familiares que han contactado con la oficinaCientos de meno",
+    "published": "Thu, 06 Aug 2026 19:18:21 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "La empresa pública del ático de lujo solo ha comprado dos inmuebles en los últimos ejercicios aunque Ayuso dice que realiza compraventas \"todo el año\"",
-    "link": "https://www.eldiario.es/madrid/empresa-publica-atico-lujo-comprado-inmuebles-ultimos-ejercicios-ayuso-dice-realiza-compraventas-ano_1_13430568.html",
-    "summary": "Hasta la adquisición del piso de Chamberí, Planifica Madrid solo había comprado los edificios de su sede social y la casa del poeta Vicente Aleixandre desde que Ayuso está al frente de la Comunidad de MadridAyuso defiende que el ático comprado por la Comunidad de Madrid no era para uso personal: “Se",
-    "published": "Wed, 05 Aug 2026 18:55:29 +0000",
+    "title": "Herencia del escándalo Púnica y refugio de cargos del PP: así es la empresa pública que compró el ático de Ayuso",
+    "link": "https://www.eldiario.es/madrid/herencia-escandalo-punica-refugio-cargos-pp-empresa-publica-compro-atico-ayuso_1_13430492.html",
+    "summary": "Planifica Madrid es la sociedad pública heredera de Nuevo Arpegio, la empresa regional de suelo en el centro de la rama de supuesta corrupción urbanística del caso Púnica; el CEO y un directivo de la firma que ha comprado el ático de Chamberí cobraron al menos 162.690 euros de uno de los principales",
+    "published": "Thu, 06 Aug 2026 19:18:21 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "El juez propone juzgar a la alcaldesa de Alcalá por la filtración de informes policiales para \"salvar a la jefa\" Ayuso",
-    "link": "https://www.eldiario.es/madrid/juez-propone-juzgar-alcaldesa-alcala-filtracion-informes-policiales-salvar-jefa-ayuso_1_13431331.html",
-    "summary": "El tribunal coloca a Judith Piquet a un paso de sentarse en el banquillo por filtrar presuntamente un documento policial que Alfonso Serrano difundió en X para criminalizar a las personas inmigrantes asegurando que los migrantes de un centro de la localidad estaban cometiendo \"agresiones sexuales\" C",
-    "published": "Thu, 06 Aug 2026 09:07:48 +0000",
+    "title": "Ayuso o la embriaguez de la impunidad",
+    "link": "https://www.eldiario.es/opinion/zona-critica/ayuso-embriaguez-impunidad_129_13432971.html",
+    "summary": "Tendemos a pensar que la impunidad va simplemente de escapar a un castigo, una sentencia o una dimisión, pero el sentimiento aparece mucho antes, cuando quien ejerce el poder deja de contemplar siquiera la posibilidad de tener que responder por sus actos¿Cuándo nos cuentan toda la verdad del ático?\n",
+    "published": "Thu, 06 Aug 2026 19:18:21 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Cientos de menores migrantes siguen por las calles del Príncipe sin acogida: “Están durmiendo a la intemperie\"",
-    "link": "https://www.eldiario.es/desalambre/cientos-menores-migrantes-siguen-calles-principe-acogida-durmiendo-intemperie_1_13430498.html",
-    "summary": "Ante unas autoridades desbordadas, la asociación de vecinos del barrio del Príncipe está haciendo un registro extraoficial de menores para que la ciudad autónoma y el Estado acojan a los jóvenes migrantes con todas las garantíasEl sueño de Faten, la futbolista marroquí que perdió la vida en el cruce",
-    "published": "Wed, 05 Aug 2026 19:56:00 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "Ceuta, Marruecos y Europa: las consecuencias de un régimen migratorio colonial y racista",
-    "link": "https://www.eldiario.es/internacional/ceuta-marruecos-europa-consecuencias-regimen-migratorio-colonial-racista_129_13430144.html",
-    "summary": "Entender lo sucedido como un simple chantaje de Marruecos a España es una simplificación de la realidad. Es la consecuencia del régimen migratorio euromarroquí construido sobre estructuras heredadas del colonialismo en las que Europa determina quién puede moverse y quién no a partir de jerarquías ra",
-    "published": "Wed, 05 Aug 2026 19:56:01 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "La justicia europea decide quién puede leer la versión completa del diario de Ana Frank en internet (y desde dónde)",
-    "link": "https://www.eldiario.es/catalunya/justicia-europea-decide-leer-version-completa-diario-ana-frank-internet_1_13425963.html",
-    "summary": "El Tribunal de Justicia de la UE resuelve un pulso legal sobre los manuscritos originales de la adolescente judía y considera válido el bloqueo geográfico de los contenidos a pesar de que puedan sortearseHemeroteca - El Holocausto franquista: los judíos a los que el dictador no quiso salvar\n\n       ",
-    "published": "Wed, 05 Aug 2026 19:56:01 +0000",
-    "source": "elDiario",
-    "score": 0
-  },
-  {
-    "title": "El cambio climático dibuja un nuevo mapa de las enfermedades transmitidas por mosquitos y bacterias",
-    "link": "https://www.infolibre.es/politica/cambio-climatico-dibuja-nuevo-mapa-enfermedades-transmitidas-mosquitos-europa_1_2234696.html",
-    "summary": "Europa acumula ya este verano más de 160 casos de virus del Nilo Occidental repartidos en siete países. 94 en Italia, 42 en Grecia, 16 en España, siete en Macedonia del Norte, cinco en Rumanía, dos en Francia y uno en Alemania. A ello se suman otras enfermedades como el chikungunya o el dengue, que ",
-    "published": "Wed, 05 Aug 2026 17:39:32 +0000",
+    "title": "Vox repudia a los migrantes marroquíes pero evita confrontar con Mohamed VI, aliado de Estados Unidos",
+    "link": "https://www.infolibre.es/politica/vox-repudia-migrantes-marroquies-evita-confrontar-mohamed-vi-aliado-estados-unidos_1_2234817.html",
+    "summary": "Santiago Abascal evita presentar a Marruecos como un Estado hostil, pese a calificar de “invasión” la entrada de más de 70.000 marroquíes en Ceuta el pasado jueves. La actual crisis fronteriza ha dejado ya un centenar de fallecidos según las organizaciones sobre el terreno, pero el líder de Vox obvi",
+    "published": "Thu, 06 Aug 2026 17:59:42 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El drama de las mujeres mayores ante la violencia machista: “Marcharse sería como perderlo todo”",
-    "link": "https://www.infolibre.es/mediapart/drama-mujeres-mayores-violencia-machista-marcharse-seria-perderlo_1_2234759.html",
-    "summary": "“No se tiene suficientemente en cuenta que la violencia de género no desaparece con la edad”. Élisabeth Liotard, directora de la asociación Viffil-SOS Femmes, constata a diario hasta qué punto este fenómeno sigue siendo, en gran medida, invisible.Los estudios dedicados a este tema son escasos y se h",
-    "published": "Thu, 06 Aug 2026 04:01:26 +0000",
+    "title": "Las cifras de violencia sexual contra la infancia desmontan el mito de la familia como espacio seguro",
+    "link": "https://www.infolibre.es/igualdad/invisible-desgarradora-relegada-silencio-28-jovenes-sufrido-violencia-sexual-infantil_1_2225799.html",
+    "summary": "Invisible, relegada al silencio y muchas veces impune. La violencia sexual durante la infancia constituye uno de los mayores fracasos sociales e institucionales de nuestro tiempo, el retrato impoluto de un sistema que enmudece y se demuestra incapaz de proteger a los más vulnerables. Supone, además,",
+    "published": "Fri, 07 Aug 2026 04:00:24 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Los asesinatos machistas marcan el inicio de agosto con dos posibles nuevos casos en pocas horas",
-    "link": "https://www.infolibre.es/igualdad/asesinatos-machistas-marca-inicio-agosto-posibles-nuevos-casos-horas_1_2234786.html",
-    "summary": "La violencia machista vuelve azotar en el inicio del mes de agosto con dos nuevos casos en investigación, ocurridos este miércoles con escasas horas de diferencia en Llanes (Asturias) y Murcia, y que elevarían a 35 las mujeres asesinadas en lo que va de año.Este dato anual sería el peor desde 2021 e",
-    "published": "Thu, 06 Aug 2026 06:35:51 +0000",
+    "title": "El Grupo Godó: del poder mediático familiar a la diversificación para asegurar la supervivencia",
+    "link": "https://www.infolibre.es/medios/grupo-godo-mediatico-familiar-diversificacion-asegurar-supervivencia_1_2226505.html",
+    "summary": "El Grupo Godó es uno de los nombres decisivos del mapa mediático español, en particular en Cataluña: un holding nacido de un periódico histórico, convertido en conglomerado multimedia y hoy extendido por prensa, radio, publicidad, impresión, distribución y negocios de marketing y experiencias. Su ca",
+    "published": "Fri, 07 Aug 2026 04:00:25 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Portugal bate un récord de presos por violencia doméstica mientras aumentan las denuncias",
-    "link": "http://es.euronews.com/my-europe/2026/08/06/portugal-bate-record-presos-violencia-domestica-aumentan-denuncias",
-    "summary": "Las denuncias por violencia doméstica crecieron un 13,3% respecto al primer trimestre del año. Al mismo tiempo, Portugal registró el mayor número de personas en prisión por este delito desde que comenzaron los registros en 2018.",
-    "published": "Thu, 06 Aug 2026 11:33:38 +0200",
+    "title": "La sequía del Danubio deja sediento a todo el este de Europa",
+    "link": "https://www.infolibre.es/mediapart/sequia-danubio-deja-sediento-europa_1_2234798.html",
+    "summary": "Bancos de arena hasta donde alcanza la vista, barcos varados sobre lodo agrietado, un olor pestilente a cieno seco. Este verano, los paisajes del “hermoso Danubio azul” no invitan precisamente a soñar, sino que provocan más bien sudores fríos tanto a sus habitantes como a quienes lo recorren por mot",
+    "published": "Thu, 06 Aug 2026 18:00:25 +0000",
+    "source": "InfoLibre",
+    "score": 0
+  },
+  {
+    "title": "El Prado mitiga los incendios con fotocopias",
+    "link": "https://www.infolibre.es/cultura/arte/prado-mitiga-incendios-fotocopias_1_2234822.html",
+    "summary": "El drama de los fuegos suscita solidaridades inesperadas. Hay quien vende el ático para repartir un aguinaldo entre los chamuscados y quien les envía estampitas de tamaño colosal. 15 réplicas (¡15!) provenientes del mismísimo Museo del Prado (departamento de reprografía, supongo) se repartirán por e",
+    "published": "Fri, 07 Aug 2026 04:00:25 +0000",
+    "source": "InfoLibre",
+    "score": 0
+  },
+  {
+    "title": "El hombre que iba a ser campeón del mundo",
+    "link": "https://www.infolibre.es/cultura/hombre-iba-campeon-mundo_1_2220425.html",
+    "summary": "En la plaza de toros de Valencia, en 1936, unos 20.000 espectadores solían aplaudir la elegancia de García Álvarez, el valor de Llacer, el estilo de Juanito Beltrán, la ciencia de Ben Buker, los puños formidables del Tigre de Manises. Era el epicentro del boxeo. En 1935, allí mismo, Sangchili se hab",
+    "published": "Fri, 07 Aug 2026 04:00:26 +0000",
+    "source": "InfoLibre",
+    "score": 0
+  },
+  {
+    "title": "Berlín presenta un banco arcoíris en homenaje a las víctimas del ataque al Orgullo LGTBIQ+",
+    "link": "http://es.euronews.com/video/2026/08/07/berlin-presenta-un-banco-arcoiris-en-homenaje-a-las-victimas-del-ataque-al-orgullo",
+    "summary": "Responsables de Berlín y miembros de la comunidad LGTBQ inauguran un banco arcoíris y plantan un arce en el Tiergarten para honrar a las víctimas del ataque del CSD.",
+    "published": "Fri, 07 Aug 2026 09:46:54 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "60 años uniendo orillas: el puente 25 de Abril sigue siendo el paso más concurrido de Portugal",
-    "link": "http://es.euronews.com/viajes/2026/08/06/60-anos-uniendo-orillas-el-puente-25-de-abril-sigue-siendo-el-paso-mas-concurrido-de-portu",
-    "summary": "Inaugurada en 1966, la puente 25 de Abril cumple 60 años. La conexión entre Lisboa y Almada sigue siendo la más utilizada sobre el Tajo, con unos 150.000 vehículos al día, mientras se prevé un nuevo enlace rodoferroviario entre Chelas y Barreiro.",
-    "published": "Thu, 06 Aug 2026 11:30:38 +0200",
+    "title": "El gigante de bebidas Diageo anuncia recortes de costes de 1.000 millones de dólares",
+    "link": "http://es.euronews.com/business/2026/08/07/el-gigante-de-bebidas-diageo-anuncia-recortes-de-costes-de-1000-millones",
+    "summary": "El mayor fabricante de bebidas espirituosas del mundo ha renunciado a su objetivo de crecimiento a medio plazo, mientras el nuevo consejero delegado Dave Lewis trata de relanzar los resultados tras años de ventas estancadas.",
+    "published": "Fri, 07 Aug 2026 09:18:05 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Qué ocurrirá con los 2.000 inmigrantes que siguen en Ceuta y por qué no todos tendrán el mismo destino",
-    "link": "http://es.euronews.com/my-europe/2026/08/06/que-ocurrira-2000-inmigrantes-siguen-ceuta-no-todos-tendran-mismo-destino",
-    "summary": "La mayoría de las más de 72.000 personas que cruzaron desde Marruecos ya han regresado, pero unas 2.000 permanecen en la ciudad autónoma. Su futuro dependerá de si solicitan asilo, de su edad y de las circunstancias de cada caso.",
-    "published": "Thu, 06 Aug 2026 11:15:08 +0200",
+    "title": "Reabre una antigua reserva de caza en Sudáfrica como retiro de safari de lujo",
+    "link": "http://es.euronews.com/viajes/2026/08/07/reabre-antigua-reserva-de-caza-en-sudafrica-como-retiro-de-safari-de-lujo",
+    "summary": "Todas las suites en tienda del Sandringham Private Game Reserve, en Sudáfrica, cuentan con piscina privada desde la que se contemplan animales junto al río Timbavati.",
+    "published": "Fri, 07 Aug 2026 08:55:15 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Ucrania ataca refinerías en Rusia mientras Moscú golpea una estación de tren y un barco",
-    "link": "http://es.euronews.com/my-europe/2026/08/06/ucrania-ataca-refinerias-en-rusia-mientras-moscu-golpea-una-estacion-de-tren-y-un-barco",
-    "summary": "Más de cuatro años después del inicio de la invasión rusa a gran escala de Ucrania, la diplomacia está bloqueada y ambos países intensifican los ataques de largo alcance, lo que provoca un aumento de víctimas civiles.",
-    "published": "Thu, 06 Aug 2026 10:46:44 +0200",
+    "title": "Marruecos está dispuesto a acoger a los 1.100 menores marroquíes no acompañados de Ceuta, pero con condiciones",
+    "link": "http://es.euronews.com/my-europe/2026/08/07/marruecos-esta-dispuesto-a-acoger-a-los-1100-menores-marroquies-no-acompanados-de-ceuta-pe",
+    "summary": "Una fuente diplomática marroquí ha trasladado que Rabat está dispuesto a recibir a los menores no acompañados marroquíes que se encuentran en España, siempre que se retiren los obstáculos judiciales y administrativos que, según sostiene, frenan su retorno.",
+    "published": "Fri, 07 Aug 2026 08:50:08 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Virus del Nilo Occidental en Europa: Aumentan los casos en Grecia, Italia lidera en contagios",
-    "link": "http://es.euronews.com/salud/2026/08/06/virus-del-nilo-occidental-en-europa-aumentan-los-casos-en-grecia-italia-lidera-en-contagio",
-    "summary": "Grecia e Italia, los países con mayor actividad del virus del Nilo Occidental en Europa en este periodo.",
-    "published": "Thu, 06 Aug 2026 10:26:13 +0200",
+    "title": "90.000 patitos de goma recorren el río Chicago por una causa solidaria",
+    "link": "http://es.euronews.com/video/2026/08/07/90000-patitos-de-goma-recorren-el-rio-chicago-por-una-causa-solidaria",
+    "summary": "Miles de patitos de goma descienden por el río Chicago en la tradicional Ducky Derby y recaudan fondos para Special Olympics Illinois y sus deportistas.",
+    "published": "Fri, 07 Aug 2026 08:46:52 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "La villa del Lago Como de Casino Royale, un piso interior sale a la venta",
-    "link": "http://es.euronews.com/viajes/2026/08/06/la-villa-del-lago-como-de-casino-royale-un-piso-interior-sale-a-la-venta",
-    "summary": "Un piso de dos dormitorios y dos baños en Villa La Gaeta acaba de salir al mercado de la mano de Italy Sotheby's International Realty.",
-    "published": "Thu, 06 Aug 2026 10:15:23 +0200",
+    "title": "España blinda Ceuta con 2 fragatas y más efectivos ante el temor a otra entrada masiva el 15 de agosto",
+    "link": "http://es.euronews.com/my-europe/2026/08/07/espana-blinda-ceuta-con-2-fragatas-y-mas-efectivos-ante-el-temor-a-otra-entrada-masiva-el-",
+    "summary": "España refuerza el dispositivo en el exclave con una barrera flotante, dos fragatas de la Armada, más efectivos policiales, forenses y de Fiscalía, mientras investiga una nueva convocatoria para intentar cruzar la frontera el 15 de agosto.",
+    "published": "Fri, 07 Aug 2026 08:25:15 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Disney y TikTok sellan un acuerdo de contenidos, vídeos cortos en Disney+",
-    "link": "http://es.euronews.com/cultura/2026/08/06/disney-y-tiktok-sellan-acuerdo-de-contenidos-videos-cortos-en-disney",
-    "summary": "El acuerdo permitirá que los creadores de contenido de TikTok accedan oficialmente a recursos de Disney y busca impulsar los formatos cortos en Disney+.",
-    "published": "Thu, 06 Aug 2026 10:03:23 +0200",
+    "title": "Un juez de Nuevo México obliga a Meta a pagar 567 millones por no proteger a menores en Facebook e Instagram",
+    "link": "http://es.euronews.com/2026/08/07/juez-nuevo-mexico-obliga-meta-pagar-567-millones-no-proteger-menores",
+    "summary": "Un juez de Nuevo México condena al gigante tecnológico por poner en peligro a menores en sus plataformas y crear una \"molestia pública\". Meta recurrirá la sentencia y defiende que trabaja para proteger a los jóvenes.",
+    "published": "Fri, 07 Aug 2026 07:33:03 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "El humo se eleva sobre los bosques de Washington mientras siguen las labores de extinción",
-    "link": "http://es.euronews.com/video/2026/08/06/el-humo-se-eleva-sobre-los-bosques-de-washington-mientras-siguen-las-labores-de-extincion",
-    "summary": "Imágenes aéreas muestran humo de los incendios sobre el centro y el este de Washington, helicópteros descargan agua mientras equipos refuerzan los cortafuegos.",
-    "published": "Thu, 06 Aug 2026 09:57:38 +0200",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "El exjefe de la junta de Myanmar busca legitimidad política en su primer viaje civil a Tailandia",
-    "link": "http://es.euronews.com/2026/08/06/el-exjefe-de-la-junta-de-myanmar-busca-legitimidad-politica-en-su-primer-viaje-civil-a-tai",
-    "summary": "Los combates entre el Ejército de Myanmar, antigua Birmania, y numerosas facciones rebeldes se extienden a la larga frontera con Tailandia, que acoge a millones de refugiados birmanos.",
-    "published": "Thu, 06 Aug 2026 09:56:10 +0200",
-    "source": "Euronews ES",
-    "score": 0
-  },
-  {
-    "title": "BBVA atrae a un millón de jóvenes con ventajas para viajar al extranjero",
-    "link": "https://www.expansion.com/empresas/banca/2026/08/06/6a734604468aeb1d378b45a2.html",
-    "summary": "El 'Pack Viajes' para menores de 30 años lanzado hace dos años permite ahorrar comisiones en el extranjero.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 08:17:57 +0200",
+    "title": "Armengol prepara el giro de Sabadell para impulsar los ingresos por servicios",
+    "link": "https://www.expansion.com/empresas/banca/2026/08/07/6a74c650e5fdeac1748b45a2.html",
+    "summary": "El banco quiere ganar peso entre los clientes de mayor valor y potenciar pagos, la gestión de activos y la banca corporativa para diversificar y elevar los ingresos.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 00:57:11 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Irán contempla abrir un paso pero se resiste a ceder el control de Ormuz",
-    "link": "https://www.expansion.com/economia/2026/08/05/6a73872ce5fdea62448b456d.html",
-    "summary": "Teherán negocia con Omán la apertura de una nueva ruta de navegación por el estrecho de Ormuz pero advierte a EEUU de que no supondrá su reapertura total e inmediata. Trump replica que \"el estrecho estará abierto muy pronto o les vamos a golpear con fuerza y será abierto\".&nbsp;Leer",
-    "published": "Wed, 05 Aug 2026 20:57:45 +0200",
+    "title": "MG y BYD completan el 'sorpasso'  a las históricas Opel, Citroën y Ford",
+    "link": "https://www.expansion.com/empresas/motor/2026/08/07/6a74cfa4e5fdea11038b4596.html",
+    "summary": "El cliente español ha dado una gran acogida a las más de 30 marcas chinas que han desembarcado en el mercado nacional, donde ya tienen una penetración de cerca del 15%.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 00:38:49 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Unitree, el robot que conquista el mundo",
-    "link": "https://www.expansion.com/directivos/2026/08/06/6a731bff468aeb70538b4595.html",
-    "summary": "La compañía china se ha convertido en el mayor vendedor y fabricante de robots humanoides del mundo. Ahora, busca destacar ante las nuevas propuestas tecnológicas de Estados Unidos.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 00:24:36 +0200",
+    "title": "La Primera de Expansión sobre MG, BYD, Sabadell y bajas en España",
+    "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/07/6a7561d5e5fdeae8238b458b.html",
+    "summary": "MG y BYD dan el 'sorpasso' a Citroën, Nissan, Opel y Ford. El cliente español ha dado una gran acogida a las más de 30 marcas chinas que han desembarcado en el mercado nacional, donde ya tienen una penetración de cerca del 15%.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 07:20:02 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "El Ibex amplía su racha y se adentra en nuevos máximos",
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/06/6a7420c0e5fdea62448b4580.html",
-    "summary": "La barrera histórica de los 20.000 puntos en el Ibex se consolida a pesar de la cautela que traslada hoy el conjunto de la renta variable. El Ibex encuentra nuevos aliados, como Inditex y los bancos, para prolongar su racha y sus récords.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 11:18:59 +0200",
+    "title": "África empieza en los Pirineos",
+    "link": "https://www.expansion.com/opinion/2026/08/07/6a74d6f4e5fdea62428b459c.html",
+    "summary": "A la práctica totalidad de los dirigentes europeos el buenismo de Sánchez les recuerda la política de la canciller Merkel cuando se enfrentó a una enorme crisis humanitaria en la década pasada. Lo que angustia al 'establishment' es la correlación entre la presión inmigratoria y la polarización del d",
+    "published": "Fri, 07 Aug 2026 00:57:12 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Indra, Santander, BBVA y ACS desafían el rally bursátil de 4 años",
-    "link": "https://www.expansion.com/mercados/2026/08/06/6a737842e5fdeae57c8b4587.html",
-    "summary": "Los cuatro valores se disparan entre un 310% y un 476% en el rally que inició la Bolsa en 2023.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 01:42:30 +0200",
+    "title": "El bitcoin afronta \"la maldición histórica de agosto\"",
+    "link": "https://www.expansion.com/mercados/criptomonedas/2026/08/07/6a758486468aeb66468b456f.html",
+    "summary": "La cotización del bitcoin sigue anclada en rangos reducidos a medida que avanza el mes más adverso para la mayor de las criptomonedas, agosto.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 10:06:58 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "La rendición de los bajistas dispara de nuevo a los valores de Defensa",
-    "link": "https://www.expansion.com/mercados/2026/08/06/6a733263468aebe3698b4570.html",
-    "summary": "Las tecnológicas no son el único sector protagonista este año de fuertes turbulencias en Bolsa. Las empresas europeas de Defensa acaban de completar la remontada del correctivo sufrido en los primeros meses del año. Indra se dispara un 30% en en mes.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 08:27:17 +0200",
+    "title": "Cuatro sectores para seguir subiendo en Bolsa",
+    "link": "https://www.expansion.com/mercados/2026/08/07/6a747712e5fdeaf2688b4580.html",
+    "summary": "Las recientes turbulencias han dado paso a una nueva oleada de récords históricos en Bolsa. ,Los analistas de Lombard Odier mantienen su \"perspectiva positiva\" sobe la Bolsa, e identifican cuatro sectores que, por la dinámica de resultados y por sus propias preferencias, podrían prolongar las subida",
+    "published": "Fri, 07 Aug 2026 00:57:38 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "SpaceX cae un 13,6% por las cuentas y el fin del veto vendedor",
-    "link": "https://www.expansion.com/mercados/2026/08/06/6a73a873e5fdeaa2458b45bb.html",
-    "summary": "La acción sufre por los agresivos planes de inversión. Hoy acaba el 'lock up' y empleados y antiguos accionistas pueden vender títulos.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 01:43:03 +0200",
-    "source": "Expansión",
+    "title": "De Las Palmas a Jaén: así es el mapa del absentismo en España",
+    "link": "https://www.expansion.com/economia/2026/08/07/6a74d931e5fdeac7058b4596.html",
+    "summary": "Los expertos calculan que cada año se pierden cerca del 6% de las jornadas laborales pactadas a causa de procesos de incapacidad temporal, lo que supone un incremento del 34% en solo cinco años.&nbsp;Leer",
+    "published": "Fri, 07 Aug 2026 00:57:12 +0200",
+    "source": "Expansión Economía",
+    "score": 0
+  },
+  {
+    "title": "Europa y la eterna brecha entre el norte y el sur",
+    "link": "https://www.expansion.com/economia/financial-times/2026/08/06/6a74893de5fdea47558b458d.html",
+    "summary": "En materia de defensa, ambas partes del continente habitan mundos cada vez más distintos.&nbsp;Leer",
+    "published": "Thu, 06 Aug 2026 15:17:00 +0200",
+    "source": "Expansión Economía",
+    "score": 0
+  },
+  {
+    "title": "Un centenar de agentes reforzará la presencia de la Guardia Civil en los barrios de Ceuta",
+    "link": "https://www.expansion.com/economia/politica/2026/08/06/6a748186e5fdeae57c8b45de.html",
+    "summary": "El Gobierno de la Ciudad Autónoma de Ceuta reclama un \"plan específico de seguridad\" con despliegues policiales en todas las barriadas.&nbsp;Leer",
+    "published": "Thu, 06 Aug 2026 14:48:43 +0200",
+    "source": "Expansión Economía",
+    "score": 0
+  },
+  {
+    "title": "El Gobierno admite que Ceuta avisó de una \"situación desbordante\" antes de la crisis migratoria",
+    "link": "https://www.expansion.com/economia/politica/2026/08/06/6a7479a3468aeb30718b4598.html",
+    "summary": "El presidente de la ciudad autónoma, Juan Jesús Vivas, alertó de que la situación estaba \"al borde\" porque se estaban produciendo muchas entradas por el mar. Ceuta pide un plan específico de seguridad con despliegue policial en todas las barriadas.&nbsp;Leer",
+    "published": "Thu, 06 Aug 2026 14:11:33 +0200",
+    "source": "Expansión Economía",
+    "score": 0
+  },
+  {
+    "title": "Convocadas más de 5.000 plazas de personal laboral en la Admnistración General del Estado",
+    "link": "https://www.expansion.com/economia/funcion-publica/2026/08/06/6a7463cb468aebe0198b4596.html",
+    "summary": "Los ministerios donde se han convocado el mayor número de plazas son Defensa (1.341), Interior (795), Transición Ecológica (629), Inclusión (389), Cultura (382) y Derechos Sociales (348).&nbsp;Leer",
+    "published": "Thu, 06 Aug 2026 12:42:59 +0200",
+    "source": "Expansión Economía",
     "score": 0
   },
   {
@@ -688,27 +760,27 @@
     "score": 0
   },
   {
-    "title": "Ni dimisiones ni respuesta contundente tras la invasión de Ceuta",
-    "link": "https://www.expansion.com/opinion/2026/08/06/6a738ca8e5fdeac04c8b458b.html",
-    "summary": "En España nos estamos acostumbrando a que nuestros políticos no se hagan responsables de lo que ocurre.&nbsp;Leer",
-    "published": "Thu, 06 Aug 2026 00:39:53 +0200",
-    "source": "Expansión Economía",
+    "title": "Death toll from migrant rush to Spain's Ceuta hits 80",
+    "link": "https://www.thelocal.es/20260807/death-toll-from-migrant-rush-to-spains-ceuta-hits-80",
+    "summary": "The death toll from an unprecedented rush by tens of thousands of migrants to Spain's north African territory of Ceuta has climbed by two to 80, legal authorities said on Thursday.",
+    "published": "Fri, 07 Aug 2026 10:00:39 +0200",
+    "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "EEUU ha devuelto ya 100.000 millones de dólares de los aranceles tumbados por el Supremo",
-    "link": "https://www.expansion.com/economia/2026/08/05/6a737580e5fdead66e8b45a0.html",
-    "summary": "La Administración de Donald Trump ha tramitado peticiones de devolución por 121.000 millones de dólares por las tarifas que anuló la Corte Suprema en febrero.&nbsp;Leer",
-    "published": "Wed, 05 Aug 2026 19:40:19 +0200",
-    "source": "Expansión Economía",
+    "title": "11 common and comical Spanish-English false friends to watch out for",
+    "link": "https://www.thelocal.es/20250408/11-common-and-comical-spanish-english-false-friends-to-watch-out-for",
+    "summary": "English and Spanish speakers learning each other's languages have to deal with the challenge of false friends, words that sound the same as ones in their native tongue but that have a completely different meaning in the other language.",
+    "published": "Tue, 08 Apr 2025 11:36:09 +0200",
+    "source": "The Local ES",
     "score": 0
   },
   {
-    "title": "China lanza una ofensiva fiscal global que se remonta a décadas atrás",
-    "link": "https://www.expansion.com/economia/financial-times/2026/08/05/6a7356d8e5fdeac2548b45a1.html",
-    "summary": "La presión fiscal da lugar a una campaña con carácter retroactivo y a controles más estrictos sobre los futuros flujos de capital hacia paraísos fiscales.&nbsp;Leer",
-    "published": "Wed, 05 Aug 2026 17:29:34 +0200",
-    "source": "Expansión Economía",
+    "title": "Barcelona airport sees four more flights cancelled on third strike day",
+    "link": "https://www.thelocal.es/20260804/barcelona-airport-strike-kicks-off-with-dozens-of-flights-cancelled",
+    "summary": "The total number of cancelled flights at Barcelona’s El Prat Airport surpassed 40 on the third day of an indefinite strike by ground handling staff which Spanish authorities have estimated could affect two million passengers this summer.",
+    "published": "Tue, 04 Aug 2026 13:00:54 +0200",
+    "source": "The Local ES",
     "score": 0
   },
   {
@@ -724,54 +796,6 @@
     "link": "https://www.thelocal.es/20260806/explained-the-rules-for-setting-up-a-surf-school-in-spain",
     "summary": "Surfing may not be the first sport you think of when you think of Spain, but it is popular, particularly along the north coast and in the Canary Islands. If you have dreams of setting up a surf school in Spain, here's what you need to know.",
     "published": "Thu, 06 Aug 2026 09:42:37 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Today in Spain: A roundup of the latest news on Thursday",
-    "link": "https://www.thelocal.es/20260806/today-in-spain-a-roundup-of-the-latest-news-on-thursday-90",
-    "summary": "One of Britain's most wanted arrested in Madrid, Spanish government ally urges Spain not to co-host 2030 World Cup, phone companies brace for data traffic jams during total eclipse and more news on Thursday August 6th.",
-    "published": "Thu, 06 Aug 2026 08:34:19 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Barcelona airport sees 18 more flights cancelled on second strike day",
-    "link": "https://www.thelocal.es/20260804/barcelona-airport-strike-kicks-off-with-dozens-of-flights-cancelled",
-    "summary": "Barcelona’s El Prat Airport faced considerable disruptions on Wednesday, the second day of an indefinite strike by ground handling staff which Spanish authorities have estimated two million passengers could be affected by this summer.",
-    "published": "Tue, 04 Aug 2026 13:00:54 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Spain mulls what to do about child migrants after Ceuta mass crossing",
-    "link": "https://www.thelocal.es/20260805/spain-mulls-what-to-do-about-child-migrants-after-ceuta-mass-crossing",
-    "summary": "The leader of Spain's north African territory of Ceuta on Wednesday said the number of children left there after last week's rush of migrants was \"unsustainable\", pleading for government aid.",
-    "published": "Wed, 05 Aug 2026 15:30:41 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "LISTED: Ten activities for a hot summer's day in Valencia",
-    "link": "https://www.thelocal.es/20260805/listed-ten-activities-for-a-hot-summers-day-in-valencia",
-    "summary": "If staying indoors next to the fan doesn't enter your plans on a scorching day in Valencia, we've got a list of activities that will keep you cool and entertained at the same time in the eastern Spanish city.",
-    "published": "Wed, 05 Aug 2026 11:06:33 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "'Like the end of the world': The foreign eclipse chasers flocking to Spain",
-    "link": "https://www.thelocal.es/20260805/like-the-end-of-the-world-the-foreign-eclipse-chasers-flocking-to-spain",
-    "summary": "People from all over the world will flock to northern Spain next week in the hope of witnessing a once-in-a-lifetime experience: a total solar eclipse.",
-    "published": "Wed, 05 Aug 2026 10:16:32 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "What's closed and what stays open during August in Spain?",
-    "link": "https://www.thelocal.es/20240724/whats-closed-and-what-stays-open-during-august-in-spain",
-    "summary": "It’s common knowledge that Spain goes on holiday in August, city centres empty out as everyone heads for the slightly cooler coastal or mountainous areas, but which businesses close completely and which will continue open?",
-    "published": "Wed, 24 Jul 2024 09:42:29 +0200",
     "source": "The Local ES",
     "score": 0
   }

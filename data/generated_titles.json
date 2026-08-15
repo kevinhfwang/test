@@ -1,28 +1,17 @@
 [
   {
     "title": "西班牙签证新动态",
-    "original_title": "Así son las vacaciones más saludables, según la ciencia: mejor largas y con actividad deportiva de por medio",
+    "original_title": "El euríbor apunta a otra subida mensual y tensará el coste de las hipotecas",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/salud-y-bienestar/2026-08-14/asi-son-las-vacaciones-mas-saludables-segun-la-ciencia-mejor-largas-y-con-actividad-deportiva-de-por-medio.html",
-      "summary": "Un metaanálisis constata que el descanso laboral favorece el bienestar, pero los expertos avisan de que en los parones veraniegos también puede hacer aflorar el agotamiento acumulado"
+      "name": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/08/15/6a7f603d468aeb54398b45a7.html",
+      "summary": "El índice anticipa un alza del precio del dinero en septiembre, cuando se revisará el coste de los créditos para vivienda.&nbsp;Leer"
     },
     "category": "签证",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
   },
   {
     "title": "西班牙战争风险新动态",
-    "original_title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2030",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/gobierno-amplia-vida-central-nuclear-almaraz-junio-2030_1_13446677.html",
-      "summary": "Según el Gobierno, \"se ponderan las circunstancias excepcionales derivadas del conflicto en Oriente Medio\" y \"la extensión es segura desde la perspectiva radiológica y de seguridad de suministro, y no"
-    },
-    "category": "战争风险",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙战争风险新动态 (1)",
     "original_title": "Eurovision to bar countries at war from hosting",
     "source": {
       "name": "The Local ES",
@@ -30,138 +19,149 @@
       "summary": "Eurovision Song Contest organisers announced Wednesday that they were excluding any country in an armed conflict from hosting the competition, as the Bulgarian Black Sea city of Burgas will host Eurov"
     },
     "category": "战争风险",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
   },
   {
-    "title": "西班牙油价新动态",
-    "original_title": "¿Por qué se ha encarecido más el diésel que la gasolina?",
+    "title": "西班牙大学新动态",
+    "original_title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/economia/2026-08-14/por-que-se-ha-encarecido-mas-el-diesel-que-la-gasolina.html",
-      "summary": "El gasóleo escala más del doble según los últimos datos del IPC. Los expertos apuntan a los exitosos ataques de Ucrania contra las refinerías rusas y a una mayor demanda"
+      "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
+      "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
     },
-    "category": "油价",
-    "date": "2026-08-14"
+    "category": "留学",
+    "date": "2026-08-15"
   },
   {
-    "title": "西班牙战争风险新规",
-    "original_title": "Ceuta es el ensayo de una nueva geopolítica y el abandono de las garantías democráticas",
+    "title": "西班牙移民新动态",
+    "original_title": "El Gobierno endurece el discurso sobre la inmigración asediado por la crisis de Ceuta",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-ensayo-nueva-geopolitica-abandono-garantias-democraticas_129_13444854.html",
-      "summary": "Lo ocurrido en Ceuta el pasado 30 de julio y su respuesta tiene las características de un ensayo. Un campo de pruebas de la narrativa repetida en bucle que homologa la migración con conceptos de guerr"
+      "url": "https://www.eldiario.es/politica/gobierno-endurece-discurso-inmigracion-asediado-crisis-ceuta_1_13447409.html",
+      "summary": "Con los servicios de atención de la ciudad aún desbordados y el señalamiento de varios socios europeos, varios ministros del PSOE elevan el tono y prometen expulsar a todas las personas que entren irr"
     },
     "category": "移民",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙大学新动态 (1)",
+    "original_title": "La Complutense rechaza publicar el expediente académico de Ayuso pese a reconocer que hay un “interés general”",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/madrid/complutense-rechaza-publicar-expediente-academico-ayuso-pese-reconocer-hay-interes-general_1_13446735.html",
+      "summary": "La universidad considera, en respuesta a una petición de Newtral, que el interés general en comprobar la veracidad de los datos académicos no alcanza a las notasAyuso critica que Sánchez se dé “la gra"
+    },
+    "category": "留学",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙战争风险新动态 (1)",
+    "original_title": "Sumar rechaza la prórroga de la central nuclear de Almaraz y acusa al PSOE de incumplir el pacto de gobierno",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/sumar-rechaza-prorroga-central-nuclear-almaraz-acusa-psoe-incumplir-pacto-gobierno_1_13447068.html",
+      "summary": "El ala socialista niega que suponga un incumplimiento del acuerdo porque el calendario de cierre se mantiene en el año 2035 El Gobierno amplía la vida de la central nuclear de Almaraz hasta junio de 2"
+    },
+    "category": "战争风险",
+    "date": "2026-08-15"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "El Gobierno autoriza la continuidad de la central nuclear de Almaraz hasta junio de 2030",
+    "original_title": "Últimas noticias | 15 agosto 2026 - Mañana",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/gobierno-autoriza-continuidad-central-nuclear-almaraz-junio-2030_1_2235104.html",
-      "summary": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha renovado la autorización de explotación de las dos unidades de la central nuclear de Almaraz (Cáceres) hasta el 8 de junio de 2030.D"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/video/2026/08/15/ultimas-noticias-15-agosto-2026-manana",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 15 agosto 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
   },
   {
-    "title": "西班牙政策改革",
-    "original_title": "Ona Mafalda: “La experiencia con Coldplay fue alucinante, sería un regalo poder repetirla\"",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/cultura/musica/ona-mafalda-experiencia-coldplay-alucinante-seria-regalo-repetirla_1_2234926.html",
-      "summary": "A medio camino entre Madrid y Londres, Ona Mafalda (Londres, 1994) ha hecho del cambio constante su mejor refugio. Tras el punto de inflexión que supuso su disco Reset (2025), la artista se ha consoli"
-    },
-    "category": "政策",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Norges, Vukile, Nepi y Rivoli llevan a récord a los centros comerciales",
+    "title": "西班牙居留新规",
+    "original_title": "Golpe fiscal a los matrimonios en su inversión en vivienda habitual",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/08/14/6a7e09ba468aebb5298b4575.html",
-      "summary": "La inversión en centros comerciales superará los 3.000 millones en 2026 con megaoperaciones como la compra de la cartera de activos de Balkany, Islazul, Megapark o Xanadú.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙油价增加",
-    "original_title": "Las recompras inyectarán gasolina a la Bolsa europea en la recta final del año",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/08/14/6a7ebb46468aebac078b456d.html",
-      "summary": "Las recompras de acciones son una de las variables que más ha aumentado en los últimos tiempos en la renta variable europea, y en particular en el Ibex. Los analistas de Barclays destacan además que d"
-    },
-    "category": "油价",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙油价下降",
-    "original_title": "El gasóleo se dispara un 15,7% y activa la rebaja fiscal de 20 céntimos",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/13/6a7d9b4a468aebdd3d8b4594.html",
-      "summary": "La gasolina, con un alza más contenida, del 7,3%, mantendrá la senda de la retirada de la bonificación impositiva&nbsp;Leer"
-    },
-    "category": "油价",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙通胀新动态",
-    "original_title": "La inflación escala cuatro décimas en julio hasta el 3,6% por la subida de los carburantes y la electricidad",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/13/6a7d667b468aebdd3d8b4587.html",
-      "summary": "El índice de precios de consumo (IPC), principal indicador de la inflación, alcanza en julio el 3,6%, según confirma hoy el Instituto Nacional de Estadística (INE), tras sumar cuatro décimas respecto "
-    },
-    "category": "政策",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Spain's migration offices start to stamp out appointment scam with new system",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260813/spains-migration-offices-start-to-stamp-out-appointment-scam-with-new-system",
-      "summary": "Some 'extranjería' offices in Spain are succeeding in preventing scammers from charging desperate foreigners for residency appointments by sidestepping the traditional 'cita previa' system."
+      "url": "https://www.expansion.com/economia/2026/08/14/6a7f420a468aeb84408b458d.html",
+      "summary": "Hacienda limita al 50% la exención en el IRPF cuando uno de los cónyuges vende una vivienda suya privativa para comprar la nueva residencia habitual con carácter ganancial.&nbsp;Leer"
     },
     "category": "居留",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙物价新动态",
-    "original_title": "El Gobierno amplía la vida de la central nuclear de Almaraz hasta 2030 por la “volatilidad de precios” originada en Oriente Próximo",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-08-14/el-gobierno-autoriza-la-prorroga-de-la-central-nuclear-almaraz-hasta-junio-de-2030.html",
-      "summary": "Transición Ecológica mantiene el resto del calendario de cierres hasta 2035"
-    },
-    "category": "政策",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "El caos ferroviario del eclipse evidencia la falta de previsión que lastra Rodalies",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260814/11613479/caos-ferroviario-eclipse-evidencia-falta-prevision-rodalies.html",
-      "summary": "Ni Renfe ni la Generalitat planificaron un dispositivo para absorber la alta demanda de movilidad en transporte público para ver el fenómeno astronómico en el sur de Catalunya"
-    },
-    "category": "政策",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
   },
   {
     "title": "西班牙签证新动态 (1)",
-    "original_title": "Junts avisa a Sánchez con el reparto de menores de Ceuta: \"No le daremos ni un voto si Cataluña no queda fuera\"",
+    "original_title": "Un techo de plástico creado por vecinos para proteger a niñas migrantes desatendidas",
     "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/junts-avisa-sanchez-reparto-menores-ceuta-daremos-voto-cataluna-queda-fuera_202608146a7ec8b5a5690f047379106f.html",
-      "summary": "Recuerda el logro de la formación independentista ante la crisis migratoria en Canarias"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260815/11614054/techo-plastico-mas-vulnerables.html",
+      "summary": "Los vecinos de El Príncipe improvisan un campamento para las más vulnerables"
     },
     "category": "签证",
-    "date": "2026-08-14"
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙签证新规",
+    "original_title": "El PP vuelve a citar a Marlaska en el Senado pese a que el Gobierno avisa de que no acudirá",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/vuelve-citar-marlaska-senado-pese-que-gobierno-avisa-que-acudira_202608146a7f3859a5690f047379bfad.html",
+      "summary": "Los populares utilizan de nuevo su mayoría absoluta para convocar al ministro el 20 de agosto después de que dejara vacía su silla esta semana"
+    },
+    "category": "签证",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙政策飙升",
+    "original_title": "Los vecinos de Ceuta al borde del colapso vuelven a pedir ayuda al Gobierno: “Esto no es una frontera, es un caos”",
+    "source": {
+      "name": "La Razón",
+      "url": "https://www.larazon.es/espana/vecinos-ceuta-borde-colapso-vuelven-pedir-ayuda-gobierno-esto-frontera-caos_202608146a7f1162a046ad6ebcb109f4.html",
+      "summary": "La ciudad denuncia abandono institucional mientras la presión migratoria dispara el miedo, la tensión y el hartazgo social"
+    },
+    "category": "政策",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙经济新规",
+    "original_title": "El nuevo reglamento para envases y residuos de embalajes, un paso de la Unión Europea hacia una economía circular",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/nuevo-reglamento-para-envases-residuos-embalajes-un-paso-union-europea-hacia-una-economia-circular_7025103_0.html",
+      "summary": "Las nuevas normas han comenzado a entrar en vigor con el objetivo de retirar el 5% de los plásticos en 2030 y el 15% en 2040."
+    },
+    "category": "政策",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙政策宣布",
+    "original_title": "Venezuela anuncia la excarcelación de más de 130 personas detenidas por motivos políticos",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/venezuela-anuncia-excarcelacion-mas-130-personas-detenidas-por-motivos-politicos_7026008_0.html",
+      "summary": "Las excarcelaciones se producen en el marco de la ley de amnistía, aprobada en febrero y que abre la puerta a excarcelar a quienes hayan cometido delitos desde 1999."
+    },
+    "category": "政策",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "El CEO de la empresa del Gobierno de Ayuso que compró el ático fue despedido de otra entidad pública que ocultó adjudicaciones",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/ceo-empresa-gobierno-ayuso-compro-atico-despedido-entidad-publica-oculto-adjudicaciones_1_13440239.html",
+      "summary": "El responsable de Planifica Madrid fue hasta 2016 gerente de la empresa de vivienda del Ayuntamiento de Las Rozas, que en 2015 impidió la \"oportuna y adecuada fiscalización\" de contratos, según su aud"
+    },
+    "category": "租房",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "西班牙签证新动态 (2)",
+    "original_title": "La batalla por la central nuclear de Almaraz: de la trinchera política entre Junta y Gobierno a la tregua hasta 2030",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/extremadura/politica/batalla-central-nuclear-almaraz-trinchera-politica-junta-gobierno-tregua-2030_1_13447341.html",
+      "summary": "La prórroga de la instalación cacereña supone una tregua al choque entre administraciones, pero el PP ya ha aprovechado la decisión del Ministerio de Transición Ecológica para exigir ir más allá de es"
+    },
+    "category": "签证",
+    "date": "2026-08-15"
   }
 ]

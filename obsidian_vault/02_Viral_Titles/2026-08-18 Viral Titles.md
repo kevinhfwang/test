@@ -1,71 +1,101 @@
 # 2026-08-18 爆款标题
 
-> 自动生成于 2026-08-18 07:34
+> 自动生成于 2026-08-18 21:28
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
 
-### 1. 西班牙租房新动态
+### 1. 西班牙大学改革
 
-- **中文标题**：西班牙租房新动态
-- **原文标题**：KEY POINTS: What changes about life in Spain in September 2026
-- **分类**：租房
-- **来源**：The Local ES
-- **链接**：https://www.thelocal.es/20260817/key-points-what-changes-about-life-in-spain-in-september-2026
-
----
-
-### 2. 西班牙中东冲突增加
-
-- **中文标题**：西班牙中东冲突增加
-- **原文标题**：Esto es lo que vio el mundo entero de Sánchez en 2025
+- **中文标题**：西班牙大学改革
+- **原文标题**：Fichados a cambio de una plaza, pero privados de ella: el agujero de la estabilización de los contratos Ramón y Cajal
 - **分类**：留学
-- **来源**：La Razón
-- **链接**：https://www.larazon.es/espana/esto-que-vio-mundo-entero-sanchez-2025_202608186a83492aa5690f04737f2de8.html
+- **来源**：El País Educación
+- **链接**：https://elpais.com/educacion/2026-08-11/fichados-a-cambio-de-una-plaza-pero-privados-de-ella-el-agujero-de-la-estabilizacion-de-los-contratos-ramon-y-cajal.html
 
 ---
 
-### 3. 西班牙工作新规
+### 2. 西班牙学生新动态
 
-- **中文标题**：西班牙工作新规
-- **原文标题**：Ciencia-ficción
+- **中文标题**：西班牙学生新动态
+- **原文标题**：La guerra de las notas
+- **分类**：留学
+- **来源**：El País Educación
+- **链接**：https://elpais.com/educacion/2026-08-03/la-guerra-de-las-notas.html
+
+---
+
+### 3. 西班牙买房新动态
+
+- **中文标题**：西班牙买房新动态
+- **原文标题**：La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump
 - **分类**：工作
-- **来源**：InfoLibre
-- **链接**：https://www.infolibre.es/cultura/ciencia-ficcion_1_2234923.html
+- **来源**：El País
+- **链接**：https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html
 
 ---
 
 ### 4. 西班牙政策新动态
 
 - **中文标题**：西班牙政策新动态
-- **原文标题**：La abogada que no se podía jubilar
+- **原文标题**：El presidente de Portugal promulga la ley que prohíbe cubrirse el rostro en lugares públicos
 - **分类**：政策
-- **来源**：La Razón
-- **链接**：https://www.larazon.es/espana/abogada-que-podia-jubilar_202608186a83a094a046ad6ebcb73047.html
+- **来源**：20 Minutos
+- **链接**：https://www.20minutos.es/internacional/presidente-portugal-promulga-ley-que-prohibe-cubrirse-rostro-lugares-publicos_7027088_0.html
 
 ---
 
-### 5. 西班牙伊朗局势新动态
+### 5. 西班牙政策新动态 (1)
 
-- **中文标题**：西班牙伊朗局势新动态
-- **原文标题**：Irán desafía a un Trump errático tras el vencimiento del acuerdo entre Teherán y Washington
-- **分类**：伊朗局势
-- **来源**：elDiario
-- **链接**：https://www.eldiario.es/internacional/iran-desafia-trump-erratico-vencimiento-acuerdo-teheran-washington_1_13451237.html
-
----
-
-### 6. 西班牙签证新动态
-
-- **中文标题**：西班牙签证新动态
-- **原文标题**：La lluvia se ceba con los damnificados del terremoto en Pereira, Colombia
-- **分类**：签证
-- **来源**：Euronews ES
-- **链接**：http://es.euronews.com/2026/08/18/la-lluvia-se-ceba-con-los-damnificados-del-terremoto-en-pereira-colombia
+- **中文标题**：西班牙政策新动态 (1)
+- **原文标题**：Comprobar ONCE: resultados de hoy, martes 18 de agosto de 2026
+- **分类**：政策
+- **来源**：20 Minutos
+- **链接**：https://www.20minutos.es/nacional/comprobar-once-resultados-hoy-martes-18-agosto-2026_7027069_0.html
 
 ---
 
-### 7. 西班牙住房新动态
+### 6. 西班牙政策新动态 (2)
+
+- **中文标题**：西班牙政策新动态 (2)
+- **原文标题**：Comprobar Bonoloto: resultados de hoy, martes 18 de agosto de 2026
+- **分类**：政策
+- **来源**：20 Minutos
+- **链接**：https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-martes-18-agosto-2026_7027068_0.html
+
+---
+
+### 7. 西班牙政策新动态 (3)
+
+- **中文标题**：西班牙政策新动态 (3)
+- **原文标题**：Comprobar Euromillones: resultados de hoy, martes 18 de agosto de 2026
+- **分类**：政策
+- **来源**：20 Minutos
+- **链接**：https://www.20minutos.es/nacional/comprobar-euromillones-resultados-hoy-martes-18-agosto-2026_7027067_0.html
+
+---
+
+### 8. 西班牙通胀飙升
+
+- **中文标题**：西班牙通胀飙升
+- **原文标题**：La venta de bonos se dispara a nivel global ante el temor a la inflación y la emisión de deuda de IA
+- **分类**：政策
+- **来源**：Expansión
+- **链接**：https://www.expansion.com/economia/financial-times/2026/08/18/6a843a87468aeb970a8b4589.html
+
+---
+
+### 9. 西班牙政策上涨
+
+- **中文标题**：西班牙政策上涨
+- **原文标题**：La deuda pública sube un 4,2% en junio y el peso sobre el PIB se modera al 101,5%
+- **分类**：政策
+- **来源**：Expansión Economía
+- **链接**：https://www.expansion.com/economia/2026/08/18/6a842a7b468aeb7e478b4583.html
+
+---
+
+### 10. 西班牙住房新动态
 
 - **中文标题**：西班牙住房新动态
 - **原文标题**：España y Portugal, ante una de las mayores crisis de vivienda de la UE
@@ -75,83 +105,53 @@
 
 ---
 
-### 8. 西班牙伊朗局势新动态 (1)
+### 11. 西班牙税务新动态
 
-- **中文标题**：西班牙伊朗局势新动态 (1)
-- **原文标题**：La guerra de Irán merma la capacidad militar de EE.UU. en el Pacífico
-- **分类**：伊朗局势
-- **来源**：La Vanguardia
-- **链接**：https://www.lavanguardia.com/internacional/20260818/11615405/guerra-iran-merma-capacidad-militar-ee-uu-pacifico.html
-
----
-
-### 9. 西班牙伊朗局势飙升
-
-- **中文标题**：西班牙伊朗局势飙升
-- **原文标题**：Las grandes petroleras duplican sus beneficios gracias a la crisis de Irán
-- **分类**：伊朗局势
-- **来源**：La Vanguardia
-- **链接**：https://www.lavanguardia.com/economia/20260818/11615530/grandes-petroleras-duplican-beneficios-gracias-crisis-iran.html
+- **中文标题**：西班牙税务新动态
+- **原文标题**：LISTED: 11 key housing laws Spain wants to pass in September
+- **分类**：税务
+- **来源**：The Local ES
+- **链接**：https://www.thelocal.es/20260729/spains-government-aims-to-pass-11-new-housing-laws-in-september
 
 ---
 
-### 10. 西班牙签证新动态 (1)
+### 12. 西班牙大学新动态
 
-- **中文标题**：西班牙签证新动态 (1)
-- **原文标题**：El PP llevará al Constitucional la «insumisión» de los ministros en el Senado
-- **分类**：签证
-- **来源**：La Razón
-- **链接**：https://www.larazon.es/espana/llevara-constitucional-insumision-ministros-senado_202608186a83b53b71b42a0b5df52c8f.html
-
----
-
-### 11. 西班牙医疗新动态
-
-- **中文标题**：西班牙医疗新动态
-- **原文标题**：Mónica García miente: ¿quién dijo que no había saturación en la sanidad de Ceuta?
-- **分类**：医疗
-- **来源**：La Razón
-- **链接**：https://www.larazon.es/espana/monica-garcia-miente-quien-dijo-que-habia-saturacion-sanidad-ceuta_202608176a836aafa5690f04737f55ab.html
+- **中文标题**：西班牙大学新动态
+- **原文标题**：Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso
+- **分类**：留学
+- **来源**：El País Educación
+- **链接**：https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html
 
 ---
 
-### 12. 西班牙政策新动态 (1)
+### 13. 西班牙大学新动态 (1)
 
-- **中文标题**：西班牙政策新动态 (1)
-- **原文标题**：Cómo ayudar a perros y gatos a perder el miedo al cepillo, el baño y la peluquería
-- **分类**：政策
-- **来源**：20 Minutos
-- **链接**：https://www.20minutos.es/animaleros/como-ayudar-perros-gatos-perder-miedo-cepillo-bano-peluqueria_7011407_0.html
-
----
-
-### 13. 西班牙住房新动态 (1)
-
-- **中文标题**：西班牙住房新动态 (1)
-- **原文标题**：Chopera, 29: un propietario y un ‘inmobro’ se alían para echar a inquilinos y alquilar pisos por habitaciones a 2.000 euros
-- **分类**：租房
-- **来源**：elDiario
-- **链接**：https://www.eldiario.es/economia/chopera-29-propietario-inmobro-alian-echar-inquilinos-alquilar-pisos-habitaciones-2-000-euros_1_13427597.html
+- **中文标题**：西班牙大学新动态 (1)
+- **原文标题**：Cuando una democracia deja de reunirse
+- **分类**：留学
+- **来源**：El País Educación
+- **链接**：https://elpais.com/educacion/2026-07-31/cuando-una-democracia-deja-de-reunirse.html
 
 ---
 
-### 14. 西班牙买房新动态
+### 14. 西班牙大学新动态 (2)
 
-- **中文标题**：西班牙买房新动态
-- **原文标题**："Huevos fusilados" o por qué bares franquistas como Casa Pepe y Una Grande hacen caja pese a la ley de Memoria
-- **分类**：政策
-- **来源**：InfoLibre
-- **链接**：https://www.infolibre.es/politica/huevos-rotos-fusilados-bares-franquistas-casa-pepe-grande-caja-margen-ley-memoria_1_2235166.html
+- **中文标题**：西班牙大学新动态 (2)
+- **原文标题**：Aprender no empieza con las letras
+- **分类**：留学
+- **来源**：El País Educación
+- **链接**：https://elpais.com/economia/formacion/2026-07-31/aprender-no-empieza-con-las-letras.html
 
 ---
 
-### 15. 西班牙居留新动态
+### 15. 西班牙大学新动态 (3)
 
-- **中文标题**：西班牙居留新动态
-- **原文标题**：Del sonido al silencio: Manuel de Falla ante el golpe de Estado y la violencia en 1936
-- **分类**：居留
-- **来源**：InfoLibre
-- **链接**：https://www.infolibre.es/cultura/sonido-silencio-manuel-falla-golpe-violencia-1936_1_2229858.html
+- **中文标题**：西班牙大学新动态 (3)
+- **原文标题**：La muerte del profesor de Cambridge Jason Arday resucita la guerra cultural en la universidad británica
+- **分类**：留学
+- **来源**：El País Sociedad
+- **链接**：https://elpais.com/sociedad/2026-08-17/la-muerte-del-profesor-de-cambridge-jason-arday-resucita-la-guerra-cultural-en-la-universidad-britanica.html
 
 ---
 

@@ -43,6 +43,10 @@ RSS_SOURCES = [
     {"name": "The Local ES", "url": "https://feeds.thelocal.com/rss/es"},
     {"name": "Idealista", "url": "https://www.idealista.com/news/rss/"},
     {"name": "Fotocasa", "url": "https://www.fotocasa.es/blog/rss.xml"},
+    # 教育类专项源（FP/留学/中小学）
+    {"name": "El País Educación", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/educacion/portada"},
+    {"name": "El País Sociedad", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"},
+    {"name": "20 Minutos Nacional", "url": "https://www.20minutos.es/rss/nacional/"},
 ]
 
 # 关键词过滤
@@ -73,6 +77,17 @@ FILTER_KEYWORDS = [
     "integración escolar", "inmersión lingüística", "bilingüe", "bilingual",
     "elección de colegio", "cómo elegir colegio", "selección escolar",
     "matrícula escolar", "plaza escolar", "admisión escolar",
+
+    # FP职业教育与留学就业类 (新增)
+    "formación profesional", "fp dual", "grado medio", "grado superior",
+    "ciclo formativo", "fp básica", "vocational training",
+    "selectividad", "ebau", "evau", "nota de corte",
+    "erasmus", "estudiante internacional", "international student",
+    "visado de estudiante", "student visa", "intercambio",
+    "inserción laboral", "empleabilidad", "primer empleo", "prácticas",
+    "vuelta al cole", "vuelta a las aulas", "curso escolar",
+    "profesorado", "oposiciones", "comedor escolar", "libros de texto",
+    "becas mec", "beca de comedor", "universidades públicas",
 ]
 
 # 浏览器 fallback 网站 (当RSS失败时直接抓取)

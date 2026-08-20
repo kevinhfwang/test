@@ -1,16 +1,5 @@
 [
   {
-    "title": "西班牙工作新动态",
-    "original_title": "El bloqueo parlamentario deja herida de muerte la reforma de la ley franquista que convirtió todo en secreto",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/bloqueo-parlamentario-deja-herida-muerte-reforma-ley-franquista-convirtio-secreto_1_2235233.html",
-      "summary": "Miércoles, 26 de febrero de 2025. Tras dos décadas de trabajo parlamentario, Aitor Esteban, entonces portavoz del PNV en el Congreso, aprovecha su última pregunta de control para pedir \"por enésima ve"
-    },
-    "category": "工作",
-    "date": "2026-08-19"
-  },
-  {
     "title": "西班牙大学改革",
     "original_title": "Fichados a cambio de una plaza, pero privados de ella: el agujero de la estabilización de los contratos Ramón y Cajal",
     "source": {
@@ -19,18 +8,84 @@
       "summary": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades"
     },
     "category": "留学",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙租房新动态",
-    "original_title": "Consumo multa con un millón de euros a la empresa de alquiler de coches Avis por prácticas abusivas",
+    "title": "西班牙工作新动态",
+    "original_title": "La insuficiente plantilla de bomberos forestales obliga a la Generalitat Valenciana a tirar de voluntarios y horas extra",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/comunitat-valenciana/insuficiente-plantilla-bomberos-forestales-obliga-generalitat-valenciana-tirar-voluntarios-horas-extra_1_13455685.html",
+      "summary": "El PSPV denuncia que el servicio arrastra un déficit de 300 efectivos tras no ejecutarse el 21% del presupuesto de contratación en 2025, mientras la Conselleria defiende que el dispositivo se refuerza"
+    },
+    "category": "工作",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Juzgados desbordados y una avalancha de recursos a la vista: la radiografía del CGPJ de la crisis de Ceuta",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/consumo-multa-millon-euros-empresa-alquiler-coches-avis-practicas-abusivas_1_2235230.html",
-      "summary": "El Ministerio de Consumo ha multado a la empresa de alquiler de coches Avis con un millón de euros por “llevar a cabo prácticas abusivas”. El ministerio que dirige Pablo Bustinduy ha impuesto la sanci"
+      "url": "https://www.infolibre.es/politica/juzgados-desbordados-avalancha-recursos-vista-radiografia-cgpj-crisis-ceuta_1_2235287.html",
+      "summary": "\"La crisis migratoria ocurrida los días 30 y 31 de julio de 2026 en Ceuta ha afectado de manera extraordinaria al desarrollo del servicio público de justicia\". Así de contundente se mostraba hace una "
     },
-    "category": "税务",
-    "date": "2026-08-19"
+    "category": "政策",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙大学新动态",
+    "original_title": "Darío Badules: “El problema de las terrazas es político, no jurídico, y reside en el abuso de los ayuntamientos”",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/dario-badules-hay-volver-ganar-espacio-publico-ciudadania-detrimento-vehiculo-privado-terrazas_1_2222816.html",
+      "summary": "Darío Badules (Madrid, 1991) es profesor de Derecho administrativo en la Universidad de Zaragoza, doctor en Derecho y politólogo, y un defensor del espacio público. En un artículo titulado \"¡Qué rica "
+    },
+    "category": "留学",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "La AFA denuncia una \"campaña miserable\" contra Argentina en el Mundial: \"Un mes de la mentira\"",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/08/20/la-afa-denuncia-una-campana-miserable-contra-argentina-en-el-mundial-un-mes-de-la-mentira",
+      "summary": "El presidente de la Asociación del Fútbol Argentino, Claudio 'Chiqui' Tapia, cargó contra quienes acusaron a la Albiceleste de recibir ayudas durante el Mundial de 2026 y reclamó disculpas un mes desp"
+    },
+    "category": "政策",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙经济新动态",
+    "original_title": "España amplía la brecha de precios con el euro y ahonda en su pérdida de competitividad",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/08/20/6a85eef3468aeb2e458b45a6.html",
+      "summary": "La economía española suma 15 meses con una inflación superior a la media de la zona euro. En julio, el IPC armonizado en España se disparó al 3,9%, un punto por encima del 2,9% registrado en el bloque"
+    },
+    "category": "政策",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙通胀新动态",
+    "original_title": "Los europeos elevan sus ahorros por temor a la inflación",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/08/20/6a8630d3468aebf57c8b4587.html",
+      "summary": "Los hogares, cansados de las crisis y de que los precios erosionen su patrimonio, evitan gastar.&nbsp;Leer"
+    },
+    "category": "政策",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "西班牙教育新动态",
+    "original_title": "LISTED: The changes to schools in Spain for the 2026/2027 academic year",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260819/listed-the-changes-to-schools-in-spain-for-the-2026-2027-academic-year",
+      "summary": "Kids aged 0 to 17 return to school in Spain in the coming weeks. If you're a parent, here is all the key info for this new academic year, from class sizes to extra costs, and school meals to education"
+    },
+    "category": "教育",
+    "date": "2026-08-20"
   },
   {
     "title": "西班牙学生新动态",
@@ -41,109 +96,65 @@
       "summary": "Vivimos en un sistema donde el profesorado dedica excesivo tiempo a justificar la calificación final de sus estudiantes"
     },
     "category": "留学",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙经济新动态",
-    "original_title": "La gran sequía devora el corazón de Europa: cosechas en mínimos, restricciones históricas y la economía estancada",
+    "title": "西班牙签证新动态",
+    "original_title": "Marruecos exime de visado a países africanos mientras cuestiona el “efecto llamada” de la regularización en España",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-19/la-gran-sequia-devora-el-corazon-de-europa-cosechas-en-minimos-restricciones-historicas-y-la-economia-estancada.html",
-      "summary": "Millones de europeos sufren limitaciones inéditas en el acceso al agua por la falta de lluvias. El escaso caudal de los grandes ríos frena el comercio, lastra la producción de energía y diezma cultivo"
+      "url": "https://elpais.com/espana/2026-08-20/marruecos-exime-de-visado-a-paises-africanos-mientras-cuestiona-el-efecto-llamada-de-la-regularizacion-en-espana.html",
+      "summary": "Rabat ha regularizado a más de 50.000 subsaharianos al tiempo que expande su influencia diplomática y económica en África"
     },
-    "category": "政策",
-    "date": "2026-08-19"
+    "category": "签证",
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "El magnate anónimo de la eólica en Castilla y León se lanza al negocio de los centros de datos",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/magnate-anonimo-eolica-castilla-leon-lanza-negocio-centros-datos_1_13452036.html",
-      "summary": "Vapat, del sigiloso González-Vallinas, una de las 100 mayores fortunas españolas, plantea un gran proyecto de data center en un pueblecito vallisoletano que pone en guardia a una plataforma vecinal\nLa"
-    },
-    "category": "租房",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Ocho de los diez principales medios digitales de la ultraderecha española ocultan quién es su dueño",
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "90 años después, no se acabó la fiesta... de Blas",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/ocho-diez-principales-medios-digitales-ultraderecha-espanola-ocultan-dueno_1_2229922.html",
-      "summary": "Diez medios digitales españoles señalados a menudo por su papel protagonista en el ciclo del bulo incumplen, en su mayoría, la obligación de transparencia societaria que impone desde agosto de 2025 el"
+      "url": "https://www.infolibre.es/cultura/90-anos-despues-no-acabo-fiesta-blas_1_2235092.html",
+      "summary": "A 90 años del asesinato por el fascismo de Blas Infante, hay motivos para estar de fiesta. La comparsa “El Patriota\" fue una de las revelaciones del Carnaval de Cádiz 2026. 15 Blas Infantes dedicaron "
     },
     "category": "政策",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "Guillermo Fesser: “¿Cómo me voy a fiar de una IA a la que Elon Musk ha dicho cómo tiene que pensar?”",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/cultura/guillermo-fesser-fiar-ia-le-dicho-elon-musk-pensar_1_2234986.html",
-      "summary": "Guillermo Fesser (Madrid, 1960) publicará en octubre A 55 millas por hora (Contraluz, 2026), un nuevo libro sobre la poco conocida historia de los hispanos en Estados Unidos, país donde reside y desde"
-    },
-    "category": "政策",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "¿Dónde están las casas más caras de Portugal? Cascais lidera con precios de 4,35 millones",
+    "title": "西班牙战争风险新动态",
+    "original_title": "La guerra de Ucrania golpea al turismo en Europa: 7 países de la UE piden ayudas a Bruselas",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/08/19/donde-estan-las-casas-mas-caras-de-portugal-cascais-lidera-con-precios-de-435-millones",
-      "summary": "Un estudio de Idealista identifica las calles donde es más caro comprar vivienda en Portugal, la más exclusiva cuesta 14 veces más que la vía más cara de Viseu y Lisboa queda fuera del top diez aunque"
-    },
-    "category": "留学",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "西班牙政策新规 (1)",
-    "original_title": "Cobas y Azvalor disparan sus activos más de un 25% en 2026",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/fondos/2026/08/19/6a84e035e5fdea423e8b45bf.html",
-      "summary": "El rally del 'value' y los flujos de dinero nuevo impulsan el crecimiento de las dos gestoras, que multiplican por cuatro el avance del conjunto del sector.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "西班牙战争风险飙升",
-    "original_title": "Las exportaciones resisten y vuelven a zona de máximos: 201.000 millones hasta junio",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/19/6a849d3fe5fdea40498b4591.html",
-      "summary": "Las ventas al exterior crecen un 2% en el primer semestre y registran la segunda cifra más alta de la historia en ese periodo pese a los aranceles y la guerra. El encarecimiento de la energía dispara "
+      "url": "http://es.euronews.com/my-europe/2026/08/20/la-guerra-ahuyenta-al-turismo-7-paises-de-la-ue-piden-fondos-de-bruselas-para-regiones-fro",
+      "summary": "Siete países de primera línea de la Unión Europea reclaman que el próximo presupuesto plurianual destine fondos a sus sectores turísticos, afectados por la inseguridad y su proximidad a la guerra en U"
     },
     "category": "战争风险",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙政策上涨",
-    "original_title": "La deuda pública sube un 4,2% en junio y el peso sobre el PIB se modera al 101,5%",
+    "title": "西班牙物价新动态",
+    "original_title": "La Primera de Expansión sobre Barceló, Meliá, BBVA, Santander, Unitree y Ormuz",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/18/6a842a7b468aeb7e478b4583.html",
-      "summary": "La deuda de las administraciones públicas (AAPP) se situó en junio en 1,76 billones de euros, un 4,2% más que en el mismo mes de 2025, pero en porcentaje del Producto Interior Bruto (PIB) se modera ha"
+      "name": "Expansión",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/20/6a868cca468aeb9b7f8b4589.html",
+      "summary": "Las principales cadenas hoteleras de España confían en cerrar un buen verano gracias al aumento de los precios.Meliá, Barceló, Iberostar, RIU, Eurostars y Palladium cerrarán otro verano récord apoyado"
     },
     "category": "政策",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙税务新动态",
-    "original_title": "LISTED: 11 key housing laws Spain wants to pass in September",
+    "title": "西班牙签证恢复",
+    "original_title": "El dólar recupera el pulso",
     "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260729/spains-government-aims-to-pass-11-new-housing-laws-in-september",
-      "summary": "From changes to room and seasonal rentals, to deductions for repair costs and new rules for the IBI property tax, here are the major changes Spain's leftist government wants to add to housing legislat"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/08/20/6a85f1d8e5fdea1c0d8b458e.html",
+      "summary": "Las amenazas arancelarias de la Administración Trump se interpretaban como un elemento negativo para la divisa estadounidense, por la incertidumbre que generaban sobre el comercio, la inflación y el c"
     },
-    "category": "税务",
-    "date": "2026-08-19"
+    "category": "签证",
+    "date": "2026-08-20"
   },
   {
-    "title": "西班牙大学新动态",
+    "title": "西班牙大学新动态 (1)",
     "original_title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
     "source": {
       "name": "El País Educación",
@@ -151,17 +162,6 @@
       "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
     },
     "category": "留学",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "西班牙大学新动态 (1)",
-    "original_title": "Cuando una democracia deja de reunirse",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-07-31/cuando-una-democracia-deja-de-reunirse.html",
-      "summary": "El plantón de las 11 comunidades gobernadas por el PP impidió celebrar dos reuniones distintas y bloqueó fondos para las universidades públicas"
-    },
-    "category": "留学",
-    "date": "2026-08-19"
+    "date": "2026-08-20"
   }
 ]

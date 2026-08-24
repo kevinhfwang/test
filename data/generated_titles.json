@@ -1,14 +1,25 @@
 [
   {
-    "title": "西班牙伊朗局势宣布",
-    "original_title": "El Pentágono anuncia un contrato millonario para la producción de misiles: ¿EEUU se queda sin armas por la guerra con Irán?",
+    "title": "西班牙居留新动态",
+    "original_title": "España y otros cinco países piden a la UE un impuesto a los beneficios de las petroleras por la guerra de Irán",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/pentagono-anuncia-un-contrato-millonario-para-produccion-misiles-eeuu-se-queda-sin-armas-por-guerra-con-iran_7027620_0.html",
-      "summary": "El conflicto ha desviado suministros de Asia y Europa y agotado las reservas de armas de EEUU a niveles preocupantes."
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/08/23/6a8afa19468aeba91e8b45a7.html",
+      "summary": "Los ministros de Economía y Finanzas de España, Alemania, Austria, Italia, Portugal y Polonia han solicitado a la Presidencia irlandesa del Consejo de la Unión Europea la apertura de un debate a 27 so"
     },
-    "category": "伊朗局势",
-    "date": "2026-08-23"
+    "category": "居留",
+    "date": "2026-08-24"
+  },
+  {
+    "title": "西班牙税务新动态",
+    "original_title": "Six EU countries urge windfall tax on energy firms",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260823/six-eu-countries-urge-windfall-tax-on-energy-firms",
+      "summary": "Six EU countries are stepping up calls for a bloc-wide windfall tax on oil companies as profits soar due to the Middle East war, according to a letter seen by AFP Saturday."
+    },
+    "category": "税务",
+    "date": "2026-08-24"
   },
   {
     "title": "西班牙租房新动态",
@@ -19,7 +30,7 @@
       "summary": "New housing and rental laws, school year starts, changes to fuel prices, new flight routes, vets and teachers to strike, and plenty more - here's what's happening in Spain in September 2026."
     },
     "category": "租房",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
     "title": "西班牙大学改革",
@@ -30,18 +41,18 @@
       "summary": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades"
     },
     "category": "留学",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙税收飙升",
-    "original_title": "España y otros 5 países europeos piden a la UE gravar los beneficios extraordinarios de las petroleras",
+    "title": "西班牙物价新动态",
+    "original_title": "Apple y Samsung ganan terreno en España frente a los móviles chinos",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/08/23/espana-5-paises-europeos-piden-ue-gravar-beneficios-extraordinarios-petroleras",
-      "summary": "España, junto con Alemania, Italia y otros tres países de la UE, pide que los ministros de Finanzas debatan el próximo mes en Dublín un impuesto sobre los beneficios extraordinarios de las petroleras,"
+      "name": "Expansión",
+      "url": "https://www.expansion.com/empresas/tecnologia/2026/08/24/6a8b3300468aeb16068b4581.html",
+      "summary": "Samsung y Apple ganaron fuerza en el mercado español de teléfonos móviles inteligentes durante la primera mitad de 2026, mientras las marcas chinas atraviesan dificultades en un sector que vende menos"
     },
-    "category": "税务",
-    "date": "2026-08-23"
+    "category": "政策",
+    "date": "2026-08-24"
   },
   {
     "title": "西班牙就业变化",
@@ -52,7 +63,7 @@
       "summary": "La República Islámica de Irán asegura que puede hacer frente al \"DÍA D económico\" anunciado por Estados Unidos y que no cambiará su postura ante la guerra ni reabrirá Ormuz, a pesar de la mala situaci"
     },
     "category": "工作",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
     "title": "西班牙教育新动态",
@@ -63,7 +74,7 @@
       "summary": "Kids aged 0 to 17 return to school in Spain in the coming weeks. If you're a parent, here is all the key info for this new academic year, from class sizes to extra costs, and school meals to education"
     },
     "category": "教育",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
     "title": "西班牙学生新动态",
@@ -74,94 +85,83 @@
       "summary": "Vivimos en un sistema donde el profesorado dedica excesivo tiempo a justificar la calificación final de sus estudiantes"
     },
     "category": "留学",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
+    "title": "西班牙住房新动态",
+    "original_title": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/espana/2026-08-23/vivir-y-luchar-con-el-narco-la-guerra-invisible-de-los-policias-del-sur-es-cuestion-de-tiempo-que-nos-maten.html",
-      "summary": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven "
+      "url": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html",
+      "summary": "Los importes llevan 48 trimestres de aumento desde que tocaron suelo en 2014 y han superado el pico de la burbuja en 16 comunidades autónomas"
     },
-    "category": "战争风险",
-    "date": "2026-08-23"
+    "category": "租房",
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Los signos del zodiaco y el trígono Júpiter - Saturno de 2026",
+    "title": "西班牙政策新规",
+    "original_title": "Una redada, 46 historias truncadas: “Me falta la vida sin mi hija”",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/los-signos-zodiaco-trigono-jupiter-saturno-2026_7027976_0.html",
-      "summary": "En estos últimos días se va a formar una poderosa, armónica y positiva configuración en el cielo de importantes efectos y consecuencias a largo plazo."
+      "name": "El País",
+      "url": "https://elpais.com/us/migracion/2026-08-24/una-redada-46-historias-truncadas-me-falta-la-vida-sin-mi-hija.html",
+      "summary": "EL PAÍS reconstruye a través de una decena de entrevistas el arresto de medio centenar de migrantes en un almacén aduanero de Nueva Jersey en octubre de 2025. Los meses de detención y las deportacione"
     },
     "category": "政策",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙买房下降",
-    "original_title": "“Quiero volver a casa”: la interminable pesadilla de los marinos varados en el estrecho de Ormuz",
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/quiero-volver-casa-interminable-pesadilla-marinos-bloqueados-estrecho-ormuz_1_2235353.html",
-      "summary": "“La tensión es constante… Estoy en medio de la guerra… Quiero volver a casa”. Las palabras de Ravi (nombre ficticio) se ven interrumpidas por los cortes de conexión, constantes a bordo del petrolero e"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html",
+      "summary": "El precio de la vivienda expulsa a los ciudadanos de las Baleares: uno de cada cuatro compradores busca casa fuera de las islas, con el Principado como lugar preferido"
     },
-    "category": "战争风险",
-    "date": "2026-08-23"
+    "category": "租房",
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "La ‘banana manchega’: el corredor de municipios que resiste frente a la despoblación de La Mancha",
+    "title": "西班牙学校新动态",
+    "original_title": "Suecia, de ejemplo de Estado del bienestar a paraíso de los superricos",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/banana-manchega-corredor-municipios-resiste-frente-despoblacion-mancha_1_2235089.html",
-      "summary": "Según la Estadística Continua de Población (ECP) del Instituto Nacional de Estadística (INE), Castilla-La Mancha contaba a 1 de julio de 2026 con 2.169.241 habitantes. En esa misma fecha de 2021 la ha"
-    },
-    "category": "政策",
-    "date": "2026-08-23"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Últimas noticias | 23 agosto 2026 - Mañana",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/video/2026/08/23/ultimas-noticias-23-agosto-2026-manana",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 23 agosto 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/suecia-ejemplo-bienestar-paraiso-superricos_1_13458270.html",
+      "summary": "El país que fue referente mundial de la socialdemocracia permite que empresas privadas gestionen escuelas, centros sanitarios y otros servicios con dinero público, mientras crece la desigualdad y se m"
     },
     "category": "政策",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙就业新动态",
-    "original_title": "¿Por qué tantos jóvenes alemanes no encuentran trabajo?",
+    "title": "西班牙居留新动态 (1)",
+    "original_title": "El 'establishment' del Partido Demócrata tiene un aliado para frenar el avance de la izquierda en EEUU: las farmacéuticas",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/08/22/por-que-tantos-jovenes-alemanes-no-encuentran-trabajo",
-      "summary": "Crece la proporción de jóvenes sin empleo ni formación. Los expertos advierten de una \"crisis de renovación\" y señalan la dificultad que tienen los profesionales cualificados para acceder al mercado d"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/internacional/establishment-partido-democrata-aliado-frenar-avance-izquierda-eeuu-farmaceuticas_1_13460466.html",
+      "summary": "La plataforma moderada Third Way, respaldada por grupos de presión del sector de la salud, ya fue clave para cortar el paso de Bernie Sanders a las presidenciales de 2016Una candidata del ala más prog"
     },
-    "category": "工作",
-    "date": "2026-08-23"
+    "category": "居留",
+    "date": "2026-08-24"
   },
   {
-    "title": "西班牙政策上涨",
-    "original_title": "Ránking de las grandes cotizadas: los grupos del Ibex suben la deuda neta un 2,4% hasta junio",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/08/22/6a7c4fff468aeb65678b4573.html",
-      "summary": "Los grupos del Ibex elevan su deuda neta en 4.450 millones en el primer semestre, hasta 191.329 millones, lo que supone un aumento del 2,4% respecto al cierre de 2025. El aumento se debe, sobre todo, "
-    },
-    "category": "政策",
-    "date": "2026-08-23"
-  },
-  {
-    "title": "西班牙失业增加",
-    "original_title": "Del paro a la jubilación: casi medio millón de personas cobran el subsidio para mayores de 52 años",
+    "title": "西班牙教育新动态 (1)",
+    "original_title": "Los 50 sectores que tiran de la creación de empleo",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/21/6a88821c468aeb43308b457c.html",
-      "summary": "Los beneficiarios se disparan hasta 466.077 tras la reforma de 2019 que redujo el requisito de edad: aumentan en un 75% las personas que se acogen a la prestación.&nbsp;Leer"
+      "url": "https://www.expansion.com/sociedad/2026/08/24/6a8ade59e5fdea6f488b4593.html",
+      "summary": "El mercado laboral crece con fuerza en el segundo trimestre, impulsado por la educación, las actividades recreativas y la industria alimentaria.&nbsp;Leer"
+    },
+    "category": "教育",
+    "date": "2026-08-24"
+  },
+  {
+    "title": "西班牙失业新动态",
+    "original_title": "España se queda sin geólogos: “Sin ellos no podemos salvar vidas ni ahorrar dinero público”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-08-24/espana-se-queda-sin-geologos-sin-ellos-no-podemos-salvar-vidas-ni-ahorrar-dinero-publico.html",
+      "summary": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen "
     },
     "category": "政策",
-    "date": "2026-08-23"
+    "date": "2026-08-24"
   }
 ]

@@ -1,25 +1,14 @@
 [
   {
-    "title": "西班牙通胀飙升",
-    "original_title": "La inflación industrial se dispara al 9,2% en julio por la energía y suma cinco meses al alza",
+    "title": "西班牙大学下降",
+    "original_title": "Universidad: alquilar habitación en Lisboa cuesta más de 500 euros y la demanda supera la oferta",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/25/6a8d4022e5fdeace598b4597.html",
-      "summary": "Los precios industriales subieron un 9,2% en julio en relación al mismo mes de 2025, tasa 2,2 puntos superior a la de junio, impulsados por los precios de la energía, según ha informado este martes el"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/08/26/universidad-alquilar-habitacion-en-lisboa-cuesta-mas-de-500-euros-y-la-demanda-supera-la-o",
+      "summary": "Casi 50.000 nuevos estudiantes han sido admitidos en centros de enseñanza superior, lo que plantea nuevos retos de vivienda. Jóvenes desplazados buscan habitaciones mientras la oferta sigue bajando y "
     },
-    "category": "政策",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "西班牙税务新动态",
-    "original_title": "Six EU countries urge windfall tax on energy firms",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260823/six-eu-countries-urge-windfall-tax-on-energy-firms",
-      "summary": "Six EU countries are stepping up calls for a bloc-wide windfall tax on oil companies as profits soar due to the Middle East war, according to a letter seen by AFP Saturday."
-    },
-    "category": "税务",
-    "date": "2026-08-25"
+    "category": "留学",
+    "date": "2026-08-26"
   },
   {
     "title": "西班牙大学改革",
@@ -30,18 +19,7 @@
       "summary": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades"
     },
     "category": "留学",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "西班牙教育新动态",
-    "original_title": "LISTED: The changes to schools in Spain for the 2026/2027 academic year",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260819/listed-the-changes-to-schools-in-spain-for-the-2026-2027-academic-year",
-      "summary": "Kids aged 0 to 17 return to school in Spain in the coming weeks. If you're a parent, here is all the key info for this new academic year, from class sizes to extra costs, and school meals to education"
-    },
-    "category": "教育",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
     "title": "西班牙学生新动态",
@@ -52,29 +30,84 @@
       "summary": "Vivimos en un sistema donde el profesorado dedica excesivo tiempo a justificar la calificación final de sus estudiantes"
     },
     "category": "留学",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "El primer ministro de Canadá se planta y marca a Trump los límites de su chantaje: \"Si te atacan, estás en guerra\"",
+    "title": "西班牙移民新规",
+    "original_title": "Las nuevas leyes de extranjería y asilo contemplan repartos de inmigrantes, internamientos forzosos y confinamientos",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/primer-ministro-canada-planta-marca-trump-limites-chantaje-si-atacan-guerra_1_13464771.html",
-      "summary": "El primer ministro canadiense se adentra en un pulso de desgaste con Washington y desafía los planes de Trump de convertir en vasallos a sus antiguos aliadosEl primer ministro de Canadá reconoce la “m"
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-08-26/del-triaje-al-confinamiento-las-ocho-claves-de-la-nueva-ley-de-asilo-y-reforma-de-extranjeria.html",
+      "summary": "Los anteproyectos aprobados por el Gobierno refuerzan las garantías de menores y otros migrantes vulnerables, pero aceleran los plazos de expulsión y restringen el derecho de asilo"
+    },
+    "category": "移民",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "西班牙战争风险宣布",
+    "original_title": "Sánchez mantiene el silencio tras la crisis de Ceuta mientras estalla un conflicto entre Interior y Defensa por los avisos del CNI",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-mantiene-silencio-tras-crisis-ceuta-mientras-estalla-un-conflicto-entre-interior-defensa-por-los-avisos-cni_7029224_0.html",
+      "summary": "El Gobierno ha anunciado que el presidente del Gobierno comparecerá en el Congreso, pero no ha aclarado cuándo. La Diputación Permanente se reúne este miércoles para abordar, entre otras cuestiones, l"
     },
     "category": "战争风险",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙政策推出",
-    "original_title": "El PIB de Alemania crece un 0,3% en el segundo trimestre, una décima más de lo estimado",
+    "title": "西班牙政策新规",
+    "original_title": "La opacidad mediática gana el pulso al Reglamento Europeo de Libertad de Medios en España",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/08/25/6a8d4425e5fdead82e8b45a6.html",
-      "summary": "El producto interior bruto (PIB) de Alemania registró una expansión del 0,3% en el segundo trimestre de 2026 respecto de los tres meses anteriores, lo que representa una décima más del ritmo de crecim"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medios/opacidad-mediatica-gana-pulso-reglamento-europeo-libertad-medios-espana_1_2230541.html",
+      "summary": "La entrada en vigor, en agosto de 2025, del Reglamento (UE) 2024/1083, conocido como el Reglamento Europeo sobre la Libertad de Medios (EMFA, por sus siglas en inglés), prometía inaugurar una nueva er"
     },
     "category": "政策",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
+  },
+  {
+    "title": "西班牙大学新动态",
+    "original_title": "Más allá de los rankings: el futuro de la ciencia y la universidad española",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/08/25/6a8dd887e5fdea71088b459f.html",
+      "summary": "Treinta universidades españolas entre las mil primeras no demuestran que nuestro sistema sea excelente.&nbsp;Leer"
+    },
+    "category": "留学",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Robles choca con Marlaska: detalla el aviso del CNI de la crisis en Ceuta",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/08/25/6a8dd594e5fdeaeb478b456e.html",
+      "summary": "El Gobierno lanza un reforma exprés de las leyes de Asilo y Extranjería para integrar en la normativa el pacto migratorio europeo: triajes, retorno en 12 semanas y presunción de minoría de edad.&nbsp;"
+    },
+    "category": "政策",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "'We're heading for catastrophe': The summer climate change hit Europe",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260825/were-heading-for-catastrophe-the-summer-climate-change-hit-europe",
+      "summary": "For generations, summer in Europe has been languid and dreamy, bringing fine weather and lengthy days on sunny beaches and terraces. But in 2026, the brutal reality of climate change forced its way in"
+    },
+    "category": "政策",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "西班牙租房新动态",
+    "original_title": "'Spain is outpricing itself': Your views on the 'impossible' rental market",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260825/spain-is-outpricing-itself-your-views-on-the-impossible-rental-market",
+      "summary": "Spain's rental market is at the heart of the country's housing crisis, with tenants facing eyewatering prices, very little choice and undesirable short-term contracts. We asked The Local Spain's reade"
+    },
+    "category": "租房",
+    "date": "2026-08-26"
   },
   {
     "title": "西班牙失业新动态",
@@ -85,10 +118,10 @@
       "summary": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen "
     },
     "category": "政策",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙大学新动态",
+    "title": "西班牙大学新动态 (1)",
     "original_title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
     "source": {
       "name": "El País Educación",
@@ -96,10 +129,10 @@
       "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
     },
     "category": "留学",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙大学新动态 (1)",
+    "title": "西班牙大学新动态 (2)",
     "original_title": "Cuando una democracia deja de reunirse",
     "source": {
       "name": "El País Educación",
@@ -107,61 +140,28 @@
       "summary": "El plantón de las 11 comunidades gobernadas por el PP impidió celebrar dos reuniones distintas y bloqueó fondos para las universidades públicas"
     },
     "category": "留学",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙大学新动态 (2)",
-    "original_title": "Aprender no empieza con las letras",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/economia/formacion/2026-07-31/aprender-no-empieza-con-las-letras.html",
-      "summary": "Expertas de los Colegios SEK y la Universidad Camilo José Cela explican por qué el juego, la autonomía, la curiosidad o la regulación emocional constituyen el verdadero aprendizaje de los primeros sei"
-    },
-    "category": "留学",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Comprobar Primitiva: resultados de hoy, lunes 24 de agosto de 2026",
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Comprobar Bonoloto: resultados de hoy, martes 25 de agosto de 2026",
     "source": {
       "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/comprobar-primitiva-resultados-hoy-lunes-24-agosto-2026_7028913_0.html",
-      "summary": "Los resultados de La Primitiva del lunes 24 de agosto de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
+      "url": "https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-martes-25-agosto-2026_7029326_0.html",
+      "summary": "Los resultados de la Bonoloto del martes 25 de agosto de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
     },
     "category": "政策",
-    "date": "2026-08-25"
+    "date": "2026-08-26"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Londres ayudará a Kyiv a fabricar misiles de largo alcance ante la escasez de Patriots",
+    "title": "西班牙住房新动态",
+    "original_title": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html",
-      "summary": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'"
+      "name": "El País",
+      "url": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html",
+      "summary": "La Comunidad de Madrid valoró comprar una vivienda de cuatro millones en el paseo del Pintor Rosales antes de decantarse por el apartamento de Chamberí"
     },
-    "category": "政策",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "西班牙经济宣布",
-    "original_title": "Carlos Cuerpo promete “todos los recursos del Estado” para estabilizar Ceuta y acelerar los retornos",
-    "source": {
-      "name": "La Razón",
-      "url": "https://www.larazon.es/espana/carlos-cuerpo-promete-todos-recursos-estado-estabilizar-ceuta-acelerar-retornos_202608246a8c5c557b9bc81c9ed77208.html",
-      "summary": "El ministro de Economía anuncia una ampliación extraordinaria del plan socioeconómico para evitar que la crisis deje secuelas en la ciudad autónoma"
-    },
-    "category": "政策",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "西班牙政策恢复",
-    "original_title": "Venezuela alcanza su mayor producción petrolera desde febrero de 2019, según Delcy Rodríguez",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/venezuela-alcanza-su-mayor-produccion-petrolera-desde-febrero-2019-segun-delcy-rodriguez_7028964_0.html",
-      "summary": "Rodríguez ha asegurado que Venezuela ha avanzado en la recuperación de sus relaciones internacionales y ha restablecido vínculos diplomáticos, económicos y consulares con varios países."
-    },
-    "category": "政策",
-    "date": "2026-08-25"
+    "category": "租房",
+    "date": "2026-08-26"
   }
 ]

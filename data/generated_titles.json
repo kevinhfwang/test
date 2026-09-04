@@ -1,27 +1,5 @@
 [
   {
-    "title": "西班牙奖学金新规",
-    "original_title": "Hungría reforma sus universidades y logra el reingreso de sus estudiantes en Erasmus+ para el curso 2026/2027",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/09/03/hungria-reforma-sus-universidades-y-logra-el-reingreso-de-sus-estudiantes-en-erasmus-para-",
-      "summary": "El nuevo Gobierno de Tisza acuerda con Bruselas el desbloqueo de los fondos comunitarios tras reformar las fundaciones universitarias. En este 2026, los alumnos y científicos de 21 centros excluidos r"
-    },
-    "category": "留学",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙工作新规",
-    "original_title": "Calendario escolar en toda España del curso 2026/27: inicio y fin de curso, vacaciones y días lectivos y no lectivos",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/03/6a980afde5fdea850b8b4583.html",
-      "summary": "Con la vuelta al cole toca organizar las rutinas del nuevo curso escolar 2026/27 que habrá que compaginar con el calendario laboral para poder tener algún fin de semana o día libre o recurrir a activi"
-    },
-    "category": "工作",
-    "date": "2026-09-03"
-  },
-  {
     "title": "西班牙失业新动态",
     "original_title": "El curso escolar comienza con un sistema educativo al límite: huelgas, protestas docentes y conflictos en nueve autonomías",
     "source": {
@@ -30,87 +8,32 @@
       "summary": "Los centros reabren con convocatorias de huelga en Madrid, Cataluña y Andalucía para exigir mejoras en la enseñanza pública. Otras seis autonomías son escenario de tensiones que pueden desembocar en p"
     },
     "category": "战争风险",
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
-    "title": "西班牙奖学金新动态",
-    "original_title": "Más de la mitad de los niños en riesgo de pobreza volverán a clase sin una beca para el comedor escolar",
+    "title": "西班牙签证新规",
+    "original_title": "La UE debate mantener la prohibición de perforar petróleo en el Ártico tras la presión energética",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/mas-mitad-los-ninos-riesgo-pobreza-volveran-clase-sin-una-beca-para-comedor-escolar_7031947_0.html",
-      "summary": "La ONG Educo calcula que en torno a 1,2 millones de alumnos que lo necesitan se han quedado fuera de la ayuda. La mayoría cursa la ESO, pues en España solo dos de cada diez institutos públicos tienen "
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/my-europe/2026/09/04/ue-debate-mantener-prohibicion-perforar-petroleo-artico-tras-presion-energetica",
+      "summary": "La Comisión Europea presentará pronto su nueva estrategia ártica y decidirá si mantiene o elimina su postura de 2021 sobre nuevas prospecciones de petróleo y gas en el Alto Norte, que la Agencia Inter"
     },
-    "category": "政策",
-    "date": "2026-09-03"
+    "category": "签证",
+    "date": "2026-09-04"
   },
   {
-    "title": "西班牙大学改革",
-    "original_title": "Fichados a cambio de una plaza, pero privados de ella: el agujero de la estabilización de los contratos Ramón y Cajal",
+    "title": "西班牙大学新动态",
+    "original_title": "España, segunda de la UE en fondos de ciencia Marie Curie: recibirá 17,2 millones para 121 investigadores",
     "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-08-11/fichados-a-cambio-de-una-plaza-pero-privados-de-ella-el-agujero-de-la-estabilizacion-de-los-contratos-ramon-y-cajal.html",
-      "summary": "El Ministerio de Ciencia sostiene que solo un 6% de las ayudas ya finalizadas incumple la obligación de estabilizar, pero una treintena de investigadores denuncia su indefensión ante las universidades"
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/my-europe/2026/09/04/espana-segunda-ue-fondos-ciencia-marie-curie-recibira-172-millones-para-121-investigadores",
+      "summary": "España se sitúa como segundo país de la Unión Europea en la convocatoria Marie Sklodowska-Curie COFUND 2026, con cinco proyectos que sumarán 121 investigadores a universidades y centros españoles."
     },
     "category": "留学",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "¿Puede un vecino colocar armarios o llenar de trastos su terraza? Esto es lo que dice la ley",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/vivienda/puede-vecino-colocar-armarios-llenar-trastos-terraza-dice-ley_7032450_0.html",
-      "summary": "Colocar determinados muebles puede entrar en conflicto con las normas de la comunidad de vecinos y con la Ley de Propiedad Horizontal."
-    },
-    "category": "战争风险",
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Dimite el ministro de Defensa de Estonia tras desviar 70 M€ de la UE a empresas sin experiencia en armas",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/09/03/dimite-el-ministro-de-defensa-de-estonia-tras-desviar-70-m-de-la-ue-a-empresas-sin-experie",
-      "summary": "Hanno Pevkur deja el cargo por el escándalo de los contratos financiados con fondos de la UE para comprar proyectiles a empresas sin experiencia. En este 2026, la investigación por el desvío de ayudas"
-    },
-    "category": "政策",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "Las ventas de coches en Portugal se disparan en agosto, los eléctricos superan el 25% del mercado",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/09/03/las-ventas-de-coches-en-portugal-se-disparan-en-agosto-los-electricos-superan-el-25-del-me",
-      "summary": "Entre enero y agosto de 2026, el 75,6% de los turismos nuevos matriculados usaban energías alternativas. Cerca del 26,8% eran eléctricos y, en agosto, los eléctricos alcanzaron el 36,1% del mercado."
-    },
-    "category": "政策",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙物价飙升",
-    "original_title": "Los precios energéticos se disparan: gas en máximos y crudo en 95 dólares",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/03/6a98a93b468aeba4028b459c.html",
-      "summary": "El precio del gas casi duplica los niveles de junio y se sitúa en cotas que no se veían desde diciembre de 2022, lo que augura una fuerte subida de la factura eléctrica&nbsp;Leer"
-    },
-    "category": "油价",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙买房新动态",
-    "original_title": "Chevron invertirá 7.000 millones de dólares en Venezuela para duplicar su producción de crudo",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/02/6a98434a468aeb91288b45a2.html",
-      "summary": "El gigante petrolero estadounidense se beneficia del plan de privatización del crudo venezolano impulsado por la Casa Blanca y aspira a producir allí 600.000 barriles diarios para 2031.&nbsp;Leer"
-    },
-    "category": "油价",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
     "original_title": "Calendario escolar 2026-2027 en España: inicio de curso, festivos y vacaciones en cada comunidad",
     "source": {
       "name": "El País Educación",
@@ -118,50 +41,127 @@
       "summary": "La vuelta al cole, las vacaciones de Navidad y Semana Santa, y los días no lectivos varían según cada comunidad y ciudad autónoma. Consulte a continuación cuándo es el inicio del curso, los puentes y "
     },
     "category": "政策",
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
-    "title": "西班牙健康减少",
-    "original_title": "El Gobierno envía al Congreso el Estatuto Marco al que se oponen los médicos, que amenazan con una huelga indefinida",
+    "title": "西班牙学校新动态",
+    "original_title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Continúa la construcción del centro de acogida en Ceuta junto a una escuela infantil pese a las protestas vecinales",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/gobierno-envia-congreso-estatuto-marco-que-se-oponen-los-medicos-que-amenazan-con-una-huelga-indefinida_7031453_0.html",
-      "summary": "La norma regula las condiciones del personal del Sistema Nacional de Salud por primera vez en 23 años y reduce las horas de guardia a un máximo de 17 horas. Los sindicatos médicos convocaron huelgas d"
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-09-04/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "summary": "El PP tacha de “delirante” la comparecencia de Sánchez y reclama más policía | Grande-Marlaska y Brunner “avanzan” sobre la ayuda europea de emergencia | Detenido un inmigrante marroquí tras amenazar "
     },
-    "category": "医疗",
-    "date": "2026-09-03"
+    "category": "移民",
+    "date": "2026-09-04"
   },
   {
-    "title": "西班牙健康改革",
-    "original_title": "La mortalidad y los avisos sanitarios por calor se disparan en el verano más cálido de la historia",
+    "title": "西班牙签证新动态",
+    "original_title": "Milei reclama las Malvinas para evitar que Londres se quede con el petróleo de las islas",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/mortalidad-avisos-sanitarios-calor-disparan-verano-calido-historia_1_2235792.html",
-      "summary": "El verano meteorológico de 2026, que terminó el pasado lunes 31 de agosto, es una prueba más de cómo el cambio climático es una amenaza para la salud pública de millones de personas en la península ib"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/internacional/20260904/11626482/milei-reclama-malvinas-evitar-londres-quede-petroleo-islas.html",
+      "summary": "El presidente argentino avisa al Reino Unido que no tolerará los planes de explotación de crudo y amenaza con sanciones y vetos a las empresas que participen en esos proyectos"
     },
-    "category": "医疗",
-    "date": "2026-09-03"
+    "category": "签证",
+    "date": "2026-09-04"
   },
   {
-    "title": "西班牙政策新规 (1)",
-    "original_title": "Muere en Nueva York a los 92 años Gloria Steinem, pionera del feminismo y cofundadora de la revista 'Ms.'",
+    "title": "西班牙工作改革",
+    "original_title": "Se buscan voluntarios en Asturias: 3 horas diarias de tareas de campo a cambio de almuerzo, alojamiento y clases de idiomas",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/cultura/2026/09/03/muere-a-los-92-anos-gloria-steinem-icono-feminista-escritora-y-periodista-pionera",
-      "summary": "La escritora y periodista fallece en Nueva York tras una vida dedicada a la igualdad de género. En este 2026, la cofundadora de la revista 'Ms.' y de la 'Ms. Foundation for Women' deja un legado histó"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/empleo/buscan-voluntarios-asturias-3-horas-diarias-tareas-campo-cambio-almuerzo-alojamiento-clases-idiomas_7032786_0.html",
+      "summary": "Los participantes tendrán que ayudar con trabajos en la finca y colaborar en el cuidado de los animales."
+    },
+    "category": "工作",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "El TSJ catalán mantiene sus \"reservas\" a amnistiar la malversación pese a la sentencia del TJUE",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/catalunya/tsj-catalan-mantiene-reservas-amnistiar-malversacion-pese-sentencia-tjue_1_13486696.html",
+      "summary": "El alto tribunal catalán rechaza retirar su cuestión prejudicial ante el Tribunal de Luxemburgo porque cree que no respondió si se pueden amnistiar los gastos del procés \"como modalidad de corrupción\""
     },
     "category": "政策",
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "Hallan muertos a un hombre, dos niños y una mujer en Francia tras un posible crimen familiar con fusil",
+    "original_title": "La IFA 2026 muestra el salto hacia el hogar inteligente con IA que piensa y decide por el usuario",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/my-europe/2026/09/03/hallan-muertos-hombre-dos-ninos-mujer-francia-crimen-familia",
-      "summary": "La Gendarmería investiga como posible asesinato la muerte por arma de fuego de un hombre, dos niños y una mujer en el departamento de Alto Saona. En este 2026, la Fiscalía de Vesoul mantiene abiertas "
+      "url": "http://es.euronews.com/next/2026/09/04/ifa-2026-muestra-salto-hacia-hogar-inteligente-con-ia-que-piensa-decide-por-usuario",
+      "summary": "Desde electrodomésticos con IA y camas inteligentes hasta gadgets para mascotas y perros robot, Euronews ha visitado la IFA 2026 de Berlín para ver cómo la tecnología puede transformar el hogar."
     },
     "category": "政策",
-    "date": "2026-09-03"
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙税收新规",
+    "original_title": "España impulsará un impuesto del gas y petróleo en la UE contra el cambio climático",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9a729a468aeba6398b45a1.html",
+      "summary": "El aumento de los costes derivados de los fenómenos meteorológicos extremos impulsa la campaña previa a la nueva estrategia de resiliencia&nbsp;Leer"
+    },
+    "category": "税务",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
+    "original_title": "What a PP-Vox government would mean for foreigners in Spain",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260904/what-a-pp-vox-government-would-mean-for-foreigners-in-spain",
+      "summary": "A points-based visa system, 'national priority' for Spaniards in housing and welfare, tougher citizenship rules? These are just some of the possible outcomes of a PP-Vox government, which polls sugges"
+    },
+    "category": "签证",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙奖学金新动态",
+    "original_title": "Más de la mitad de los alumnos en riesgo de pobreza no tiene beca para el comedor",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-09-03/mas-de-la-mitad-de-los-alumnos-en-riesgo-de-pobreza-no-tiene-beca-para-el-comedor.html",
+      "summary": "Un informe estima que 1,2 millones de escolares en peligro de exclusión social quedan fuera del sistema de ayudas"
+    },
+    "category": "政策",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙失业新动态 (1)",
+    "original_title": "España se queda sin geólogos: “Sin ellos no podemos salvar vidas ni ahorrar dinero público”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-08-24/espana-se-queda-sin-geologos-sin-ellos-no-podemos-salvar-vidas-ni-ahorrar-dinero-publico.html",
+      "summary": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen "
+    },
+    "category": "政策",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙大学新动态 (1)",
+    "original_title": "Ocho universidades españolas desaparecen del ranking de Shanghái, el más prestigioso",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html",
+      "summary": "La Universidad de Barcelona es la única nacional entre las primeras 200 del listado"
+    },
+    "category": "留学",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "España pide una fuerza europea de reacción rápida ante emergencias climáticas financiada con tasas a petroleras y ‘jets’ privados",
+    "source": {
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-09-04/espana-pide-una-fuerza-europea-de-reaccion-rapida-ante-emergencias-climaticas-financiada-con-tasas-a-petroleras-y-jets-privados.html",
+      "summary": "Transición Ecológica envía a Bruselas una propuesta para la creación de un fondo para proteger a la UE frente a los impactos del calentamiento global"
+    },
+    "category": "政策",
+    "date": "2026-09-04"
   }
 ]

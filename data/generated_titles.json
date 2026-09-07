@@ -1,5 +1,27 @@
 [
   {
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Una guerra de Irán sin fin apunta a uno de los otoños e inviernos más caros para el gas, la luz y la gasolina",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/guerra-iran-apunta-otonos-e-inviernos-caros-gas-luz-gasolina_1_2235917.html",
+      "summary": "Estados Unidos reanudó la semana pasada los bombardeos sobre Irán, difuminando cualquier posibilidad de acuerdo a corto y medio plazo para poner fin al conflicto, que supera ya los seis meses de durac"
+    },
+    "category": "伊朗局势",
+    "date": "2026-09-07"
+  },
+  {
+    "title": "西班牙学费新动态",
+    "original_title": "Los estudios de Formación Profesional de grado medio marcan un récord en España",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/07/6a9e7f07e5fdea40178b458e.html",
+      "summary": "La matrícula en la formación profesional de grado medio, también conocidos popularmente como módulos, representó en el curso 2024-2025 el 37,1% de la matrícula conjunta de Bachillerato y Ciclos Format"
+    },
+    "category": "留学",
+    "date": "2026-09-07"
+  },
+  {
     "title": "西班牙失业新动态",
     "original_title": "El curso escolar comienza con un sistema educativo al límite: huelgas, protestas docentes y conflictos en nueve autonomías",
     "source": {
@@ -8,29 +30,18 @@
       "summary": "Los centros reabren con convocatorias de huelga en Madrid, Cataluña y Andalucía para exigir mejoras en la enseñanza pública. Otras seis autonomías son escenario de tensiones que pueden desembocar en p"
     },
     "category": "战争风险",
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Escalada de amenazas en las fronteras de Europa",
+    "title": "西班牙工作下降",
+    "original_title": "La Seguridad Social suspende la reserva del puesto de trabajo a los 545 días de baja médica",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-09-06/escalada-de-amenazas-en-las-fronteras-de-europa.html",
-      "summary": "La más que probable intensificación del conflicto bélico en Ucrania en otoño se suma a la guerra híbrida que ha emprendido Rusia contra la Unión Europea"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/07/6a9e8b06468aeb8f278b4597.html",
+      "summary": "La Ley General de la Seguridad Social establece que la incapacidad temporal tiene una duración duración máxima de 545 días, 18 meses, independientemente de la causa que la motive, por lo que transcurr"
     },
-    "category": "战争风险",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙移民新动态",
-    "original_title": "La crisis de Ceuta, por dentro: del choque con Casa Real al informe que hizo temer un conflicto mayor con Marruecos",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/crisis-ceuta-choque-casa-real-informe-hizo-temer-conflicto-mayor-marruecos_1_13487918.html",
-      "summary": "Sánchez defiende su gestión, evita lanzar \"acusaciones sin pruebas\" contra Mohamed VI y sortea como puede los reparos del presidente Vivas a la acogida de inmigrantesCrónica - El Congreso se convierte"
-    },
-    "category": "移民",
-    "date": "2026-09-06"
+    "category": "工作",
+    "date": "2026-09-07"
   },
   {
     "title": "西班牙政策新动态",
@@ -41,117 +52,95 @@
       "summary": "La vuelta al cole, las vacaciones de Navidad y Semana Santa, y los días no lectivos varían según cada comunidad y ciudad autónoma. Consulte a continuación cuándo es el inicio del curso, los puentes y "
     },
     "category": "政策",
-    "date": "2026-09-06"
+    "date": "2026-09-07"
+  },
+  {
+    "title": "西班牙外国人新动态",
+    "original_title": "El Gobierno y la Junta Electoral apelan al derecho al voto para rechazar ante el Supremo la paralización de la 'ley de nietos'",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/gobierno-junta-electoral-apelan-derecho-voto-para-rechazar-ante-supremo-paralizacion-ley-nietos_7033618_0.html",
+      "summary": "Vox y Iustitia Europa piden suspender cautelarmente la ley, que concede la nacionalidad a extranjeros descendientes de españoles, ante el riesgo de que se produzcan \"efectos irreversibles\" sobre el ce"
+    },
+    "category": "政策",
+    "date": "2026-09-07"
+  },
+  {
+    "title": "西班牙政策下降",
+    "original_title": "El hartazgo de los docentes marca el inicio del nuevo curso con un calendario de huelgas educativas",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/hartazgo-docentes-marca-inicio-nuevo-curso-calendario-huelgas-educativas_1_2235712.html",
+      "summary": "Bajar los ratios, reducir la burocracia, subir los sueldos, frenar los recortes de aulas y plantillas. Estas son algunas de las reivindicaciones del profesorado de toda España que han llevado a activa"
+    },
+    "category": "政策",
+    "date": "2026-09-07"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "Una explosión de gas a las afueras de París causa la muerte de un niño y deja siete heridos",
+    "original_title": "El IRAV, un indicador poco conocido que guía el precio del alquiler desde 2023 y que critican los sindicatos",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/una-explosion-gas-las-afueras-paris-causa-muerte-un-nino-deja-siete-heridos_7033343_0.html",
-      "summary": "La explosión ha provocado el derrumbe de la propia vivienda."
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia/irav-indicador-conocido-guia-precio-alquiler-2023-critican-sindicatos_1_2235461.html",
+      "summary": "Para quienes viven de alquiler, no es extraño recibir cada año el mensaje de su casero para actualizar la mensualidad que pagan por su vivienda. En España, los alquileres dentro del contrato pueden su"
     },
     "category": "租房",
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   },
   {
-    "title": "西班牙战争风险新规",
-    "original_title": "El PP llevará al Constitucional el plantón de los ministros al Senado para dar explicaciones por la crisis de Ceuta",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/pp-llevara-constitucional-planton-los-ministros-senado-para-dar-explicaciones-por-crisis-ceuta_7032815_0.html",
-      "summary": "Los populares plantearán un nuevo conflicto de atribuciones porque Marlaska, Albares y Robles prefirieron \"escaparse\" de la Cámara Alta."
-    },
-    "category": "战争风险",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Marruecos pasa de la presión migratoria a reivindicar Ceuta y Melilla ante la ley de nacionalidad saharaui",
+    "title": "西班牙大学变化",
+    "original_title": "De academia dental a primera universidad privada de Baleares: el impulso del PP y casi un millón en ayudas",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/internacional/marruecos-pasa-presion-migratoria-reivindicar-ceuta-melilla-ley-nacionalidad-saharaui_1_2235901.html",
-      "summary": "La escalada de declaraciones y de aspiraciones en Marruecos ha crecido a medida que han visto que los Estados de Europa y el Gobierno de España estaban divididos al responder y actuar ante la entrada "
+      "url": "https://www.infolibre.es/politica/academia-dental-primera-universidad-privada-baleares-impulso-pp-millon-ayudas_1_2235884.html",
+      "summary": "Desde 1978, las Islas Baleares han contado con una única universidad pública, la Universitat de les Illes Balears (UIB). Sin embargo, este año ha cambiado todo con la aprobación de la primera universi"
     },
-    "category": "政策",
-    "date": "2026-09-06"
+    "category": "留学",
+    "date": "2026-09-07"
   },
   {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Seamos responsables",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/columnas/verso-libre/seamos-responsables_129_2235841.html",
-      "summary": "El compromiso con la sociedad a lo largo de los años nos ayuda a comprender la amplitud de la palabra responsabilidad. Hay situaciones conflictivas que tienen como origen una clara voluntad de provoca"
-    },
-    "category": "政策",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙战争风险宣布",
-    "original_title": "Fuerzas iraníes atacan dron naval estadounidense que intenta entrar en el estrecho de Ormuz",
+    "title": "西班牙住房推出",
+    "original_title": "Egipto condena a muerte a la famosa presentadora Sarah Khalifa por tráfico de drogas",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/09/06/fuerzas-iranies-atacan-dron-naval-estadounidense-que-intenta-entrar-en-el-estrecho-de-ormu",
-      "summary": "Se produce después de que el Ejército estadounidense anunciara que había atacado tres petroleros iraníes en respuesta a lo que calificó de lanzamientos de misiles balísticos del IRGC contra dos buques"
+      "url": "http://es.euronews.com/2026/09/07/condenan-muerte-egipto-presentadora-television-sarah-khalifa-narcotrafico",
+      "summary": "La conocida presentadora egipcia Sarah Khalifa ha sido condenada a muerte junto con otras 11 personas por fabricar y traficar con drogas. Las autoridades se incautaron de más de 750 kilos de estupefac"
     },
-    "category": "伊朗局势",
-    "date": "2026-09-06"
+    "category": "租房",
+    "date": "2026-09-07"
   },
   {
-    "title": "西班牙买房新规",
-    "original_title": "¿Marca el mal debut bursátil de Shein fracasa el fin de la moda ultrarrápida?",
+    "title": "西班牙政策新规",
+    "original_title": "La IA tiene un problema con el agua: su consumo podría triplicarse en 2030",
     "source": {
       "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/09/06/debut-bursatil-de-shein-fracasa-marca-el-fin-de-la-moda-ultrarrapida",
-      "summary": "\"Un modelo que inunda el mercado con miles de nuevos estilos diarios a precios de un solo dígito solo puede existir trasladando sus costes reales al trabajo y al medioambiente\"."
+      "url": "http://es.euronews.com/business/2026/09/07/pueden-las-grandes-tecnologicas-frenar-la-creciente-sed-de-agua-de-los-centros-de-datos-de",
+      "summary": "Los centros de datos consumieron 222.000 millones de litros de agua para refrigeración en 2025 y, sin medidas para reducir su uso, la cifra podría acercarse a los 644.000 millones en 2030. Nvidia, Mic"
     },
-    "category": "工作",
-    "date": "2026-09-06"
+    "category": "政策",
+    "date": "2026-09-07"
+  },
+  {
+    "title": "西班牙政策排名",
+    "original_title": "IE e IESE, en el 'top 15' mundial de MBA para emprendedores",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/expansion-empleo/emprendedores/2026/09/07/6a9ea29ee5fdea83548b4593.html",
+      "summary": "IE e IESE se sitúan entre las 15 mejores instituciones del mundo con más graduados de MBA que fundan 'start up' financiadas por capital riesgo, según el ránking global 'PitchBook 2026', en el que Esad"
+    },
+    "category": "政策",
+    "date": "2026-09-07"
   },
   {
     "title": "西班牙住房新动态 (1)",
-    "original_title": "Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios",
+    "original_title": "Sánchez defiende \"la intervención de la vivienda\" con contratos de alquiler público que podrán prorrogarse hasta 75 años",
     "source": {
       "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html",
-      "summary": "El metro cuadrado continúa revalorizándose en ambas capitales, aunque el ritmo de crecimiento se está ralentizando e, incluso, en algunos distritos ya se están viendo caídas.&nbsp;Leer"
+      "url": "https://www.expansion.com/inmobiliario/mercado/2026/09/07/6a9e7f61468aebb5348b45ac.html",
+      "summary": "El presidente del Gobierno, Pedro Sánchez, ha defendido su política de vivienda asegurando que \"es una intervención de un mercado que no está funcionando\".&nbsp;Leer"
     },
     "category": "租房",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙政策减少",
-    "original_title": "Barcelona, la única ciudad catalana donde la deuda por habitante crece en 10 años",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/catalunya/2026/09/04/6a9b2e8c468aebbc578b458a.html",
-      "summary": "Salvo la capital catalana, todos los ayuntamientos de más de 50.000 habitantes reducen su endeudamiento en términos relativos y absolutos entre los años 2015 y 2025.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html",
-      "summary": "Mientras Trump endurece su postura sobre las negociaciones, Teherán sigue decidido a mantener cerrado el estrecho de Ormuz.&nbsp;Leer"
-    },
-    "category": "伊朗局势",
-    "date": "2026-09-06"
-  },
-  {
-    "title": "西班牙就业下降",
-    "original_title": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no rebaja tipos",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html",
-      "summary": "El presidente de Estados Unidos esgrime el buen dato de empleo del mes de agosto para exigir a la Reserva Federal que recorte el precio del dinero advirtiendo de que si no romperá tratos con los paíse"
-    },
-    "category": "工作",
-    "date": "2026-09-06"
+    "date": "2026-09-07"
   },
   {
     "title": "西班牙奖学金新动态",
@@ -162,6 +151,17 @@
       "summary": "Un informe estima que 1,2 millones de escolares en peligro de exclusión social quedan fuera del sistema de ayudas"
     },
     "category": "政策",
-    "date": "2026-09-06"
+    "date": "2026-09-07"
+  },
+  {
+    "title": "西班牙失业新动态 (1)",
+    "original_title": "España se queda sin geólogos: “Sin ellos no podemos salvar vidas ni ahorrar dinero público”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-08-24/espana-se-queda-sin-geologos-sin-ellos-no-podemos-salvar-vidas-ni-ahorrar-dinero-publico.html",
+      "summary": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen "
+    },
+    "category": "政策",
+    "date": "2026-09-07"
   }
 ]

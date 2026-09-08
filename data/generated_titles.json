@@ -1,167 +1,167 @@
 [
   {
-    "title": "西班牙伊朗局势新动态",
-    "original_title": "Una guerra de Irán sin fin apunta a uno de los otoños e inviernos más caros para el gas, la luz y la gasolina",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/guerra-iran-apunta-otonos-e-inviernos-caros-gas-luz-gasolina_1_2235917.html",
-      "summary": "Estados Unidos reanudó la semana pasada los bombardeos sobre Irán, difuminando cualquier posibilidad de acuerdo a corto y medio plazo para poner fin al conflicto, que supera ya los seis meses de durac"
-    },
-    "category": "伊朗局势",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙学费新动态",
-    "original_title": "Los estudios de Formación Profesional de grado medio marcan un récord en España",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/07/6a9e7f07e5fdea40178b458e.html",
-      "summary": "La matrícula en la formación profesional de grado medio, también conocidos popularmente como módulos, representó en el curso 2024-2025 el 37,1% de la matrícula conjunta de Bachillerato y Ciclos Format"
-    },
-    "category": "留学",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙失业新动态",
-    "original_title": "El curso escolar comienza con un sistema educativo al límite: huelgas, protestas docentes y conflictos en nueve autonomías",
+    "title": "西班牙教育新动态",
+    "original_title": "Colombia empeora en matemáticas y lectura, pero mejora en ciencias en el Informe PISA 2025",
     "source": {
       "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-09-01/el-curso-escolar-comienza-con-un-sistema-educativo-al-limite-huelgas-protestas-docentes-y-conflictos-en-nueve-autonomias.html",
-      "summary": "Los centros reabren con convocatorias de huelga en Madrid, Cataluña y Andalucía para exigir mejoras en la enseñanza pública. Otras seis autonomías son escenario de tensiones que pueden desembocar en p"
+      "url": "https://elpais.com/america-colombia/2026-09-08/colombia-empeora-en-matematicas-y-lectura-pero-mejora-en-ciencias-en-el-informe-pisa-2025.html",
+      "summary": "La OCDE matiza que el análisis debe tomar en cuenta la expansión de la educación secundaria a más alumnos de contextos vulnerables, antes excluidos de las pruebas"
     },
-    "category": "战争风险",
-    "date": "2026-09-07"
+    "category": "教育",
+    "date": "2026-09-08"
   },
   {
-    "title": "西班牙工作下降",
-    "original_title": "La Seguridad Social suspende la reserva del puesto de trabajo a los 545 días de baja médica",
+    "title": "西班牙教育下降",
+    "original_title": "PISA 2025: el rendimiento de los alumnos más ricos cae más del doble que el de los más desfavorecidos",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/pisa-2025-rendimiento-alumnos-ricos-cae-doble-desfavorecidos_1_2235966.html",
+      "summary": "España tiene mucho que mejorar en educación. Según los datos del Informe PISA 2025, publicado este martes, el rendimiento de los alumnos españoles ha caído en una década 16 puntos en ciencias, 29 en m"
+    },
+    "category": "教育",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙教育新动态 (1)",
+    "original_title": "Informe PISA 2025: los resultados de matemáticas y lectura de los alumnos españoles se hunden a mínimos históricos",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/07/6a9e8b06468aeb8f278b4597.html",
-      "summary": "La Ley General de la Seguridad Social establece que la incapacidad temporal tiene una duración duración máxima de 545 días, 18 meses, independientemente de la causa que la motive, por lo que transcurr"
+      "url": "https://www.expansion.com/economia/2026/09/08/6a9fbb3f468aebbf458b45a6.html",
+      "summary": "El informe PISA de la OCDE de 2025, el primero que evalúa el currículo de la educación tras la aprobación de la LOMLOE, obtiene sus peores resultados académicos en Lectura, Matemáticas y Ciencias, con"
     },
-    "category": "工作",
-    "date": "2026-09-07"
+    "category": "教育",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙税收新动态",
+    "original_title": "El Gobierno británico ve prioritario controlar el gasto público",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/07/6a9ef7f8e5fdea0b358b456e.html",
+      "summary": "El titular de Hacienda, John Healy, asegura que no es \"nada progresista\" destinar casi el 10% del presupuesto a pagar intereses y no descarta una subida de impuestos en los presupuestos de octubre.&nb"
+    },
+    "category": "税务",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙学生新动态",
+    "original_title": "México acentúa su caída en matemáticas en las pruebas PISA de 2025",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/mexico/2026-09-08/mexico-acentua-su-caida-en-matematicas-en-las-pruebas-pisa-de-2025.html",
+      "summary": "Solo el 30% de los estudiantes de 15 años alcanzó el nivel básico en el área, cuando la media de la OCDE es del 65%, y apenas los hay de alto rendimiento"
+    },
+    "category": "留学",
+    "date": "2026-09-08"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Calendario escolar 2026-2027 en España: inicio de curso, festivos y vacaciones en cada comunidad",
+    "original_title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
     "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-08-27/calendario-escolar-2026-2027-en-espana-inicio-de-curso-festivos-y-vacaciones-en-cada-comunidad.html",
-      "summary": "La vuelta al cole, las vacaciones de Navidad y Semana Santa, y los días no lectivos varían según cada comunidad y ciudad autónoma. Consulte a continuación cuándo es el inicio del curso, los puentes y "
+      "name": "El País",
+      "url": "https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html",
+      "summary": "La región sigue por debajo de la media de los países de la OCDE y registra sus peores resultados en 20 años en matemáticas en Argentina y México"
     },
     "category": "政策",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   },
   {
-    "title": "西班牙外国人新动态",
-    "original_title": "El Gobierno y la Junta Electoral apelan al derecho al voto para rechazar ante el Supremo la paralización de la 'ley de nietos'",
+    "title": "西班牙教育下降 (1)",
+    "original_title": "Educación atribuye los resultados PISA a la falta de comprensión lectora y rechaza vincularlos a la 'ley Celaá'",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-junta-electoral-apelan-derecho-voto-para-rechazar-ante-supremo-paralizacion-ley-nietos_7033618_0.html",
-      "summary": "Vox y Iustitia Europa piden suspender cautelarmente la ley, que concede la nacionalidad a extranjeros descendientes de españoles, ante el riesgo de que se produzcan \"efectos irreversibles\" sobre el ce"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/vida/20260908/11629898/educacion-atribuye-resultados-pisa-falta-comprension-lectora-rechaza-vincularlos-ley-celaa.html",
+      "summary": "La ministra Milagros Tolón recalca que la ley “fue la que estableció el enfoque competencial en la enseñanza” y alega que&nbsp;la solución pasa por “seguir trabajando en la lectura comprensiva”"
+    },
+    "category": "教育",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Cómo sale Catalunya en el informe PISA 2025",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/vida/20260908/11628769/como-sale-catalunya-pisa-2025.html",
+      "summary": "Si fueran comparativos, el rendimiento de los jóvenes catalanes se situaría en cabeza de todas las autonomías excepto en matemáticas que se vería superada por Madrid"
     },
     "category": "政策",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "El curso escolar en Ceuta empieza con presencia militar en los centros: \"Ya venía sola al cole, pero voy a volver a traerla yo\"",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/inicio-curso-escolar-ceuta-procupacion-necesidad-recuperar-rutina-escolar_7033983_0.html",
+      "summary": "Los colegios e institutos de Ceuta han inaugurado el curso escolar este martes 8 de septiembre"
+    },
+    "category": "政策",
+    "date": "2026-09-08"
   },
   {
     "title": "西班牙政策下降",
-    "original_title": "El hartazgo de los docentes marca el inicio del nuevo curso con un calendario de huelgas educativas",
+    "original_title": "El descalabro de Euskadi, la caída de Valencia y Navarra y otros siete gráficos sobre los resultados de PISA",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/hartazgo-docentes-marca-inicio-nuevo-curso-calendario-huelgas-educativas_1_2235712.html",
-      "summary": "Bajar los ratios, reducir la burocracia, subir los sueldos, frenar los recortes de aulas y plantillas. Estas son algunas de las reivindicaciones del profesorado de toda España que han llevado a activa"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/enorme-caida-euskadi-exclusion-catalunya-siete-graficos-resultados-pisa_1_13493996.html",
+      "summary": "La edición 2025 de PISA es un varapalo para España, que cae más que su entorno y amplía su diferencia con los países de referencia; entre los puntos fuertes del sistema español está su equidad: la dif"
     },
     "category": "政策",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
+  },
+  {
+    "title": "西班牙伊朗局势新规",
+    "original_title": "Trump propone cambiar el nombre de Nuevo México a 'Nueva América'",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/2026/09/08/trump-propone-cambiar-nombre-nuevo-mexico-nueva-america",
+      "summary": "La semana pasada, Trump propuso rebautizar el estrecho de Ormuz como 'estrecho Trump' mientras continúa la guerra con Irán, aunque horas después dio a entender que no iba en serio."
+    },
+    "category": "伊朗局势",
+    "date": "2026-09-08"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "El IRAV, un indicador poco conocido que guía el precio del alquiler desde 2023 y que critican los sindicatos",
+    "original_title": "Bruselas arma a los ayuntamientos frente a Booking y Airbnb con su Ley de Vivienda",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/irav-indicador-conocido-guia-precio-alquiler-2023-critican-sindicatos_1_2235461.html",
-      "summary": "Para quienes viven de alquiler, no es extraño recibir cada año el mensaje de su casero para actualizar la mensualidad que pagan por su vivienda. En España, los alquileres dentro del contrato pueden su"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/08/6a9f24c5e5fdea53268b45a9.html",
+      "summary": "El reglamento aspira a librar a los municipios del riesgo legal de intervenir el mercado de vivienda cuando se determine que una zona está tensionada.&nbsp;Leer"
     },
     "category": "租房",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   },
   {
-    "title": "西班牙大学变化",
-    "original_title": "De academia dental a primera universidad privada de Baleares: el impulso del PP y casi un millón en ayudas",
+    "title": "西班牙经济推出",
+    "original_title": "Cuerpo avanza un crecimiento del PIB del 0,6% en el tercer trimestre pese a la guerra",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/academia-dental-primera-universidad-privada-baleares-impulso-pp-millon-ayudas_1_2235884.html",
-      "summary": "Desde 1978, las Islas Baleares han contado con una única universidad pública, la Universitat de les Illes Balears (UIB). Sin embargo, este año ha cambiado todo con la aprobación de la primera universi"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/07/6a9ef926e5fdea41538b45a3.html",
+      "summary": "El ministro de Economía descarta, de momento, una revisión del cuadro macro, que apunta a un crecimiento del 2,6% este año, e insiste en que el Ejecutivo presentará Presupuestos para 2027 con intenció"
     },
-    "category": "留学",
-    "date": "2026-09-07"
+    "category": "战争风险",
+    "date": "2026-09-08"
   },
   {
-    "title": "西班牙住房推出",
-    "original_title": "Egipto condena a muerte a la famosa presentadora Sarah Khalifa por tráfico de drogas",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/09/07/condenan-muerte-egipto-presentadora-television-sarah-khalifa-narcotrafico",
-      "summary": "La conocida presentadora egipcia Sarah Khalifa ha sido condenada a muerte junto con otras 11 personas por fabricar y traficar con drogas. Las autoridades se incautaron de más de 750 kilos de estupefac"
-    },
-    "category": "租房",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "La IA tiene un problema con el agua: su consumo podría triplicarse en 2030",
-    "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/business/2026/09/07/pueden-las-grandes-tecnologicas-frenar-la-creciente-sed-de-agua-de-los-centros-de-datos-de",
-      "summary": "Los centros de datos consumieron 222.000 millones de litros de agua para refrigeración en 2025 y, sin medidas para reducir su uso, la cifra podría acercarse a los 644.000 millones en 2030. Nvidia, Mic"
-    },
-    "category": "政策",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙政策排名",
-    "original_title": "IE e IESE, en el 'top 15' mundial de MBA para emprendedores",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/emprendedores/2026/09/07/6a9ea29ee5fdea83548b4593.html",
-      "summary": "IE e IESE se sitúan entre las 15 mejores instituciones del mundo con más graduados de MBA que fundan 'start up' financiadas por capital riesgo, según el ránking global 'PitchBook 2026', en el que Esad"
-    },
-    "category": "政策",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Sánchez defiende \"la intervención de la vivienda\" con contratos de alquiler público que podrán prorrogarse hasta 75 años",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/09/07/6a9e7f61468aebb5348b45ac.html",
-      "summary": "El presidente del Gobierno, Pedro Sánchez, ha defendido su política de vivienda asegurando que \"es una intervención de un mercado que no está funcionando\".&nbsp;Leer"
-    },
-    "category": "租房",
-    "date": "2026-09-07"
-  },
-  {
-    "title": "西班牙奖学金新动态",
-    "original_title": "Más de la mitad de los alumnos en riesgo de pobreza no tiene beca para el comedor",
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Vuelta al colegio en Ceuta: “En El Príncipe estamos abandonados, no importan ni los niños”",
     "source": {
       "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-09-03/mas-de-la-mitad-de-los-alumnos-en-riesgo-de-pobreza-no-tiene-beca-para-el-comedor.html",
-      "summary": "Un informe estima que 1,2 millones de escolares en peligro de exclusión social quedan fuera del sistema de ayudas"
+      "url": "https://elpais.com/educacion/2026-09-08/vuelta-al-colegio-en-ceuta-en-el-principe-estamos-abandonados-no-importan-ni-los-ninos.html",
+      "summary": "La falta de limpieza y la incertidumbre entre las familias y docentes marcan el regreso de los menores a las aulas"
     },
     "category": "政策",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   },
   {
-    "title": "西班牙失业新动态 (1)",
-    "original_title": "España se queda sin geólogos: “Sin ellos no podemos salvar vidas ni ahorrar dinero público”",
+    "title": "西班牙政策下降 (1)",
+    "original_title": "Estados Unidos se desploma en lectura en el informe PISA 2025 con el peor resultado en su historia",
     "source": {
       "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-08-24/espana-se-queda-sin-geologos-sin-ellos-no-podemos-salvar-vidas-ni-ahorrar-dinero-publico.html",
-      "summary": "Los graduados descienden un 37% en nueve años y las empresas llaman a las facultades con intención de contratar y no encuentran alumnos en paro. Los costes de la dana o el volcán de La Palma hubiesen "
+      "url": "https://elpais.com/us/2026-09-08/estados-unidos-se-desploma-en-lectura-en-el-informe-pisa-2025-con-el-peor-resultado-en-su-historia.html",
+      "summary": "Los alumnos estadounidenses bajan 30 puntos en comprensión lectora, aunque se mantienen por encima de la media también en matemáticas y ciencias"
     },
     "category": "政策",
-    "date": "2026-09-07"
+    "date": "2026-09-08"
   }
 ]

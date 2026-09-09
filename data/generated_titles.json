@@ -1,102 +1,91 @@
 [
   {
+    "title": "西班牙物价新动态",
+    "original_title": "Tres alicientes para seguir invirtiendo en Repsol, según Barclays",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/09/09/6aa126d0e5fdea9e4f8b456e.html",
+      "summary": "La conquista de los 100 dólares por barril en el precio del petróleo vuelve a acelerar las subidas del valor estrella del Ibex en 2026. Los analistas de Barclays reiteran hoy su optimismo sobre Repsol"
+    },
+    "category": "油价",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "西班牙物价新动态 (1)",
+    "original_title": "Los precios del gas en Europa siguen subiendo mientras la AIE pide reservas de emergencia",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/business/2026/09/09/los-precios-del-gas-en-europa-siguen-subiendo-mientras-la-aie-pide-reservas-de-emergencia",
+      "summary": "Con los precios del gas en Europa en máximos desde principios de 2023, la Agencia Internacional de la Energía insta a los gobiernos a estudiar reservas estratégicas, contratos más flexibles y mayor co"
+    },
+    "category": "政策",
+    "date": "2026-09-09"
+  },
+  {
     "title": "西班牙教育新动态",
-    "original_title": "Colombia empeora en matemáticas y lectura, pero mejora en ciencias en el Informe PISA 2025",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/america-colombia/2026-09-08/colombia-empeora-en-matematicas-y-lectura-pero-mejora-en-ciencias-en-el-informe-pisa-2025.html",
-      "summary": "La OCDE matiza que el análisis debe tomar en cuenta la expansión de la educación secundaria a más alumnos de contextos vulnerables, antes excluidos de las pruebas"
-    },
-    "category": "教育",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "西班牙教育下降",
-    "original_title": "PISA 2025: el rendimiento de los alumnos más ricos cae más del doble que el de los más desfavorecidos",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/pisa-2025-rendimiento-alumnos-ricos-cae-doble-desfavorecidos_1_2235966.html",
-      "summary": "España tiene mucho que mejorar en educación. Según los datos del Informe PISA 2025, publicado este martes, el rendimiento de los alumnos españoles ha caído en una década 16 puntos en ciencias, 29 en m"
-    },
-    "category": "教育",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "Informe PISA 2025: los resultados de matemáticas y lectura de los alumnos españoles se hunden a mínimos históricos",
+    "original_title": "Análisis del Informe PISA 2025: expertos advierten de sus limitaciones para explicar el rendimiento educativo",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/08/6a9fbb3f468aebbf458b45a6.html",
-      "summary": "El informe PISA de la OCDE de 2025, el primero que evalúa el currículo de la educación tras la aprobación de la LOMLOE, obtiene sus peores resultados académicos en Lectura, Matemáticas y Ciencias, con"
+      "url": "https://www.expansion.com/economia/2026/09/09/6aa0f416468aeb7b608b4598.html",
+      "summary": "Los datos del Informe PISA deben ser analizados con tiempo y atención: expertos en educación, sociología, desigualdad, tecnología educativa y pedagogía  piden huir del sesgo político y abrazar la comp"
     },
     "category": "教育",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙税收新动态",
-    "original_title": "El Gobierno británico ve prioritario controlar el gasto público",
+    "title": "西班牙外国人推出",
+    "original_title": "Representantes de los españoles en el extranjero expresan su “firme rechazo” a la paralización del derecho al voto de nacionalizados por la ‘ley de nietos’",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/07/6a9ef7f8e5fdea0b358b456e.html",
-      "summary": "El titular de Hacienda, John Healy, asegura que no es \"nada progresista\" destinar casi el 10% del presupuesto a pagar intereses y no descarta una subida de impuestos en los presupuestos de octubre.&nb"
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-09-09/representantes-de-los-espanoles-en-el-extranjero-expresan-su-firme-rechazo-a-la-paralizacion-del-derecho-al-voto-de-nacionalizados-por-la-ley-de-nietos.html",
+      "summary": "La decisión “afecta al ejercicio de la participación política”, denuncia el Consejo General de la Ciudadanía Española en el Exterior"
     },
-    "category": "税务",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "西班牙学生新动态",
-    "original_title": "México acentúa su caída en matemáticas en las pruebas PISA de 2025",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/mexico/2026-09-08/mexico-acentua-su-caida-en-matematicas-en-las-pruebas-pisa-de-2025.html",
-      "summary": "Solo el 30% de los estudiantes de 15 años alcanzó el nivel básico en el área, cuando la media de la OCDE es del 65%, y apenas los hay de alto rendimiento"
-    },
-    "category": "留学",
-    "date": "2026-09-08"
+    "category": "政策",
+    "date": "2026-09-09"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Los países de Latinoamérica retroceden en el informe PISA 2025 y Estados Unidos se hunde en lectura",
+    "original_title": "¿Puedo votar si me han concedido la nacionalidad española o la estoy tramitando?",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html",
-      "summary": "La región sigue por debajo de la media de los países de la OCDE y registra sus peores resultados en 20 años en matemáticas en Argentina y México"
+      "url": "https://elpais.com/videos/2026-09-09/puedo-votar-si-me-han-concedido-la-nacionalidad-espanola-o-la-estoy-tramitando.html",
+      "summary": "La decisión de Tribunal Supremo sobre la ‘ley de nietos’ abre una etapa de incertidumbre para cientos de miles de personas que, siendo ya españolas, no podrán votar"
     },
     "category": "政策",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙教育下降 (1)",
-    "original_title": "Educación atribuye los resultados PISA a la falta de comprensión lectora y rechaza vincularlos a la 'ley Celaá'",
+    "title": "西班牙工作下降",
+    "original_title": "Michelle Pfeiffer y David E. Kelley, la pareja que nunca quiso mezclar amor y  trabajo rompe su regla 30 años después",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20260908/11629898/educacion-atribuye-resultados-pisa-falta-comprension-lectora-rechaza-vincularlos-ley-celaa.html",
-      "summary": "La ministra Milagros Tolón recalca que la ley “fue la que estableció el enfoque competencial en la enseñanza” y alega que&nbsp;la solución pasa por “seguir trabajando en la lectura comprensiva”"
+      "name": "El País",
+      "url": "https://elpais.com/smoda/famosos/2026-09-09/michelle-pfeiffer-y-david-e-kelley-la-pareja-que-nunca-quiso-mezclar-amor-y-trabajo-rompe-su-regla-30-anos-despues.html",
+      "summary": "La actriz, nominada al Emmy a mejor actriz de reparto por ‘Margo tiene problemas de dinero’, siempre consideró demasiado arriesgado trabajar con su marido, uno de los  grandes creadores de la televisi"
     },
-    "category": "教育",
-    "date": "2026-09-08"
+    "category": "工作",
+    "date": "2026-09-09"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Cómo sale Catalunya en el informe PISA 2025",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20260908/11628769/como-sale-catalunya-pisa-2025.html",
-      "summary": "Si fueran comparativos, el rendimiento de los jóvenes catalanes se situaría en cabeza de todas las autonomías excepto en matemáticas que se vería superada por Madrid"
-    },
-    "category": "政策",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "El curso escolar en Ceuta empieza con presencia militar en los centros: \"Ya venía sola al cole, pero voy a volver a traerla yo\"",
+    "original_title": "El Supremo pone el foco en la orden de la hermana de Puente, que elevó a 2,5 millones los nacionalizados por la 'Ley de Nietos'",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/inicio-curso-escolar-ceuta-procupacion-necesidad-recuperar-rutina-escolar_7033983_0.html",
-      "summary": "Los colegios e institutos de Ceuta han inaugurado el curso escolar este martes 8 de septiembre"
+      "url": "https://www.20minutos.es/nacional/supremo-pone-foco-orden-hermana-puente-que-elevo-2-5-millones-los-nacionalizados-por-ley-nietos_7034532_0.html",
+      "summary": "El CERA se eleva a 2,7 millones de personas y ha crecido un 22% desde la aprobación de la 'ley de nietos'. De los casi 2,5 millones de solicitudes recibidas para tramitar la nacionalidad, ya se han ap"
     },
     "category": "政策",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "La UE propone restringir la compra de segundas viviendas en zonas tensionadas y penalizar fiscalmente las casas vacías",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/ue-propone-restringir-compra-segunda-residencia-zonas-tensionadas-penalizar-fiscalmente-viviendas-vacias_1_13496515.html",
+      "summary": "La Comisión Europea diseña unos condicionantes y exigencias muy estrictas para demostrar que una zona urbana está tensionada por los precios y obliga a las administraciones a demostrar que la activida"
+    },
+    "category": "租房",
+    "date": "2026-09-09"
   },
   {
     "title": "西班牙政策下降",
@@ -107,61 +96,72 @@
       "summary": "La edición 2025 de PISA es un varapalo para España, que cae más que su entorno y amplía su diferencia con los países de referencia; entre los puntos fuertes del sistema español está su equidad: la dif"
     },
     "category": "政策",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙伊朗局势新规",
-    "original_title": "Trump propone cambiar el nombre de Nuevo México a 'Nueva América'",
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "El Supremo alienta la conspiranoia del PP y Vox de fraude electoral y suspende el voto a 500.000 españoles",
     "source": {
-      "name": "Euronews ES",
-      "url": "http://es.euronews.com/2026/09/08/trump-propone-cambiar-nombre-nuevo-mexico-nueva-america",
-      "summary": "La semana pasada, Trump propuso rebautizar el estrecho de Ormuz como 'estrecho Trump' mientras continúa la guerra con Irán, aunque horas después dio a entender que no iba en serio."
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/supremo-alienta-conspiranoia-pp-vox-fraude-electoral-suspende-voto-500-000-espanoles_1_2235998.html",
+      "summary": "Se trata de una decisión que cuestiona la aplicación de una ley –la de Memoria Democrática de 2022, que permitió optar a la nacionalidad española a hijos y nietos de exiliados del franquismo– y el eje"
     },
     "category": "伊朗局势",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "Bruselas arma a los ayuntamientos frente a Booking y Airbnb con su Ley de Vivienda",
+    "title": "西班牙政策推出",
+    "original_title": "La Fundación Alternativas alerta de que la dependencia de EEUU se ha convertido en “un lastre” para la UE",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/08/6a9f24c5e5fdea53268b45a9.html",
-      "summary": "El reglamento aspira a librar a los municipios del riesgo legal de intervenir el mercado de vivienda cuando se determine que una zona está tensionada.&nbsp;Leer"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/fundacion-alternativas-alerta-dependencia-eeuu-convertido-lastre-ue_1_2236034.html",
+      "summary": "La Unión Europea ha llegado tarde a su propia autonomía y ahora está pagando la factura. Esa es la tesis que atraviesa el Informe sobre el estado de la Unión Europea 2026, presentado este miércoles po"
+    },
+    "category": "政策",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "西班牙移民新动态",
+    "original_title": "Finlandia termina la construcción de una valla de 200 km en la frontera con Rusia",
+    "source": {
+      "name": "Euronews ES",
+      "url": "http://es.euronews.com/my-europe/2026/09/09/finlandia-termina-construccion-valla-200-km-frontera-rusia",
+      "summary": "Helsinki afirma que la valla ayudará a proteger la frontera más larga de la OTAN, en un momento de creciente preocupación por la amenaza híbrida rusa y el posible uso de la inmigración para presionar "
+    },
+    "category": "移民",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "Bruselas fija cinco requisitos para habilitar a los ayuntamientos a intervenir el mercado de vivienda",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/09/6aa136a8468aebc71b8b4578.html",
+      "summary": "La Ley de Vivienda Asequible europea se centra en dotar a las autoridades de armas legales para habilitar los límites a plataformas como Airbnb o Booking, pero fija una serie de condiciones.&nbsp;Leer"
     },
     "category": "租房",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙经济推出",
-    "original_title": "Cuerpo avanza un crecimiento del PIB del 0,6% en el tercer trimestre pese a la guerra",
+    "title": "西班牙通胀新动态",
+    "original_title": "El petróleo alcanza los 100 dólares",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/07/6a9ef926e5fdea41538b45a3.html",
-      "summary": "El ministro de Economía descarta, de momento, una revisión del cuadro macro, que apunta a un crecimiento del 2,6% este año, e insiste en que el Ejecutivo presentará Presupuestos para 2027 con intenció"
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/materias-primas/2026/09/09/6aa10ebf468aeb232c8b4592.html",
+      "summary": "Uno de los principales focos de inflación, el petróleo, vuelve a cotizar en triples dígitos. El barril de Brent alcanza hoy los 100 dólares por primera vez desde finales de julio.&nbsp;Leer"
     },
-    "category": "战争风险",
-    "date": "2026-09-08"
+    "category": "油价",
+    "date": "2026-09-09"
   },
   {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "Vuelta al colegio en Ceuta: “En El Príncipe estamos abandonados, no importan ni los niños”",
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Today in Spain: A roundup of the latest news on Wednesday",
     "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-09-08/vuelta-al-colegio-en-ceuta-en-el-principe-estamos-abandonados-no-importan-ni-los-ninos.html",
-      "summary": "La falta de limpieza y la incertidumbre entre las familias y docentes marcan el regreso de los menores a las aulas"
-    },
-    "category": "政策",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "西班牙政策下降 (1)",
-    "original_title": "Estados Unidos se desploma en lectura en el informe PISA 2025 con el peor resultado en su historia",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/us/2026-09-08/estados-unidos-se-desploma-en-lectura-en-el-informe-pisa-2025-con-el-peor-resultado-en-su-historia.html",
-      "summary": "Los alumnos estadounidenses bajan 30 puntos en comprensión lectora, aunque se mantienen por encima de la media también en matemáticas y ciencias"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20260909/today-in-spain-a-roundup-of-the-latest-news-on-wednesday-99",
+      "summary": "Ceuta leader demands EU help after migrant rush, number of foreign autónomos in Spain rises exponentially, private care homes prices keep steady in Spain and more news on Wednesday September 9th."
     },
     "category": "政策",
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   }
 ]

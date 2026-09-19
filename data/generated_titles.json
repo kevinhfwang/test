@@ -1,5 +1,16 @@
 [
   {
+    "title": "西班牙教育新规",
+    "original_title": "La IA no vuelve al cole este curso en la Gran Manzana",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/estilo-vida/2026/09/19/6aad9238468aebdf268b4594.html",
+      "summary": "El alcalde ha vetado el uso de inteligencia artificial en las aulas de educación primaria para 2026-2027. Los alumnos de secundaria de Nueva York recibirán clases sobre los riesgos y sesgos de la IA.&"
+    },
+    "category": "教育",
+    "date": "2026-09-19"
+  },
+  {
     "title": "西班牙签证下降",
     "original_title": "El INE recorta el crecimiento del PIB en 2025 al 2,6%, eleva el de 2024 al 3,7% y rebaja el de 2023 al 2,4%",
     "source": {
@@ -8,7 +19,7 @@
       "summary": "El Instituto Nacional de Estadística (INE) ha revisado este viernes dos décimas a la baja el crecimiento del Producto Interior Bruto (PIB) español en 2025, hasta el 2,6%, al tiempo que ha elevado en o"
     },
     "category": "签证",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙高考新动态",
@@ -19,7 +30,7 @@
       "summary": "La PAU moldea la ESO y el Bachillerato más que las sucesivas leyes educativas"
     },
     "category": "政策",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙住房新动态",
@@ -30,29 +41,40 @@
       "summary": "El metro cuadrado alcanza los 2.355 euros después de crecer un 12,5% con respecto al segundo trimestre de 2025, aunque modera su subida."
     },
     "category": "租房",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
-    "title": "西班牙移民新动态",
-    "original_title": "Feijóo cree que los incidentes en Ceuta demuestran que \"esto no es inmigración\" y que \"no vienen a buscar trabajo\"",
+    "title": "西班牙伊朗局势新动态",
+    "original_title": "Irán ejecuta a un hombre condenado por supuesto espionaje y colaboración con Israel",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-cree-que-los-incidentes-ceuta-demuestran-que-esto-no-es-inmigracion-que-no-vienen-buscar-trabajo_7038447_0.html",
-      "summary": "\"Vienen a enfrentarse contra el orden público constitucional y contra las fuerzas de seguridad\", ha dicho el líder popular, que ha vuelto a exigir la expulsión de todos los inmigrantes de Ceuta. A su "
+      "url": "https://www.20minutos.es/internacional/iran-ejecuta-un-hombre-condenado-por-supuesto-espionaje-colaboracion-con-israel_7038779_0.html",
+      "summary": "El Poder Judicial iraní sostiene que Hosein Pederan facilitó al Mosad información sobre instalaciones militares y de misiles en Isfahán durante la guerra de junio de 2025"
     },
-    "category": "移民",
-    "date": "2026-09-18"
+    "category": "伊朗局势",
+    "date": "2026-09-19"
   },
   {
-    "title": "西班牙买房新动态",
-    "original_title": "Un gángster francoisraelí hizo fortuna con Airsoft, un software usado para realizar cientos de estafas online",
+    "title": "西班牙战争风险批准",
+    "original_title": "Trump aprueba duras sanciones contra Rusia para cortar fondos de la guerra en Ucrania",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/ganster-francoisraeli-hizo-fortuna-airsoft-software-usado-realizar-cientos-estafas-online_1_2236429.html",
-      "summary": "Aeropuerto de Casablanca, 6 de julio de 2025. Rony Hadjedj, un multimillonario francoisraelí que ahora tiene 36 años, desembarca de un avión procedente de Dubái. La policía le arresta en cumplimiento "
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/09/19/trump-aprueba-duras-sanciones-contra-rusia-para-cortar-fondos-de-la-guerra-en-ucrania",
+      "summary": "El proyecto de ley recibió fuerte oposición de legisladores demócratas, favorables a sanciones más duras contra Rusia, pero contrarios a las cláusulas que permitirían a Trump imponer aranceles libreme"
     },
-    "category": "中东冲突",
-    "date": "2026-09-18"
+    "category": "战争风险",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "El retraso en la ley 'cripto' de EEUU frena el despegue del sector",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/criptomonedas/2026/09/19/6aad7637e5fdeab6628b4583.html",
+      "summary": "Esta semana, el Senado estadounidense tumbó la aprobación de la 'Clarity Act', la normativa que propone un marco legal integral para los criptoactivos, muy esperada por los inversores.Uno de los princ"
+    },
+    "category": "战争风险",
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙税收下降",
@@ -63,105 +85,83 @@
       "summary": "El primer ministro de Portugal, Luís Montenegro, ha anunciado nuevas medidas para hacer frente al aumento del coste de vida derivado de la guerra en Oriente Medio, entre ellas una reducción del impues"
     },
     "category": "税务",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
-    "title": "西班牙政策改革",
-    "original_title": "El PSOE estudia una reforma para salvar el “vacío legal” planteado por el Supremo para devolver a migrantes que entren a nado",
+    "title": "西班牙教育新动态",
+    "original_title": "El Gobierno propone incorporar progresivamente a 45.000 estudiantes con discapacidad a la escuela ordinaria",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-09-18/el-psoe-estudia-una-reforma-para-salvar-el-vacio-legal-planteado-por-el-supremo-para-devolver-a-migrantes-que-entren-a-nado.html",
-      "summary": "El PP ya registró, antes de la entrada masiva, una propuesta de cambio con el mismo objetivo. El alto tribunal había fijado doctrina el 8 de julio sobre los retornos inmediatos, introducidos en la ley"
-    },
-    "category": "政策",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "西班牙学生改革",
-    "original_title": "Detenido ‘El Trompas’, presunto asesino de la estudiante española Claudia Tacoronte en México",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/mexico/2026-09-18/detenido-el-trompas-presunto-asesino-de-la-espanola-claudia-tacoronte-en-cuautla.html",
-      "summary": "Las autoridades capturan en Cuautla a Francisco Javier N, el acusado de matar a la alumna de intercambio de 21 años el fin de semana pasado en la misma localidad. Se había rapado el pelo y lleva ropa "
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-09-18/el-gobierno-propone-incorporar-progresivamente-a-45000-estudiantes-con-discapacidad-a-la-escuela-ordinaria.html",
+      "summary": "Las comunidades gobernadas por el PP votan en contra del plan del Ministerio de Educación, que plantea dotar a los centros de más recursos y perfiles profesionales distintos"
     },
     "category": "留学",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
+  },
+  {
+    "title": "西班牙移民新动态",
+    "original_title": "Feijóo cree que los incidentes en Ceuta demuestran que \"esto no es inmigración\" y que \"no vienen a buscar trabajo\"",
+    "source": {
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/nacional/feijoo-cree-que-los-incidentes-ceuta-demuestran-que-esto-no-es-inmigracion-que-no-vienen-buscar-trabajo_7038447_0.html",
+      "summary": "\"Vienen a enfrentarse contra el orden público constitucional y contra las fuerzas de seguridad\", ha dicho el líder popular, que ha vuelto a exigir la expulsión de todos los inmigrantes de Ceuta. A su "
+    },
+    "category": "移民",
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Las “terapias de experiencia extrema”, un conjunto de prácticas próximas a las pseudoterapias sin aval científico",
+    "original_title": "Jonathan Andic cobró 48 millones en dividendos del holding familiar en el 2025",
     "source": {
       "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/barcelona/20260722/11598587/terapias-experiencia-extrema-conjunto-practicas-proximas-pseudoterapias-aval-cientifico.html",
-      "summary": "Una ayudante de la terapeuta de los Andic afirma que Jonathan recibió instrucciones de su terapeuta para someterse con su padre a una situación límite"
+      "url": "https://www.lavanguardia.com/economia/20260919/11638539/jonathan-andic-cobro-48-millones-dividendos-holding-familiar-2025.html",
+      "summary": "El primogénito de Isak Andic ingresó el dinero a través de su sociedad Black Indigo AR"
     },
     "category": "政策",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
+  },
+  {
+    "title": "西班牙通胀上涨",
+    "original_title": "La inflación sube al ático",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20260919/11638680/inflacion-sube-atico.html",
+      "summary": "La subida de precios del 2022 golpeó a la izquierda; la que viene ahora podría ser la puntilla"
+    },
+    "category": "政策",
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Los castillos y palacios más populares de Europa, según las opiniones de los viajeros",
+    "original_title": "Lotería Nacional de hoy sábado 19 de septiembre de 2026, en directo | Resultados y premios",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/viajes/2026/09/18/los-castillos-y-palacios-mas-populares-de-europa-segun-las-opiniones-de-los-viajeros",
-      "summary": "Del Castillo de Praga a la fortaleza de Drácula en Rumanía, estos son los palacios y castillos europeos que más interés despiertan entre los viajeros en 2026."
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/loteria-nacional-hoy-sabado-directo-resultados-premios_7038783_6.html",
+      "summary": "Última hora del sorteo de Lotería Nacional de este sábado, que pone en juego 42 millones de euros."
     },
     "category": "政策",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "Últimas noticias | 18 septiembre 2026 - Mediodía",
+    "original_title": "Comprobar Lotería Nacional: resultados de hoy, sábado 19 de septiembre de 2026",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/09/18/ultimas-noticias-18-septiembre-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 18 septiembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-19-septiembre-2026_7038808_0.html",
+      "summary": "El número premiado en el sorteo de la Lotería Nacional del sábado 19 de septiembre de 2026 es el 76112. Puedes consultar todos los resultados en la web de 20minutos.es."
     },
     "category": "政策",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Buffett deja la presidencia de Berkshire Hathaway, que asume su hijo Howard",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/09/18/6aad157be5fdea17108b456d.html",
-      "summary": "Buffett anunció la noticia el viernes en una carta dirigida a los inversores.&nbsp;Leer"
-    },
-    "category": "居留",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   },
   {
     "title": "西班牙政策新动态 (3)",
-    "original_title": "La Airef advierte del escaso margen para mantener las ayudas a los carburantes y empeora su previsión de déficit",
+    "original_title": "Últimas noticias | 19 septiembre 2026 - Mediodía",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/17/6aabada5e5fdea376a8b4584.html",
-      "summary": "La presidenta de la Autoridad Independiente de Responsabilidad Fiscal (Airef), Inés Olóndriz, descarta el cumplimiento de la regla de gasto europea este mismo año e insta al Gobierno a mantener una vi"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/video/2026/09/19/ultimas-noticias-19-septiembre-2026-mediodia",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 19 septiembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "西班牙大学新动态",
-    "original_title": "La Universidad de Granada cancela la estancia de tres estudiantes españoles en Morelos tras el asesinato de Claudia Tacoronte",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/mexico/2026-09-14/la-universidad-de-granada-cancela-la-estancia-de-tres-estudiantes-espanoles-en-morelos-en-mexico-tras-el-asesinato-de-claudia-tacoronte.html",
-      "summary": "El rectorado afirma que desconocía el feminicidio de otras tres alumnas del centro académico mexicano en lo que va de año"
-    },
-    "category": "留学",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "西班牙移民新规",
-    "original_title": "El realojo de migrantes en el puerto de Ceuta termina y deja a miles de personas sin plaza que regresan a las playas",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-09-18/tension-y-caos-en-el-traslado-de-los-migrantes-de-la-playa-benitez-al-puerto-de-ceuta.html",
-      "summary": "La policía traslada a unos 1.700 inmigrantes a las nuevas instalaciones en medio de una fuerte tensión marcada por una estampida, disparos al aire y varios heridos"
-    },
-    "category": "移民",
-    "date": "2026-09-18"
+    "date": "2026-09-19"
   }
 ]

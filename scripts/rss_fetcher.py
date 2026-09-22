@@ -45,6 +45,9 @@ RSS_SOURCES = [
     {"name": "Fotocasa", "url": "https://www.fotocasa.es/blog/rss.xml"},
     # 教育类专项源（FP/留学/中小学）
     {"name": "El País Educación", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/educacion/portada"},
+    {"name": "Europa Press Educación", "url": "https://www.europapress.es/rss/rss.aspx?ch=468"},
+    {"name": "Europa Press Sociedad", "url": "https://www.europapress.es/rss/rss.aspx?ch=73"},
+    {"name": "Educación 3.0", "url": "https://www.educaciontrespuntocero.com/feed/"},
     {"name": "El País Sociedad", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"},
     {"name": "20 Minutos Nacional", "url": "https://www.20minutos.es/rss/nacional/"},
 ]
@@ -81,6 +84,7 @@ FILTER_KEYWORDS = [
     # FP职业教育与留学就业类 (新增)
     "formación profesional", "fp dual", "grado medio", "grado superior",
     "ciclo formativo", "fp básica", "vocational training",
+    "certificado de profesionalidad", "worldskills", "centro de referencia nacional",
     "selectividad", "ebau", "evau", "nota de corte",
     "erasmus", "estudiante internacional", "international student",
     "visado de estudiante", "student visa", "intercambio",

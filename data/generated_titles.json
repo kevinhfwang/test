@@ -1,9 +1,31 @@
 [
   {
+    "title": "西班牙政策推出",
+    "original_title": "SEO/BirdLife proporcionará a los colegios material didáctico sobre el jilguero europeo, Ave del Año 2026",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-seo-birdlife-proporcionara-colegios-material-didactico-jilguero-europeo-ave-ano-2026-20260921105426.html",
+      "summary": "SEO/BirdLife ha presentado la primera unidad didáctica vinculada a la campaña Ave del Año, una iniciativa que proporcionará recursos educativos gratuitos para Infantil, Primaria y Secundaria con el ob"
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Los jóvenes talentos españoles de la FP llegan a Shanghái para participar en WorldSkills 2026",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-jovenes-talentos-espanoles-fp-llegan-shanghai-participar-worldskills-2026-20260921145109.html",
+      "summary": "La delegación española de jóvenes talentos de la Formación Profesional ya está en Shanghái (China) para participar en WorldSkills 2026, la competición conocida como las olimpiadas de la FP, que se cel"
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
     "title": "西班牙高考新动态",
     "original_title": "Selectividad: estandarizar la pluralidad para mejorar la Secundaria (y de paso los resultados en PISA)",
     "source": {
-      "name": "El País Educación",
+      "name": "El País Sociedad",
       "url": "https://elpais.com/educacion/2026-09-16/selectividad-estandarizar-la-pluralidad-para-mejorar-la-secundaria-y-de-paso-los-resultados-en-pisa.html",
       "summary": "La PAU moldea la ESO y el Bachillerato más que las sucesivas leyes educativas"
     },
@@ -11,36 +33,14 @@
     "date": "2026-09-22"
   },
   {
-    "title": "西班牙伊朗局势飙升",
-    "original_title": "La guerra en Irán pasa factura a los autónomos y dispara en casi 1.800 euros sus gastos",
+    "title": "西班牙伊朗局势新规",
+    "original_title": "Trump amenaza con aniquilar Irán en un discurso en la Asamblea General de la ONU con tintes electorales",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/guerra-iran-pasa-factura-los-autonomos-dispara-casi-1-800-euros-sus-gastos-luz-gasolina_7039450_0.html",
-      "summary": "La asociación sectorial UPTA estima que hay un millón de profesionales y pequeños negocios que están especialmente expuestos a las subidas y reclama al Gobierno ayudas específicas."
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-09-22/trump-amenaza-con-aniquilar-iran-en-un-discurso-en-la-asamblea-general-de-la-onu-con-tintes-electorales.html",
+      "summary": "El presidente de EE UU dice que la guerra terminará tras las elecciones de noviembre, un nuevo plazo para un conflicto que se alarga ya siete meses pese a su promesa de que sería muy corto"
     },
     "category": "伊朗局势",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙居留新规",
-    "original_title": "El BOE hace efectivos nuevos cambios en Extranjería: estos son los requisitos que quedan anulados",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/boe-hace-efectivos-nuevos-cambios-extranjeria-requisitos-quedan-anulados_7039789_0.html",
-      "summary": "La resolución afecta a distintos procedimientos relacionados con el trabajo, la residencia de familiares y los menores extranjeros."
-    },
-    "category": "居留",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙中东冲突新动态",
-    "original_title": "'RTVE' pide ratificar el boicot de España a Eurovisión ante la presencia de Israel por la guerra en Gaza",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/22/rtve-pide-ratificar-boicot-espana-eurovision-ante-presencia-israel-por-guerra-gaza",
-      "summary": "España se retiró del certamen de 2026 en Austria, junto a Países Bajos, Islandia, Irlanda y Eslovenia, en señal de protesta por la participación de Israel."
-    },
-    "category": "中东冲突",
     "date": "2026-09-22"
   },
   {
@@ -66,91 +66,80 @@
     "date": "2026-09-22"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Trump crea su propia televisión en pleno conflicto con el periodismo libre",
+    "title": "西班牙教育新规",
+    "original_title": "El Gobierno crea un nuevo Centro de Referencia Nacional en el área de construcciones aeronáuticas en Illescas (Toledo)",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/internacional/20260922/11640948/trump-crea-canal-publico-streaming-nombre-medio-feudo-periodismo-libre.html",
-      "summary": "El presidente lanza Trump TV, una emisora que retransmite a través de YouTube y sin interrupciones sus discursos pasados y anuncios"
-    },
-    "category": "战争风险",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Consulta si estás entre los 2.846 madrileños preseleccionados para ser jurado del juicio contra Begoña Gómez",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/consulta-si-estas-entre-los-2-846-madrilenos-preseleccionados-para-ser-jurado-juicio-contra-begona-gomez_7039738_0.html",
-      "summary": "Begoña Gómez será juzgada por un jurado popular de nueve madrileños seleccionados mediante sorteo desde la lista de candidatos a jurados para el periodo 2025/2026."
-    },
-    "category": "政策",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙失业新动态",
-    "original_title": "El Constitucional aborda el final del ciclo de la amnistía tras años de maniobras judiciales contra la ley",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/constitucional-aborda-final-ciclo-amnistia-anos-maniobras-judiciales-ley_1_2236587.html",
-      "summary": "El Tribunal Constitucional aborda esta semana los primeros recursos de amparo contra la decisión del Tribunal Supremo de no aplicar la ley de amnistía a los condenados y procesados por el delito de ma"
-    },
-    "category": "政策",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙油价新动态",
-    "original_title": "Un grupo armado cierra un oleoducto del principal campo petrolero de Libia y amenaza las exportaciones",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/22/grupo-armado-cierra-un-oleoducto-del-principal-campo-petrolero-de-libia-y-amenaza-las-expo",
-      "summary": "El cierre de una válvula en el oleoducto El Sharara-Zawiya ha recortado la producción de un yacimiento que transporta cerca de un tercio del crudo de Libia."
-    },
-    "category": "油价",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "El fotógrafo Ivan McClellan visibiliza el legado de los vaqueros negros en EE.UU.",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/22/el-fotografo-ivan-mcclellan-captura-el-mundo-del-rodeo-afroamericano",
-      "summary": "El proyecto fotográfico 'Eight Seconds' publica una nueva edición con 91 imágenes inéditas sobre la cultura del rodeo afroamericano. En este 2026, McClellan impulsa un circuito propio en Estados Unido"
-    },
-    "category": "政策",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙政策飙升",
-    "original_title": "España dispara un 30% la producción de eléctricos en 2026",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/09/22/6ab253a1e5fdeaaf108b45bb.html",
-      "summary": "Anfac apunta a una caída de la producción del 1% a cierre de 2026, con 2,25 millones de vehículos.&nbsp;Leer"
-    },
-    "category": "政策",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙就业减少",
-    "original_title": "Rosa Dávila sitúa a Tenerife como motor económico y de innovación en Canarias",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/22/6ab26c69e5fdea066d8b457e.html",
-      "summary": "Tenerife reduce el paro al 11% y lidera el empleo&nbsp;Leer"
-    },
-    "category": "工作",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "Canarias apuesta por una educación orientada a la empresa para generar y retener talento",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/22/6ab258c0e5fdea61438b458c.html",
-      "summary": "También aboga por ayudas e incentivos para fomentar el emprendimiento en la región y hacer crecer su tejido empresarial.&nbsp;Leer"
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-crea-nuevo-centro-referencia-nacional-area-construcciones-aeronauticas-illescas-toledo-20260922140308.html",
+      "summary": "El Consejo de Ministros ha aprobado este martes, a petición del Ministerio de Educación, Formación Profesional y Deportes, la creación como Centro de Referencia Nacional del Centro de Formación de Ill"
     },
     "category": "教育",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Comprobar ONCE: resultados de hoy, martes 22 de septiembre de 2026",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/comprobar-once-resultados-hoy-martes-22-septiembre-2026_7040065_0.html",
+      "summary": "Los resultados de la ONCE del martes 22 de septiembre de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Comprobar Bonoloto: resultados de hoy, martes 22 de septiembre de 2026",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-martes-22-septiembre-2026_7040064_0.html",
+      "summary": "Los resultados de la Bonoloto del martes 22 de septiembre de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "Comprobar Euromillones: resultados de hoy, martes 22 de septiembre de 2026",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/comprobar-euromillones-resultados-hoy-martes-22-septiembre-2026_7040063_0.html",
+      "summary": "Los resultados del Euromillones del martes 22 de septiembre de 2026 se conocerán a partir de las 21:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙学校新动态",
+    "original_title": "Dos afganos intentan volar de Croacia a Alemania con documentos de rey y duque medievales",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/dos-afganos-intentan-volar-croacia-alemania-con-documentos-rey-duque-medievales_7040085_0.html",
+      "summary": "Las figuras históricas son muy conocidas en Croacia y se suelen aprender incluso en la escuela primaria."
+    },
+    "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙学生新动态",
+    "original_title": "Artistas protestan contra los recortes culturales con música, danza y títeres en Bogotá",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/video/2026/09/22/artistas-protestan-contra-los-recortes-culturales-con-musica-danza-y-titeres-en-bogota",
+      "summary": "Cientos de artistas y estudiantes de artes escénicas salieron a las calles de Bogotá para protestar contra los recortes propuestos al presupuesto cultural de Colombia y la suspensión de algunas ayudas"
+    },
+    "category": "留学",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "Trump reivindica su guerra contra Irán y asegura que \"el precio del petróleo caerá en picado\"",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/22/6ab28ce4468aebe01c8b456d.html",
+      "summary": "El presidente de EEUU hace un discurso triunfalista ante la ONU asegurando que era necesario evitar que Irán lograse un arma nuclear y advierte a Teherán de que si no firman un acuerdo que lo converti"
+    },
+    "category": "伊朗局势",
     "date": "2026-09-22"
   },
   {
@@ -162,6 +151,17 @@
       "summary": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis."
     },
     "category": "政策",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "西班牙教育推出",
+    "original_title": "Esther Niubó: “Negociamos con unos representantes sindicales que al final no deciden”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/espana/catalunya/2026-09-20/esther-niubo-negociamos-con-unos-representantes-sindicales-que-al-final-no-deciden.html",
+      "summary": "La consejera de Educación cuestiona la implementación de la escuela inclusiva: “¿Inclusión es tener alumnos que no pueden seguir el ritmo o no tendrán amigos en el aula?\""
+    },
+    "category": "教育",
     "date": "2026-09-22"
   }
 ]

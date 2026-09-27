@@ -1,5 +1,16 @@
 [
   {
+    "title": "西班牙物价新动态",
+    "original_title": "La UE pide a los países reducir la demanda energética ante la presión invernal del gas",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/09/27/la-ue-pide-a-los-paises-reducir-la-demanda-energetica-ante-la-presion-invernal-del-gas",
+      "summary": "La comisaria de Energía Jørgensen avisó a las capitales de que la UE no afronta una crisis inmediata de gas, pero sí una presión de precios y suministro que podría agravarse con la llegada del inviern"
+    },
+    "category": "政策",
+    "date": "2026-09-27"
+  },
+  {
     "title": "西班牙住房增加",
     "original_title": "El precio de la vivienda aumenta el doble que la renta disponible de los hogares españoles desde los años 80",
     "source": {
@@ -8,29 +19,7 @@
       "summary": "El Banco de España cifra en 750.000 el déficit de pisos acumulado de 2021 a 2025 y advierte de que la cifra que podría aumentar en otras 300.000 unidades hasta 2028, superando el millón"
     },
     "category": "租房",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙住房上涨",
-    "original_title": "Diésel, gas, vivienda",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20260926/11644096/diesel-gas-vivienda.html",
-      "summary": "Suben los combustibles, repunta la inflación y un desahucio remueve entrañas"
-    },
-    "category": "租房",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙战争风险新规",
-    "original_title": "España deja de ser el refugio de viejos capos y se convierte en el laboratorio de la nueva mafia rusa",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/narcotrafico/espana-deja-refugio-viejos-capos-convierte-laboratorio-nueva-mafia-rusa_1_2236654.html",
-      "summary": "Desde la invasión de Ucrania, Rusia como Estado no lo está pasando bien. La guerra ha obligado al Kremlin a concentrar una cantidad enorme de recursos en un conflicto que ha terminado afectando tambié"
-    },
-    "category": "战争风险",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
     "title": "西班牙大学新动态",
@@ -41,7 +30,7 @@
       "summary": "La IA hace mucho más evidentes las limitaciones, los problemas crónicos y los potenciales latentes ya preexistentes en el sistema de educación superior"
     },
     "category": "留学",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
     "title": "西班牙学校增加",
@@ -52,116 +41,127 @@
       "summary": "Los centros de FP y escuelas de negocio deben conocer qué ocurre desde que un estudiante descubre su oferta formativa hasta que la elige para cursar sus estudios. ¿El objetivo final? Aumentar el númer"
     },
     "category": "留学",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
+  },
+  {
+    "title": "西班牙教育新动态",
+    "original_title": "Italia quiere sacudirse el machismo desde la escuela",
+    "source": {
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/educacion/2026-09-27/italia-quiere-sacudirse-el-machismo-desde-la-escuela.html",
+      "summary": "Más de 500.000 personas reclaman un referéndum para tumbar la ley que veta la educación sexual en un país con 100 feminicidios al año"
+    },
+    "category": "教育",
+    "date": "2026-09-27"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "La lenta agonía del alquiler de vivienda en España: ¿Qué salió mal?",
+    "original_title": "El hartazgo no cabe en un decreto",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/economia/negocios/2026-09-26/la-lenta-agonia-del-alquiler-de-vivienda-en-espana-que-salio-mal.html",
-      "summary": "España impulsó durante años el arrendamiento como alternativa a la compra, pero la falta de oferta y el alza de precios han convertido el plan B en un problema"
+      "url": "https://elpais.com/opinion/2026-09-27/el-hartazgo-no-cabe-en-un-decreto.html",
+      "summary": "El desahucio de Maricarmen Abascal debe movilizar de una vez a los poderes públicos para afrontar con ambición la crisis de la vivienda"
     },
     "category": "租房",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
-    "title": "西班牙住房取消",
-    "original_title": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+    "title": "西班牙政策下降",
+    "original_title": "Beatriz Duro, abogada de Maricarmen: \"Hemos recibido una oleada de propuestas y ayudas de la gente, pero ninguna de instituciones públicas\"",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
-      "summary": "La negociación del decreto que se aprobará la próxima semana explora un mecanismo para topar las revisiones de los contratos previos a 2023 si los precios se desbocan"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/beatriz-duro-abogada-maricarmen-oleada-propuestas-gente-ninguna-instituciones-publicas_7041833_0.html",
+      "summary": "La aboga reconoce que los representantes públicos tiene que trabajar en dar alternativas."
+    },
+    "category": "政策",
+    "date": "2026-09-27"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "Un 15M por la vivienda presiona a los partidos para pactar medidas urgentes",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/15m-vivienda-presiona-partidos-pactar-medidas-urgentes_1_13540478.html",
+      "summary": "El Sindicato de Inquilinas planta una acampada indefinida para que el Ejecutivo proteja a los inquilinos de las subidas de precios y de desahucios como el de MaricarmenDecenas de miles de personas exi"
     },
     "category": "租房",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
+  },
+  {
+    "title": "西班牙住房下降",
+    "original_title": "Última hora de la acampada por la vivienda en Sol, en directo | La plaza, abarrotada: la manifestación educativa confluye con la acampada",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/ultima-hora-acampada-vivienda-sol-directo_6_13541224.html",
+      "summary": "\n        Maricarmen ya tiene respuesta del presidente del Gobierno: seg&uacute;n Pedro S&aacute;nchez, el Ejecutivo &ldquo;est&aacute; trabajando contrarreloj para llevar el pr&oacute;ximo martes el R"
+    },
+    "category": "租房",
+    "date": "2026-09-27"
+  },
+  {
+    "title": "西班牙就业下降",
+    "original_title": "Gonzalo Fanjul: “El miedo de la gente en Ceuta es comprensible. Lo que no es admisible es la crueldad\"",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/como-lo-ve/gonzalo-fanjul-miedo-gente-ceuta-comprensible-no-admisible-crueldad_1_2236869.html",
+      "summary": "Gonzalo Fanjul es un economista ovetense de 55 años especializado en justicia social, desarrollo internacional y pobreza. Tras trabajar en Madrid, Perú o Estados Unidos, desde hace una década y media "
+    },
+    "category": "工作",
+    "date": "2026-09-27"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Lotería Nacional de hoy sábado 26 de septiembre de 2026, en directo | Resultados y premios",
+    "original_title": "Sin profesores de árabe ni traductores: Talayuela pierde un programa clave de integración por el pacto PP-Vox",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/loteria-nacional-hoy-sabado-26-septiembre-2026-directo-resultados-premios_7041660_6.html",
-      "summary": "Última hora del sorteo de Lotería Nacional de este sábado, que pone en juego 42 millones de euros."
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/profesores-arabe-traductores-talayuela-pierde-programa-clave-integracion-pacto-pp-vox_1_2236853.html",
+      "summary": "“Un desconocimiento absoluto”. “Mucha desinformación sobre cómo funciona y para qué sirve”. Es el resumen que hace Luis Alfonso Corrales, director del colegio público Gonzalo Encabo de Talayuela, en l"
     },
     "category": "政策",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
+  },
+  {
+    "title": "西班牙战争风险新规",
+    "original_title": "Silicon Valley abraza de nuevo el negocio de la guerra: la alianza entre las tecnológicas y el Pentágono",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/mediapart/silicon-valley-abraza-nuevo-negocio-guerra-alianza-tecnologicas-pentagono_1_2236886.html",
+      "summary": "Silicon Valley, sus empleados alimentados a base de leche de avena, sus oficinas diáfanas con patinetes y mesas de ping-pong, sus empresas creadas en garajes por idealistas que querían liberar el mund"
+    },
+    "category": "战争风险",
+    "date": "2026-09-27"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Comprobar Lotería Nacional: resultados de hoy, sábado 26 de septiembre de 2026",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-26-septiembre-2026_7041668_0.html",
-      "summary": "Los resultados de la Lotería Nacional del sábado 26 de septiembre de 2026 se conocerán a partir de las 13:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
-    },
-    "category": "政策",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙外国人新动态",
-    "original_title": "Abascal, tras el desahucio de Maricarmen: \"Los españoles reciben menos ayudas y los alojamientos son para extranjeros\"",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/abascal-tras-desahucio-maricarmen-los-espanoles-reciben-menos-ayudas-los-alojamientos-son-para-extranjeros_7041658_0.html",
-      "summary": "El líder de Vox evitó pronunciarse sobre el caso concreto y denunció las dificultades de los jóvenes y mayores para acceder a una vivienda."
-    },
-    "category": "租房",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Últimas noticias | 26 septiembre 2026 - Mediodía",
+    "original_title": "Últimas noticias | 27 septiembre 2026 - Mediodía",
     "source": {
       "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/09/26/ultimas-noticias-26-septiembre-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 26 septiembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "url": "https://es.euronews.com/video/2026/09/27/ultimas-noticias-27-septiembre-2026-mediodia",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 27 septiembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
-    "title": "西班牙政策上涨",
-    "original_title": "Las operaciones en Bolsa catapultan los ingresos de la banca de inversión",
+    "title": "西班牙政策新规",
+    "original_title": "España cumple 1.000 días sin nuevos presupuestos: \"Es un hurto a los ciudadanos\"",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/09/25/6aabd262468aebf1328b459b.html",
-      "summary": "Las comisiones totales suben un 17% en el mundo en 2026, pero las bursátiles lo hacen un 67%. BBVA y Santander destacan entre las entidades europeas por el avance de su negocio.&nbsp;Leer"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos",
+      "summary": "El Gobierno de coalición de izquierdas liderado por Pedro Sánchez sigue con los presupuestos de 2023 prorrogados, una situación que la oposición califica como anomalía democrática y hurto a los ciudad"
     },
     "category": "政策",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
-    "title": "西班牙工作新规",
-    "original_title": "Díaz hace campaña para presidir la OIT en Nueva York: \"Debe ser imparcial, pero nunca neutral\"",
+    "title": "西班牙政策新规 (1)",
+    "original_title": "Irak y EE.UU. acuerdan mantener los envíos de dólares, nueva partida en los próximos días",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/25/6ab68847e5fdead6168b4589.html",
-      "summary": "La vicepresidenta primera del Gobierno español interviene en los márgenes de la Asamblea de la ONU para reclamar que la Organización Internacional del Trabajo, que aspira a dirigir, actúe más decidida"
-    },
-    "category": "工作",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙物价新动态",
-    "original_title": "Bruselas presiona a Donald Trump para mantener un 'flujo libre' de diésel",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/financial-times/2026/09/25/6ab66a74e5fdeaba0f8b4576.html",
-      "summary": "El comisario de Energía del bloque advierte que el continente ya se enfrenta a su 'peor invierno' para los precios de la energía desde 2022.&nbsp;Leer"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/09/27/irak-y-eeuu-acuerdan-mantener-los-envios-de-dolares-nueva-partida-en-los-proximos-dias",
+      "summary": "Este dinero no constituye ayudas estadounidenses a Irak, procede de ingresos petroleros iraquíes depositados en cuentas del Banco de la Reserva Federal en Nueva York, antes de que una parte se transfi"
     },
     "category": "政策",
-    "date": "2026-09-26"
-  },
-  {
-    "title": "西班牙教育推出",
-    "original_title": "Esther Niubó: “Negociamos con unos representantes sindicales que al final no deciden”",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/espana/catalunya/2026-09-20/esther-niubo-negociamos-con-unos-representantes-sindicales-que-al-final-no-deciden.html",
-      "summary": "La consejera de Educación cuestiona la implementación de la escuela inclusiva: “¿Inclusión es tener alumnos que no pueden seguir el ritmo o no tendrán amigos en el aula?\""
-    },
-    "category": "教育",
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   }
 ]

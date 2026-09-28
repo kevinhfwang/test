@@ -1,36 +1,146 @@
 [
   {
-    "title": "西班牙物价新动态",
-    "original_title": "La UE pide a los países reducir la demanda energética ante la presión invernal del gas",
+    "title": "西班牙居留改革",
+    "original_title": "La reforma de Extranjería que acabó con la soledad de una víctima de violencia machista: “Mamá, ven, te necesito”",
+    "source": {
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/sociedad/2026-09-28/la-reforma-de-extranjeria-que-acabo-con-la-soledad-de-una-victima-de-violencia-machista-mama-ven-te-necesito.html",
+      "summary": "Un cambio normativo permite desde mayo de 2025 a mujeres beneficiarias de órdenes de alejamiento lograr un permiso de residencia para sus padres en España"
+    },
+    "category": "居留",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙居留下降",
+    "original_title": "El Gobierno apura la negociación del decreto de vivienda con ayudas a la compra y blindaje del parque público",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/economia/2026-09-28/el-gobierno-apura-la-negociacion-del-decreto-de-vivienda-con-ayudas-a-la-compra-y-blindaje-del-parque-publico.html",
+      "summary": "Las partes avanzan en impedir a los fondos buitre que adquieran inmuebles residenciales y en activar una batería de rebajas fiscales, además de dar “estabilización” a los contratos"
+    },
+    "category": "居留",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙物价新规",
+    "original_title": "Los destinos de sol invernal más económicos para viajar en 2026",
     "source": {
       "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/27/la-ue-pide-a-los-paises-reducir-la-demanda-energetica-ante-la-presion-invernal-del-gas",
-      "summary": "La comisaria de Energía Jørgensen avisó a las capitales de que la UE no afronta una crisis inmediata de gas, pero sí una presión de precios y suministro que podría agravarse con la llegada del inviern"
+      "url": "https://es.euronews.com/2026/09/28/los-destinos-de-sol-invernal-mas-economicos-para-viajar-en-2026",
+      "summary": "El nuevo informe analizó el precio de gastos habituales de vacaciones, como comidas, bebidas y crema solar, para determinar en qué destinos el dinero rinde más."
     },
     "category": "政策",
-    "date": "2026-09-27"
+    "date": "2026-09-28"
   },
   {
-    "title": "西班牙住房增加",
-    "original_title": "El precio de la vivienda aumenta el doble que la renta disponible de los hogares españoles desde los años 80",
+    "title": "西班牙学生新动态",
+    "original_title": "España se alza con un bronce y cinco medallas de excelencia en WorldSkills 2026 en Shanghái",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/precio-vivienda-aumenta-doble-que-renta-disponible-los-hogares-espanoles-desde-los-anos-80_7041041_0.html",
-      "summary": "El Banco de España cifra en 750.000 el déficit de pisos acumulado de 2021 a 2025 y advierte de que la cifra que podría aumentar en otras 300.000 unidades hasta 2028, superando el millón"
-    },
-    "category": "租房",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙大学新动态",
-    "original_title": "El pulso del valor público de la universidad",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-09-22/el-pulso-del-valor-publico-de-la-universidad.html",
-      "summary": "La IA hace mucho más evidentes las limitaciones, los problemas crónicos y los potenciales latentes ya preexistentes en el sistema de educación superior"
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-espana-alza-bronce-cinco-medallas-excelencia-worldskills-2026-shanghai-20260927185308.html",
+      "summary": "La delegación española de WorldSkills 2026 se ha alzado con un bronce para Juan García Ortiz, estudiante del IES Bartolomé Perez Casas de Murcia, y cinco medallas de excelencia en la competición, cele"
     },
     "category": "留学",
-    "date": "2026-09-27"
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "La escasez de pisos nuevos eleva la presión sobre la vivienda usada: el precio de las casas de segunda mano crece un 74% más rápido",
+    "source": {
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/nacional/escasez-pisos-nuevos-eleva-presion-sobre-vivienda-usada-precio-las-casas-segunda-mano-crece-un-74-mas-rapido_7041068_0.html",
+      "summary": "La vivienda usada se ha encarecido un 12,9% en el último año, mientras que la de obra nueva lo ha hecho un 7,4%, según el INE. Entre 2021 y 2025, España acumuló un déficit de hasta 750.000 viviendas p"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "De la Corrala Utopía a Maricarmen: la eterna discordia por la vivienda en la izquierda",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-09-28/de-la-corrala-utopia-a-maricarmen-la-eterna-discordia-por-la-vivienda-en-la-izquierda.html",
+      "summary": "El mediático desahucio recrudece la tensión en el Gobierno, donde conviven dos grados de radicalidad sobre cómo afrontar un problema enquistado. Diferentes electorados, diagnósticos y trayectorias abo"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "El Gobierno renuncia a reformar la Ley del Suelo para acercar el apoyo de Podemos al decreto de vivienda",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/gobierno-renuncia-ley-suelo-acercar-apoyo_1_13542896.html",
+      "summary": "Las 10 medidas que prepara para el Consejo de Ministros incluyen bonificaciones fiscales y prohibición de desahucios, pero excluyen la aceleración a la construcción que sí preveían en julioEl Gobierno"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙居留增加",
+    "original_title": "Sánchez pide \"privilegiar\" el uso residencial de la vivienda frente al turístico en un acto en Barcelona",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/catalunya/sanchez-pide-privilegiar-residencial-vivienda-frente-turistico-acto-espana-2050_1_13543592.html",
+      "summary": "El presidente insiste a las comunidades autónomas a que usen la Ley de Vivienda como \"palanca\" para aumentar la oferta asequible de pisosEl Gobierno ultima un decreto de vivienda que evite desahucios "
+    },
+    "category": "居留",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房新动态 (2)",
+    "original_title": "Los rostros de la acampada por la vivienda en Sol: \"Estoy orgullosa de que mi generación esté haciendo todo esto”",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/madrid/rostros-acampada-vivienda-sol-orgullosa-generacion-haciendo_1_13542415.html",
+      "summary": "Tras un 2025 de protestas lideradas por la generación Z en múltiples países de todo el mundo, ahora los españoles más jóvenes se plantan ante su mayor preocupación —y la de sus conciudadanos—\nLa acamp"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房新动态 (3)",
+    "original_title": "Cuerpo: \"El sector bancario ha llegado con los deberes hechos\" al 'shock' por la guerra de Irán",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/09/28/6aba11d2468aeb1c198b4582.html",
+      "summary": "El ministro de Economía, Comercio y Empresa y vicepresidente primero del Gobierno señala retos pendientes en materias como el acceso a la vivienda, la transformación de la Unión Europea y la irrupción"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙住房宣布",
+    "original_title": "Pérez Llorca anuncia cuota cero para autónomos y amplía el aval público a 'vivienda joven' hasta los 50 años",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/valencia/2026/09/28/6aba5ed5e5fdeaa3798b45a0.html",
+      "summary": "El presidente de la Generalitat presenta una batería de propuestas en el debate de política general, el último antes de las próximas elecciones autonómicas.&nbsp;Leer"
+    },
+    "category": "租房",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙教育新动态",
+    "original_title": "El Gobierno ultima el decreto para asegurar la calidad de los centros de FP que acabará con la formación 100% online",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-ultima-decreto-asegurar-calidad-centros-fp-acabara-formacion-100-online-20260928113925.html",
+      "summary": "El Ministerio de Educación, Formación Profesional y Deportes prevé aprobar antes de final de año el real decreto de garantía de calidad de los centros privados del Sistema de Formación Profesional que"
+    },
+    "category": "教育",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "西班牙教育新动态 (1)",
+    "original_title": "Cómo garantizar la educación en situaciones de emergencia: un curso gratuito para docentes aborda este desafío",
+    "source": {
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/formacion-docente/educacion-en-emergencias-curso-online-gratuito-cme/",
+      "summary": "Conflictos, desplazamientos o desastres naturales pueden interrumpir la escolarización. Un curso gratuito para docentes, creado por la CME, aborda cómo garantizar el derecho a la educación en estas si"
+    },
+    "category": "教育",
+    "date": "2026-09-28"
   },
   {
     "title": "西班牙学校增加",
@@ -41,127 +151,17 @@
       "summary": "Los centros de FP y escuelas de negocio deben conocer qué ocurre desde que un estudiante descubre su oferta formativa hasta que la elige para cursar sus estudios. ¿El objetivo final? Aumentar el númer"
     },
     "category": "留学",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙教育新动态",
-    "original_title": "Italia quiere sacudirse el machismo desde la escuela",
-    "source": {
-      "name": "El País Sociedad",
-      "url": "https://elpais.com/educacion/2026-09-27/italia-quiere-sacudirse-el-machismo-desde-la-escuela.html",
-      "summary": "Más de 500.000 personas reclaman un referéndum para tumbar la ley que veta la educación sexual en un país con 100 feminicidios al año"
-    },
-    "category": "教育",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "El hartazgo no cabe en un decreto",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/opinion/2026-09-27/el-hartazgo-no-cabe-en-un-decreto.html",
-      "summary": "El desahucio de Maricarmen Abascal debe movilizar de una vez a los poderes públicos para afrontar con ambición la crisis de la vivienda"
-    },
-    "category": "租房",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙政策下降",
-    "original_title": "Beatriz Duro, abogada de Maricarmen: \"Hemos recibido una oleada de propuestas y ayudas de la gente, pero ninguna de instituciones públicas\"",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/beatriz-duro-abogada-maricarmen-oleada-propuestas-gente-ninguna-instituciones-publicas_7041833_0.html",
-      "summary": "La aboga reconoce que los representantes públicos tiene que trabajar en dar alternativas."
-    },
-    "category": "政策",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Un 15M por la vivienda presiona a los partidos para pactar medidas urgentes",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/15m-vivienda-presiona-partidos-pactar-medidas-urgentes_1_13540478.html",
-      "summary": "El Sindicato de Inquilinas planta una acampada indefinida para que el Ejecutivo proteja a los inquilinos de las subidas de precios y de desahucios como el de MaricarmenDecenas de miles de personas exi"
-    },
-    "category": "租房",
-    "date": "2026-09-27"
+    "date": "2026-09-28"
   },
   {
     "title": "西班牙住房下降",
-    "original_title": "Última hora de la acampada por la vivienda en Sol, en directo | La plaza, abarrotada: la manifestación educativa confluye con la acampada",
+    "original_title": "El Gobierno ultima un decreto de vivienda que evite desahucios, blinde alquileres y recoja ayudas para propietarios e inquilinos",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/ultima-hora-acampada-vivienda-sol-directo_6_13541224.html",
-      "summary": "\n        Maricarmen ya tiene respuesta del presidente del Gobierno: seg&uacute;n Pedro S&aacute;nchez, el Ejecutivo &ldquo;est&aacute; trabajando contrarreloj para llevar el pr&oacute;ximo martes el R"
+      "url": "https://www.eldiario.es/politica/gobierno-ultima-decreto-vivienda-aprobarlo-martes-presionado-calle-exigencias-socios_1_13538460.html",
+      "summary": "El Ministerio de Vivienda trabaja contra reloj para cerrar un texto que debe convencer a la vez a Junts y a Podemos. El Sindicato de Inquilinos, que suma su segunda noche de acampada en la Puerta del "
     },
     "category": "租房",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙就业下降",
-    "original_title": "Gonzalo Fanjul: “El miedo de la gente en Ceuta es comprensible. Lo que no es admisible es la crueldad\"",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/como-lo-ve/gonzalo-fanjul-miedo-gente-ceuta-comprensible-no-admisible-crueldad_1_2236869.html",
-      "summary": "Gonzalo Fanjul es un economista ovetense de 55 años especializado en justicia social, desarrollo internacional y pobreza. Tras trabajar en Madrid, Perú o Estados Unidos, desde hace una década y media "
-    },
-    "category": "工作",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Sin profesores de árabe ni traductores: Talayuela pierde un programa clave de integración por el pacto PP-Vox",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/profesores-arabe-traductores-talayuela-pierde-programa-clave-integracion-pacto-pp-vox_1_2236853.html",
-      "summary": "“Un desconocimiento absoluto”. “Mucha desinformación sobre cómo funciona y para qué sirve”. Es el resumen que hace Luis Alfonso Corrales, director del colegio público Gonzalo Encabo de Talayuela, en l"
-    },
-    "category": "政策",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙战争风险新规",
-    "original_title": "Silicon Valley abraza de nuevo el negocio de la guerra: la alianza entre las tecnológicas y el Pentágono",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/mediapart/silicon-valley-abraza-nuevo-negocio-guerra-alianza-tecnologicas-pentagono_1_2236886.html",
-      "summary": "Silicon Valley, sus empleados alimentados a base de leche de avena, sus oficinas diáfanas con patinetes y mesas de ping-pong, sus empresas creadas en garajes por idealistas que querían liberar el mund"
-    },
-    "category": "战争风险",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Últimas noticias | 27 septiembre 2026 - Mediodía",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/09/27/ultimas-noticias-27-septiembre-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 27 septiembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "España cumple 1.000 días sin nuevos presupuestos: \"Es un hurto a los ciudadanos\"",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/27/espana-cumple-1000-dias-sin-nuevos-presupuestos-es-un-hurto-a-los-ciudadanos",
-      "summary": "El Gobierno de coalición de izquierdas liderado por Pedro Sánchez sigue con los presupuestos de 2023 prorrogados, una situación que la oposición califica como anomalía democrática y hurto a los ciudad"
-    },
-    "category": "政策",
-    "date": "2026-09-27"
-  },
-  {
-    "title": "西班牙政策新规 (1)",
-    "original_title": "Irak y EE.UU. acuerdan mantener los envíos de dólares, nueva partida en los próximos días",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/09/27/irak-y-eeuu-acuerdan-mantener-los-envios-de-dolares-nueva-partida-en-los-proximos-dias",
-      "summary": "Este dinero no constituye ayudas estadounidenses a Irak, procede de ingresos petroleros iraquíes depositados en cuentas del Banco de la Reserva Federal en Nueva York, antes de que una parte se transfi"
-    },
-    "category": "政策",
-    "date": "2026-09-27"
+    "date": "2026-09-28"
   }
 ]

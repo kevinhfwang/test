@@ -1,25 +1,58 @@
 [
   {
-    "title": "西班牙通胀上涨",
-    "original_title": "La inflación se dispara hasta el 4,9% en septiembre por las gasolinas",
+    "title": "西班牙大学新动态",
+    "original_title": "La Universidad CEU San Pablo recibe el Premio a la Excelencia Educativa Zairi International Award",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/09/29/6abb5db0e5fdea3e108b4582.html",
-      "summary": "La tasa interanual del Índice de Precios de Consmo (IPC), principal indicador de la inflación, sube seis décimas más en septiembre hasta rozar el 5% al terminar el tercer trimestre del año por la pres"
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-universidad-ceu-san-pablo-recibe-premio-excelencia-educativa-zairi-international-award-20260930124250.html",
+      "summary": "La Universidad CEU San Pablo ha sido galardonada con el Zairi International Award for Excellence in Higher Education 2026, en la categoría Disruptive Education, por su proyecto internacional 'Worldwid"
     },
-    "category": "伊朗局势",
-    "date": "2026-09-29"
+    "category": "留学",
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Spain to cap gas price hikes as winter looms",
+    "title": "西班牙教育新动态",
+    "original_title": "Ocho de cada diez españoles creen que el acceso a la primera vivienda empeorará o seguirá igual en el futuro, según el CIS",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/ocho-cada-diez-espanoles-cree-que-acceso-primera-vivienda-empeorara-seguira-igual-futuro-segun-cis_7043176_0.html",
+      "summary": "La práctica totalidad de la ciudadanía piensa que las administraciones públicas deberían gastar más en sanidad y en educación."
+    },
+    "category": "教育",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "Bruselas advierte de \"un invierno muy duro\" en el que el gas y la gasolina serán extremadamente caros",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/bruselas-advierte-invierno-duro-gas-gasolina-seran-extremadamente-caros_1_2237095.html",
+      "summary": "La Comisión Europea advirtió este martes de que los precios de la energía van a seguir subiendo en los próximos meses, poniendo en riesgo a decenas de millones de europeos. En un mensaje poco usual, e"
+    },
+    "category": "油价",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "El BOE publica el decreto de vivienda que prohíbe los desahucios, la compra especulativa, limita la subida de las rentas y regula el alquiler de temporada",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/30/6abcb08d468aebae5a8b458f.html",
+      "summary": "El Boletín Oficial del Estado (BOE) ha publicado hoy el Real Decreto-ley 26/2026, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la of"
+    },
+    "category": "租房",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "西班牙租房新动态",
+    "original_title": "Everything that changes about life in Spain in October 2026",
     "source": {
       "name": "The Local ES",
-      "url": "https://www.thelocal.es/20260929/spain-to-cap-gas-price-hikes-as-winter-looms",
-      "summary": "The Spanish government plans to limit natural gas price increases to 15 percent to shield consumers from spiralling energy prices due to the Mideast war, Ecological Transition Minister Sara Aagesen sa"
+      "url": "https://www.thelocal.es/20260914/what-changes-about-life-in-spain-in-october-2026",
+      "summary": "Changes to traffic lights, fuel and gas subsidies, Spain's national day, a vote on new housing crisis measures, doctors to go on strike, new rules for bike, motorbike and e-scooter riders, and more - "
     },
-    "category": "战争风险",
-    "date": "2026-09-29"
+    "category": "租房",
+    "date": "2026-09-30"
   },
   {
     "title": "西班牙学生新规",
@@ -30,10 +63,10 @@
       "summary": "La Asociación de Centros Autónomos de Enseñanza Privada (ACADE) ha expresado su \"más enérgico rechazo\" al nuevo proyecto normativo para regular los centros de Formación Profesional, ya que, a su juici"
     },
     "category": "签证",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙教育新动态",
+    "title": "西班牙教育新动态 (1)",
     "original_title": "El 17% de los jóvenes son 'ninis' en España, frente al 13% de media en la OCDE, según 'Panorama de la Educación 2026'",
     "source": {
       "name": "Europa Press Educación",
@@ -41,7 +74,7 @@
       "summary": "España duplica a la OCDE en el número de adultos que no tiene Bachillerato: El 25% no tiene esta formación frente al 12% en la OCDE"
     },
     "category": "教育",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
     "title": "西班牙学生新动态",
@@ -52,54 +85,43 @@
       "summary": "La delegación española de WorldSkills 2026 se ha alzado con un bronce para Juan García Ortiz, estudiante del IES Bartolomé Perez Casas de Murcia, y cinco medallas de excelencia en la competición, cele"
     },
     "category": "留学",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "Feijóo cree que el decreto de vivienda sólo tiene como objetivo alargar \"una legislatura estéril\" y que no tendrá resultados",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-cree-que-decreto-vivienda-solo-tiene-como-objetivo-alargar-una-legislatura-esteril-que-no-tendra-resultados_7042594_0.html",
-      "summary": "El presidente del PP exhibe ante empresarios catalanes un decálogo de medidas en materia de impuestos, competitividad, inmigración y vivienda para solucionar los grandes debates \"que llevamos años pos"
-    },
-    "category": "移民",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "Cómo quedan las prórrogas del alquiler tras los nuevos decretos de vivienda",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/quedan-prorrogas-alquiler-nuevos-decretos-vivienda_1_13546690.html",
-      "summary": "En una ley hay una extensión de los alquileres para los próximos dos años, hasta 2028 y en el segundo decreto se regula la renovación automática de los alquileres, que pedía Sumar y el Sindicato de In"
-    },
-    "category": "租房",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
     "title": "西班牙住房新动态 (1)",
-    "original_title": "¿Son las bonificaciones a los propietarios un “regalo fiscal” al especulador?",
+    "original_title": "El Gobierno impone un 10% de IVA a los pisos turísticos y permitirá que los Ayuntamientos dupliquen su IBI",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/son-bonificaciones-propietarios-regalo-fiscal-especulador_1_13545018.html",
-      "summary": "Los diferentes gobiernos estatales encadenan una década sin aprobar beneficios para los inquilinos: apenas 120.000 disfrutan de una deducción que fue suprimida en 2015, frente a ayudas para 2,2 millon"
+      "url": "https://www.eldiario.es/economia/gobierno-impone-10-iva-pisos-turisticos-permitira-ayuntamientos-dupliquen-ibi_1_13549266.html",
+      "summary": "El decreto-ley publicado este miércoles grava por primera vez como un negocio los alquileres vacacionales, siempre que no superen los 30 días de estanciaLa letra pequeña del decreto de vivienda: compe"
     },
     "category": "租房",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙住房批准",
-    "original_title": "El Gobierno aprueba la renovación automática de alquileres y la protección antidesahucios hasta 2030",
+    "title": "西班牙油价新动态",
+    "original_title": "El plan que apoya la UE ayuda a los hogares rurales suecos con ingresos más bajos a usar electricidad",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia/gobierno-aprueba-decretos-vivienda-renovacion-automatica-alquileres-proteccion-antidesahucios-2030_1_2237065.html",
-      "summary": "La negociación del decreto de vivienda que exigen los ciudadanos desde la madrileña Puerta del Sol ha sido frenética para el Gobierno. El Gobierno de coalición ha aprobado este martes dos reales decre"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/09/30/el-plan-que-apoya-la-ue-ayuda-a-los-hogares-rurales-suecos-con-ingresos-mas-bajos-a-usar-e",
+      "summary": "Un plan del gobierno sueco financiado, en parte, por el Fondo Social para el Clima de la UE, ofrece apoyo financiero a los conductores rurales de bajos ingresos para que pasen de la gasolina y el diés"
     },
-    "category": "租房",
-    "date": "2026-09-29"
+    "category": "油价",
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙教育新动态 (1)",
+    "title": "西班牙住房上涨",
+    "original_title": "El precio de la vivienda sube un 14,7% pese a la caída de las ventas",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/09/30/6abc7311e5fdead93b8b4588.html",
+      "summary": "Las alzas vienen lideradas por pequeños municipios, como Soria, Albacete, Santander o Ciudad Real. Aunque la escalada de precios se modera, casi todas las capitales siguen subiendo por encima de la in"
+    },
+    "category": "租房",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "西班牙教育新动态 (2)",
     "original_title": "El Gobierno ultima el decreto para asegurar la calidad de los centros de FP que acabará con la formación 100% online",
     "source": {
       "name": "Europa Press Educación",
@@ -107,10 +129,10 @@
       "summary": "El Ministerio de Educación, Formación Profesional y Deportes prevé aprobar antes de final de año el real decreto de garantía de calidad de los centros privados del Sistema de Formación Profesional que"
     },
     "category": "教育",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙教育新动态 (2)",
+    "title": "西班牙教育新动态 (3)",
     "original_title": "Cómo garantizar la educación en situaciones de emergencia: un curso gratuito para docentes aborda este desafío",
     "source": {
       "name": "Educación 3.0",
@@ -118,50 +140,28 @@
       "summary": "Conflictos, desplazamientos o desastres naturales pueden interrumpir la escolarización. Un curso gratuito para docentes, creado por la CME, aborda cómo garantizar el derecho a la educación en estas si"
     },
     "category": "教育",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   },
   {
-    "title": "西班牙外国人新动态",
-    "original_title": "La vivienda en gráficos: más población, más turismo y poca construcción",
+    "title": "西班牙税收下降",
+    "original_title": "Topar la tarifa TUR del gas, prorrogar el descuento de la gasolina, rebajas fiscales... todas las medidas que toma el Gobierno para paliar los efectos de la crisis energética",
+    "source": {
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/medidas-subida-precios-gas-luz-carburantes-crisis-energetica-derivada-guerra-iran_7042889_0.html",
+      "summary": "Este tercer Real Decreto contempla medidas como rebajar hasta 20 céntimos por litro el impuesto sobre la gasolina."
+    },
+    "category": "税务",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "西班牙住房新动态 (2)",
+    "original_title": "Los alquileres de temporada deberán justificar su causa o pasarán a considerarse vivienda habitual",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/economia/2026-09-29/la-vivienda-en-graficos-mas-poblacion-mas-turismo-y-poca-construccion.html",
-      "summary": "Los precios han subido un 80% desde 2015. Desde entonces también ha crecido la población, han aflorado miles de pisos turísticos y los extranjeros no residentes han comprado más de 500.000 viviendas, "
+      "url": "https://elpais.com/economia/vivienda/2026-09-30/los-alquileres-de-temporada-deberan-justificar-su-causa-o-pasaran-a-considerarse-vivienda-habitual.html",
+      "summary": "El decreto de vivienda cierra una de las principales vías de fraude para esquivar los límites de precios y encadenar sin razón contratos temporales"
     },
     "category": "租房",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "西班牙中东冲突新规",
-    "original_title": "Las nuevas imágenes de Google Maps muestran una Gaza en ruinas: los mapas antes y después",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-09-29/google-maps-ya-muestra-la-destruccion-mas-reciente-de-gaza-los-mapas-del-antes-y-el-despues.html",
-      "summary": "La aplicación ha renovado las imágenes de satélite de buena parte de la Franja con fotografías de febrero de 2026 que reflejan los efectos de la ofensiva israelí"
-    },
-    "category": "中东冲突",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "La gran cita de 'La Vanguardia' con la sociedad civil",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20260928/11646095/gran-cita-vanguardia-sociedad-civil-catalana.html",
-      "summary": "El diario del Grupo Godó ha premiado este lunes a las figuras más destacadas de este 2026"
-    },
-    "category": "政策",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "西班牙政策变化",
-    "original_title": "De la precariedad del 15M a la del 26S: ¿ha cambiado algo?",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/precariedad-15m-26s-cambiado_1_2237013.html",
-      "summary": "Entre el 15 de mayo de 2011 y el 26 de septiembre de 2026 han pasado 5.613 días. En ese tiempo ha cambiado mucho el marco, pero no tanto la sensación de fondo.El 15M, el llamado movimiento de los indi"
-    },
-    "category": "政策",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "title": "西班牙签证新动态",
-    "original_title": "La economía da un respiro a Trump  a un mes de las elecciones 'midterms'",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/01/6abd6e59e5fdea50388b4598.html",
-      "summary": "El avance anual del PIB del segundo trimestre es revisado del 1,5% al 2,2%; la inflación se sitúa en el 3,4%, tres décimas por debajo de lo esperado; y el sector privado crea 90.000 empleos.&nbsp;Leer"
-    },
-    "category": "签证",
-    "date": "2026-10-01"
-  },
-  {
     "title": "西班牙大学新动态",
     "original_title": "La Universidad CEU San Pablo recibe el Premio a la Excelencia Educativa Zairi International Award",
     "source": {
@@ -19,7 +8,7 @@
       "summary": "La Universidad CEU San Pablo ha sido galardonada con el Zairi International Award for Excellence in Higher Education 2026, en la categoría Disruptive Education, por su proyecto internacional 'Worldwid"
     },
     "category": "留学",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙大学新动态 (1)",
@@ -30,7 +19,7 @@
       "summary": "El 4 de noviembre Madrid reunirá a universidades internacionales para que estudiantes de Bachillerato conozcan sus programas, requisitos de acceso y opciones para continuar su formación en otros paíse"
     },
     "category": "留学",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙学生新规",
@@ -41,7 +30,7 @@
       "summary": "La Asociación de Centros Autónomos de Enseñanza Privada (ACADE) ha expresado su \"más enérgico rechazo\" al nuevo proyecto normativo para regular los centros de Formación Profesional, ya que, a su juici"
     },
     "category": "签证",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙教育新动态",
@@ -52,73 +41,40 @@
       "summary": "España duplica a la OCDE en el número de adultos que no tiene Bachillerato: El 25% no tiene esta formación frente al 12% en la OCDE"
     },
     "category": "教育",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "La limitación del precio de las habitaciones solo se aplicará en las zonas tensionadas",
-    "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/limitacion-precio-las-habitaciones-solo-se-aplicara-las-zonas-tensionadas_7043405_0.html",
-      "summary": "Este tipo de contratos pasan a regularse por la misma ley que los alquileres de vivienda habitual, ofreciendo así más protección para el inquilino en cuanto a su duración o los gastos que debe afronta"
-    },
-    "category": "租房",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "西班牙大学新动态 (2)",
-    "original_title": "Arde un instituto en Nantes en medio de las protestas estudiantiles que se amplían de la educación secundaria a las universidades",
+    "original_title": "¿Pagas demasiado por tu alquiler? Esta web permite comprobar cuánto debería costar tu vivienda",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/arde-un-instituto-nantes-medio-las-protestas-estudiantiles-que-se-amplian-educacion-secundaria-las-universidades_7043654_0.html",
-      "summary": "Los sindicatos estudiantiles indicaron que los alumnos están bloqueando unas diez universidades en París, Lyon, Estrasburgo, Montpellier o Marsella."
-    },
-    "category": "留学",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "西班牙税收推出",
-    "original_title": "Tijeretazo de Francia para cuadrar cuentas: congelará el sueldo de funcionarios, de las pensiones más altas y subirá los impuestos",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/tijeretazo-francia-para-cuadrar-cuentas-congelara-sueldo-funcionarios-las-pensiones-mas-altas-subira-los-impuestos_7043663_0.html",
-      "summary": "Ha presentado este jueves el primer borrador de sus presupuestos para 2027 que busca recortar 43.000 millones de euros de gastos y lograr así la meta del 5 % del déficit público."
-    },
-    "category": "税务",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "西班牙物价新规",
-    "original_title": "Sin respiro en las gasolineras: el diésel de la UE marca récord en 2,24 €/litro",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/01/sin-respiro-en-las-gasolineras-el-diesel-de-la-ue-marca-record-en-224-litro",
-      "summary": "Doce países de la UE registraron nuevos máximos en el precio del diésel, mientras las interrupciones de suministro elevaron la media a 2,24 €/l."
-    },
-    "category": "政策",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Martínez-Avial (BNP Paribas Real Estate): \"El principal riesgo en vivienda es su politización\"",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abd50a4e5fdea777e8b45a5.html",
-      "summary": "El primer espada de BNP Paribas Real Estate España, Ignacio Martínez-Avial, anticipa que tras un 2026 récord en inversión el inmobiliario mantendrá su solidez, pero con una leve ralentización en su cr"
+      "url": "https://www.20minutos.es/vivienda/pagas-demasiado-por-tu-alquiler-esta-web-permite-comprobar-cuanto-deberia-costar-tu-vivienda_7044227_0.html",
+      "summary": "La herramienta SERPAVI calcula un intervalo de precios de referencia para los alquileres a partir de factores como la zona en la que se encuentra el inmueble y sus características."
     },
     "category": "租房",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "La letra pequeña del decreto de vivienda: fondos 'buitre', desahucios, prórrogas y ayudas",
+    "title": "西班牙养老金恢复",
+    "original_title": "La Seguridad Social permitirá recuperar años cotizados a estos profesionales para mejorar su pensión de jubilación",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/01/6abd5cfc468aeb0a0e8b4572.html",
-      "summary": "El BOE recogió ayer el texto del primer decreto, donde el Gobierno define qué es un fondo 'buitre' para prohibirles comprar vivienda y desahuciar; o las condiciones de la prórroga para los contratos q"
+      "url": "https://www.expansion.com/economia/2026/10/02/6abf92ce468aeb8d058b459b.html",
+      "summary": "El Gobierno ha aprobado un real decreto (RD 739/2026) que entra en vigor el próximo 25 de diciembre que reconoce como cotizados los años de actividad de deportistas profesionales previos a su integrac"
     },
-    "category": "租房",
-    "date": "2026-10-01"
+    "category": "政策",
+    "date": "2026-10-02"
+  },
+  {
+    "title": "西班牙移民上涨",
+    "original_title": "El paro sube en 23.587 personas en septiembre y la regularización de inmigrantes impulsa un dato récord de empleo",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/02/6abf566f468aeba2368b4579.html",
+      "summary": "El número de personas desempleadas registradas en las oficinas del Servicio Público de Empleo Estatal (SEPE) al finalizar el mes de septiembre subió en 23.587 respecto al mes de agosto (1%). Por su pa"
+    },
+    "category": "移民",
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙教育新动态 (1)",
@@ -129,7 +85,7 @@
       "summary": "El Ministerio de Educación, Formación Profesional y Deportes ha puesto en marcha un Plan Psicosocial de Apoyo en los centros educativos de Ceuta con el objetivo de \"reforzar su capacidad para dar resp"
     },
     "category": "教育",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
     "title": "西班牙教育新动态 (2)",
@@ -140,28 +96,72 @@
       "summary": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, ha destacado que la asistencia a clase en Ceuta ha sido de un 90% este martes y ha asegurado que en la vuelta al cole no hub"
     },
     "category": "教育",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
-    "title": "西班牙住房下降",
-    "original_title": "El Gobierno extiende a todas las comunidades la bonificación en el IRPF para caseros que bajen el precio del alquiler y la eleva al 100%",
+    "title": "西班牙住房修改",
+    "original_title": "Junts acusa al Gobierno de “alimentar la mentira y una falsa esperanza” con el decreto de vivienda e insiste en que se agravaría el problema",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/gobierno-extiende-todas-las-comunidades-bonificacion-irpf-para-caseros-que-bajen-precio-alquiler-eleva-100_7043277_0.html",
-      "summary": "El incentivo para rebajar los alquileres mejora con respecto a lo previsto en ley de vivienda y deja de estar limitado solo a las zonas tensionadas, que funcionan únicamente en parte de Cataluña, País"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649413/junts-acusa-gobierno-alimentar-mentira-falsa-esperanza-decreto-vivienda-e-insiste-agravaria-problema.html",
+      "summary": "La formación mantiene el veto a los dos decretos pese al ofrecimiento del Ministerio de Vivienda para tramitar como proyecto de ley el redactado y poder modificarlo en el Congreso en los próximos mese"
     },
     "category": "租房",
-    "date": "2026-10-01"
+    "date": "2026-10-02"
   },
   {
-    "title": "西班牙税收下降",
-    "original_title": "Topar la tarifa TUR del gas, prorrogar el descuento de la gasolina, rebajas fiscales... todas las medidas que toma el Gobierno para paliar los efectos de la crisis energética",
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "El Gobierno ve una oportunidad: “Es el momento de aprovechar para convocar elecciones”",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/medidas-subida-precios-gas-luz-carburantes-crisis-energetica-derivada-guerra-iran_7042889_0.html",
-      "summary": "Este tercer Real Decreto contempla medidas como rebajar hasta 20 céntimos por litro el impuesto sobre la gasolina."
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649277/gobierno-ve-oportunidad-momento-aprovechar-convocar-elecciones.html",
+      "summary": "Ministros del PSOE urgen a Pedro Sánchez a precipitar las elecciones generales ante la decisión del PP, Vox y Junts de tumbar este viernes los decretos ley de vivienda"
     },
-    "category": "税务",
-    "date": "2026-10-01"
+    "category": "租房",
+    "date": "2026-10-02"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "Illa expresa su “profunda decepción” con Junts por no apoyar los decretos de vivienda",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261002/11649533/illa-expresa-profunda-decepcion-junts-apoyar-decretos-vivienda.html",
+      "summary": "El president y su homólogo gallego, Alfonso Rueda, chocan en público por el nuevo modelo de financiación autonómica propuesto por el Gobierno&nbsp;"
+    },
+    "category": "租房",
+    "date": "2026-10-02"
+  },
+  {
+    "title": "西班牙住房新动态 (2)",
+    "original_title": "Sánchez lanza un aviso a los grupos ante la votación del decreto de vivienda: \"La historia les juzgará antes de lo que creen\"",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-lanza-un-aviso-los-grupos-ante-votacion-decreto-vivienda-historia-les-juzgara-antes-que-creen_7044249_0.html",
+      "summary": "Ante el runrún de un adelanto electoral, Sánchez ha advertido a los grupos de que las consecuencias de votar en contra les supondrá que la ciudadanía les juzgue \"con más contundencia de la que imagina"
+    },
+    "category": "租房",
+    "date": "2026-10-02"
+  },
+  {
+    "title": "西班牙住房改革",
+    "original_title": "El Gobierno pide a Junts que no tumbe los decretos: \"El 90% de lo que ustedes plantearon está recogido\"",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/gobierno-pide-junts-no-tumbe-decretos-90-plantearon-recogido_1_13556108.html",
+      "summary": "La ministra de Vivienda ofrece a los de Puigdemont tramitar el decreto como Proyecto de Ley para negociar cambios en el texto pero les reclama que no permitan desproteger a los inquilinos: \"Demuestren"
+    },
+    "category": "租房",
+    "date": "2026-10-02"
+  },
+  {
+    "title": "西班牙住房宣布",
+    "original_title": "Los sindicatos se plantean una huelga general o movilización si la derecha tumba los decretos de vivienda",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/sindicatos-plantean-huelga-general-movilizacion-si-derecha-tumba-decretos-vivienda_1_13556745.html",
+      "summary": "CCOO y UGT están atentos a la votación en el Congreso y analizando distintos tipos de \"jornada de lucha\", entre ellos un paro, mientras CGT ya anuncia una \"huelga general\" como pide el Sindicato de In"
+    },
+    "category": "租房",
+    "date": "2026-10-02"
   }
 ]

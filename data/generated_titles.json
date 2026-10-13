@@ -8,7 +8,7 @@
       "summary": "'La educación que queremos', el ciclo de conferencias que la Fundación Botín desarrolla con el apoyo de la Fundación Edelvives, ha organizado 'La escuela que queremos es posible', el primer encuentro "
     },
     "category": "教育",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙大学新规",
@@ -19,7 +19,7 @@
       "summary": "La Coordinadora de Representantes de Estudiantes de Universidades Públicas (CREUP) ha rechazado la decisión del Tribunal Supremo de anular el Real Decreto 905/2025, por el que se modificaban los requi"
     },
     "category": "留学",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙大学修改",
@@ -30,7 +30,7 @@
       "summary": "La Asociación de Centros Autónomos de Enseñanza Privada (ACADE) valora \"muy positivamente\" la Sentencia de la Sala de lo Contencioso-Administrativo del Tribunal Supremo que anula el Real Decreto 905/2"
     },
     "category": "留学",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙大学新规 (1)",
@@ -41,18 +41,73 @@
       "summary": "La Universidad Internacional de La Rioja (UNIR) ha reforzado su posición como referente de la educación superior en línea en español al lograr clasificar 14 entre los mejores másteres online de España"
     },
     "category": "留学",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
+  },
+  {
+    "title": "西班牙经济飙升",
+    "original_title": "El FMI mejora el PIB de España al 2,5% este año, pero alerta de la abultada inflación",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/13/6accc9e8e5fdeaee188b4597.html",
+      "summary": "El organismo que dirige Kristalina Georgieva eleva en cuatro décimas el crecimiento de la economía española en 2026, pero dispara en 7 décimas su pronóstico de inflación, hasta el 3,7%. El FMI destaca"
+    },
+    "category": "全球经济",
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙经济新动态",
-    "original_title": "Robert E. Hall y Michael Woodford, premio Nobel de Economía 2026",
+    "original_title": "El FMI eleva al 2,5% la previsión de crecimiento para España en 2026",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/12/6accaef1468aebcd638b4575.html",
-      "summary": "La Real Academia de las Ciencias de Suecia ha otorgado el Premio de Ciencias Económicas en Memoria de Alfred Nobel 2026 a los economistas estadounidenses Robert E. Hall y Michael Woodford.&nbsp;Leer"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261013/11657470/fmi-eleva-2-5-prevision-crecimiento-espana-2026.html",
+      "summary": "La resiliencia de la economía global, “gracias a la IA”, no aporta inmunidad frente a “correcciones bursátiles”"
+    },
+    "category": "全球经济",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "西班牙居留新动态",
+    "original_title": "La Comisión Europea advierte de que la \"prioridad nacional\" en las ayudas públicas vulnera el derecho comunitario",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/comision-europea-advierte-prioridad-nacional-ayudas-publicas-vulnera-derecho-comunitario_1_13581253.html",
+      "summary": "El comisario Magnus Brunner aclara a preguntas del eurodiputado Vicent Marzà que los Estados miembros no pueden exigir más de cinco años de residencia para dar acceso a la vivienda y a las prestacione"
+    },
+    "category": "居留",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "西班牙政策下降",
+    "original_title": "La Comunidad de Madrid dispara su publicidad en 'Artículo 14', 'ABC' y la web y radio de Javier Negre",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/investigacion/comunidad-madrid-dispara-publicidad-articulo-14-abc-web-radio-javier-negre_130_2237809.html",
+      "summary": "El gasto en publicidad institucional de la Comunidad de Madrid disminuyó ligeramente en 2025. El Gobierno de Isabel Díaz Ayuso desembolsó 23,09 millones de euros, frente a los 23,96 del año anterior, "
     },
     "category": "政策",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
+  },
+  {
+    "title": "西班牙政策改革",
+    "original_title": "Ucrania teme que EE.UU. deje de compartir informes de inteligencia claves para contrarrestar a Rusia",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/13/ucrania-teme-que-eeuu-deje-de-compartir-informes-de-inteligencia-claves",
+      "summary": "Estados Unidos ya ha demostrado que puede suspender el intercambio de inteligencia con Ucrania, como hizo brevemente en marzo de 2025 durante una disputa diplomática. La sospecha se produce después de"
+    },
+    "category": "政策",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "西班牙经济新动态 (1)",
+    "original_title": "Robert E. Hall y Michael Woodford, premio Nobel de Economía 2026 por diseñar las herramientas anticrisis actuales",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/12/6accaef1468aebcd638b4575.html",
+      "summary": "La Real Academia Sueca premia a los teóricos que enseñaron a bancos centrales y gobiernos a frenar los golpes de la economía.&nbsp;Leer"
+    },
+    "category": "政策",
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙工资新动态",
@@ -63,7 +118,7 @@
       "summary": "En los últimos años, el Gobierno ha aprobado una serie de reformas de la Seguridad Social que han consolidado el blindaje del poder adquisitivo de los pensionistas mediante la revalorización por ley d"
     },
     "category": "政策",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙大学新动态",
@@ -74,7 +129,7 @@
       "summary": "Escuelas Católicas ha pedido al Gobierno \"mayor seguridad jurídica y respeto a la educación privada\" después de que el Tribunal Supremo haya anulado el real decreto de creación, reconocimiento y autor"
     },
     "category": "留学",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
     "title": "西班牙大学新动态 (1)",
@@ -85,83 +140,28 @@
       "summary": "La Conferencia de Rectores y Rectoras de las Universidades Españolas (CRUE), dentro del más \"absoluto respeto\" institucional hacia las decisiones judiciales, constata que la sentencia del Tribunal Sup"
     },
     "category": "留学",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
-    "title": "西班牙学校排名",
-    "original_title": "Tres escuelas de negocio españolas, entre las 100 mejores del mundo del ránking Executive MBA de 'Financial Times'",
+    "title": "西班牙住房推出",
+    "original_title": "Mañueco aplicará la 'prioridad nacional' a las ayudas públicas pese a las advertencias de la Comisión Europea",
     "source": {
-      "name": "Europa Press Sociedad",
-      "url": "https://www.europapress.es/sociedad/noticia-tres-escuelas-negocio-espanolas-100-mejores-mundo-ranking-executive-mba-financial-times-20261012152100.html",
-      "summary": "Tres escuelas de negocio españolas, IESE Business School, IE Business School y EADA Business School, se sitúan entre las 100 mejores del mundo en la edición de 2026 del ránking Executive MBA publicado"
-    },
-    "category": "政策",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "西班牙教育推出",
-    "original_title": "Estas son las 35 experiencias seleccionadas para SIMO EDUCACIÓN 2026",
-    "source": {
-      "name": "Educación 3.0",
-      "url": "https://www.educaciontrespuntocero.com/noticias/experiencias-simo-educacion-2026/",
-      "summary": "Los proyectos, elegidos entre más de 200 candidaturas y distribuidos en 10 categorías, se presentarán del 11 al 13 de noviembre en IFEMA MADRID."
-    },
-    "category": "教育",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "西班牙政策下降",
-    "original_title": "La paradoja de la ayuda para cuidar a hijos muy enfermos: “Yo no puedo extenderla más allá de los 26 años, pero un funcionario sí”",
-    "source": {
-      "name": "El País Sociedad",
-      "url": "https://elpais.com/sociedad/2026-10-12/la-paradoja-de-la-ayuda-para-cuidar-a-hijos-muy-enfermos-yo-no-puedo-extenderla-mas-alla-de-los-26-anos-pero-un-funcionario-si.html",
-      "summary": "En la misma sesión en que el Gobierno vetó eliminar el límite de edad para los trabajadores del sector privado, el Congreso aprobó con solo seis votos en contra hacerlo para los empleados públicos"
-    },
-    "category": "政策",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "Más del 60% de los españoles dicen que su voto se verá influenciado por la vivienda, la inmigración, la economía y la corrupción",
-    "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/mas-60-los-espanoles-dicen-que-su-voto-se-vera-influenciado-por-vivienda-inmigracion-economia-corrupcion_7046466_0.html",
-      "summary": "La última encuesta DYM para 20minutos evidencia claras diferencias según el perfil político: mientras la vivienda es el principal asunto entre votantes del PSOE, entre los del PP y Vox destaca la inmi"
-    },
-    "category": "移民",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Hipotecas cada vez más caras al ritmo del euríbor",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/10/6ac94a97468aebd21c8b4578.html",
-      "summary": "La subida del precio del dinero obliga a los bancos a encarecer los préstamos para vivienda. El coste aún es competitivo, pero los expertos aconsejan no demorar la decisión de comprar.&nbsp;Leer"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-aplicara-prioridad-nacional-10-anos-ayudas-pese-advertencias-comision-europea_1_13582327.html",
+      "summary": "\"Lo vamos a mantener\", ha avanzado Alfonso Fernández Mañueco, que se comprometió con Vox a incluir esta exigencia, por ejemplo, en el acceso a la vivienda públicaLa Junta de Castilla y León presenta s"
     },
     "category": "租房",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   {
-    "title": "西班牙物价飙升",
-    "original_title": "Hacia un invierno sin garantías para el gas",
+    "title": "西班牙签证新动态",
+    "original_title": "El Supremo ordena suspender el voto de 163.020 españoles pese a que el Gobierno lo considera “materialmente imposible”",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/12/invierno-garantias-gas.html",
-      "summary": "Europa encara la próxima temporada invernal con las reservas de gas en mínimos desde 2011 y sus precios disparados, lo que ofrece muy pocas garantías para los consumidores y menos aún para la industri"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/supremo-ordena-suspender-voto-163-020-espanoles-pese-gobierno-considera-materialmente-imposible_1_13580454.html",
+      "summary": "El Alto Tribunal exige a la Administración preservar la “pureza” de las elecciones, mientras el Ejecutivo alerta de que no hay tiempo para revisar los expedientes que los jueces han puesto bajo sospec"
     },
-    "category": "政策",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "西班牙物价新动态",
-    "original_title": "Europa encara el invierno con las reservas de gas bajo mínimos y los precios en máximos",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html",
-      "summary": "Las reservas de gas en Europa se sitúan en el 73% de la capacidad total, 15 puntos por debajo de la media de los últimos cinco años. Los precios, en 80,4 euros por megavatio-hora, duplican los de juni"
-    },
-    "category": "政策",
-    "date": "2026-10-12"
+    "category": "签证",
+    "date": "2026-10-13"
   }
 ]

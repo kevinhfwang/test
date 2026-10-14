@@ -1,5 +1,16 @@
 [
   {
+    "title": "西班牙大学新动态",
+    "original_title": "La huelga educativa empieza en Madrid entre piquetes, centros parados y cargas policiales",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/huelga-educativa-empieza-madrid-piquetes-centros-parados-cargas-policiales_1_13584031.html",
+      "summary": "Profesorado, estudiantes y familias se movilizan desde Infantil hasta la Universidad en la primera jornada de un paro indefinido que convocan una veintena de organizaciones; \"Paramos por nosotras, por"
+    },
+    "category": "留学",
+    "date": "2026-10-14"
+  },
+  {
     "title": "西班牙教育新动态",
     "original_title": "Docentes de distintos puntos de España comparten sus experiencias en las aulas en 'La escuela que queremos es posible'",
     "source": {
@@ -8,7 +19,7 @@
       "summary": "'La educación que queremos', el ciclo de conferencias que la Fundación Botín desarrolla con el apoyo de la Fundación Edelvives, ha organizado 'La escuela que queremos es posible', el primer encuentro "
     },
     "category": "教育",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
     "title": "西班牙大学新规",
@@ -19,7 +30,7 @@
       "summary": "La Coordinadora de Representantes de Estudiantes de Universidades Públicas (CREUP) ha rechazado la decisión del Tribunal Supremo de anular el Real Decreto 905/2025, por el que se modificaban los requi"
     },
     "category": "留学",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
     "title": "西班牙大学修改",
@@ -30,98 +41,65 @@
       "summary": "La Asociación de Centros Autónomos de Enseñanza Privada (ACADE) valora \"muy positivamente\" la Sentencia de la Sala de lo Contencioso-Administrativo del Tribunal Supremo que anula el Real Decreto 905/2"
     },
     "category": "留学",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙大学新规 (1)",
-    "original_title": "UNIR alcanza un nuevo récord con 14 programas entre los mejores másteres online de España en el Ranking de 'El Mundo'",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-unir-alcanza-nuevo-record-14-programas-mejores-masteres-online-espana-ranking-mundo-20261007143032.html",
-      "summary": "La Universidad Internacional de La Rioja (UNIR) ha reforzado su posición como referente de la educación superior en línea en español al lograr clasificar 14 entre los mejores másteres online de España"
-    },
-    "category": "留学",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "西班牙经济飙升",
-    "original_title": "El FMI mejora el PIB de España al 2,5% este año, pero alerta de la abultada inflación",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/13/6accc9e8e5fdeaee188b4597.html",
-      "summary": "El organismo que dirige Kristalina Georgieva eleva en cuatro décimas el crecimiento de la economía española en 2026, pero dispara en 7 décimas su pronóstico de inflación, hasta el 3,7%. El FMI destaca"
-    },
-    "category": "全球经济",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "西班牙经济新动态",
-    "original_title": "El FMI eleva al 2,5% la previsión de crecimiento para España en 2026",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261013/11657470/fmi-eleva-2-5-prevision-crecimiento-espana-2026.html",
-      "summary": "La resiliencia de la economía global, “gracias a la IA”, no aporta inmunidad frente a “correcciones bursátiles”"
-    },
-    "category": "全球经济",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "La Comisión Europea advierte de que la \"prioridad nacional\" en las ayudas públicas vulnera el derecho comunitario",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/comision-europea-advierte-prioridad-nacional-ayudas-publicas-vulnera-derecho-comunitario_1_13581253.html",
-      "summary": "El comisario Magnus Brunner aclara a preguntas del eurodiputado Vicent Marzà que los Estados miembros no pueden exigir más de cinco años de residencia para dar acceso a la vivienda y a las prestacione"
-    },
-    "category": "居留",
-    "date": "2026-10-13"
-  },
-  {
-    "title": "西班牙政策下降",
-    "original_title": "La Comunidad de Madrid dispara su publicidad en 'Artículo 14', 'ABC' y la web y radio de Javier Negre",
+    "title": "西班牙教育新动态 (1)",
+    "original_title": "En pie de guerra frente a la precariedad: el profesorado madrileño va a la huelga sin fecha de vuelta a las aulas",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/investigacion/comunidad-madrid-dispara-publicidad-articulo-14-abc-web-radio-javier-negre_130_2237809.html",
-      "summary": "El gasto en publicidad institucional de la Comunidad de Madrid disminuyó ligeramente en 2025. El Gobierno de Isabel Díaz Ayuso desembolsó 23,09 millones de euros, frente a los 23,96 del año anterior, "
+      "url": "https://www.infolibre.es/politica/educacion-madrilena-huelga-indefinida-anos-ignorados-no-queda-luchar_1_2237847.html",
+      "summary": "“Llevamos años sin ser escuchadas y movilizándonos, y no parecen hacernos ningún caso”. Con estas palabras, Jessica Belda, portavoz de CGT del área de Educación de la Comunidad de Madrid, resume el ma"
     },
-    "category": "政策",
-    "date": "2026-10-13"
+    "category": "教育",
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙政策改革",
-    "original_title": "Ucrania teme que EE.UU. deje de compartir informes de inteligencia claves para contrarrestar a Rusia",
+    "title": "西班牙油价新规",
+    "original_title": "La AIE advierte de nuevas subidas del gasóleo en Europa en las próximas semanas",
     "source": {
       "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/13/ucrania-teme-que-eeuu-deje-de-compartir-informes-de-inteligencia-claves",
-      "summary": "Estados Unidos ya ha demostrado que puede suspender el intercambio de inteligencia con Ucrania, como hizo brevemente en marzo de 2025 durante una disputa diplomática. La sospecha se produce después de"
+      "url": "https://es.euronews.com/2026/10/14/la-aie-advierte-de-que-los-precios-del-diesel-en-europa-pueden-subir-por-la-escasez-hasta",
+      "summary": "Europa podría afrontar nuevas subidas del diésel en las próximas semanas, advirtió la Agencia Internacional de la Energía, por interrupciones de suministro que mantendrán el mercado tenso hasta 2027 p"
     },
-    "category": "政策",
-    "date": "2026-10-13"
+    "category": "油价",
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙经济新动态 (1)",
-    "original_title": "Robert E. Hall y Michael Woodford, premio Nobel de Economía 2026 por diseñar las herramientas anticrisis actuales",
+    "title": "西班牙失业新动态",
+    "original_title": "Los nacionalizados por la 'ley de nietos' en el exterior no podrán votar el 29N, pero los residentes en España sí",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/12/6accaef1468aebcd638b4575.html",
-      "summary": "La Real Academia Sueca premia a los teóricos que enseñaron a bancos centrales y gobiernos a frenar los golpes de la economía.&nbsp;Leer"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/nacionalizados-ley-nietos-exterior-no-podran-votar-29n-residentes-espana-si_1_2237861.html",
+      "summary": "La orden del Tribunal Supremo de privar provisionalmente del derecho de voto a 163.020 españoles residentes en el exterior que obtuvieron la nacionalidad por ser descendientes de exiliados gracias a l"
     },
     "category": "政策",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙工资新动态",
-    "original_title": "Descargue el documento | Guía para la jubilación: las cinco fórmulas para anticipar el retiro o compaginar salario y pensión",
+    "title": "西班牙大学宣布",
+    "original_title": "Los profesores de Madrid anuncian una dura huelga indefinida: “Los centros educativos van a parar por completo”",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/12/6ab11490468aeb491c8b456f.html",
-      "summary": "En los últimos años, el Gobierno ha aprobado una serie de reformas de la Seguridad Social que han consolidado el blindaje del poder adquisitivo de los pensionistas mediante la revalorización por ley d"
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-10-13/los-profesores-de-madrid-anuncian-una-dura-huelga-indefinida-los-centros-educativos-van-a-parar-por-completo.html",
+      "summary": "65.000 docentes, que dan clase a más de 666.000 alumnos de Infantil a Bachillerato y FP, están llamados al paro desde este miércoles. La Universidad Complutense y la Rey Juan Carlos se suman al primer"
     },
-    "category": "政策",
-    "date": "2026-10-13"
+    "category": "留学",
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙大学新动态",
+    "title": "西班牙大学新动态 (1)",
+    "original_title": "Dimite la cúpula de la Fundación Complutense, tercer motín en un año en el campus más grande de España",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-10-14/dimite-la-cupula-de-la-fundacion-complutense-tercer-motin-en-un-ano-en-el-campus-mas-grande-de-espana.html",
+      "summary": "A principios de 2026 renunció la Delegación del Rector para las Políticas Sociales y fue cesada la delegada de Igualdad. Tras estas crisis está la situación de penuria económica de la Universidad"
+    },
+    "category": "留学",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "西班牙大学新动态 (2)",
     "original_title": "Escuelas Católicas pide al Gobierno \"mayor respeto a la educación privada\" tras anular el TS el decreto de universidades",
     "source": {
       "name": "Europa Press Educación",
@@ -129,39 +107,61 @@
       "summary": "Escuelas Católicas ha pedido al Gobierno \"mayor seguridad jurídica y respeto a la educación privada\" después de que el Tribunal Supremo haya anulado el real decreto de creación, reconocimiento y autor"
     },
     "category": "留学",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙大学新动态 (1)",
-    "original_title": "Los rectores destacan que el Supremo anula el decreto de Universidades \"por una cuestión de forma, no de fondo\"",
+    "title": "西班牙大学新动态 (3)",
+    "original_title": "Bolaños defiende el derecho de estudiantes a manifestarse pero rechaza los incidentes en la Complutense: \"No nos gusta\"",
     "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-rectores-destacan-supremo-anula-decreto-universidades-cuestion-forma-no-fondo-20261008145046.html",
-      "summary": "La Conferencia de Rectores y Rectoras de las Universidades Españolas (CRUE), dentro del más \"absoluto respeto\" institucional hacia las decisiones judiciales, constata que la sentencia del Tribunal Sup"
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-bolanos-defiende-derecho-estudiantes-manifestarse-rechaza-incidentes-complutense-no-nos-gusta-20261014140233.html",
+      "summary": "El ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha defendido el derecho de los estudiantes a manifestarse pero ha rechazado los incidentes que han ocurrido en la Unive"
     },
     "category": "留学",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙住房推出",
-    "original_title": "Mañueco aplicará la 'prioridad nacional' a las ayudas públicas pese a las advertencias de la Comisión Europea",
+    "title": "西班牙教育新规",
+    "original_title": "PISA 2025: ¿cómo podemos mejorar la comprensión lectora y las matemáticas en el aula?",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-aplicara-prioridad-nacional-10-anos-ayudas-pese-advertencias-comision-europea_1_13582327.html",
-      "summary": "\"Lo vamos a mantener\", ha avanzado Alfonso Fernández Mañueco, que se comprometió con Vox a incluir esta exigencia, por ejemplo, en el acceso a la vivienda públicaLa Junta de Castilla y León presenta s"
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/noticias/pisa-2025-comprension-lectora-matematicas-aula/",
+      "summary": "Los resultados de PISA 2025 plantean nuevos retos para la educación española. El 20 de octubre expertos educativos analizarán sus causas y propondrán estrategias para mejorarlos en el XVII Encuentro E"
     },
-    "category": "租房",
-    "date": "2026-10-13"
+    "category": "教育",
+    "date": "2026-10-14"
   },
   {
-    "title": "西班牙签证新动态",
-    "original_title": "El Supremo ordena suspender el voto de 163.020 españoles pese a que el Gobierno lo considera “materialmente imposible”",
+    "title": "西班牙政策新动态",
+    "original_title": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/supremo-ordena-suspender-voto-163-020-espanoles-pese-gobierno-considera-materialmente-imposible_1_13580454.html",
-      "summary": "El Alto Tribunal exige a la Administración preservar la “pureza” de las elecciones, mientras el Ejecutivo alerta de que no hay tiempo para revisar los expedientes que los jueces han puesto bajo sospec"
+      "name": "El País",
+      "url": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
+      "summary": "Los sindicatos cifran el seguimiento en los centros educativos en un 70% y la Comunidad en un 45%. Una actuación policial en la Complutense contra manifestantes se salda con cinco detenidos y seis her"
     },
-    "category": "签证",
-    "date": "2026-10-13"
+    "category": "政策",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "El Tribunal de Cuentas absuelve a Puigdemont y a otros 34 inculpados por los gastos del \"procés\"",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/tribunal-cuentas-absuelve-puigdemont-34-inculpados-gastos-proces_1_2237966.html",
+      "summary": "El Tribunal de Cuentas ha absuelto este miércoles, gracias a la aplicación de la ley de amnistía, al expresidente de la Generalitat Carles Puigdemont y a otros 34 ex altos cargos del Govern inculpados"
+    },
+    "category": "政策",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "‘Los cortijos en tres novelas de Carmen de Burgos Seguí (Colombine)’",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/cultura/libros/cortijos-tres-novelas-carmen-burgos-segui-colombine_1_2237821.html",
+      "summary": "La Asociación Colombine Artística y Literaria, creada este 2026 en Almería, y la Asociación de la Prensa de Almería acaban de editar Los cortijos en tres novelas de Carmen de Burgos Seguí (Colombine),"
+    },
+    "category": "政策",
+    "date": "2026-10-14"
   }
 ]

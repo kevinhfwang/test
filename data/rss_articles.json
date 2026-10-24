@@ -1,5 +1,13 @@
 [
   {
+    "title": "Will Spain's 100 percent property tax on foreign buyers ever be approved?",
+    "link": "https://www.thelocal.es/20261019/will-spains-100-percent-property-tax-on-foreign-buyers-ever-pass",
+    "summary": "In 2025, Spain's government proposed a controversial 100 percent tax on property buyers from outside of the EU which would double the price of Spanish real estate for them. Will this levy ever be approved, and does it depend on who wins the election?",
+    "published": "Mon, 19 Oct 2026 15:28:10 +0200",
+    "source": "The Local ES",
+    "score": 4
+  },
+  {
     "title": "Las escuelas infantiles privadas tendrán que incrementar las cuotas hasta un 50% por las ratios que aprobará el Gobierno",
     "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-escuelas-infantiles-privadas-tendran-incrementar-cuotas-50-ratios-aprobara-gobierno-20261022124808.html",
     "summary": "Las escuelas infantiles privadas se verían obligadas a incrementar las cuotas del alumnado entre un 40% y un 50% si el Ministerio de Educación, Formación Profesional y Deportes aprueba el real decreto que modifica las ratios alumno-profesor en el primer ciclo de Educación Infantil.",
@@ -14,22 +22,6 @@
     "published": "Tue, 20 Oct 2026 07:00:00 +0000",
     "source": "Educación 3.0",
     "score": 4
-  },
-  {
-    "title": "Una jueza abre la vía a rechazar desahucios ante la \"quiebra del mercado de la vivienda\"",
-    "link": "https://www.eldiario.es/politica/jueza-abre-via-rechazar-desahucios-quiebra-mercado-vivienda_1_13608137.html",
-    "summary": "La magistrada alude a la “realidad social” para impedir el desalojo de un piso de la Comunidad de Madrid ocupado por una familia vulnerable: “Se aboca a unos niños al desamparo para dejar una vivienda pública vacía y tapiada”La mayoría de jóvenes necesitan una ayuda para independizarse y renuncian a",
-    "published": "Thu, 22 Oct 2026 20:11:10 +0000",
-    "source": "elDiario",
-    "score": 3
-  },
-  {
-    "title": "Tensión y cargas de la Ertzaintza en un barrio de Vitoria por el desahucio de una familia con seis hijos menores",
-    "link": "https://www.eldiario.es/euskadi/tension-cargas-ertzaintza-barrio-vitoria-desahucio-familia-seis-hijos-menores_1_13608441.html",
-    "summary": "Se había organizado una acampada desde este jueves y ha habido nuevas protestas este viernes en Sansomendi ante la falta de alternativas para ocho personasEl consejo de estudiantes de la EHU se suma a los sindicatos y llama a los 45.000 universitarios a parar por la vivienda\n        Tensi&oacute;n y",
-    "published": "Fri, 23 Oct 2026 08:26:49 +0000",
-    "source": "elDiario",
-    "score": 3
   },
   {
     "title": "Inquietud por el crudo y el alto coste de la IA",
@@ -56,35 +48,75 @@
     "score": 3
   },
   {
-    "title": "El Supremo pide al Gobierno la lista de 160.000 nacionalizados con la ley de nietos y advierte de su \"responsabilidad penal\" si no la entrega",
-    "link": "https://www.eldiario.es/politica/supremo-pide-gobierno-lista-160-000-nacionalizados-ley-nietos-advierte-responsabilidad-penal-si-no-entrega_1_13609262.html",
-    "summary": "La Sala de lo Contencioso da cinco días a Exteriores y Presidencia para que envíen la \"relación nominal\" de las personas nacionalizadas bajo la ley de nietos con \"expreso apercibimiento\" de que pueden llegar a incurrir en un delito si no lo hacenEl despacho de Baltasar Garzón busca la vía para que e",
-    "published": "Fri, 23 Oct 2026 10:31:10 +0000",
+    "title": "Lotería Nacional de hoy sábado 24 de octubre de 2026, en directo | Resultados y premios",
+    "link": "https://www.20minutos.es/nacional/loteria-nacional-hoy-sabado-24-octubre-2026-directo-resultados-premios_7052925_6.html",
+    "summary": "Última hora del sorteo de Lotería Nacional de este sábado, que ha puesto en juego 42 millones de euros.",
+    "published": "Sat, 24 Oct 2026 12:03:55 +0200",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Los consulados refuerzan sus plantillas y trabajan el fin de semana para cumplir el plazo del Supremo sobre la 'ley de nietos'",
+    "link": "https://www.20minutos.es/nacional/los-consulados-refuerzan-sus-plantillas-trabajan-fin-semana-para-cumplir-plazo-supremo-sobre-ley-nietos_7052930_0.html",
+    "summary": "Exteriores ha suspendido permisos y vacaciones y ha ordenado trabajar durante el fin de semana para recopilar los datos de los 163.020 afectados antes del miércoles, plazo fijado por el Tribunal Supremo.",
+    "published": "Sat, 24 Oct 2026 12:31:36 +0200",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Comprobar Lotería Nacional: resultados de hoy, sábado 24 de octubre de 2026",
+    "link": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-24-octubre-2026_7052931_0.html",
+    "summary": "Los resultados de la Lotería Nacional del sábado 24 de octubre de 2026 se conocerán a partir de las 13:30h. Puedes consultar todos los resultados en la web de 20minutos.es.",
+    "published": "Sat, 24 Oct 2026 12:30:02 +0200",
+    "source": "20 Minutos",
+    "score": 2
+  },
+  {
+    "title": "Feijóo apuesta por perfiles duros para competir con Vox",
+    "link": "https://www.eldiario.es/politica/feijoo-apuesta-perfiles-duros-competir-vox_1_13610039.html",
+    "summary": "El líder del PP elige a Cayetana Álvarez de Toledo como su número dos en las listas, apuesta por Albiol para convertir el problema del acceso a la vivienda en una cuestión de orden público y mantiene a la diputada del spray de pimientaFeijóo reabre el debate sobre el aborto, eliminará el Ministerio ",
+    "published": "Fri, 23 Oct 2026 20:40:07 +0000",
     "source": "elDiario",
     "score": 2
   },
   {
-    "title": "El TS da cinco días al Gobierno para presentar la lista de 163.020 personas afectadas por la 'ley de nietos'",
-    "link": "https://www.infolibre.es/politica/supremo-da-cinco-dias-gobierno-presentar-lista-163-020-personas-afectadas-ley-nietos_1_2238957.html",
-    "summary": "El Tribunal Supremo ha decidido este viernes requerir a los ministros de Asuntos Exteriores, José Manuel Albares, y de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, para que en un plazo de cinco días remitan la relación nominal de las 163.020 personas nacionalizadas por la 'ley d",
-    "published": "Fri, 23 Oct 2026 10:36:53 +0000",
-    "source": "InfoLibre",
+    "title": "Murtas, el pueblo granadino en el que tres de cada cuatro votantes no han nacido en España",
+    "link": "https://www.eldiario.es/andalucia/granada/murtas-pueblo-granadino-tres-cuatro-votantes-no-han-nacido-espana_1_13592456.html",
+    "summary": "Fruto de la migración de cientos de vecinos a mediados del siglo pasado, esta localidad de la Alpujarra cuenta con un censo mucho más elevado de lo que dice la vida tranquila y casi nostálgica de sus callesEl fallo del Supremo sobre la ley de nietos amenaza con dejar sin voto a quienes ya probaron e",
+    "published": "Fri, 23 Oct 2026 19:40:35 +0000",
+    "source": "elDiario",
     "score": 2
   },
   {
-    "title": "El multimillonario Vincent Bolloré infravaloró dos mansiones para ahorrarse 4,5 millones en impuestos",
-    "link": "https://www.infolibre.es/mediapart/multimillonario-vincent-bollore-infravaloro-mansiones-ahorrarse-4-5-millones-impuestos_1_2238887.html",
-    "summary": "Cuando se trata de financiar las pérdidas de los medios de comunicación que ha puesto al servicio de la extrema derecha (CNews, Europe 1, Le JDD), Vincent Bolloré no escatima en gastos. Pero cuando se trata de pagar impuestos, el multimillonario ultraconservador, al frente de un imperio con presenci",
-    "published": "Fri, 23 Oct 2026 04:01:05 +0000",
-    "source": "InfoLibre",
-    "score": 2
-  },
-  {
-    "title": "Patti Smith, sorprendida en Oviedo por miles de personas cantando su himno 'People Have the Power'",
-    "link": "https://es.euronews.com/2026/10/23/patti-smith-sorprendida-en-oviedo-por-miles-de-personas-cantando-su-himno-people-have-the-",
-    "summary": "La cantante estadounidense ha recibido un multitudinario homenaje en Oviedo, donde unas 3.000 personas han cantado junto a ella. La artista recoge este viernes el Premio Princesa de Asturias de las Artes 2026.",
-    "published": "Fri, 23 Oct 2026 13:33:33 +0200",
+    "title": "Un vertido de petróleo obliga a cerrar playas en Emiratos Árabes Unidos en plena guerra con Irán",
+    "link": "https://es.euronews.com/2026/10/24/emiratos-arabes-unidos-vertido-petroleo-playas-umm-al-quwain-guerra-iran",
+    "summary": "Emiratos Árabes Unidos ha desplegado equipos de emergencia para contener un vertido de petróleo que afecta a las playas de Umm Al Quwain. El incidente se produce en plena tensión en el Golfo, después de que un petrolero fuera alcanzado por un proyectil frente a las costas del país.",
+    "published": "Sat, 24 Oct 2026 12:30:39 +0200",
     "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Las mejores y peores estaciones de tren de Europa en 2026: Alemania sale mal parada",
+    "link": "https://es.euronews.com/2026/10/24/mejores-peores-estaciones-tren-europa-2026-alemania-suiza",
+    "summary": "En las mejores estaciones de tren de Europa, las esperas pueden ser de apenas un minuto. Suiza, Francia y Polonia destacan en una clasificación de 60 estaciones, mientras que Alemania concentra seis de las diez peor valoradas y Bremen ocupa el último puesto.",
+    "published": "Sat, 24 Oct 2026 12:02:49 +0200",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Últimas noticias | 24 octubre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/10/24/ultimas-noticias-24-octubre-2026-mediodia",
+    "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 24 octubre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
+    "published": "Sat, 24 Oct 2026 12:00:25 +0200",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "BYD da el 'sorpasso' a MG y ya es la marca china más vendida en España",
+    "link": "https://www.expansion.com/empresas/motor/2026/10/24/6adb7767468aeb866d8b45aa.html",
+    "summary": "La firma asiática duplica sus ventas en 2026, es la que más crece entre las enseñas de mayor volumen, acaricia el 'top 10' del mercado y se consolida como líder en coches eléctricos e híbridos enchufables.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:04:18 +0200",
+    "source": "Expansión",
     "score": 2
   },
   {
@@ -152,26 +184,18 @@
     "score": 2
   },
   {
+    "title": "Detenido por violar y retener a una mujer a la que ofreció trabajo limpiando su vivienda en Palma",
+    "link": "https://www.europapress.es/illes-balears/noticia-detenido-violar-retener-mujer-ofrecio-trabajo-limpiando-vivienda-palma-20261024101158.html",
+    "summary": "La Policía Nacional ha detenido a un hombre por supuestamente violar, retener y amenazar de muerte a una mujer a la que ofreció trabajo en su vivienda en Palma.",
+    "published": "Sat, 24 Oct 2026 08:11:58 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 2
+  },
+  {
     "title": "El Gobierno ejecuta un operativo \"discreto\" en el barrio del Príncipe de Ceuta para desalojar a 200 migrantes",
     "link": "https://www.europapress.es/epsocial/migracion/noticia-gobierno-ejecuta-operativo-discreto-barrio-principe-ceuta-desalojar-200-migrantes-20261023100929.html",
     "summary": "El ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres, ha anunciado que este viernes se está llevando a cabo un operativo \"discreto y cuidadoso\" en el barrio del Príncipe, en Ceuta, para desalojar a 200 migrantes de inmuebles privados, como viviendas y garajes.",
     "published": "Fri, 23 Oct 2026 08:09:29 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 2
-  },
-  {
-    "title": "Más de 21.000 personas han fallecido a la espera de la dependencia en lo que va de año, según un informe",
-    "link": "https://www.europapress.es/epsocial/igualdad/noticia-mas-21000-personas-fallecido-espera-dependencia-va-ano-informe-20261023114350.html",
-    "summary": "Un total de 21.374 personas en situación de dependencia han fallecido en las listas de espera de la dependencia en los primeros nueve meses de 2026, lo que representa una media de \"más de 78 personas al día\" y \"una cada 18 minutos\", según el informe del Observatorio Estatal de la Dependencia, de la ",
-    "published": "Fri, 23 Oct 2026 09:43:50 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 2
-  },
-  {
-    "title": "Las denuncias por violencia de género suben un 9,8% en el segundo trimestre de 2026 hasta las 55.712, según el CGPJ",
-    "link": "https://www.europapress.es/epsocial/igualdad/noticia-denuncias-violencia-genero-suben-98-segundo-trimestre-2026-55712-cgpj-20261023113241.html",
-    "summary": "Los órganos judiciales especializados en violencia sobre la mujer registraron durante el segundo trimestre de este año 55.712 denuncias y atendieron a un total de 50.106 mujeres, cifras que reflejan un aumento del 9,81% y del 7,64% respectivamente, en relación con el mismo periodo de 2025.",
-    "published": "Fri, 23 Oct 2026 09:32:41 GMT",
     "source": "Europa Press Sociedad",
     "score": 2
   },
@@ -208,195 +232,139 @@
     "score": 2
   },
   {
-    "title": "El Supremo exige al Gobierno la lista de los afectados por la ‘ley de nietos’ y amenaza de multa y posible responsabilidad penal si no lo hace",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html",
-    "summary": "El tribunal da cinco días a Bolaños y Albares para que le entreguen el nombre de los 163.020 nacionalizados a los que se ha suspendido el voto para el 29-N",
-    "published": "Fri, 23 Oct 2026 10:31:47 GMT",
+    "title": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
+    "link": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html",
+    "summary": "La tercera autoridad del Estado se muestra “partidaria de hacer preguntas directamente más libres al Gobierno” en las Cortes. “La receta mágica para bajar el suflé de los insultos sería aceptar los resultados democráticos y comportarse con los cánones de la educación básica”, afirma",
+    "published": "Sat, 24 Oct 2026 03:30:01 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "Feijóo intentará gobernar aunque no sea la lista más votada: “Mi primer objetivo es que Sánchez se vaya”",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/feijoo-intentara-gobernar-aunque-no-sea-la-lista-mas-votada-mi-primer-objetivo-es-que-sanchez-se-vaya.html",
-    "summary": "El líder del PP eliminará el Ministerio de Igualdad, cuestiona que las menores de 16 años puedan abortar sin consentimiento de sus padres y quiere reformar la ley de eutanasia",
-    "published": "Fri, 23 Oct 2026 09:05:01 GMT",
+    "title": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
+    "link": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html",
+    "summary": "Estudiantes, sindicatos y vecinos han convocado más de 170 manifestaciones en poco más de un mes en todo el continente. Sus motivos a menudo coinciden",
+    "published": "Sat, 24 Oct 2026 03:30:01 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "La estrategia de Vox en redes copia la IA del PP y agita el odio a la inmigración: “¡Todos fuera!”",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/la-estrategia-de-vox-en-redes-copia-la-ia-del-pp-y-agita-el-odio-a-la-inmigracion-todos-fuera.html",
-    "summary": "Es el partido más seguido en España. La extrema derecha sigue la estela de los populares y sacude las redes con otro vídeo de inteligencia artificial contra Sánchez",
-    "published": "Fri, 23 Oct 2026 11:32:09 GMT",
+    "title": "Las llamas destruyen El Nido del Águila, la famosa residencia de Hitler en los Alpes",
+    "link": "https://elpais.com/internacional/2026-10-24/las-llamas-destruyen-el-nido-del-aguila-la-famosa-residencia-de-hitler-en-los-alpes.html",
+    "summary": "La policía alemana detiene a un sospechoso e investiga su relación con el incendio",
+    "published": "Sat, 24 Oct 2026 10:22:05 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "El estupor de los dos historiadores usados por el PP y Vox para proteger una cruz franquista: “¿Cómo voy a decir yo algo así?”",
-    "link": "https://elpais.com/espana/2026-10-23/el-estupor-de-los-dos-historiadores-usados-por-el-pp-y-vox-para-proteger-una-cruz-franquista-como-voy-a-decir-yo-algo-asi.html",
-    "summary": "Los reputados investigadores Miguel Ángel del Arco y César Rina denuncian el “falseamiento” de sus trabajos en una resolución de la Junta de Extremadura para declarar Bien de Interés Cultural la Cruz de los Caídos de Cáceres",
-    "published": "Fri, 23 Oct 2026 03:30:01 GMT",
+    "title": "Susan Sarandon: “A veces me llaman comunista. Creo que es la manera que tienen algunos de decir que alguien está como una cabra”",
+    "link": "https://elpais.com/smoda/famosos/2026-10-24/susan-sarandon-a-veces-me-llaman-comunista-creo-que-es-la-manera-que-tienen-algunos-de-decir-que-alguien-esta-como-una-cabra.html",
+    "summary": "Esta gran dama de la interpretación se las sabe todas y a la vez, después de más de 100 películas, aún tiene energía para la curiosidad y la protesta. A sus ochenta años asegura que quiere “darlo todo en el campo”. Estuvimos con ella en Nueva York y hablamos, claro, de aquella película de vaqueros c",
+    "published": "Sat, 24 Oct 2026 03:30:00 GMT",
     "source": "El País",
     "score": 1
   },
   {
-    "title": "Los nostálgicos de Franco disparan los precios en la puja del pazo de Meirás",
-    "link": "https://elpais.com/espana/galicia/2026-10-23/los-nostalgicos-de-franco-disparan-los-precios-en-la-puja-del-pazo-de-meiras.html",
-    "summary": "Objetos ofrecidos por la familia del dictador multiplican su tasación antes de la subasta del día 27. Colectivos memorialistas piden al Gobierno parar y fiscalizar la venta",
-    "published": "Fri, 23 Oct 2026 03:30:01 GMT",
-    "source": "El País",
-    "score": 1
-  },
-  {
-    "title": "El Tribunal Supremo reclama los nombres de los 163.000 afectados por la ley de nietos",
-    "link": "https://www.lavanguardia.com/politica/20261023/11666385/supremo-reclama-nombros-163-000-afectados-ley-nietos.html",
-    "summary": "La Sala de lo Contencioso advierte a los ministros Félix Bolaños y José Manuel Albares que si no los entregan en cinco días pueden incurrir en responsabilidades penales",
-    "published": "23 Oct 2026 12:38:32 +0200",
+    "title": "Francia: la izquierda en las calles, la ultraderecha en las urnas",
+    "link": "https://www.lavanguardia.com/internacional/20261024/11666799/francia-izquierda-calles-ultraderecha-urnas.html",
+    "summary": "La violencia asociada al actual movimiento de protesta estudiantil alimenta, como sucedió en Mayo del 68, el voto de la ley y el orden",
+    "published": "24 Oct 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "Sánchez aprovechará los formatos mediáticos de gran audiencia tras su “éxito” en ‘La Revuelta’",
-    "link": "https://www.lavanguardia.com/politica/20261023/11666339/sanchez-aprovechara-formatos-mediaticos-gran-audiencia-exito-revuelta.html",
-    "summary": "El presidente del Gobierno emprende una campaña en medios televisivos alejados de los habituales en la política, como ya hizo en el 2023, en busca de nuevos públicos ante las elecciones del 29-N",
-    "published": "23 Oct 2026 11:59:51 +0200",
+    "title": "Ultimátum del Tribunal Supremo al Gobierno por la ‘ley de nietos’",
+    "link": "https://www.lavanguardia.com/politica/20261024/11666710/ultimatum-tribunal-supremo-gobierno-ley-nietos.html",
+    "summary": "La Sala da cinco días para entregar los nombres de los 163.000 afectados",
+    "published": "24 Oct 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "Un atentado de móvil racista causa un muerto y cuatro heridos cerca de París",
-    "link": "https://www.lavanguardia.com/internacional/20261023/11666365/muerto-cuatro-heridos-disparar-hombre-vehiculo-cerca-paris.html",
-    "summary": "El atacante disparó ráfagas de arma automática desde un vehículo en la ciudad de Trappes, muy multiétnica, al oeste de la capital",
-    "published": "23 Oct 2026 12:14:08 +0200",
+    "title": "Gavi: “En los clásicos se tiene que ir a la guerra, son partidos a muerte”",
+    "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261024/11667125/gavi-barcelona-fermin-clasico-real-madrid-guerra.html",
+    "summary": "El centrocampista advierte del peligro del Real Madrid en los minutos finales, mientras Fermín pide controlar las emociones para afrontar el duelo",
+    "published": "24 Oct 2026 11:56:08 +0200",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "El Supremo da cinco días a Bolaños y Albares para informar sobre los 163.000 afectados por la suspensión del voto y alerta de multas",
-    "link": "https://www.20minutos.es/nacional/supremo-da-cinco-dias-bolanos-albares-para-informar-sobre-los-163-000-afectados-por-suspension-voto-alerta-multas_7052592_0.html",
-    "summary": "Pide la \"relación nominal de las 163.020 personas afectadas\" por la paralización del voto a los nacionalizados mediante la 'ley de nietos', que debe enviarse también a la Junta Electoral Central y la Oficina del Censo Electoral. Alerta de la \"posible responsabilidad\" que pueden afrontar Albares y Bo",
-    "published": "Fri, 23 Oct 2026 12:46:08 +0200",
+    "title": "Frente Amplio propone fijar la jubilación a los 65 años y garantizar pensiones iguales o superiores al salario mínimo",
+    "link": "https://www.20minutos.es/nacional/frente-amplio-propone-fijar-jubilacion-los-65-anos-garantizar-pensiones-iguales-superiores-salario-minimo_7052938_0.html",
+    "summary": "La coalición estima que ambas medidas costarían unos 20.000 millones de euros anuales y propone financiarlas con mayores impuestos a grandes empresas y fortunas y cambios en las cotizaciones.",
+    "published": "Sat, 24 Oct 2026 13:03:42 +0200",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Los tres 'nietos' representados por Garzón piden al Supremo la nulidad de la suspensión del derecho a voto",
-    "link": "https://www.20minutos.es/nacional/los-tres-nietos-representados-por-garzon-piden-supremo-nulidad-suspension-derecho-voto_7052573_0.html",
-    "summary": "El incidente de nulidad sería el paso previo a un posible recurso de amparo ante el Tribunal Constitucional.",
-    "published": "Fri, 23 Oct 2026 12:27:25 +0200",
+    "title": "El PP censura que a Sánchez le abrieran el Reina Sofía para su vídeo antibelicista y que se \"apropie\" del Guernica",
+    "link": "https://www.20minutos.es/nacional/pp-censura-que-sanchez-le-abrieran-reina-sofia-para-su-video-antibelicista-que-se-apropie-guernica_7052934_0.html",
+    "summary": "Miguel Tellado acusa al presidente del Gobierno de utilizar recursos públicos para grabar un vídeo de precampaña electoral en el museo y critica que lo haya hecho para «agrandar su ego».",
+    "published": "Sat, 24 Oct 2026 12:44:29 +0200",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "El tifón 'Champi' deja al menos un muerto, más de 170 heridos y miles de vuelos cancelados en Taiwán",
-    "link": "https://www.20minutos.es/internacional/tifon-champi-deja-menos-un-muerto-mas-170-heridos-miles-vuelos-cancelados-taiwan_7052557_0.html",
-    "summary": "Las autoridades taiwanesas han anunciado el cierre de los colegios y han alertado de que el tifón, con rachas de viento de hasta 191 kilómetros por hora en su epicentro, afecta al total de la isla.",
-    "published": "Fri, 23 Oct 2026 12:08:13 +0200",
-    "source": "20 Minutos",
-    "score": 1
-  },
-  {
-    "title": "De París a Pristina: la escuela laica como norma europea",
-    "link": "https://www.20minutos.es/internacional/paris-pristina-escuela-laica-como-norma-europea_7052544_3.html",
-    "summary": "El Tribunal Europeo de Derechos Humanos ha considerado reiteradamente que el Estado tiene derecho a garantizar la neutralidad de la escuela.",
-    "published": "Fri, 23 Oct 2026 12:03:35 +0200",
-    "source": "20 Minutos",
-    "score": 1
-  },
-  {
-    "title": "Feijóo reabre el debate sobre el aborto, eliminará el Ministerio de Igualdad y estudiará \"la viabilidad\" de las pensiones",
-    "link": "https://www.eldiario.es/politica/feijoo-reabre-debate-aborto-eliminara-ministerio-igualdad-estudiara-viabilidad-pensiones_1_13608554.html",
-    "summary": "El líder del PP asegura que si gobierna solo incrementará el SMI con el visto bueno de la patronal y dice que meterá a Vox en el Consejo de Ministros \"si los españoles\" se lo \"mandan\"Feijóo reconoce que su plan de vivienda no dará resultados en el corto plazo: “Vamos a pasar algunos años difíciles”\n",
-    "published": "Fri, 23 Oct 2026 08:09:05 +0000",
+    "title": "Los autores de la obra sobre Lorca cancelada por Vox en Valladolid: \"Hablar de lo que pasó choca con lo que llaman neutralidad ideológica\"",
+    "link": "https://www.eldiario.es/castilla-y-leon/cultura/autores-obra-lorca-cancelada-vox-valladolid-hablar-paso-choca-llaman-neutralidad-ideologica_128_13608845.html",
+    "summary": "María San Miguel, Alba Muñoz y Pablo Rodríguez, integrantes de Proyecto 43-2, han denunciado ante la Fiscalía la censura velada de 'Federico' por parte de la Junta de Castilla y León, que pretende revisar la \"ideología\" en las propuestas artísticas antes de subvencionarlasLa compañía de 'Federico' d",
+    "published": "Fri, 23 Oct 2026 20:40:09 +0000",
     "source": "elDiario",
     "score": 1
   },
   {
-    "title": "Las falsedades de Feijóo sobre la eutanasia: no es cierto que los médicos tengan un papel “secundario”",
-    "link": "https://www.eldiario.es/sociedad/falsedades-feijoo-eutanasia-no-medicos-tengan-papel-secundario-cat_1_13609219.html",
-    "summary": "El líder popular cae en diversas informaciones incorrectas para justificar su intención de derogar la ley que garantiza una muerte digna, a pesar de ser un derecho que ha sido avalado por el Tribunal ConstitucionalEl juzgado da vía libre a la eutanasia de Francesc Augé tras dos años en suspenso al r",
-    "published": "Fri, 23 Oct 2026 10:18:37 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Feijóo quiere gas pimienta pero no quiere feminismo",
-    "link": "https://www.eldiario.es/sociedad/feijoo-quiere-gas-pimienta-no-quiere-feminismo_129_13608948.html",
-    "summary": "Enarbola el gas pimienta para clamar contra las violaciones en Ceuta, pero planea acabar con el Ministerio de Igualdad; se pone el pin de feminista mientras cuestiona el derecho de las mujeres de 16 y 17 años a decidir sobre sus cuerpos y sus vidasFeijóo reabre el debate sobre el aborto, eliminará e",
-    "published": "Fri, 23 Oct 2026 10:35:24 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "El despacho de Baltasar Garzón busca la vía para que el veto al voto por la ley de nietos regrese al Constitucional",
-    "link": "https://www.eldiario.es/politica/despacho-baltasar-garzon-busca-via-veto-voto-ley-nietos-regrese-constitucional_1_13609038.html",
-    "summary": "El exjuez, que representa a tres afectados, presenta un incidente de nulidad que denuncia la vulneración de varios derechos fundamentalesEl Constitucional rechaza la petición del Defensor del Pueblo de reactivar el voto de 160.000 nacionalizados\n\n        El despacho del exjuez Baltasar Garz&oacute;n",
-    "published": "Fri, 23 Oct 2026 09:35:22 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Sánchez, en 'La Revuelta': \"La alternancia es sana, pero con Vox es involución\"",
-    "link": "https://www.eldiario.es/politica/sanchez-revuelta-alternancia-sana-vox-involucion_1_13608247.html",
-    "summary": "El presidente valora el trabajo hecho por Yolanda Díaz, dice \"no entender\" que ya no sea candidata y asegura que vio venir el fiasco de Rufián: \"Yo sabía que no iba a volar\"PSOE y PP chocan por el 'debate a cuatro': Sánchez quiere RTVE y Feijóo, Atresmedia\n\n        El presidente del Gobierno, Pedro ",
-    "published": "Thu, 22 Oct 2026 21:24:37 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "La Guardia Civil investiga a una ONG por el gas pimienta que Defensa y Revuelta reparten en Ceuta",
-    "link": "https://www.infolibre.es/politica/guardia-civil-investiga-ong-gas-pimienta-defensa-revuelta-reparten-ceuta_1_2238931.html",
-    "summary": "Dos miembros de una ONG que opera en Ceuta han sido detenidos este jueves por la Guardia Civil en el marco de una investigación sobre el supuesto reparto de aerosoles de gas pimienta a migrantes. El operativo también ha incluido el registro de las instalaciones de la organización humanitaria No Name",
-    "published": "Fri, 23 Oct 2026 04:01:06 +0000",
+    "title": "De Sol a las protestas por la educación: a quién beneficia (o perjudica) que la calle esté ‘on fire’ antes del 29N",
+    "link": "https://www.infolibre.es/politica/sol-protestas-educacion-beneficia-perjudica-calle-on-fire-29n_1_2238849.html",
+    "summary": "Los llamó “coro rociero” y los tachó de “violentos”. Isabel Díaz Ayuso no se anduvo con rodeos al referirse a los profesores madrileños que llevan casi diez días en huelga indefinida para reclamar mejoras en la educación pública. La presidenta regional arremetió así contra los docentes que a princip",
+    "published": "Sat, 24 Oct 2026 04:01:05 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "Más de 200 barcos de arrastre pescan en aguas protegidas de España con permiso del Gobierno",
-    "link": "https://www.infolibre.es/medioambiente/200-barcos-arrastre-pescan-aguas-protegidas-espana-permiso-gobierno_1_2238905.html",
-    "summary": "Una investigación de la ONG Oceana ha desvelado que docenas de barcos pescan regularmente en aguas protegidas españolas utilizando, además, una de las técnicas más agresivas, las mallas de arrastre, que capturan todo tipo de especies de manera indiscriminada y arrasan el fondo marino. Los expertos t",
-    "published": "Thu, 22 Oct 2026 14:00:42 +0000",
+    "title": "Cuando la campaña se hace larga y empiezan las dudas, aparecen ETA y la amenaza de una guerra civil",
+    "link": "https://www.infolibre.es/medios/campana-larga-empiezan-dudas-aparecen-eta-amenaza-guerra-civil_1_2238986.html",
+    "summary": "“¿Cuánto nos queda de campaña? Estoy hasta las narices”. La pregunta de Nacho Abad, el conductor de ese programa de infoagitación llamado En boca de todos, que en las mañanas de Cuatro, la segunda cadena española propiedad de la familia Berlusconi, solivianta a los espectadores adictos a las emocion",
+    "published": "Sat, 24 Oct 2026 04:01:06 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "World Culinary Awards: las mejores aerolíneas y aeropuertos para comer",
-    "link": "https://es.euronews.com/2026/10/23/world-culinary-awards-las-mejores-aerolineas-y-aeropuertos-para-comer",
-    "summary": "¿Cuáles son los mejores lugares para comer en pleno vuelo o antes de embarcar? Aerolíneas, aeropuertos y salas VIP brillan en los World Culinary Awards de este año.",
-    "published": "Fri, 23 Oct 2026 12:38:14 +0200",
-    "source": "Euronews ES",
+    "title": "El Supremo amenaza a dos ministros pese a saber que es inviable identificar a los votantes de la 'ley de nietos'",
+    "link": "https://www.infolibre.es/politica/supremo-amenaza-ministros-pese-inviable-identificar-votantes-ley-nietos_1_2238965.html",
+    "summary": "La huida hacia adelante de la Sección Cuarta de lo Contencioso-Administrativo del Tribunal Supremo tras suspender el voto de 163.020 españoles, se ha traducido en una amenaza concreta y directa de sus magistrados contra dos ministros. Pese a las advertencias de Exteriores, la Junta Electoral Central",
+    "published": "Sat, 24 Oct 2026 04:01:06 +0000",
+    "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "La UE ofrece a Canadá una inédita \"membresía asociada\" y aviva el debate en un Reino Unido post-Brexit",
-    "link": "https://es.euronews.com/2026/10/23/ue-ofrece-canada-una-inedita-membresia-asociada-aviva-debate-reino-unido-post-brexit",
-    "summary": "En la próxima cumbre de Montreal, la UE y Canadá esperan reforzar sus lazos en comercio, energía, defensa y minerales críticos, mientras el Reino Unido busca su propio acercamiento a Bruselas.",
-    "published": "Fri, 23 Oct 2026 12:30:32 +0200",
-    "source": "Euronews ES",
+    "title": "Brasil se juega su democracia en las urnas ante un Trump que busca dominar Latinoamérica",
+    "link": "https://www.infolibre.es/internacional/brasil-juega-democracia-urnas-trump-busca-dominar-latinoamerica_1_2238913.html",
+    "summary": "Brasil se debate este domingo entre democracia y fascismo, progreso o involución. Eso es lo que está en juego en la segunda vuelta de las elecciones presidenciales a la que llegan prácticamente empatados Flávio Bolsonaro y Luiz Inácio Lula da Silva, según los sondeos. Si el senador ultraderechista d",
+    "published": "Fri, 23 Oct 2026 18:03:27 +0000",
+    "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "El petróleo da un paso más en su escalada",
-    "link": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html",
-    "summary": "El petróleo vuelve a elevar la presión sobre el conjunto de los mercados financieros. El barril de Brent da un paso más en su escalada, y amplía sus máximos desde mayo al alcanzar los 114 dólares.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 09:57:18 +0200",
+    "title": "Hackear la tecnología: liberar la información del dominio de la IA",
+    "link": "https://www.infolibre.es/mediapart/hackear-tecnologia-liberar-informacion-dominio-ia_129_2238929.html",
+    "summary": "Mientras en Francia los alumnos y alumnas de secundaria se rebelan en un contexto de convergencia de luchas, poniendo en primer plano sus condiciones de estudio y de vida, nos alegra participar en la reflexión sobre las maneras de hacer frente, juntos, a los peligros que nos acechan.Financiado con d",
+    "published": "Fri, 23 Oct 2026 18:04:06 +0000",
+    "source": "InfoLibre",
+    "score": 1
+  },
+  {
+    "title": "Cambio de etapa a la vista en el mercado hipotecario español",
+    "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adbb92ce5fdead5478b4591.html",
+    "summary": "Aunque los precios siguen siendo competitivos, las entidades suben los costes de los préstamos para adaptarse al nuevo escenario de tipos de interés. La concesión será más selectiva.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:01:38 +0200",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "Qué está provocando el desplome del oro",
-    "link": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html",
-    "summary": "El contexto actual de mayor aversión al riesgo en los mercados resulta propicio para el oro. Pero lejos de sacar partido a la búsqueda de refugio, el metal precioso se desinfla a mínimos de julio.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 14:18:50 +0200",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "Viviendas de autor recién salidas de la fábrica",
-    "link": "https://www.expansion.com/inmobiliario/casas/2026/10/23/viviendas-autor-recien-salidas-fabrica.html",
-    "summary": "&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 01:41:27 +0200",
-    "source": "Expansión",
+    "title": "Temblores bursátiles por la escalada bélica",
+    "link": "https://www.expansion.com/opinion/2026/10/24/temblores-bursatiles-escalada-belica.html",
+    "summary": "Occidente afronta el nuevo pico de los precios energéticos con sus reservas en cotas mínimas.&nbsp;La sostenibilidad de la deuda pública y de los desarrolladores de IA disparan las dudas del mercado.",
+    "published": "Sat, 24 Oct 2026 13:02:12 +0200",
+    "source": "Expansión Economía",
     "score": 1
   },
   {
@@ -416,11 +384,11 @@
     "score": 1
   },
   {
-    "title": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
-    "link": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html",
-    "summary": "La Asamblea de Madrid ha dado luz verde definitiva este jueves a la nueva Ley de Defensa del Contribuyente, una de las grandes promesas de Isabel Díaz Ayuso para esta legislatura.",
-    "published": "Thu, 22 Oct 2026 19:18:11 +0200",
-    "source": "Expansión Economía",
+    "title": "'Seek your tribe': Your tips for making friends in Spain",
+    "link": "https://www.thelocal.es/20261022/seek-your-tribe-your-tips-for-making-friends-in-spain",
+    "summary": "To mark Mental Health Awareness Month, we’ve run a series of articles on how loneliness affects foreigners in Spain, and how to beat it. Here are our readers' recommendations for integrating and meeting people in your local community.",
+    "published": "Thu, 22 Oct 2026 15:14:53 +0200",
+    "source": "The Local ES",
     "score": 1
   },
   {
@@ -428,22 +396,6 @@
     "link": "https://www.thelocal.es/20261023/what-spains-parties-are-promising-self-employed-voters-ahead-of-election",
     "summary": "If you're self-employed in Spain, a new government after the upcoming November 29th general election could bring changes to your taxes, social security fees and other work conditions.",
     "published": "Fri, 23 Oct 2026 12:08:28 +0200",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "Ten things to know about Spain's prestigious Princess of Asturias Awards",
-    "link": "https://www.thelocal.es/20231019/ten-things-to-know-about-spains-prestigious-princess-of-asturias-awards",
-    "summary": "Spain's Princess of Asturias Awards ceremony has acquired international prestige and is easily the highest accolade Spain  grants exceptional citizens. This quick explainer will fill you in on everything you need to know.",
-    "published": "Thu, 19 Oct 2023 16:54:58 +0200",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "'Seek your tribe': Your tips for making friends in Spain",
-    "link": "https://www.thelocal.es/20261022/seek-your-tribe-your-tips-for-making-friends-in-spain",
-    "summary": "To mark Mental Health Awareness Month, we’ve run a series of articles on how loneliness affects foreigners in Spain, and how to beat it. Here are our readers' recommendations for integrating and meeting people in your local community.",
-    "published": "Thu, 22 Oct 2026 15:14:53 +0200",
     "source": "The Local ES",
     "score": 1
   },
@@ -472,16 +424,8 @@
     "score": 1
   },
   {
-    "title": "La policía carga contra un grupo de profesores de Madrid que bloqueaba la entrada a un acto de Ayuso",
-    "link": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html",
-    "summary": "Cancelado un acto de la consejera de Educación de Madrid, Mercedes Zarzalejo, en un centro de FP por la presencia de manifestantes",
-    "published": "Mon, 19 Oct 2026 15:53:30 GMT",
-    "source": "El País Educación",
-    "score": 1
-  },
-  {
     "title": "¿Qué son las cuentas 'curis' utilizadas para humillar a alumnos y profesores?",
-    "link": "https://www.europapress.es/sociedad/educacion-00468/noticia-son-cuentas-curis-utilizadas-humillar-alumnos-profesores-20261023114449.html",
+    "link": "https://www.europapress.es/cantabria/educafp-01324/noticia-son-cuentas-curis-utilizadas-humillar-alumnos-profesores-20261023131634.html",
     "summary": "La Policía Nacional ha alertado sobre la utilización de cuentas en redes sociales, conocidas como 'curis', para difundir publicaciones que ridiculizan o humillan a alumnado y profesorado.",
     "published": "Fri, 23 Oct 2026 09:44:49 GMT",
     "source": "Europa Press Educación",
@@ -496,10 +440,18 @@
     "score": 1
   },
   {
-    "title": "Óscar López califica de \"intolerable\" que el PP se niegue a debatir en TVE: \"Es la televisión de todos\"",
-    "link": "https://www.europapress.es/sociedad/noticia-oscar-lopez-califica-intolerable-pp-niegue-debatir-tve-television-todos-20261023113809.html",
-    "summary": "&nbsp;&nbsp;&nbsp;El ministro para la Transformación Digital y secretario general del PSOE-M, Óscar López, ha tachado de \"intolerable\" que el Partido Popular (PP) se haya negado a participar en un debate electoral con los cuatro principales candidatos a la Presidencia del Gobierno organizado por RTV",
-    "published": "Fri, 23 Oct 2026 09:38:09 GMT",
+    "title": "Nieves Rey (Dircom) sobre el impacto de la IA en el empleo y en los jóvenes: \"Algunas tareas dejarán de ser necesarias\"",
+    "link": "https://www.europapress.es/sociedad/noticia-nieves-rey-dircom-impacto-ia-empleo-jovenes-algunas-tareas-dejaran-ser-necesarias-20261024113349.html",
+    "summary": "La directora general de la Asociación de Directivos de Comunicación (Dircom), Nieves Rey, considera que la inteligencia artificial (IA) \"va a transformar funciones y algunas tareas dejarán de ser necesarias\". \"Lo que más me preocupa son los jóvenes: muchas de esas tareas eran su forma de aprender el",
+    "published": "Sat, 24 Oct 2026 09:33:49 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 1
+  },
+  {
+    "title": "El CERMI exige accesibilidad universal ante las elecciones del 29N",
+    "link": "https://www.europapress.es/epsocial/igualdad/noticia-cermi-exige-accesibilidad-universal-elecciones-29n-20261024110451.html",
+    "summary": "&nbsp;&nbsp;&nbsp;El Comité Español de Representantes de Personas con Discapacidad (CERMI) ha instado a las juntas electorales central y provinciales a garantizar que las próximas elecciones generales del 29 de noviembre sean \"plenamente accesibles\" para los votantes con discapacidad, \"supervisando ",
+    "published": "Sat, 24 Oct 2026 09:04:51 GMT",
     "source": "Europa Press Sociedad",
     "score": 1
   },
@@ -528,11 +480,19 @@
     "score": 1
   },
   {
-    "title": "5 apps STEAM para aprender creando y experimentando",
-    "link": "https://www.educaciontrespuntocero.com/recursos/apps-steam-educacion/",
-    "summary": "¿Cómo acercar las disciplinas STEAM a los estudiantes de una forma práctica? Estas aplicaciones permiten explorar conceptos científicos, crear contenidos en tres dimensiones y aprender mediante el juego y la experimentación",
-    "published": "Sun, 18 Oct 2026 07:00:00 +0000",
-    "source": "Educación 3.0",
+    "title": "La precampaña se calienta a costa del feminismo",
+    "link": "https://elpais.com/sociedad/2026-10-23/la-precampana-se-calienta-a-costa-del-feminismo.html",
+    "summary": "Feijóo anuncia que revisará el derecho al aborto y quitará Igualdad si gana las elecciones y se cruza reproches con Sánchez sobre su compromiso con la igualdad",
+    "published": "Fri, 23 Oct 2026 16:04:57 GMT",
+    "source": "El País Sociedad",
+    "score": 1
+  },
+  {
+    "title": "Sanidad activará “todos los servidores públicos” para rastrear cada caso de virus shamonda detectado en el ganado",
+    "link": "https://elpais.com/sociedad/2026-10-23/sanidad-activara-todos-los-servidores-publicos-para-rastrear-cada-caso-de-virus-shamonda.html",
+    "summary": "La OMS ve poco probable que se extienda el patógeno tras el primer caso en humanos, registrado en Francia",
+    "published": "Fri, 23 Oct 2026 10:36:51 GMT",
+    "source": "El País Sociedad",
     "score": 1
   },
   {
@@ -552,323 +512,371 @@
     "score": 1
   },
   {
-    "title": "El lapsus de Feijóo sobre el salario mínimo y el IRPF agita la campaña",
-    "link": "https://elpais.com/economia/2026-10-23/las-palabras-de-feijoo-sobre-el-salario-minimo-agitan-la-campana-electoral.html",
-    "summary": "El líder del PP acusa al Gobierno de “hacer un buen negocio” con la recaudación del salario mínimo, mientras que el Ejecutivo le recuerda que no aporta al IRPF. El candidato popular se compromete después a eximirlo de tributación",
-    "published": "Fri, 23 Oct 2026 08:53:53 GMT",
+    "title": "Última hora de la actualidad política, en directo | Sánchez promete blindar el derecho al aborto en la Constitución si gobierna de nuevo",
+    "link": "https://elpais.com/espana/2026-10-24/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "summary": "Feijóo acusa a la izquierda de “agitar una calle que les da la espalda” | Montero y Rufián arremeten contra el Frente Amplio: “Una izquierda que se presenta en la misma papeleta con el PSOE no va a arreglar los problemas”",
+    "published": "Sat, 24 Oct 2026 11:35:12 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Última hora de la actualidad política, en directo | Pedro Sánchez responde a Feijóo: “Criarse entre mujeres no te hace feminista. Defender sus derechos, sí”",
-    "link": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "summary": "Óscar López, sobre el plan de Feijóo de pactar el salario mínimo con la patronal: “Nos está diciendo que no lo va a subir” | El líder del PP intentará gobernar aunque no sea la lista más votada: “El objetivo es que Sánchez se vaya”",
-    "published": "Fri, 23 Oct 2026 11:56:54 GMT",
+    "title": "Francia contiene el aliento ante una nueva jornada de protestas",
+    "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+    "summary": "El Gobierno, que ha prohibido las manifestaciones en la mayoría de ciudades, ha desplegado 70.000 efectivos para evitar nuevos incidentes en París",
+    "published": "Sat, 24 Oct 2026 09:00:33 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Pensiones, aborto y los pactos con Vox, los 10 titulares de la entrevista a Feijóo en la SER",
-    "link": "https://elpais.com/espana/elecciones-generales/2026-10-23/pensiones-aborto-y-los-pactos-con-vox-los-10-titulares-de-la-entrevista-a-feijoo-en-la-ser.html",
-    "summary": "El líder popular afirma sobre el candidato del partido ultra en Tarragona: “No debe ser fácil probar que sea neonazi”",
-    "published": "Fri, 23 Oct 2026 08:36:06 GMT",
+    "title": "Lula pone a Bolsonaro a la defensiva en el último debate antes de las urnas",
+    "link": "https://elpais.com/america/2026-10-24/lula-pone-a-bolsonaro-a-la-defensiva-en-el-ultimo-debate-antes-de-las-urnas.html",
+    "summary": "Durante más de dos horas de cara a cara, el tono se mantuvo más constructivo. Lula contrapuso su perfil obrero al de su rival, mientras Bolsonaro incidió en su versión más moderada",
+    "published": "Sat, 24 Oct 2026 04:08:59 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Sánchez con Broncano: sesión de control del buen rollito",
-    "link": "https://elpais.com/espana/2026-10-22/sanchez-con-broncano-sesion-de-control-del-buen-rollito.html",
-    "summary": "“¿Qué nivel de dureza de entrevista quieres?”, dijo el presentador. Y empezaron a rajar de Milei",
-    "published": "Fri, 23 Oct 2026 11:03:54 GMT",
+    "title": "Leer a Pedro Almodóvar: “El escritor es egoísta por naturaleza”",
+    "link": "https://elpais.com/babelia/2026-10-24/leer-a-pedro-almodovar-el-escritor-es-egoista-por-naturaleza.html",
+    "summary": "Desde niño soñaba con ser novelista. Tras una vida dedicado al cine, el director manchego publica a los 77 años ‘El hombre que solo escribía en los aviones’, una ficción tan libre como sus películas atravesada por su pasión lectora",
+    "published": "Sat, 24 Oct 2026 03:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "El futuro del programa, las preguntas clásicas, Candela Peña... Cinco momentos de Pedro Sánchez en ‘La Revuelta’",
-    "link": "https://elpais.com/television/2026-10-23/el-futuro-del-programa-las-preguntas-clasicas-candela-pena-cinco-momentos-de-pedro-sanchez-en-la-revuelta.html",
-    "summary": "La entrevista de David Broncano al presidente del Gobierno dio para muchos momentos curiosos que fueron más allá de los discursos políticos",
-    "published": "Fri, 23 Oct 2026 09:26:00 GMT",
+    "title": "Pueblo Ejemplar de Asturias: la Familia Real descubre en Llanes seis siglos de tradición marinera",
+    "link": "https://elpais.com/gente/2026-10-24/pueblo-ejemplar-de-asturias-la-familia-real-descubre-en-llanes-seis-siglos-de-tradicion-marinera.html",
+    "summary": "La Cofradía de Pescadores de Santa Ana, que se remonta al año 1350, recibe el premio otorgado por la Fundación Princesa de Asturias. Los reyes Felipe VI y Letizia, junto a sus dos hijas, recorren el municipio para conocer sus danzas y trajes típicos, la subasta de pescado o la industria conservera",
+    "published": "Sat, 24 Oct 2026 10:56:49 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "El Constitucional deja a los ‘nietos’ cada vez más lejos de poder votar en las elecciones",
-    "link": "https://www.lavanguardia.com/politica/20261022/11664880/tc-rechaza-recurso-defensor-pueblo-nietos-podran-votar.html",
-    "summary": "Diez magistrados consideran que la reclamación de Gabilondo es “prematura”",
-    "published": "22 Oct 2026 06:00:00 +0200",
+    "title": "Neurodivergentes: la etiqueta de moda para los cerebros fuera de lo común",
+    "link": "https://elpais.com/salud-y-bienestar/2026-10-24/neurodivergentes-la-etiqueta-de-moda-para-los-cerebros-fuera-de-lo-comun.html",
+    "summary": "El término nació como eufemismo para las personas autistas, pero hoy se ha convertido en un cajón de sastre donde entra un sinfín de trastornos y peculiaridades",
+    "published": "Sat, 24 Oct 2026 03:30:01 GMT",
+    "source": "El País",
+    "score": 0
+  },
+  {
+    "title": "Máxima alerta policial por las protestas en Francia",
+    "link": "https://www.lavanguardia.com/internacional/20261024/11667113/protestas-disturbios-manifestacion-francia-emmanuel-macron-chalecos-amarillos-ultima-hora-hoy-en-directo.html",
+    "summary": "Este sábado se produce una nueva jornada de manifestaciones y protestas por todo el país, justo el día después de un atentado de carácter racista",
+    "published": "24 Oct 2026 11:30:18 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Feijóo prevé reducir los ministerios de 22 a 15 e integrar Igualdad en otros departamentos",
-    "link": "https://www.lavanguardia.com/politica/20261023/11666277/feijoo-metera-igualdad-otros-ministerios-abrira-debate-aborto-menores.html",
-    "summary": "El líder del PP cree que es necesario que los padres tengan conocimiento de la voluntad de interrumpir el embarazo de sus hijas si tienen 16 y 17 años&nbsp;",
-    "published": "23 Oct 2026 11:05:41 +0200",
+    "title": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
+    "link": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html",
+    "summary": "El ataque de Trappes por un individuo que disparó contra personas de aspecto extranjero añade más tensión a la protesta del sábado",
+    "published": "24 Oct 2026 00:05:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "La vacuna personalizada contra el cáncer reduce más de 40% el riesgo de muerte",
-    "link": "https://www.lavanguardia.com/vida/20261023/11666366/vacuna-personalizada-cancer-reduce-mas-40-riesgo-muerte.html",
-    "summary": "Moderna y Merck anuncian resultados positivos contra el melanoma en el ensayo de fase 3 con 1.137 pacientes",
-    "published": "23 Oct 2026 12:18:47 +0200",
+    "title": "Un detenido en Alemania sospechoso de incendiar el 'Nido del Águila' de Hitler",
+    "link": "https://www.lavanguardia.com/internacional/20261024/11667088/detenido-alemania-sospechoso-incendiar-nido-aguila-hitler.html",
+    "summary": "El incendio, posiblemente provocado, se desató el viernes por la noche y ha implicado la participación de 200 operativos",
+    "published": "24 Oct 2026 10:33:39 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "De las gaitas a los aplausos de Leonor: así ha sido la mañana en el Reconquista",
-    "link": "https://www.lavanguardia.com/cultura/20261023/11666424/gaitas-aplausos-leonor-asi-sido-manana-reconquista.html",
-    "summary": "La Princesa recibe sola a los galardonados y anima a los asistentes a secundar sus ovaciones",
-    "published": "23 Oct 2026 13:21:02 +0200",
+    "title": "Un 29 abierto",
+    "link": "https://www.lavanguardia.com/politica/20261024/11666751/29-abierto.html",
+    "summary": "La crisis social europea incidirá en las elecciones en España",
+    "published": "24 Oct 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Netanyahu ordena el cierre de Cisjordania tras un tiroteo cerca de Hebrón",
-    "link": "https://www.lavanguardia.com/internacional/20261023/11666234/netanyahu-ordena-cierre-cisjordania-tiroteo-cerca-hebron.html",
-    "summary": "El Ejército israelí informa de dos atacantes palestinos muertos y cinco heridos en un ataque contra israelíes en Cisjordania,&nbsp;",
-    "published": "23 Oct 2026 10:39:51 +0200",
+    "title": "Testosterona en el Supremo",
+    "link": "https://www.lavanguardia.com/politica/20261024/11666638/testosterona-supremo-amnistia-constitucional-puigdemont.html",
+    "summary": "",
+    "published": "24 Oct 2026 00:05:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Virus Shamonda: un caso excepcional",
-    "link": "https://www.lavanguardia.com/vida/20261023/11665782/virus-shamonda-caso-excepcional.html",
-    "summary": "El riesgo para la población general, con la información disponible actualmente, es muy bajo o nulo",
-    "published": "23 Oct 2026 06:00:00 +0200",
+    "title": "La aldea gala",
+    "link": "https://www.lavanguardia.com/opinion/20261024/11666798/aldea-gala.html",
+    "summary": "",
+    "published": "24 Oct 2026 00:30:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
-    "link": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html",
-    "summary": "Las explotaciones afectadas han presentado síntomas compatibles con la enfermedad, “principalmente fiebre, diarrea y disminución de la producción”",
-    "published": "22 Oct 2026 18:48:33 +0200",
+    "title": "La lucha sin salida de Olga, la mujer que se suicidó tras su desahucio en l'Hospitalet",
+    "link": "https://www.lavanguardia.com/local/baix-llobregat/20261024/11666706/lucha-salida-olga-l-hospitalet.html",
+    "summary": "Vecinos de la segunda ciudad de Catalunya homenajean hoy a la mujer que se quitó la vida al perder su casa después de años bregando en búsqueda de soluciones para diversas vulnerabilidades",
+    "published": "24 Oct 2026 06:00:00 +0200",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Un hombre mata a una persona y hiere al menos a otras cuatro en una serie de tiroteos en dos municipios de la periferia de París",
-    "link": "https://www.20minutos.es/internacional/un-muerto-varios-heridos-un-tiroteo-oeste-paris_7052572_0.html",
-    "summary": "La Fiscalía investiga los hechos como un atentado \"terrorista\" de motivaciones racistas, pues las víctimas son personas racializadas.",
-    "published": "Fri, 23 Oct 2026 12:13:50 +0200",
+    "title": "Junts critica la alianza de Rufián y Montero y se reivindica como el \"único partido que defiende los intereses de Cataluña\"",
+    "link": "https://www.20minutos.es/nacional/junts-critica-alianza-rufian-montero-se-reivindica-como-unico-partido-que-defiende-los-intereses-cataluna_7052947_0.html",
+    "summary": "Miriam Nogueras critica la alianza electoral entre ERC y Podemos y defiende que su formación prioriza los intereses de Cataluña frente a los acuerdos con partidos nacionales.",
+    "published": "Sat, 24 Oct 2026 13:34:54 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Sanidad activará \"todas las herramientas públicas\" para rastrear cada caso de virus shamonda",
-    "link": "https://www.20minutos.es/nacional/sanidad-activara-todas-las-herramientas-publicas-para-rastrear-cada-caso-virus-shamonda_7052616_0.html",
-    "summary": "La ministra de Sanidad, Mónica García, ha confirmado que su cartera está en contacto con el resto de ministerios y con sus homólogos de la Unión Europea.",
-    "published": "Fri, 23 Oct 2026 13:03:44 +0200",
+    "title": "¿Cuáles son los partidos políticos que integran Frente Amplio?",
+    "link": "https://www.20minutos.es/nacional/cuales-son-partidos-politicos-integran-frente-amplio_7052921_0.html",
+    "summary": "La coalición pretende reunir a diferentes organizaciones progresistas bajo un proyecto político común.",
+    "published": "Sat, 24 Oct 2026 13:32:21 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Leire Díez se querella contra el PP por el vídeo con IA en el que dice haber \"contratado matones para quitar de en medio a una jueza\"",
-    "link": "https://www.20minutos.es/nacional/leire-diez-se-querella-contra-pp-por-video-con-ia-que-dice-haber-contratado-matones-para-quitar-medio-una-jueza_7052589_0.html",
-    "summary": "Díez acusa al PP de presuntos delitos de calumnias con publicidad, contra la integridad moral y de suplantación de identidad digital.",
-    "published": "Fri, 23 Oct 2026 12:45:01 +0200",
+    "title": "Un estudio japonés confirma que los dueños de gatos manifiestan mejoras en el estado de ánimo: la clave está en una hormona",
+    "link": "https://www.20minutos.es/animaleros/gatos/estudio-japones-confirma-duenos-gatos-manifiestan-mejoras-estados-animo-clave-hormona_7052936_0.html",
+    "summary": "Los investigadores analizaron durante un mes los niveles de las hormonas cortisol y oxitocina en los dueños de 29 gatos.",
+    "published": "Sat, 24 Oct 2026 13:12:39 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Cómo afectará la 'mancha fría' del Atlántico al tiempo en España y Europa durante el invierno",
-    "link": "https://www.20minutos.es/nacional/como-afectara-mancha-fria-atlantico-tiempo-espana-europa-durante-invierno_7052517_0.html",
-    "summary": "Una parte del Atlántico entre Groenlandia e Islandia se está enfriando mientras gran parte del planeta continúa calentándose.",
-    "published": "Fri, 23 Oct 2026 12:13:04 +0200",
+    "title": "Muere una turista tras caer de una altura de 300 metros cuando intentaba hacer una foto panorámica en los Dolomitas italianos",
+    "link": "https://www.20minutos.es/internacional/muere-turista-caer-altura-metros-cuando-intentaba-hacer-foto-panoramica-dolomitas-italianos_7052848_0.html",
+    "summary": "Michelle Alejandra Rubio Leiva tenía de 36 años y era de Florida, EEUU, desde donde había viajado con su familia.",
+    "published": "Sat, 24 Oct 2026 12:58:25 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "La justicia belga falla a favor de España en una reclamación por el hachazo renovable y levanta el embargo de los pagos a Enaire",
-    "link": "https://www.20minutos.es/nacional/justicia-belga-falla-favor-espana-una-reclamacion-por-hachazo-renovable-levanta-embargo-los-pagos-enaire_7052514_0.html",
-    "summary": "La decisión revoca otra del año pasado por la que se accedió a embar 840 millones en pagos de Eurocontrol al organismo de control aéreo a petición del fondo Blancket Investments, tenedor de buena parte de las reclamaciones contra España por eliminar las primas a las renovables.",
-    "published": "Fri, 23 Oct 2026 12:08:13 +0200",
+    "title": "El hombre que abatió al adolescente que mató a tres niños y una maestra en un tiroteo escolar pide perdón por no actuar antes",
+    "link": "https://www.20minutos.es/internacional/hombre-abatio-adolescente-mato-ninos-maestra-pide-perdon-no-actuar-antes_7052924_0.html",
+    "summary": "Calificado como héroe por Trump, Kaylub Giamanco dice que \"si no hubiera estado allí, simplemente no sé qué habría pasado\".",
+    "published": "Sat, 24 Oct 2026 12:21:16 +0200",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Netanyahu ordena cercar Hebrón y el cierre total de Cisjordania tras un ataque a israelíes con cinco heridos",
-    "link": "https://www.20minutos.es/internacional/netanyahu-ordena-cierre-inmediato-hebron-anticipa-uno-total-cisjordania_7052494_0.html",
-    "summary": "El ataque se produce a cuatro días de las elecciones legislativas. Hamás ha celebrado el tiroteo y ha llamado a intensificar los ataques contra soldados y colonos israelíes.",
-    "published": "Fri, 23 Oct 2026 11:04:27 +0200",
-    "source": "20 Minutos",
-    "score": 0
-  },
-  {
-    "title": "Sánchez es un toro muy toreado hasta para Broncano",
-    "link": "https://www.eldiario.es/politica/sanchez-toro-toreado-broncano_129_13608282.html",
-    "summary": "Sánchez pasa una alegre velada en 'La revuelta' iniciando ese periodo ya clásico en las campañas electorales en el que los candidatos se divierten en los programas de televisión'La Revuelta' (33,9%) se dispara en RTVE con Pedro Sánchez: 4,4 millones, récord histórico para Broncano\n        David Bron",
-    "published": "Thu, 22 Oct 2026 23:07:03 +0000",
+    "title": "Sánchez reivindica \"la España de Lorca\" frente a \"las tijeras\" de Feijóo y \"la motosierra\" de Abascal",
+    "link": "https://www.eldiario.es/politica/sanchez-reivindica-espana-lorca-frente-tijeras-feijoo-motosierra-abascal_1_13611964.html",
+    "summary": "El candidato socialista asegura que la derecha busca \"una involución\" y adelanta que blindará el aborto en la Constitución. \"Seamos el ejemplo que inspire a otras muchas fuerzas y sociedades progresistas a nunca ceder\", ha pedido desde el mitin en GranadaCómo afecta el sistema electoral a la izquier",
+    "published": "Sat, 24 Oct 2026 11:22:41 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "José Carmelo, el jubilado que ha hecho huelga de hambre tras ser desahuciado en Menorca: \"Ya me da igual hasta morirme\"",
-    "link": "https://www.eldiario.es/illes-balears/economia/jose-carmelo-jubilado-hecho-huelga-hambre-desahuciado-menorca-da-igual-morirme_1_13605373.html",
-    "summary": "“El propietario falleció hace poco y en 2024 sus herederos me anunciaron que venderían la finca y que debía marcharme”, cuenta el hombreEl Estado cubrirá el impago de alquileres para suspender los desahucios a personas vulnerables más allá de 2030\n        Jos&eacute; Carmelo Cuartero est&aacute; jub",
-    "published": "Thu, 22 Oct 2026 20:11:15 +0000",
+    "title": "Una coalición con la ultraderecha para incumplir la Constitución",
+    "link": "https://www.eldiario.es/blog/el-boletin-del-director/coalicion-ultraderecha-incumplir-constitucion_132_13611735.html",
+    "summary": "'El boletín del director' es una carta semanal de Ignacio Escolar exclusiva para socios y socias de elDiario.es. Si tú también lo quieres leer y recibir cada sábado en tu buzón, hazte socio o socia\n        Este mi&eacute;rcoles, en la SER, Aimar Bretos me pidi&oacute; el titular del d&iacute;a. Mi r",
+    "published": "Sat, 24 Oct 2026 06:46:05 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "El dilema del último escaño abre el debate sobre un pacto en el Congreso entre PSOE y Frente Amplio",
-    "link": "https://www.infolibre.es/politica/dilema-ultimo-escano-abre-debate-pacto-congreso-psoe-frente-amplio_1_2238923.html",
-    "summary": "A poco más de un mes para el 29N, la posibilidad de que PSOE y el Frente Amplio alcancen un acuerdo para evitar la dispersión del voto al Congreso en las provincias pequeñas ha cobrado fuerza en las últimas horas. Por el momento, ambas formaciones niegan que haya negociaciones abiertas, aunque en pr",
-    "published": "Thu, 22 Oct 2026 18:12:54 +0000",
+    "title": "Rufián y Montero abren la campaña conjunta de ERC y Podemos: \"Feijóo quiere un país de mujeres esclavizadas\"",
+    "link": "https://www.eldiario.es/catalunya/rufian-montero-abren-campana-conjunta-erc-feijoo-quiere-pais-mujeres-esclavizadas_1_13611024.html",
+    "summary": "Los candidatos critican a las derechas, a los socialistas por limitarse a “tuitear muy fuerte contra los de arriba” y al Frente Amplio: “El frente somos nosotros”Gabriel Rufián pedirá el voto para EH Bildu y BNG en sus territorios pese al acuerdo con Podemos\n\n        Los candidatos de ERC y Podemos ",
+    "published": "Sat, 24 Oct 2026 11:10:40 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "El Frente Amplio tendrá el 30% de los puestos en las listas conjuntas con el PSOE para el Senado",
+    "link": "https://www.eldiario.es/politica/frente-amplio-tendra-30-puestos-listas-conjuntas-psoe-senado_1_13611215.html",
+    "summary": "La izquierda alternativa y los socialistas presentarán candidaturas unitarias en 44 circunscripciones, aunque las listas para todas ellas estarán encabezadas por el PSOE. En el senado, las listas son abiertas, aunque lo común es que el elector escoja a los tres candidatos del mismo partido o coalici",
+    "published": "Fri, 23 Oct 2026 18:12:53 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "Cómo afecta el sistema electoral a la izquierda alternativa: escaños en las grandes provincias y castigo en las pequeñas",
+    "link": "https://www.eldiario.es/politica/afecta-sistema-electoral-izquierda-alternativa-escanos-grandes-provincias-castigo-pequenas_1_13608875.html",
+    "summary": "El espacio confederal no ha logrado representación en el Congreso por 13 provincias en la última década, mientras se ve beneficiado en las 18 circunscripciones más grandes y en los entornos urbanos, donde siempre se ha hecho con escañosEl Frente Amplio cierra la puerta a un pacto global con el PSOE ",
+    "published": "Fri, 23 Oct 2026 20:40:08 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "Las falsedades de Feijóo en la entrevista: del salario mínimo y el IRPF al aumento de la edad de jubilación",
+    "link": "https://www.eldiario.es/politica/falsedades-feijoo-entrevista-salario-minimo-irpf-aumento-edad-jubilacion_1_13609274.html",
+    "summary": "El líder del PP acusa al Gobierno en la SER de \"llevarse el dinero de los trabajadores\" con la subida del SMI pero actualmente no aporta al IRPF y asegura falsamente que el ministro Cuerpo ha dicho que hay un \"problema\" con las pensiones\nFeijóo reabre el debate sobre el aborto, eliminará el Minister",
+    "published": "Fri, 23 Oct 2026 12:31:31 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "La mejor baza para el PSOE es dejar que hable Feijóo",
+    "link": "https://www.eldiario.es/opinion/zona-critica/mejor-baza-psoe-hable-feijoo_129_13610520.html",
+    "summary": "“Si nos visita quince veces más, es posible que gane Sánchez”, ironizó Felipe González sobre el aprovechamiento electoralista que hizo el PSOE de la presencia de Milei en Madrid, sugiriendo que nada va a alterar ya los pronósticos para el 29N. Por supuesto que el presidente argentino no va a venir q",
+    "published": "Fri, 23 Oct 2026 20:40:07 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "Feijóo abraza el discurso reaccionario: narrativa antiocupación, pensiones en duda y recorte de derechos",
+    "link": "https://www.infolibre.es/politica/feijoo-abraza-discurso-reaccionario-narrativa-antiocupacion-pensiones-duda-recorte-derechos_1_2238981.html",
+    "summary": "\"Cómo no voy a ser feminista, si me he criado en mi casa con muchas más mujeres que hombres\". Para el principal líder de la oposición, Alberto Núñez Feijóo, el compromiso feminista no es producto de un proceso de formación y escucha, ni se demuestra con el desarrollo de políticas encaminadas a mejor",
+    "published": "Fri, 23 Oct 2026 18:02:46 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El PP aparca el argumento de la lista más votada para el 29N ante la subida de Sánchez en las encuestas",
-    "link": "https://www.infolibre.es/politica/pp-aparca-argumento-lista-votada-29n-subida-sanchez-encuestas_1_2238912.html",
-    "summary": "Alberto Núñez Feijóo ha guardado en un cajón uno de los argumentos que más repitió durante las elecciones generales del 23 de julio de 2023: que debía gobernar la lista más votada. Entonces, el líder del PP convirtió esa reivindicación en una de sus principales banderas políticas, especialmente desp",
-    "published": "Thu, 22 Oct 2026 18:13:20 +0000",
+    "title": "El eterno atasco en la Audiencia Nacional normaliza las rebajas de pena en casos de corrupción",
+    "link": "https://www.infolibre.es/politica/eterno-atasco-audiencia-nacional-convierte-habituales-rebajas-penas-dilaciones_1_2238681.html",
+    "summary": "La Sección Segunda de la Audiencia Nacional dejó visto para sentencia a comienzos de octubre el primer juicio del caso Lezo. Veinticinco años después de la compra por parte del Canal de Isabel II de la colombiana Interamericana de Aguas y Servicios (Inassa), operación que centra la causa. Y una déca",
+    "published": "Sat, 24 Oct 2026 04:01:06 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "La derecha aprovecha el discurso de la crispación de algunos sindicatos policiales para potenciar su mensaje",
-    "link": "https://www.infolibre.es/politica/derecha-aprovecha-discurso-crispacion-sindicatos-policiales-potenciar-mensaje_1_2238883.html",
-    "summary": "“Si en las próximas elecciones gana la derecha, la izquierda va a quemar la calle”. La advertencia de Laura García, portavoz del sindicato policial Jupol (con cuatro representantes en la escala básica del Consejo de Policía), en el programa En boca de todos resuena con el discurso que algunas organi",
-    "published": "Thu, 22 Oct 2026 18:13:03 +0000",
+    "title": "La juvenil genialidad de Javier Calvo y Javier Ambrossi",
+    "link": "https://www.infolibre.es/tintalibre/juvenil-genialidad-javier-calvo-javier-ambrossi_1_2238574.html",
+    "summary": "\"Qué tragedia: este cuadro nunca envejecerá y yo sí, ojalá fuera al revés”. Este lamento fue pronunciado por Oscar Wilde en diciembre de 1887, justo después de que su amiga, la pintora canadiense Frances Richards, le entregara el retrato que le había hecho y justo antes de que esa queja se convirtie",
+    "published": "Sat, 24 Oct 2026 04:01:06 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El verano más caluroso registrado deja casi 7.000 fallecidos en España y más de 50.000 en Europa",
-    "link": "https://www.infolibre.es/medioambiente/verano-caluroso-registrado-deja-7-000-fallecidos-espana-50-000-europa_1_2238852.html",
-    "summary": "La ola de calor temprana que azotó el centro y el sur de Europa durante el mes de junio ya apuntaba a que este verano se romperían las estadísticas de mortalidad, y así ha sido. Un estudio de un grupo de investigadores británicos publicado este viernes estima que se produjeron más de 50.000 fallecim",
-    "published": "Fri, 23 Oct 2026 04:01:06 +0000",
+    "title": "Señalar, presionar, recortar, censurar: la estrategia de Vox para destrozar la cultura desde dentro",
+    "link": "https://www.infolibre.es/cultura/senalar-presionar-recortar-censurar-estrategia-vox-destrozar-cultura_1_2238921.html",
+    "summary": "Vox ni tan siquiera gobernaba en Zaragoza cuando en 2022 exigió a la coalición de PP y Ciudadanos que dirigía entonces el Ayuntamiento que retirara los 40.000 euros destinados a la Fundación José Antonio Labordeta para dar su apoyo a los presupuestos municipales (así ocurrió y el Gobierno de Aragón ",
+    "published": "Fri, 23 Oct 2026 18:03:22 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Un despido nulo y otras victorias judiciales para las víctimas en la batalla contra la violencia machista",
-    "link": "https://www.infolibre.es/igualdad/despido-nulo-victorias-judiciales-victimas-batalla-violencia-machista_1_2238901.html",
-    "summary": "En febrero de 2024, Romina decidió acudir a la comisaría para denunciar a quien entonces era su pareja por violencia de género, después de haber sufrido dos agresiones sexuales. Tan solo dos meses después, su empresa la despidió alegando una bajada de rendimiento. El Supremo acaba de declarar nulo e",
-    "published": "Thu, 22 Oct 2026 18:13:11 +0000",
+    "title": "La cultura en manos de Vox",
+    "link": "https://www.infolibre.es/opinion/columnas/desde-la-casa-roja/cultura-manos-vox_129_2238976.html",
+    "summary": "¿Negociaría Vox con el Partido Popular la cartera del ministerio de Cultura si ganan las elecciones y llegan a un acuerdo de Gobierno en coalición? Era julio de 2023 cuando Santiago Abascal, en un discurso pronunciado en la Fundación Carlos de Amberes, explicó que la cultura era para su partido una ",
+    "published": "Sat, 24 Oct 2026 04:01:07 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Dejar de migajear o por qué el “estado de bienestar” solo nos remienda los rotos",
-    "link": "https://www.infolibre.es/la-memoria-que-somos/la-democracia-ilustrada/migajear-bienestar-remienda-rotos_1_2237781.html",
-    "summary": "“Solo buscaba un lugar más o menos propicio para vivir, quiero decir: un sitio pequeño donde cantar y poder llorar tranquila a veces. En verdad no quería una casa, solo quería un jardín”. Alejandra Pizarnik es una de las voces más lúcidas, viscerales y humanas de las últimas décadas. Con su dolor y ",
-    "published": "Fri, 23 Oct 2026 04:01:06 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "La tormenta Austen deja 161.000 hogares sin luz en el noroeste de Francia",
-    "link": "https://es.euronews.com/2026/10/23/la-tormenta-austen-deja-161000-hogares-sin-luz-en-el-noroeste-de-francia",
-    "summary": "La primera gran tormenta del otoño azota el noroeste de Francia. Bautizada como Austen por los servicios meteorológicos británicos, deja fuertes rachas de viento, provoca cortes de electricidad y causa alteraciones en el transporte. Las autoridades piden precaución.",
-    "published": "Fri, 23 Oct 2026 14:17:19 +0200",
+    "title": "Asesinan a un crítico ruso del Kremlin en Polonia y revelan el papel de un segundo sospechoso",
+    "link": "https://es.euronews.com/2026/10/24/asesinan-a-un-critico-ruso-del-kremlin-en-polonia-y-revelan-el-papel-de-un-segundo-sospech",
+    "summary": "El asesinato del crítico ruso del Kremlin fue cuidadosamente planificado. Los investigadores creen que tuvo un cómplice que le aportó arma, coche e información sobre la víctima.",
+    "published": "Sat, 24 Oct 2026 13:34:37 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Europe Today: Francia, Macron afronta protestas y Putin abre puerta a diálogo de paz en Ucrania",
-    "link": "https://es.euronews.com/2026/10/23/europe-today-francia-macron-afronta-protestas-y-putin-abre-puerta-a-dialogo-de-paz-en-ucra",
-    "summary": "Francia se prepara para otro fin de semana de protestas mientras Macron afronta críticas por su gira por el Golfo. Putin se declara dispuesto a negociar la paz en Ucrania tras reunirse con Steve Witkoff, y Hungría detiene al exgobernador del banco central György Matolcsy por presunto fraude.",
-    "published": "Fri, 23 Oct 2026 13:18:45 +0200",
+    "title": "Imágenes muestran columnas de humo tras ataque mortal a fábrica rusa",
+    "link": "https://es.euronews.com/video/2026/10/24/imagenes-muestran-columnas-de-humo-tras-ataque-mortal-a-fabrica-rusa",
+    "summary": "Tres personas murieron y otras cinco resultaron gravemente heridas en un supuesto ataque ucraniano contra una fábrica en la región rusa de Oryol, según las autoridades locales.",
+    "published": "Sat, 24 Oct 2026 13:33:51 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "El Parlamento Europeo exige pasar de las palabras a los hechos en la \"membresía asociada\" de Canadá",
-    "link": "https://es.euronews.com/2026/10/23/parlamento-europeo-exige-pasar-palabras-hechos-membresia-asociada-canada",
-    "summary": "El responsable del Parlamento Europeo para Canadá, Tobias Cremer, declaró a Euronews que el previsto estatuto de miembro asociado debería incluir un marco institucional que formalice lazos más estrechos entre la UE y Canadá.",
-    "published": "Fri, 23 Oct 2026 13:06:28 +0200",
+    "title": "Madrid se moviliza por las pensiones en una jornada de protestas en toda Europa",
+    "link": "https://es.euronews.com/2026/10/24/manifestacion-pensionistas-madrid-24-octubre-pensiones-dignas-protestas-europa",
+    "summary": "Los pensionistas se manifiestan este sábado en Madrid para exigir pensiones dignas, su revalorización conforme al IPC y el fin de la brecha de género. La protesta coincide con una jornada de movilizaciones en Francia e Italia, donde las autoridades han reforzado los dispositivos de seguridad.",
+    "published": "Sat, 24 Oct 2026 13:03:44 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "EE.UU. liquida personal en Arabia Saudí y refuerza su flota en el Golfo ante un ataque inminente a Irán",
-    "link": "https://es.euronews.com/2026/10/23/eeuu-liquida-personal-arabia-saudi-refuerza-su-flota-golfo-ante-un-ataque-inminente-iran",
-    "summary": "La volatilidad de las elecciones israelíes y legislativas en EEUU aviva el temor a ataques EE.UU.-Israel contra Irán, que promete una respuesta devastadora contra el Golfo.",
-    "published": "Fri, 23 Oct 2026 12:45:58 +0200",
+    "title": "Ucrania golpea el corazón tecnológico de Rusia: 5 centros de datos atacados con drones",
+    "link": "https://es.euronews.com/2026/10/24/ucrania-ataca-5-centros-datos-rusia-drones-fallos-servicios-digitales",
+    "summary": "Los ataques con drones ucranianos contra cinco centros de datos de Yandex, Sber y VKontakte en Rusia han provocado fallos en los sistemas de pago, las aplicaciones de navegación y los servicios en la nube. La recuperación de la infraestructura podría llevar meses o incluso años.",
+    "published": "Sat, 24 Oct 2026 12:15:52 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "El primer envío de diésel ruso bajo el acuerdo Trump-Putin se dirige a EE.UU.",
-    "link": "https://es.euronews.com/2026/10/23/primer-envio-de-diesel-ruso-se-dirige-a-eeuu-bajo-acuerdo-trump-putin",
-    "summary": "El envío, con unas 40.000 toneladas de diésel, se produce tras un acuerdo que alivió temporalmente las sanciones de EE.UU. al diésel ruso, mientras Trump busca abaratar los combustibles.",
-    "published": "Fri, 23 Oct 2026 12:35:06 +0200",
+    "title": "La UE busca ganar peso en las negociaciones de paz entre Rusia y Ucrania para influir en EE.UU.",
+    "link": "https://es.euronews.com/2026/10/24/ue-busca-ganar-peso-negociaciones-paz-ucrania-rusia-influir-eeuu",
+    "summary": "Bruselas busca convertir las próximas conversaciones de paz entre Ucrania, Rusia y Estados Unidos en una negociación multilateral con participación europea, para ganar peso en el proceso e influir en la postura de Washington.",
+    "published": "Sat, 24 Oct 2026 11:47:05 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Gaza: El momento en que un bombardeo israelí alcanza un edificio en Nuseirat, captado en vídeo",
-    "link": "https://es.euronews.com/video/2026/10/23/gaza-el-momento-en-que-un-bombardeo-israeli-alcanza-un-edificio-en-nuseirat-captado-en-vid",
-    "summary": "Imágenes muestran el momento en que un ataque israelí impacta un edificio en el campo de Nuseirat, en Gaza. No hubo muertos, pero se ve a un herido.",
-    "published": "Fri, 23 Oct 2026 12:24:33 +0200",
+    "title": "De \"impresentable dictador\" a \"ladrón corrupto\": Milei vuelve a atacar a Sánchez",
+    "link": "https://es.euronews.com/2026/10/24/milei-vuelve-a-atacar-a-sanchez-y-lo-llama-ladron-corrupto",
+    "summary": "El presidente argentino ha vuelto a arremeter contra Pedro Sánchez, al que ha llamado \"ladrón corrupto\", apenas dos días después de calificarlo de \"impresentable dictador\" durante su visita a Madrid.",
+    "published": "Sat, 24 Oct 2026 11:07:40 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Un hombre dispara en plena calle en Francia, al menos un muerto y cuatro heridos",
-    "link": "https://es.euronews.com/2026/10/23/un-hombre-dispara-en-plena-calle-en-francia-al-menos-un-muerto-y-cuatro-heridos",
-    "summary": "El sospechoso fue detenido rápidamente por la policía en Coignières, en el departamento de Yvelines, según ha precisado la fuente policial a la AFP.",
-    "published": "Fri, 23 Oct 2026 12:13:42 +0200",
+    "title": "Manifestaciones del 24 de octubre en Europa: Francia moviliza 70.000 agentes e Italia refuerza la seguridad",
+    "link": "https://es.euronews.com/2026/10/24/manifestaciones-del-24-de-octubre-en-europa-francia-moviliza-70000-agentes-e-italia-refuer",
+    "summary": "Roma se blinda con 1.500 efectivos y Milán despliega otros 1.800, mientras Francia moviliza a 70.000 agentes ante las protestas del 24 de octubre. Las autoridades temen nuevos episodios de violencia tras los disturbios del 17 y 18 de octubre.",
+    "published": "Sat, 24 Oct 2026 10:57:00 +0200",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Volvo Cars se estrella en Bolsa",
-    "link": "https://www.expansion.com/mercados/2026/10/23/6adb1c23468aebeb088b4599.html",
-    "summary": "La incipiente temporada de resultados convierte al fabricante automovilístico sueco en una de sus mayores víctimas. Sus acciones se hunden hasta un 30% solo en la sesión de hoy. En su desplome caen a nuevos mínimos históricos.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 12:12:55 +0200",
+    "title": "La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
+    "link": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html",
+    "summary": "La banca de inversión augura más lucha por los recursos de los clientes y más coste. CaixaBank y Unicaja tienen la mayor proporción de dinero no remunerado en su balance.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:02:18 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Las ventas mundiales de valores tecnológicos provocan una huida hacia activos seguros",
-    "link": "https://www.expansion.com/economia/financial-times/2026/10/23/ventas-mundiales-valores-tecnologicos-provocan-huida-activos-seguros.html",
-    "summary": "Los bonos japoneses y el yen suben, mientras los mercados bursátiles asiáticos siguen la estela bajista de Wall Street.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 09:49:29 +0200",
+    "title": "Cómo cobrar más de 10.000 millones en dividendos en la recta final del año",
+    "link": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html",
+    "summary": "Atentos a lnditex y Santander, los dos valores de mayor capitalización de la Bolsa, que abonan dividendo el 2 de noviembre. Más adelante lo harán Sabadell, Enagás, Naturgy, Viscofan y CaixaBank, entre otros.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:03:18 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Geely, MG y Chery sacrifican su margen para conquistar Europa",
-    "link": "https://www.expansion.com/empresas/motor/2026/10/23/6adae32de5fdead16a8b45ae.html",
-    "summary": "BYD es el único fabricante chino de automóviles que gana más de 1.000 euros por coche.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 07:02:08 +0200",
+    "title": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
+    "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html",
+    "summary": "El futuro museo de la institución obliga a redefinir espacios en la sede de Cibeles.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:05:50 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "El Ibex intenta resistir cerca de los 19.000 puntos",
-    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html",
-    "summary": "Los inversores amagan con conceder una tregua a las empresas tecnológicas después de sufrir un nuevo correctivo. Con la deuda y el petróleo en el punto de mira, los mercados buscan un respiro, y el Ibex, parar sus caídas cerca de los 19.000 puntos perdidos ayer.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 14:14:52 +0200",
+    "title": "Mahou, Damm, Estrella Galicia y Cruzcampo aceleran en el exterior",
+    "link": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html",
+    "summary": "Las exportaciones de cerveza española crecieron un 8% el pasado año, hasta 3,64 millones de hectolitros. El negocio internacional ya supone entre el 20% y 30% de sus ventas.&nbsp;Leer",
+    "published": "Sat, 24 Oct 2026 00:04:52 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Los Sainz de Vicuña irrumpen en Acerinox y afloran un 3% valorado en 125 millones",
-    "link": "https://www.expansion.com/empresas/2026/10/23/6adb4e53468aeb866d8b4598.html",
-    "summary": "La familia, conocida por haber traído la Coca-Cola a España y por la cervecera Quilmes, articula la operación a través de su sociedad patrimonial Arconas. Se convierte en el quinto accionista.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 14:10:35 +0200",
+    "title": "La banca recupera las bonificaciones por traspasos de fondos de inversión",
+    "link": "https://www.expansion.com/mercados/2026/10/23/6adbd24a468aeb97768b456f.html",
+    "summary": "Las entidades ofrecen premios de hasta el 2% por trasladar fondos de inversión desde otros bancos, con incentivos que alcanzan los 30.000 euros.&nbsp;Leer",
+    "published": "Fri, 23 Oct 2026 23:40:50 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "La cruda realidad europea sobre los bonos de EEUU",
-    "link": "https://www.expansion.com/economia/financial-times/2026/10/23/cruda-realidad-europea-sobre-bonos-eeuu.html",
-    "summary": "Europa no puede limitarse a esperar una bajada de los costes de endeudamiento al otro lado del Atlántico, debe abordar sus propios problemas.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 00:39:32 +0200",
+    "title": "De Palladium a Ramat: Marc Rahola Matutes y su apuesta por emprender fuera del grupo hotelero familiar",
+    "link": "https://www.expansion.com/estilo-vida/viajes/2026/10/23/palladium-ramat-marc-rahola-matutes-apuesta-emprender-fuera-grupo-hotelero-familiar.html",
+    "summary": "Marc Rahola partía con ventaja por sus orígenes, pero quiso ganar su propia partida. Sobrino de Abel Matutes, se curtió en Palladium y renunció a un sueldo fijo para construir su compañía que hoy gestiona 15 hoteles y dos marcas de ‘branded residences’.&nbsp;Leer",
+    "published": "Fri, 23 Oct 2026 22:58:16 +0200",
     "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Así es Family Enterprise Partners, el 'family office' que asesora a grandes fortunas mexicanas",
-    "link": "https://www.expansion.com/mercados/fondos/2026/10/23/6ad8bcbde5fdea2f4c8b458e.html",
-    "summary": "Daniel Cervantes y Rafael Alberca lideran una firma que presta servicios de asesoramiento y gobernanza a 35 familias de México, España y Centroamérica, con un patrimonio financiero de 1.500 millones de dólares.&nbsp;Leer",
-    "published": "Fri, 23 Oct 2026 02:04:17 +0200",
+    "title": "Las claves bursátiles de la próxima semana",
+    "link": "https://videos.expansion.com/v/xbqs95e-las-claves-bursatiles-de-la-proxima-semana-23-10-2026?uetv_pl=0",
+    "summary": "&nbsp;Leer",
+    "published": "Fri, 23 Oct 2026 23:28:12 +0200",
     "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "Alexandr Wang, el joven prodigio de la IA de Meta",
+    "link": "https://www.expansion.com/tecnologia/2026/10/23/alexandr-wang-joven-prodigio-ia-meta.html",
+    "summary": "A sus 29 años, el director de los laboratorios de superinteligencia de la compañía está considerado como un posible sucesor de Mark Zuckerberg.&nbsp;Leer",
+    "published": "Fri, 23 Oct 2026 22:58:14 +0200",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "El leviatán francés",
+    "link": "https://www.expansion.com/opinion/2026/10/24/leviatan-frances.html",
+    "summary": "Francia coquetea con convertirse en el “enfermo de Europa” y engordar las listas de países con problemas de financiación en el largo plazo.",
+    "published": "Sat, 24 Oct 2026 12:53:01 +0200",
+    "source": "Expansión Economía",
     "score": 0
   },
   {
@@ -912,11 +920,27 @@
     "score": 0
   },
   {
-    "title": "La industria vinculada a los cruceros rechaza el castigo fiscal a las escalas",
-    "link": "https://www.expansion.com/catalunya/2026/10/22/industria-vinculada-cruceros-rechaza-castigo-fiscal-escalas.html",
-    "summary": "La tasa turística a la corta estancia en Barcelona irá subiendo hasta triplicarse en 2030.",
-    "published": "Thu, 22 Oct 2026 23:52:04 +0200",
-    "source": "Expansión Economía",
+    "title": "Inside Spain: How the Basque Country avoided the 'Empty Spain' problem",
+    "link": "https://www.thelocal.es/20261024/inside-spain-how-the-basque-country-avoided-the-empty-spain-problem",
+    "summary": "As Spanish city dwellers struggle with affordability and politicians call for people to move to 'Empty Spain' as a solution, we look at how the Basque Country managed to avoid the problem of poor population distribution decades ago.",
+    "published": "Sat, 24 Oct 2026 11:58:34 +0200",
+    "source": "The Local ES",
+    "score": 0
+  },
+  {
+    "title": "Lawmakers say EU must probe social media role in protests",
+    "link": "https://www.thelocal.es/20261024/lawmakers-say-eu-must-probe-social-media-role-in-protests",
+    "summary": "The EU must urgently investigate the role of social media during protests in member states including France, European lawmakers demanded Friday, adding that Brussels should be prepared to block access \"as a last resort\".",
+    "published": "Sat, 24 Oct 2026 09:49:48 +0200",
+    "source": "The Local ES",
+    "score": 0
+  },
+  {
+    "title": "EU parliament approves more safeguards for travellers in Europe",
+    "link": "https://www.thelocal.es/20261023/eu-parliament-approves-more-safeguards-for-travellers-in-europe",
+    "summary": "The European Parliament has given its final approval to a new set of safeguards for the 13 billion people who travel in Europe each year by plane, train, coach, bus or ferry.",
+    "published": "Fri, 23 Oct 2026 14:49:21 +0200",
+    "source": "The Local ES",
     "score": 0
   },
   {
@@ -944,27 +968,11 @@
     "score": 0
   },
   {
-    "title": "Today in Spain: A roundup of the latest news on Friday",
-    "link": "https://www.thelocal.es/20261023/today-in-spain-a-roundup-of-the-latest-news-on-friday-100",
-    "summary": "Tenerife carries out Spain's largest volcanic eruption drill, police nab Mallorca pickpocketing gang, Spanish government denies 'pizza-squatting' claims and more news on Friday October 23rd.",
-    "published": "Fri, 23 Oct 2026 08:51:30 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "How to make the most of Spain's public and regional holidays in 2027",
-    "link": "https://www.thelocal.es/20261022/how-to-make-the-most-of-spains-public-and-regional-holidays-in-2027",
-    "summary": "Already thinking about planning your vacation days for next year? Here's a list of all the national and regional holidays in Spain in 2027 and how you can maximise your annual leave to get as many long weekends as possible.",
-    "published": "Thu, 22 Oct 2026 12:34:27 +0200",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "Ceuta migrant crisis stokes anger at Sánchez ahead of Spain's election",
-    "link": "https://www.thelocal.es/20261022/ceuta-migrant-crisis-stokes-anger-at-sanchez-ahead-of-spains-election",
-    "summary": "Mari Carmen Mata remains furious with Spanish Prime Minister Pedro Sánchez over his response to the mass arrival of migrants in Ceuta, a crisis complicating the Socialist leader's bid for re-election next month.",
-    "published": "Thu, 22 Oct 2026 10:08:22 +0200",
-    "source": "The Local ES",
+    "title": "La Policía alerta de un nuevo ciberacoso: los “curis” que ridiculizan a alumnos y profesores en redes",
+    "link": "https://elpais.com/educacion/2026-10-23/la-policia-alerta-de-un-nuevo-ciberacoso-los-curis-que-ridiculizan-a-alumnos-y-profesores-en-redes.html",
+    "summary": "Algunas comunidades autónomas, como Aragón, ya remiten instrucciones para actuar si se detectan publicaciones que difunden contenidos vejatorios hacia la comunidad educativa",
+    "published": "Fri, 23 Oct 2026 12:11:41 GMT",
+    "source": "El País Educación",
     "score": 0
   },
   {
@@ -1008,6 +1016,14 @@
     "score": 0
   },
   {
+    "title": "'EN-RUTA II', la guía de Accem para reforzar la protección de la infancia ante la trata",
+    "link": "https://www.europapress.es/epsocial/igualdad/noticia-ruta-ii-guia-accem-reforzar-proteccion-infancia-trata-20261024120548.html",
+    "summary": "&nbsp;&nbsp;&nbsp;Accem ha lanzado la guía 'EN-RUTA II: [pre]venir, sostener y reparar', una nueva herramienta dirigida a profesionales que trabajan con infancia y adolescencia para reforzar la prevención, protección y acompañamiento de posibles víctimas de trata de seres humanos.",
+    "published": "Sat, 24 Oct 2026 10:05:48 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
     "title": "Feijóo meterá Igualdad \"dentro de otros ministerios\": \"El ministro que lo lleve se encargará de otras cosas\"",
     "link": "https://www.europapress.es/epsocial/igualdad/noticia-feijoo-metera-igualdad-dentro-otros-ministerios-ministro-lleve-encargara-otras-cosas-20261023094112.html",
     "summary": "El presidente del PP, Alberto Núñez Feijóo, ha anunciado que meterá las competencias de Igualdad \"en otros ministerios\" si forma gobierno después de las elecciones del 29 de noviembre, aunque ha descartado que vaya a desaparecer el departamento.",
@@ -1032,10 +1048,10 @@
     "score": 0
   },
   {
-    "title": "La ministra Sira Rego tacha de \"pollaviejismo\" el discurso de Feijóo sobre feminismo",
-    "link": "https://www.europapress.es/epsocial/igualdad/noticia-ministra-sira-rego-tacha-pollaviejismo-discurso-feijoo-feminismo-20261023113621.html",
-    "summary": "La ministra de Juventud e Infancia, Sira Rego, ha tachado de \"pollaviejismo\" el discurso del presidente del Partido Popular, Alberto Núñez Feijóo, tras asegurar este que se ha \"criado en una casa con muchas más mujeres que hombres\".",
-    "published": "Fri, 23 Oct 2026 09:36:21 GMT",
+    "title": "Feministas dicen que la \"cuestión central\" sobre Igualdad es si se mantendrán competencias, presupuestos y objetivos",
+    "link": "https://www.europapress.es/epsocial/igualdad/noticia-feministas-dicen-cuestion-central-igualdad-si-mantendran-competencias-presupuestos-objetivos-20261023172235.html",
+    "summary": "Feministas de la Alianza contra el Borrado de las Mujeres han afirmado que la \"cuestión central\" sobre el Ministerio de Igualdad es si se mantendrán competencias, presupuestos y objetivos si el líder del PP, Alberto Núñez Feijóo, se convierte en presidente del Gobierno tras las elecciones del 29 de ",
+    "published": "Fri, 23 Oct 2026 15:22:35 GMT",
     "source": "Europa Press Sociedad",
     "score": 0
   },
@@ -1048,11 +1064,11 @@
     "score": 0
   },
   {
-    "title": "'La Revuelta' con Sánchez: 33,9% de share y 4,3 millones de espectadores, programa de entretenimiento más visto del año",
-    "link": "https://www.europapress.es/sociedad/noticia-revuelta-sanchez-339-share-43-millones-espectadores-programa-entretenimiento-mas-visto-ano-20261023094246.html",
-    "summary": "La entrevista al presidente del Gobierno, Pedro Sánchez, en el programa de 'La Revuelta', de David Broncano, firmó este jueves un 33,9% de cuota de pantalla y una audiencia media de 4.387.000 espectadores, lo que le convirtió en la emisión de entretenimiento más vista del año.",
-    "published": "Fri, 23 Oct 2026 07:42:46 GMT",
-    "source": "Europa Press Sociedad",
+    "title": "Cuando la salud mental y el humor se dan la mano: los mejores libros de Ángel Martín",
+    "link": "https://www.educaciontrespuntocero.com/libros/angel-martin-libros/",
+    "summary": "El cómico barcelonés saltó a la fama literaria en 2021 con la publicación de ‘Por si las voces vuelven’. Desde entonces ha continuado su exitosa carrera con otros nuevos libros que recopilamos en este artículo.",
+    "published": "Sat, 24 Oct 2026 07:00:00 +0000",
+    "source": "Educación 3.0",
     "score": 0
   },
   {
@@ -1072,18 +1088,18 @@
     "score": 0
   },
   {
-    "title": "El furor por el iPhone Duo llega a las tiendas: horas de espera para adquirir el plegable de 2.300 euros frente a los acampados de Sol",
-    "link": "https://elpais.com/tecnologia/2026-10-23/el-furor-por-el-iphone-duo-llega-a-las-tiendas-horas-de-espera-para-adquirir-el-plegable-de-2300-euros-frente-a-los-acampados-de-sol.html",
-    "summary": "Decenas de personas se agolpan frente al portal de la tienda oficial del centro de Madrid para hacerse con el nuevo móvil de Apple",
-    "published": "Fri, 23 Oct 2026 08:26:06 GMT",
+    "title": "Cataluña plantea prohibir los parques infantiles con caucho reciclado por salud, el resto de España sigue a la espera",
+    "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-24/cataluna-plantea-prohibir-los-parques-infantiles-con-caucho-reciclado-por-salud.html",
+    "summary": "La evidencia científica muestra que este material, presente en espacios de juego de todo el país, tiene disruptores endocrinos y aconseja sustituirlos por otros de tierra por precaución",
+    "published": "Sat, 24 Oct 2026 10:21:43 GMT",
     "source": "El País Sociedad",
     "score": 0
   },
   {
-    "title": "Autopsia del verano más mortífero en Europa: 50.000 fallecidos por calor",
-    "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-22/autopsia-del-verano-mas-mortifero-en-europa-50000-fallecidos-por-calor.html",
-    "summary": "Una investigación calcula que el 65% de esas muertes estimadas en 854 áreas urbanas se deben al cambio climático causado por el ser humano",
-    "published": "Thu, 22 Oct 2026 23:01:00 GMT",
+    "title": "Lecciones de la sabana africana para las áreas quemadas",
+    "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-24/lecciones-de-la-sabana-africana-para-las-areas-quemadas.html",
+    "summary": "Mantener el ganado en zonas que han ardido modifica el tipo de vegetación que se regenera, haciendo más difícil que se repitan incendios",
+    "published": "Sat, 24 Oct 2026 03:30:01 GMT",
     "source": "El País Sociedad",
     "score": 0
   },
@@ -1104,34 +1120,18 @@
     "score": 0
   },
   {
-    "title": "En defensa de la autonomía universitaria",
-    "link": "https://elpais.com/educacion/2026-10-16/en-defensa-de-la-autonomia-universitaria.html",
-    "summary": "Tanto si la orden de cargar fue política, como si no lo fue, nos situamos ante un escándalo de importantes dimensiones ante el que hay que ofrecer una respuesta democrática de amplio alcance",
-    "published": "Fri, 16 Oct 2026 03:30:01 GMT",
+    "title": "El PP da carpetazo definitivo a la propuesta de Sanidad de mejorar la transparencia de las listas de espera",
+    "link": "https://elpais.com/sociedad/2026-10-23/las-comunidades-del-pp-tumban-la-propuesta-de-sanidad-para-mejorar-la-transparencia-de-las-listas-de-espera.html",
+    "summary": "El ministerio buscaba sustituir la norma, de 2003, porque da una imagen parcial de las demoras. Las comunidades lideradas por los populares replican que el texto no está terminado",
+    "published": "Fri, 23 Oct 2026 12:28:12 GMT",
     "source": "El País Sociedad",
     "score": 0
   },
   {
-    "title": "El primer salto del shamonda a un humano: qué se sabe de un virus emergente que ha sorprendido a los expertos",
-    "link": "https://elpais.com/sociedad/2026-10-23/el-primer-salto-del-shamonda-a-un-humano-que-se-sabe-de-un-virus-emergente-que-ha-sorprendido-a-los-expertos.html",
-    "summary": "El patógeno, que hasta ahora solo afectaba a animales, ha infectado a un hombre en Francia que ha fallecido. El Centro Europeo para el Control de Enfermedades vigila la situación",
-    "published": "Fri, 23 Oct 2026 03:30:01 GMT",
-    "source": "El País Sociedad",
-    "score": 0
-  },
-  {
-    "title": "El Atlético de Madrid hace una “revisión preventiva” sobre el profesor detenido por abusos sexuales que trabajó en su cantera",
-    "link": "https://elpais.com/sociedad/2026-10-23/el-atletico-de-madrid-hace-una-revision-preventiva-sobre-el-profesor-detenido-por-abusos-sexuales-que-trabajo-en-su-cantera.html",
-    "summary": "El maestro trabajó con más de 200 menores en la cantera rojiblanca hasta el año 2020. El club ha empezado a preguntar a los coordinadores que le tuvieron a su cargo si vieron o escucharon algo sospechoso",
-    "published": "Fri, 23 Oct 2026 03:30:01 GMT",
-    "source": "El País Sociedad",
-    "score": 0
-  },
-  {
-    "title": "El año negro de Meta: las claves de la mayor multa a una tecnológica por cometer 43 millones de infracciones",
-    "link": "https://elpais.com/tecnologia/2026-10-23/el-ano-negro-de-meta-las-claves-de-la-mayor-multa-a-una-tecnologica-por-cometer-43-millones-de-infracciones.html",
-    "summary": "La compañía de Mark Zuckerberg deberá pagar 22.000 millones al Estado de Nuevo México, que se suman a los 18.000 acordados para frenar otra demanda por los efectos de las redes sociales. Y el curso todavía no ha acabado",
-    "published": "Fri, 23 Oct 2026 03:30:01 GMT",
+    "title": "Consumo alerta de la presencia de listeria en unos mejillones cocidos de la marca Marvalmar",
+    "link": "https://elpais.com/sociedad/2026-10-23/consumo-alerta-de-la-presencia-de-listeria-en-unos-mejillones-cocidos-de-la-marca-marvalar.html",
+    "summary": "El lote afectado está a la venta en Madrid, Castilla-La Mancha y Castilla y León. No hay constancia de afectados",
+    "published": "Fri, 23 Oct 2026 11:26:39 GMT",
     "source": "El País Sociedad",
     "score": 0
   },

@@ -1,17 +1,17 @@
 # 2026-10-26 爆款标题
 
-> 自动生成于 2026-10-26 13:49
+> 自动生成于 2026-10-26 19:40
 > 来源：24个西班牙媒体RSS源
 
 ## 今日热门标题 (15个)
 
-### 1. 西班牙教育批准
+### 1. 西班牙学生下降
 
-- **中文标题**：西班牙教育批准
-- **原文标题**：Las escuelas infantiles privadas tendrán que incrementar las cuotas hasta un 50% por las ratios que aprobará el Gobierno
-- **分类**：教育
-- **来源**：Europa Press Educación
-- **链接**：https://www.europapress.es/sociedad/educacion-00468/noticia-escuelas-infantiles-privadas-tendran-incrementar-cuotas-50-ratios-aprobara-gobierno-20261022124808.html
+- **中文标题**：西班牙学生下降
+- **原文标题**：EURONEWS HOY | Las noticias del 26 de octubre de 2026: Lula remonta y gana las elecciones en Brasil
+- **分类**：留学
+- **来源**：Euronews ES
+- **链接**：https://es.euronews.com/2026/10/26/euronews-hoy-las-noticias-del-26-de-octubre-de-2026-lula-remonta-y-gana-las-elecciones-en-
 
 ---
 
@@ -55,9 +55,29 @@
 
 ---
 
-### 6. 西班牙政策新动态
+### 6. 西班牙政策改革
+
+- **中文标题**：西班牙政策改革
+- **原文标题**：España defiende la máxima ambición climática y la electrificación renovable en la posición europea ante la COP31
+- **分类**：政策
+- **来源**：Europa Press Sociedad
+- **链接**：https://www.europapress.es/sociedad/noticia-espana-defiende-maxima-ambicion-climatica-electrificacion-renovable-posicion-europea-cop31-20261026175503.html
+
+---
+
+### 7. 西班牙政策新动态
 
 - **中文标题**：西班牙政策新动态
+- **原文标题**：Balón de Oro 2026 en directo | La web del Balón de Oro publica por error que Lamine, Kane y Mbappé son los ganadores
+- **分类**：政策
+- **来源**：El País
+- **链接**：https://elpais.com/deportes/futbol/2026-10-26/premio-balon-de-oro-en-directo-la-gala-en-vivo.html
+
+---
+
+### 8. 西班牙政策新动态 (1)
+
+- **中文标题**：西班牙政策新动态 (1)
 - **原文标题**：Voto por correo para las elecciones 2026: cómo solicitarlo, requisitos, fechas y plazos
 - **分类**：政策
 - **来源**：elDiario
@@ -65,27 +85,27 @@
 
 ---
 
-### 7. 西班牙政策新动态 (1)
+### 9. 西班牙大学推出
 
-- **中文标题**：西班牙政策新动态 (1)
-- **原文标题**：Dictionary.com revela la palabra del año 2026: un término sombrío
-- **分类**：政策
+- **中文标题**：西班牙大学推出
+- **原文标题**：El Gobierno francés presenta medidas para responder a la crisis en institutos y universidades
+- **分类**：留学
 - **来源**：Euronews ES
-- **链接**：https://es.euronews.com/2026/10/26/dictionarycom-revela-la-palabra-del-ano-2026-un-termino-sombrio
+- **链接**：https://es.euronews.com/2026/10/26/gobierno-frances-presenta-medidas-responder-crisis-institutos-universidades
 
 ---
 
-### 8. 西班牙政策新动态 (2)
+### 10. 西班牙政策新动态 (2)
 
 - **中文标题**：西班牙政策新动态 (2)
-- **原文标题**：La líder opositora María Corina Machado regresa a Venezuela
+- **原文标题**：Últimas noticias | 26 octubre 2026 - Tarde
 - **分类**：政策
-- **来源**：Expansión Economía
-- **链接**：https://www.expansion.com/economia/politica/2026/10/25/lider-opositora-maria-corina-machado-regresa-venezuela.html
+- **来源**：Euronews ES
+- **链接**：https://es.euronews.com/video/2026/10/26/ultimas-noticias-26-octubre-2026-tarde
 
 ---
 
-### 9. 西班牙教育新动态 (1)
+### 11. 西班牙教育新动态 (1)
 
 - **中文标题**：西班牙教育新动态 (1)
 - **原文标题**：Messi receives top Spanish award from heir to throne
@@ -95,7 +115,7 @@
 
 ---
 
-### 10. 西班牙大学新动态
+### 12. 西班牙大学新动态
 
 - **中文标题**：西班牙大学新动态
 - **原文标题**：Las universidades de Madrid irán a la huelga el 4 y 5 de noviembre por la “estafa” del acuerdo de financiación de Ayuso
@@ -105,7 +125,7 @@
 
 ---
 
-### 11. 西班牙教育新动态 (2)
+### 13. 西班牙教育新动态 (2)
 
 - **中文标题**：西班牙教育新动态 (2)
 - **原文标题**：El Gobierno de Ayuso se niega a negociar con los profesores en huelga: “Es intolerable, nos están despreciando”
@@ -115,43 +135,23 @@
 
 ---
 
-### 12. 西班牙工作改革
+### 14. 西班牙教育新动态 (3)
+
+- **中文标题**：西班牙教育新动态 (3)
+- **原文标题**：FSIE pide a Educación retirar los decretos de ratios de Infantil y FP privada por "falta de diálogo" con la concertada
+- **分类**：教育
+- **来源**：Europa Press Educación
+- **链接**：https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-pide-educacion-retirar-decretos-ratios-infantil-fp-privada-falta-dialogo-concertada-20261026165008.html
+
+---
+
+### 15. 西班牙工作改革
 
 - **中文标题**：西班牙工作改革
 - **原文标题**：La burocracia, atender a los padres y los cambios normativos, fuentes de estrés de los directores de colegios españoles
 - **分类**：工作
 - **来源**：Europa Press Educación
 - **链接**：https://www.europapress.es/sociedad/educacion-00468/noticia-burocracia-atender-padres-cambios-normativos-fuentes-estres-directores-colegios-espanoles-20261026125022.html
-
----
-
-### 13. 西班牙教育下降
-
-- **中文标题**：西班牙教育下降
-- **原文标题**：USO Enseñanza pide al Gobierno que incluya en el decreto de bajada de ratios de Infantil la gratuidad del 0-3 años
-- **分类**：教育
-- **来源**：Europa Press Educación
-- **链接**：https://www.europapress.es/sociedad/educacion-00468/noticia-uso-ensenanza-pide-gobierno-incluya-decreto-bajada-ratios-infantil-gratuidad-anos-20261023135353.html
-
----
-
-### 14. 西班牙政策下降
-
-- **中文标题**：西班牙政策下降
-- **原文标题**：FSIE reclama que la subida salarial del 4,5% llegue también a los trabajadores de la enseñanza concertada
-- **分类**：政策
-- **来源**：Europa Press Educación
-- **链接**：https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-reclama-subida-salarial-45-llegue-tambien-trabajadores-ensenanza-concertada-20261022140730.html
-
----
-
-### 15. 西班牙住房增加
-
-- **中文标题**：西班牙住房增加
-- **原文标题**：El Tercer Sector pide un pacto por la vivienda, una ley de servicios sociales y aumentar del 0,7% al 1% del IRPF
-- **分类**：租房
-- **来源**：Europa Press Sociedad
-- **链接**：https://www.europapress.es/sociedad/noticia-tercer-sector-pide-pacto-vivienda-ley-servicios-sociales-aumentar-07-irpf-20261026142629.html
 
 ---
 

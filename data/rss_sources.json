@@ -1,0 +1,122 @@
+[
+  {
+    "name": "El País",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"
+  },
+  {
+    "name": "El País España",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana"
+  },
+  {
+    "name": "El País Economía",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia"
+  },
+  {
+    "name": "El Mundo",
+    "url": "https://feeds.elmundo.es/rss/portada.xml"
+  },
+  {
+    "name": "El Mundo España",
+    "url": "https://feeds.elmundo.es/rss/espana.xml"
+  },
+  {
+    "name": "ABC",
+    "url": "https://feeds.abc.es/rss/feeds/abc_ultima.xml"
+  },
+  {
+    "name": "ABC España",
+    "url": "https://feeds.abc.es/rss/feeds/abc_Espana.xml"
+  },
+  {
+    "name": "El Confidencial",
+    "url": "https://www.elconfidencial.com/rss/ultimo-minuto/"
+  },
+  {
+    "name": "El Confidencial España",
+    "url": "https://www.elconfidencial.com/rss/espana/"
+  },
+  {
+    "name": "El Confidencial Economía",
+    "url": "https://www.elconfidencial.com/rss/economia/"
+  },
+  {
+    "name": "La Vanguardia",
+    "url": "https://www.lavanguardia.com/rss/home.xml"
+  },
+  {
+    "name": "La Razón",
+    "url": "https://www.larazon.es/rss/espana.xml"
+  },
+  {
+    "name": "20 Minutos",
+    "url": "https://www.20minutos.es/rss/actualidad/"
+  },
+  {
+    "name": "Público",
+    "url": "https://www.publico.es/rss/"
+  },
+  {
+    "name": "elDiario",
+    "url": "https://www.eldiario.es/rss/"
+  },
+  {
+    "name": "InfoLibre",
+    "url": "https://www.infolibre.es/rss/"
+  },
+  {
+    "name": "Euronews ES",
+    "url": "https://es.euronews.com/rss"
+  },
+  {
+    "name": "RTVE",
+    "url": "https://www.rtve.es/rss/noticias.xml"
+  },
+  {
+    "name": "Cinco Días",
+    "url": "https://cincodias.elpais.com/rss/feed.html?feedId=1022"
+  },
+  {
+    "name": "Expansión",
+    "url": "https://www.expansion.com/rss/portada.xml"
+  },
+  {
+    "name": "Expansión Economía",
+    "url": "https://www.expansion.com/rss/economia.xml"
+  },
+  {
+    "name": "The Local ES",
+    "url": "https://feeds.thelocal.com/rss/es"
+  },
+  {
+    "name": "Idealista",
+    "url": "https://www.idealista.com/news/rss/"
+  },
+  {
+    "name": "Fotocasa",
+    "url": "https://www.fotocasa.es/blog/rss.xml"
+  },
+  {
+    "name": "El País Educación",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/educacion/portada"
+  },
+  {
+    "name": "Europa Press Educación",
+    "url": "https://www.europapress.es/rss/rss.aspx?ch=468"
+  },
+  {
+    "name": "Europa Press Sociedad",
+    "url": "https://www.europapress.es/rss/rss.aspx?ch=73"
+  },
+  {
+    "name": "Educación 3.0",
+    "url": "https://www.educaciontrespuntocero.com/feed/"
+  },
+  {
+    "name": "El País Sociedad",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"
+  },
+  {
+    "name": "20 Minutos Nacional",
+    "url": "https://www.20minutos.es/rss/nacional/"
+  }
+]

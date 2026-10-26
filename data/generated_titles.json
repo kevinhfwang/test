@@ -1,27 +1,5 @@
 [
   {
-    "title": "西班牙物价新动态",
-    "original_title": "Trump tacha a Obama de \"sumamente incompetente\" tras sus críticas a la guerra contra Irán",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/trump-tacha-obama-sumamente-incompetente-tras-sus-criticas-guerra-contra-iran_7053063_0.html",
-      "summary": "El expresidente estadounidense ha responsabilizado a Trump de la subida de los precios por el conflicto con Irán y ha defendido la diplomacia de su mandato para frenar el programa nuclear iraní."
-    },
-    "category": "伊朗局势",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙税务新动态",
-    "original_title": "Will Spain's 100 percent property tax on foreign buyers ever be approved?",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261019/will-spains-100-percent-property-tax-on-foreign-buyers-ever-pass",
-      "summary": "In 2025, Spain's government proposed a controversial 100 percent tax on property buyers from outside of the EU which would double the price of Spanish real estate for them. Will this levy ever be appr"
-    },
-    "category": "税务",
-    "date": "2026-10-25"
-  },
-  {
     "title": "西班牙教育批准",
     "original_title": "Las escuelas infantiles privadas tendrán que incrementar las cuotas hasta un 50% por las ratios que aprobará el Gobierno",
     "source": {
@@ -30,29 +8,18 @@
       "summary": "Las escuelas infantiles privadas se verían obligadas a incrementar las cuotas del alumnado entre un 40% y un 50% si el Ministerio de Educación, Formación Profesional y Deportes aprueba el real decreto"
     },
     "category": "教育",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   {
-    "title": "西班牙学生新动态",
-    "original_title": "Del diseño 3D a los cuentos: un proyecto maker conecta Bachillerato y Primaria a través de la lectura",
-    "source": {
-      "name": "Educación 3.0",
-      "url": "https://www.educaciontrespuntocero.com/experiencias/proyectos-de-diseno-e-impresion-3d-en-el-aula/",
-      "summary": "Las herramientas digitales han ayudado a un grupo de estudiantes de Bachillerato a crear recursos didácticos que dan vida a los cuentos infantiles. Nos lo cuenta el docente Xavier Rosell."
-    },
-    "category": "留学",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙经济新动态",
-    "original_title": "Inquietud por el crudo y el alto coste de la IA",
+    "title": "西班牙通胀上涨",
+    "original_title": "La inflación abrasa a los autónomos: el 70% sube los precios para compensar los costes",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/23/inquietud-crudo-alto-coste-ia.html",
-      "summary": "Las bolsas ponen precio a las grandes amenazas que se ciernen sobre la economía global."
+      "url": "https://www.expansion.com/economia/2026/10/26/inflacion-abrasa-autonomos-70-sube-precios-compensar-costes.html",
+      "summary": "Se disparan las alarmas: el 17,5% ve peligrar la continuidad de su actividad y teme tener que cerrar o reducirla en los próximos tres años, frente al 11% registrado en el segundo trimestre."
     },
-    "category": "油价",
-    "date": "2026-10-25"
+    "category": "政策",
+    "date": "2026-10-26"
   },
   {
     "title": "西班牙租房新动态",
@@ -63,7 +30,18 @@
       "summary": "November 2026 is set to be a pivotal month in Spain, with everything from a snap election and a general strike taking place, as well new legislation such as the bottle deposit law and a key vote on ho"
     },
     "category": "租房",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙大学下降",
+    "original_title": "El Gobierno trabaja en endurecer los requisitos de FP privada y universidades y reducir ratios de Infantil antes del 29N",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-trabaja-endurecer-requisitos-fp-privada-universidades-reducir-ratios-infantil-antes-29n-20261026110208.html",
+      "summary": "El Gobierno está trabajando para aprobar varios reales decretos educativos antes de las elecciones generales que se celebrarán el próximo 29 de noviembre, como los que endurecen los requisitos de los "
+    },
+    "category": "留学",
+    "date": "2026-10-26"
   },
   {
     "title": "西班牙教育新动态",
@@ -74,73 +52,40 @@
       "summary": "La Fundación Atresmedia y SEK Education Group han firmado un convenio de colaboración para impulsar la alfabetización mediática, informacional y digital en el ámbito educativo durante el curso 2026-20"
     },
     "category": "教育",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙油价新规",
-    "original_title": "Las operadoras españolas deberán liberar 4,4 millones de barriles de gasóleo y queroseno debido a la escasez por Oriente Próximo",
-    "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/las-operadoras-espanolas-deberan-liberar-4-4-millones-barriles-gasoleo-queroseno-debido-escasez-por-crisis-proximo_7051945_0.html",
-      "summary": "La reducción de reservas de gasóleo y automoción y queroseno en manos de operadoras y distribuidoras deberá hacerse de aquí hasta el 15 de diciembre y es la forma que toma el anuncio de hace unos días"
-    },
-    "category": "油价",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙就业新动态",
-    "original_title": "Sánchez corre junto a Cuerpo en un vídeo cargado de mensajes sobre su mandato: \"Llevamos ocho, ¿hacemos cuatro más?\"",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-corre-junto-carlos-cuerpo-video-cargado-mensajes-sobre-mandato-llevamos-ocho-hacemos-cuatro-mas_7053086_0.html",
-      "summary": "En el vídeo, Sánchez dice que ambos llevan buen ritmo, \"como la economía y el empleo en España\"."
-    },
-    "category": "工作",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙住房取消",
-    "original_title": "Feijóo apuesta por perfiles duros para competir con Vox",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/feijoo-apuesta-perfiles-duros-competir-vox_1_13610039.html",
-      "summary": "El líder del PP elige a Cayetana Álvarez de Toledo como su número dos en las listas, apuesta por Albiol para convertir el problema del acceso a la vivienda en una cuestión de orden público y mantiene "
-    },
-    "category": "租房",
-    "date": "2026-10-25"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Empate técnico en Brasil: Lula intenta sostener el gran bastión de la izquierda en la región frente a Bolsonaro y la ola ultra",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/internacional/empate-tecnico-brasil-lula-sostener-gran-bastion-izquierda-region-frente-bolsonaro-ola-ultra_1_13610497.html",
-      "summary": "El favoritismo de Flávio Bolsonaro ha ido perdiendo fuelle en una segunda vuelta protagonizada por la interferencia de las big techs contra Lula, la censura y el protagonismo de la ciudadanía progresi"
-    },
-    "category": "居留",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Últimas noticias | 25 octubre 2026 - Mediodía",
+    "original_title": "Voto por correo para las elecciones 2026: cómo solicitarlo, requisitos, fechas y plazos",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/10/25/ultimas-noticias-25-octubre-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 25 octubre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/voto-correo-elecciones-2026-solicitarlo-requisitos-fechas-plazos_1_13600705.html",
+      "summary": "Los electores pueden pedir el voto por correo hasta el 19 de noviembre y tendrán hasta el día 25 para enviar su papeleta a las elecciones generales del 29-NLa derecha acusa de “pucherazo” (otra vez): "
     },
     "category": "政策",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   {
-    "title": "西班牙住房修改",
-    "original_title": "La fiscalidad de la vivienda para uso propio y alquiler",
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Dictionary.com revela la palabra del año 2026: un término sombrío",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html",
-      "summary": "El real decreto-ley del 6 de octubre, que está pendiente de convalidación, modifica de forma significativa el IRPF, el IVA, el IBI y la plusvalía municipal.&nbsp;Leer"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/26/dictionarycom-revela-la-palabra-del-ano-2026-un-termino-sombrio",
+      "summary": "El término / sufijo de argot de internet «Maxxing» ha sido elegido oficialmente por Dictionary.com como su Palabra del Año 2026."
     },
-    "category": "租房",
-    "date": "2026-10-25"
+    "category": "政策",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "La líder opositora María Corina Machado regresa a Venezuela",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/politica/2026/10/25/lider-opositora-maria-corina-machado-regresa-venezuela.html",
+      "summary": "La líder opositora y premio nobel de la paz 2025 ya se encuentra de regreso en Venezuela y reapareció este domingo en una Iglesia católica del estado Lara (noroeste) abrazada por los seguidores de su "
+    },
+    "category": "政策",
+    "date": "2026-10-26"
   },
   {
     "title": "西班牙教育新动态 (1)",
@@ -151,7 +96,7 @@
       "summary": "Lionel Messi received Spain's most prestigious sports award on Friday in recognition of his glittering career and his work for disadvantaged children's access to health and education."
     },
     "category": "教育",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   {
     "title": "西班牙大学新动态",
@@ -162,6 +107,61 @@
       "summary": "Los convocantes del paro, independiente del educativo, denuncian que la inversión en los campus se sitúa en el 0,4% del PIB, frente al 0,75% nacional y al 0,92% europeo"
     },
     "category": "留学",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙教育新动态 (2)",
+    "original_title": "El Gobierno de Ayuso se niega a negociar con los profesores en huelga: “Es intolerable, nos están despreciando”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/espana/madrid/2026-10-21/el-gobierno-de-ayuso-se-niega-a-negociar-con-los-profesores-en-huelga-es-intolerable-nos-estan-despreciando.html",
+      "summary": "Tras una semana de paros, la Consejería de Educación no se plantea convocar una mesa de diálogo con los convocantes. Les acusa de promover una protesta “política” y de hacer reivindicaciones que “no e"
+    },
+    "category": "教育",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙工作改革",
+    "original_title": "La burocracia, atender a los padres y los cambios normativos, fuentes de estrés de los directores de colegios españoles",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-burocracia-atender-padres-cambios-normativos-fuentes-estres-directores-colegios-espanoles-20261026125022.html",
+      "summary": "Las fuentes de estrés más comunes en los directores de centros educativos españoles son el exceso de trabajo administrativo (80%), atender las inquietudes de padres y tutores (70%) y mantenerse al día"
+    },
+    "category": "工作",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙教育下降",
+    "original_title": "USO Enseñanza pide al Gobierno que incluya en el decreto de bajada de ratios de Infantil la gratuidad del 0-3 años",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-uso-ensenanza-pide-gobierno-incluya-decreto-bajada-ratios-infantil-gratuidad-anos-20261023135353.html",
+      "summary": "USO Enseñanza ha pedido algo Gobierno que incluya en el proyecto de real decreto de requisitos mínimos de los centros que la reducción de ratios en el primer ciclo de Educación Infantil vaya acompañad"
+    },
+    "category": "教育",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙政策下降",
+    "original_title": "FSIE reclama que la subida salarial del 4,5% llegue también a los trabajadores de la enseñanza concertada",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-reclama-subida-salarial-45-llegue-tambien-trabajadores-ensenanza-concertada-20261022140730.html",
+      "summary": "La Federación de Sindicatos Independientes de Enseñanza (FSIE) ha solicitado para el profesorado de la enseñanza concertada la misma subida salarial que la prevista para los funcionarios públicos."
+    },
+    "category": "政策",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "西班牙住房增加",
+    "original_title": "El Tercer Sector pide un pacto por la vivienda, una ley de servicios sociales y aumentar del 0,7% al 1% del IRPF",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/sociedad/noticia-tercer-sector-pide-pacto-vivienda-ley-servicios-sociales-aumentar-07-irpf-20261026142629.html",
+      "summary": "La Plataforma del Tercer Sector, que representa a cerca de 28.000 entidades sociales en España, ha enviado a los partidos políticos que se presentan a las elecciones del 29 de noviembre, un documento "
+    },
+    "category": "租房",
+    "date": "2026-10-26"
   }
 ]

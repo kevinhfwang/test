@@ -17,8 +17,8 @@ from pathlib import Path
 # 忽略SSL验证
 ssl._create_default_https_context = ssl._create_unverified_context
 
-# RSS源配置 (24个来源)
-RSS_SOURCES = [
+# 内置默认RSS源（当 data/rss_sources.json 不存在时使用；用本地 rss_source_manager.py 管理）
+DEFAULT_RSS_SOURCES = [
     {"name": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"},
     {"name": "El País España", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana"},
     {"name": "El País Economía", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia"},
@@ -51,6 +51,23 @@ RSS_SOURCES = [
     {"name": "El País Sociedad", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada"},
     {"name": "20 Minutos Nacional", "url": "https://www.20minutos.es/rss/nacional/"},
 ]
+
+def _load_rss_sources():
+    """优先从 data/rss_sources.json 读取RSS源；缺失/损坏时回退内置默认"""
+    config_path = Path("data") / "rss_sources.json"
+    if config_path.exists():
+        try:
+            with open(config_path, encoding="utf-8") as f:
+                sources = json.load(f)
+            if isinstance(sources, list) and sources:
+                print(f"📋 从 {config_path} 加载 {len(sources)} 个RSS源")
+                return sources
+            print(f"⚠️ {config_path} 为空，使用内置默认源")
+        except Exception as e:
+            print(f"⚠️ 读取 {config_path} 失败 ({e})，使用内置默认源")
+    return DEFAULT_RSS_SOURCES
+
+RSS_SOURCES = _load_rss_sources()
 
 # 关键词过滤
 FILTER_KEYWORDS = [

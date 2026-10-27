@@ -1,36 +1,58 @@
 [
   {
-    "title": "西班牙学生下降",
-    "original_title": "EURONEWS HOY | Las noticias del 26 de octubre de 2026: Lula remonta y gana las elecciones en Brasil",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/26/euronews-hoy-las-noticias-del-26-de-octubre-de-2026-lula-remonta-y-gana-las-elecciones-en-",
-      "summary": "Lula remonta en las elecciones de Brasil, María Corina Machado regresa a Venezuela tras casi 10 meses fuera, por qué trabajar ya no garantiza el acceso a una vivienda digna en España, el fin de la era"
-    },
-    "category": "留学",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙通胀上涨",
-    "original_title": "La inflación abrasa a los autónomos: el 70% sube los precios para compensar los costes",
+    "title": "西班牙就业上涨",
+    "original_title": "Las pymes siguen creciendo pero pierden peso en la economía, según un informe de Pimec",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/26/inflacion-abrasa-autonomos-70-sube-precios-compensar-costes.html",
-      "summary": "Se disparan las alarmas: el 17,5% ve peligrar la continuidad de su actividad y teme tener que cerrar o reducirla en los próximos tres años, frente al 11% registrado en el segundo trimestre."
+      "url": "https://www.expansion.com/catalunya/2026/10/26/pymes-siguen-creciendo-pierden-peso-economia-informe-pimec.html",
+      "summary": "Las casi 545.000 pequeñas y medianas empresas mejoran ventas, productividad y salarios. El gasto en personal sube más que la inflación, lo que según Pimec refleja su compromiso con el empleo."
     },
-    "category": "政策",
-    "date": "2026-10-26"
+    "category": "工作",
+    "date": "2026-10-27"
   },
   {
-    "title": "西班牙租房新动态",
-    "original_title": "Everything that changes in Spain in November 2026",
+    "title": "西班牙签证新动态",
+    "original_title": "Bruselas se lanza a la 'guerra climática': 70.000 millones al año para adaptar edificios y planes de choque contra las olas de calor",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/bruselas-se-lanza-guerra-climatica-70-000-millones-ano-para-adaptar-edificios-planes-choque-contra-las-olas-calor_7053805_0.html",
+      "summary": "La Comisión Europea plantea una Ley de Resiliencia Climática y avisa que las \"pérdidas climáticas\" ascienden a los 50.000 millones de euros anuales."
+    },
+    "category": "签证",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙经济增加",
+    "original_title": "La factura energética de la guerra se desboca",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/opinion/2026/10/27/factura-energetica-guerra-desboca.html",
+      "summary": "El golpe a la economía mundial por el sostenido encarecimiento de la energía desde hace ya ocho meses no deja de aumentar mientras prosigue la tensión bélica en Oriente Próximo.&nbsp;"
+    },
+    "category": "战争风险",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
+    "original_title": "Visas and integration: What a Vox-PP government could mean for Brits in Spain",
     "source": {
       "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261020/everything-that-changes-in-spain-in-november-2026",
-      "summary": "November 2026 is set to be a pivotal month in Spain, with everything from a snap election and a general strike taking place, as well new legislation such as the bottle deposit law and a key vote on ho"
+      "url": "https://www.thelocal.es/20261027/visas-and-integration-what-a-vox-pp-government-could-mean-for-brits-in-spain",
+      "summary": "Spain's right-wing bloc is promising sweeping changes to immigration and residency policies that would directly impact UK nationals in the country, as well as a different diplomatic approach to Brexit"
     },
-    "category": "租房",
-    "date": "2026-10-26"
+    "category": "签证",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙教育新规",
+    "original_title": "El Gobierno aprueba 15 millones para el mantenimiento de la red de centros de excelencia de Formación Profesional",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-aprueba-15-millones-mantenimiento-red-centros-excelencia-formacion-profesional-20261027130835.html",
+      "summary": "El Consejo de Ministros ha autorizado este martes, a propuesta del Ministerio de Educación, Formación Profesional y Deportes, una nueva convocatoria de ayudas por 15 millones de euros para el mantenim"
+    },
+    "category": "教育",
+    "date": "2026-10-27"
   },
   {
     "title": "西班牙大学下降",
@@ -41,127 +63,105 @@
       "summary": "El Gobierno está trabajando para aprobar varios reales decretos educativos antes de las elecciones generales que se celebrarán el próximo 29 de noviembre, como los que endurecen los requisitos de los "
     },
     "category": "留学",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙政策新规",
+    "original_title": "Los niveles de gases de efecto invernadero alcanzan un máximo histórico en 2025, según la OMM: \"Otro año, otro récord\"",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/sociedad/noticia-niveles-gases-efecto-invernadero-alcanzan-maximo-historico-2025-omm-otro-ano-otro-record-20261027100049.html",
+      "summary": "Las concentraciones atmosféricas de dióxido de carbono (CO2), metano y óxido nitroso alcanzaron máximos históricos en 2025, según el nuevo Boletín de Gases de Efecto Invernadero de la Organización Met"
+    },
+    "category": "政策",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙住房增加",
+    "original_title": "La mitad de votantes de PP y Vox, a favor de aumentar impuestos a quien tenga más de una vivienda en propiedad",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/catalunya/mitad-votantes-pp-vox-favor-aumentar-impuestos-tenga-vivienda-propiedad_1_13616571.html",
+      "summary": "Una encuesta de Idra muestra que topar el coste de los alimentos, así como un modelo de impuestos progresivo son propuestas que unen a los votantes tanto de derecha como de la izquierdaMAPA - ¿Cuánto "
+    },
+    "category": "税务",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "El Gobierno prevé llevar a la Diputación Permanente los decretos de vivienda el día después de la huelga general",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/gobierno-preve-llevar-diputacion-permanente-decretos-vivienda-dia-despues-huelga-general_1_13616839.html",
+      "summary": "La convocatoria para el 12 de noviembre aún no es oficial y no ha sido confirmada a los grupos parlamentarios, pero el Ejecutivo cree que no hay margen para otras fechas porque el 13 empieza oficialme"
+    },
+    "category": "租房",
+    "date": "2026-10-27"
   },
   {
     "title": "西班牙教育新动态",
-    "original_title": "Fundación Atresmedia y SEK impulsan la alfabetización mediática y digital y el pensamiento crítico",
+    "original_title": "El Gobierno de Ayuso negocia con la concertada mientras ignora la huelga indefinida de la pública",
     "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-fundacion-atresmedia-sek-impulsan-alfabetizacion-mediatica-digital-pensamiento-critico-20261022181459.html",
-      "summary": "La Fundación Atresmedia y SEK Education Group han firmado un convenio de colaboración para impulsar la alfabetización mediática, informacional y digital en el ámbito educativo durante el curso 2026-20"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/gobierno-ayuso-negocia-concertada-ignora-huelga-indefinida-publica_1_2239028.html",
+      "summary": "“Zarzalejo, negocia con la pública”. El mensaje, desplegado este lunes en una pancarta en pleno centro de Madrid, resume el pulso que mantiene el profesorado de la enseñanza pública con la Consejería "
     },
     "category": "教育",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙政策改革",
-    "original_title": "España defiende la máxima ambición climática y la electrificación renovable en la posición europea ante la COP31",
-    "source": {
-      "name": "Europa Press Sociedad",
-      "url": "https://www.europapress.es/sociedad/noticia-espana-defiende-maxima-ambicion-climatica-electrificacion-renovable-posicion-europea-cop31-20261026175503.html",
-      "summary": "&nbsp;&nbsp;&nbsp;España sitúa la electrificación basada en energías renovables, la defensa del multilateralismo y el respaldo a la ciencia entre sus prioridades ante la Conferencia de las Naciones Un"
-    },
-    "category": "政策",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Balón de Oro 2026 en directo | La web del Balón de Oro publica por error que Lamine, Kane y Mbappé son los ganadores",
+    "original_title": "Últimas noticias | 27 octubre 2026 - Mediodía",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/deportes/futbol/2026-10-26/premio-balon-de-oro-en-directo-la-gala-en-vivo.html",
-      "summary": "En la categoría femenina, Alexia Putellas, Claudia Pina y Patri Guijarro son las tres españolas entre las 10 candidatas al premio"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/video/2026/10/27/ultimas-noticias-27-octubre-2026-mediodia",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 27 octubre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Voto por correo para las elecciones 2026: cómo solicitarlo, requisitos, fechas y plazos",
+    "original_title": "Cuándo es mejor jubilarse: ¿a finales de 2026 o principios de 2027?",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/voto-correo-elecciones-2026-solicitarlo-requisitos-fechas-plazos_1_13600705.html",
-      "summary": "Los electores pueden pedir el voto por correo hasta el 19 de noviembre y tendrán hasta el día 25 para enviar su papeleta a las elecciones generales del 29-NLa derecha acusa de “pucherazo” (otra vez): "
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/27/mejor-jubilarse-finales-2026-principios-2027.html",
+      "summary": "En el caso de que&nbsp;se cumplan 67 años en 2027, ¿cuando conviene más jubilarse, a finales de año o a principios del que viene?"
     },
     "category": "政策",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   {
-    "title": "西班牙大学推出",
-    "original_title": "El Gobierno francés presenta medidas para responder a la crisis en institutos y universidades",
+    "title": "西班牙就业上涨 (1)",
+    "original_title": "La tasa de paro sube al 10,2% en el tercer trimestre con récord de población activa",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/26/gobierno-frances-presenta-medidas-responder-crisis-institutos-universidades",
-      "summary": "Frente a la crisis en institutos y campus, el Gobierno anunció este lunes un paquete de medidas a cargo del primer ministro y los ministros de Educación y Universidad, mientras el presidente Macron se"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/27/tasa-paro-sube-10-2-tercer-trimestre-record-poblacion-activa.html",
+      "summary": "La tasa de paro sube al 10,18% hasta 2.591.200 desempleados, el mayor incremento en verano desde que estalló la pandemia, y superando de nuevo la barrera del 10%, y&nbsp;la población activa registra u"
     },
-    "category": "留学",
-    "date": "2026-10-26"
+    "category": "工作",
+    "date": "2026-10-27"
   },
   {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Últimas noticias | 26 octubre 2026 - Tarde",
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "El precio de la vivienda expulsa el talento científico de Madrid: “La vocación no alimenta”",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/10/26/ultimas-noticias-26-octubre-2026-tarde",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 26 octubre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-10-27/el-precio-de-la-vivienda-expulsa-el-talento-cientifico-de-madrid-la-vocacion-no-alimenta.html",
+      "summary": "El Gobierno de Ayuso admite en un documento que la carestía juega en contra de la atracción de jóvenes investigadores. Algunos han acampado en Sol"
     },
-    "category": "政策",
-    "date": "2026-10-26"
+    "category": "租房",
+    "date": "2026-10-27"
   },
   {
     "title": "西班牙教育新动态 (1)",
-    "original_title": "Messi receives top Spanish award from heir to throne",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261024/messi-receives-top-spanish-award-from-heir-to-throne",
-      "summary": "Lionel Messi received Spain's most prestigious sports award on Friday in recognition of his glittering career and his work for disadvantaged children's access to health and education."
-    },
-    "category": "教育",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙大学新动态",
-    "original_title": "Las universidades de Madrid irán a la huelga el 4 y 5 de noviembre por la “estafa” del acuerdo de financiación de Ayuso",
+    "original_title": "Seis gráficos que explican qué piden y por qué protestan los profesores de la educación pública en Madrid",
     "source": {
       "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-10-22/las-universidades-de-madrid-iran-a-la-huelga-el-4-y-5-de-noviembre-por-la-estafa-del-acuerdo-de-financiacion-de-ayuso.html",
-      "summary": "Los convocantes del paro, independiente del educativo, denuncian que la inversión en los campus se sitúa en el 0,4% del PIB, frente al 0,75% nacional y al 0,92% europeo"
-    },
-    "category": "留学",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙教育新动态 (2)",
-    "original_title": "El Gobierno de Ayuso se niega a negociar con los profesores en huelga: “Es intolerable, nos están despreciando”",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/espana/madrid/2026-10-21/el-gobierno-de-ayuso-se-niega-a-negociar-con-los-profesores-en-huelga-es-intolerable-nos-estan-despreciando.html",
-      "summary": "Tras una semana de paros, la Consejería de Educación no se plantea convocar una mesa de diálogo con los convocantes. Les acusa de promover una protesta “política” y de hacer reivindicaciones que “no e"
+      "url": "https://elpais.com/espana/madrid/2026-10-27/seis-graficos-que-explican-que-piden-y-por-que-protestan-los-profesores-de-la-educacion-publica-en-madrid.html",
+      "summary": "Madrid es la comunidad que más segrega por renta y una de las tres con más clases en Primaria. Sus maestros son los quintos con peor sueldo de 17 autonomías"
     },
     "category": "教育",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙教育新动态 (3)",
-    "original_title": "FSIE pide a Educación retirar los decretos de ratios de Infantil y FP privada por \"falta de diálogo\" con la concertada",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-pide-educacion-retirar-decretos-ratios-infantil-fp-privada-falta-dialogo-concertada-20261026165008.html",
-      "summary": "La Federación de Sindicatos Independientes de Enseñanza (FSIE) reclama al Ministerio de Educación, Formación Profesional y Deportes que retire los decretos que regulan los requisitos mínimos de los ce"
-    },
-    "category": "教育",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "西班牙工作改革",
-    "original_title": "La burocracia, atender a los padres y los cambios normativos, fuentes de estrés de los directores de colegios españoles",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-burocracia-atender-padres-cambios-normativos-fuentes-estres-directores-colegios-espanoles-20261026125022.html",
-      "summary": "Las fuentes de estrés más comunes en los directores de centros educativos españoles son el exceso de trabajo administrativo (80%), atender las inquietudes de padres y tutores (70%) y mantenerse al día"
-    },
-    "category": "工作",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   }
 ]

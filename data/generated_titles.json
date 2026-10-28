@@ -1,39 +1,50 @@
 [
   {
-    "title": "西班牙就业上涨",
-    "original_title": "Las pymes siguen creciendo pero pierden peso en la economía, según un informe de Pimec",
+    "title": "西班牙住房增加",
+    "original_title": "¿Sirven para algo las huelgas de consumo? La nueva estrategia de los impulsores de la acampada de Sol",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/catalunya/2026/10/26/pymes-siguen-creciendo-pierden-peso-economia-informe-pimec.html",
-      "summary": "Las casi 545.000 pequeñas y medianas empresas mejoran ventas, productividad y salarios. El gasto en personal sube más que la inflación, lo que según Pimec refleja su compromiso con el empleo."
-    },
-    "category": "工作",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙租房批准",
-    "original_title": "El Gobierno aprueba 200 millones para que promotores privados construyan 2.500 pisos de alquiler asequible en suelos públicos",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/gobierno-aprueba-200-millones-para-que-promotores-privados-construyan-2-500-pisos-alquiler-asequible-suelos-publicos_7053982_0.html",
-      "summary": "Estas subvenciones financiarán una treintena de proyectos en provincias como Málaga, Sevilla, Valencia, Cantabria o Guadalajara bajo una fórmula \"inédita\" de colaboración público-privada que garantiza"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia/huelga-consumo-no-huelga-11n-precedentes-hay_1_2239100.html",
+      "summary": "La vivienda ha prendido una mecha de protestas sociales que no se detiene en el mercado inmobiliario porque tiene en el fondo un problema mucho más amplio: un coste de la vida elevado que el poder adq"
     },
     "category": "租房",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙经济增加",
-    "original_title": "La factura energética de la guerra se desboca",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/opinion/2026/10/27/factura-energetica-guerra-desboca.html",
-      "summary": "El golpe a la economía mundial por el sostenido encarecimiento de la energía desde hace ya ocho meses no deja de aumentar mientras prosigue la tensión bélica en Oriente Próximo.&nbsp;"
-    },
-    "category": "战争风险",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   {
     "title": "西班牙签证新动态",
+    "original_title": "EE.UU. dará visado a Flavio Bolsonaro tras su huida de Brasil en medio de sus causas judiciales",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/28/eeuu-dara-visado-a-flavio-bolsonaro-tras-su-huida-de-brasil-en-medio-de-sus-causas-judicia",
+      "summary": "El Departamento de Estado de EE.UU. concederá visados al candidato derrotado y a su familia mientras la Justicia brasileña lo investiga por presunta corrupción. En este 2026, la ruta del político tras"
+    },
+    "category": "签证",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙教育增加",
+    "original_title": "Ayuso lanzará un presupuesto récord de 32.911 millones para cerrar la legislatura",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/28/ayuso-lanza-hoy-presupuesto-record-32-911-millones-cerrar-legislatura.html",
+      "summary": "Madrid perfila sus cuartos presupuestos consecutivos, que aumentan más de un 7% respecto a los vigentes, con el foco en Sanidad, Educación y Vivienda e incentivos y ayudas a pymes y autónomos. Su apro"
+    },
+    "category": "教育",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙经济新规",
+    "original_title": "PP y Vox se culpan mutuamente del nuevo 'impuesto al sol' de Castilla y León",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/pp-vox-culpan-mutuamente-nuevo-impuesto-sol-castilla-leon_1_2239131.html",
+      "summary": "Este martes se han visto las caras los cuatro principales partidos para hablar de uno de los pilares de la economía española: la energía fotovoltaica. Si el anfiteatro estaba lleno era porque queda un"
+    },
+    "category": "税务",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
     "original_title": "Visas and integration: What a Vox-PP government could mean for Brits in Spain",
     "source": {
       "name": "The Local ES",
@@ -41,7 +52,7 @@
       "summary": "Spain's right-wing bloc is promising sweeping changes to immigration and residency policies that would directly impact UK nationals in the country, as well as a different diplomatic approach to Brexit"
     },
     "category": "签证",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   {
     "title": "西班牙大学新动态",
@@ -52,7 +63,7 @@
       "summary": "Las universidades privadas repiten los resultados globales de transparencia del pasado año: solo seis universidades (15 %) son consideradas transparentes por la Fundación Haz, confirmando \"un estancam"
     },
     "category": "签证",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   {
     "title": "西班牙教育新规",
@@ -63,105 +74,94 @@
       "summary": "El Consejo de Ministros ha autorizado este martes, a propuesta del Ministerio de Educación, Formación Profesional y Deportes, una nueva convocatoria de ayudas por 15 millones de euros para el mantenim"
     },
     "category": "教育",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙大学下降",
-    "original_title": "El Gobierno trabaja en endurecer los requisitos de FP privada y universidades y reducir ratios de Infantil antes del 29N",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-trabaja-endurecer-requisitos-fp-privada-universidades-reducir-ratios-infantil-antes-29n-20261026110208.html",
-      "summary": "El Gobierno está trabajando para aprobar varios reales decretos educativos antes de las elecciones generales que se celebrarán el próximo 29 de noviembre, como los que endurecen los requisitos de los "
-    },
-    "category": "留学",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙中东冲突改革",
-    "original_title": "Elecciones en Israel 2026, en directo | La participación en Israel alcanza a las 16.00 su máximo histórico con un 56%",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
-      "summary": "Netanyahu intenta avivar el miedo a los partidos árabes | Gadi Eisenkot, líder de la oposición: “Hay aires de cambio” | Alrededor de 7,3 millones de personas están llamadas a votar en las primeras ele"
-    },
-    "category": "中东冲突",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙教育新动态",
-    "original_title": "El Gobierno de Ayuso negocia con la concertada mientras ignora la huelga indefinida de la pública",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/gobierno-ayuso-negocia-concertada-ignora-huelga-indefinida-publica_1_2239028.html",
-      "summary": "“Zarzalejo, negocia con la pública”. El mensaje, desplegado este lunes en una pancarta en pleno centro de Madrid, resume el pulso que mantiene el profesorado de la enseñanza pública con la Consejería "
-    },
-    "category": "教育",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙通胀改革",
-    "original_title": "Qué esperar de la Fed mientras Warsh sopesa la inflación, el petróleo y las legislativas en EE.UU.",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/27/que-esperar-de-la-fed-mientras-warsh-sopesa-la-inflacion-el-petroleo-y-las-legislativas-en",
-      "summary": "La Reserva Federal mantendrá previsiblemente los tipos de interés sin cambios el miércoles, a seis días de las legislativas, pero con la inflación en el 3,7 % y el petróleo aún caro, los mercados ven "
-    },
-    "category": "伊朗局势",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Cuándo es mejor jubilarse: ¿a finales de 2026 o principios de 2027?",
+    "original_title": "Biometría, IA y pasaportes digitales: europeos, más cautos con la tecnología de viajes, según IATA",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/27/mejor-jubilarse-finales-2026-principios-2027.html",
-      "summary": "En el caso de que&nbsp;se cumplan 67 años en 2027, ¿cuando conviene más jubilarse, a finales de año o a principios del que viene?"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/28/biometria-ia-y-pasaportes-digitales-europeos-mas-cautos-con-la-tecnologia-de-viajes-segun",
+      "summary": "Según la encuesta global de pasajeros 2026 de IATA, los europeos son los menos dispuestos a usar pasaporte digital, por miedo a ceder datos y a requisitos de entrada."
     },
     "category": "政策",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   {
-    "title": "西班牙就业上涨 (1)",
-    "original_title": "La tasa de paro sube al 10,2% en el tercer trimestre con récord de población activa",
+    "title": "西班牙伊朗局势新规",
+    "original_title": "Jafar Panahi, director iraní y Palma de Oro, afronta 5 años de cárcel por nueva sentencia",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/28/jafar-panahi-director-irani-y-palma-de-oro-afronta-5-anos-de-carcel-por-nueva-sentencia",
+      "summary": "La última sentencia llega tras una condena de diciembre de 2025 por «actividades de propaganda contra el régimen», castigada con un año de cárcel y dos de prohibición de viajar."
+    },
+    "category": "伊朗局势",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "La Biblioteca Británica tributa a Agatha Christie en el 50 aniversario de su muerte con gran exposición",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/28/la-british-library-explora-el-mundo-de-agatha-christie-cuanto-sabes",
+      "summary": "La institución londinense exhibe manuscritos y la máquina de escribir de la Reina del crimen por el 50º aniversario de su muerte. En este 2026, la muestra repasa la trayectoria de la autora más vendid"
+    },
+    "category": "政策",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Inauguran en Turín una gran fábrica para la producción en serie de satélites en Europa",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/28/abre-en-turin-stellar-hub-de-space-industries-una-de-las-mayores-fabricas-de-satelites-de",
+      "summary": "La firma Space Industries inaugura el Stellar Hub en Settimo Torinese para producir vehículos espaciales en serie. En este 2026, el complejo de 8.000 metros cuadrados abarca todas las fases de ensayo "
+    },
+    "category": "政策",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙物价新规",
+    "original_title": "Los nuevos jubilados cobran 1.863 euros, más que la mitad de los asalariados",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/27/tasa-paro-sube-10-2-tercer-trimestre-record-poblacion-activa.html",
-      "summary": "La tasa de paro sube al 10,18% hasta 2.591.200 desempleados, el mayor incremento en verano desde que estalló la pandemia, y superando de nuevo la barrera del 10%, y&nbsp;la población activa registra u"
+      "url": "https://www.expansion.com/economia/2026/10/28/nuevos-jubilados-cobran-1-863-euros-mitad-asalariados.html",
+      "summary": "El gasto en pensiones alcanza los 14.539 millones de euros en octubre y crece un 28% más que el IPC pese al fuerte repunte de precios de los últimos meses."
     },
-    "category": "工作",
-    "date": "2026-10-27"
+    "category": "政策",
+    "date": "2026-10-28"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "El precio de la vivienda expulsa el talento científico de Madrid: “La vocación no alimenta”",
+    "title": "西班牙政策新动态 (3)",
+    "original_title": "How to celebrate Halloween in Spain in 2026",
     "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-10-27/el-precio-de-la-vivienda-expulsa-el-talento-cientifico-de-madrid-la-vocacion-no-alimenta.html",
-      "summary": "El Gobierno de Ayuso admite en un documento que la carestía juega en contra de la atracción de jóvenes investigadores. Algunos han acampado en Sol"
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20241029/how-spain-celebrates-halloween",
+      "summary": "The spooky season is almost upon us with pumpkins, ghoulish decorations and costumes galore, but is Halloween the same in Spain and what can you expect from this witchy holiday in the big cities and e"
     },
-    "category": "租房",
-    "date": "2026-10-27"
+    "category": "政策",
+    "date": "2026-10-28"
   },
   {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "Seis gráficos que explican qué piden y por qué protestan los profesores de la educación pública en Madrid",
+    "title": "西班牙政策新动态 (4)",
+    "original_title": "Los colegios privados denuncian la “competencia desleal” de la concertada madrileña: hasta 250 euros al mes de “cuotas voluntarias”",
     "source": {
       "name": "El País Educación",
-      "url": "https://elpais.com/espana/madrid/2026-10-27/seis-graficos-que-explican-que-piden-y-por-que-protestan-los-profesores-de-la-educacion-publica-en-madrid.html",
-      "summary": "Madrid es la comunidad que más segrega por renta y una de las tres con más clases en Primaria. Sus maestros son los quintos con peor sueldo de 17 autonomías"
+      "url": "https://elpais.com/educacion/2026-10-28/los-colegios-privados-denuncian-la-competencia-desleal-de-la-concertada-madrilena-hasta-250-euros-al-mes-de-cuotas-voluntarias.html",
+      "summary": "Los centros justifican los pagos como “una mensualidad”, para “mejorar recursos” o señalando que las familias “deben colaborar”"
+    },
+    "category": "政策",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "西班牙教育新动态",
+    "original_title": "Un profesor agredido en las manifestaciones por la educación: “Era una fuerza bruta contra una gente totalmente pacífica”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-10-28/un-profesor-agredido-en-las-manifestaciones-por-la-educacion-era-una-fuerza-bruta-contra-una-gente-totalmente-pacifica.html",
+      "summary": "Damián Bernabéu, un docente de Formación Profesional, se encontró en medio de una carga policial contra una concentración de maestros madrileños en huelga"
     },
     "category": "教育",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "西班牙大学新动态 (1)",
-    "original_title": "Las universidades de Madrid irán a la huelga el 4 y 5 de noviembre por la “estafa” del acuerdo de financiación de Ayuso",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-10-22/las-universidades-de-madrid-iran-a-la-huelga-el-4-y-5-de-noviembre-por-la-estafa-del-acuerdo-de-financiacion-de-ayuso.html",
-      "summary": "Los convocantes del paro, independiente del educativo, denuncian que la inversión en los campus se sitúa en el 0,4% del PIB, frente al 0,75% nacional y al 0,92% europeo"
-    },
-    "category": "留学",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   }
 ]

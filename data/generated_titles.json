@@ -1,25 +1,36 @@
 [
   {
-    "title": "西班牙奖学金新动态",
-    "original_title": "Madrid multiplica por diez el dinero público para becas de bachillerato privado y concertado desde 2019",
+    "title": "西班牙大学新动态",
+    "original_title": "La falta de financiación en la Rey Juan Carlos obliga a recortar la calefacción y abre la puerta a un rescate",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/madrid-multiplica-diez-dinero-publico-becas-bachillerato-privado-concertado_1_2239164.html",
-      "summary": "43,5 millones para becas de bachillerato en centros privados y concertados en el curso 2026/27. Es el anuncio que esta semana ha hecho la Consejería de Educación de la Comunidad de Madrid en plena hue"
+      "url": "https://www.infolibre.es/politica/falta-financiacion-rey-juan-carlos-obliga-recortar-calefaccion-abre-puerta-rescate_1_2239244.html",
+      "summary": "La Universidad Rey Juan Carlos (URJC) comenzará la temporada de calefacción 2026-2027 con restricciones para contener el gasto energético. En un comunicado enviado este lunes a la comunidad universita"
     },
-    "category": "教育",
-    "date": "2026-10-29"
+    "category": "留学",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "La Seguridad Social tramitó 374.638 permisos por nacimiento y cuidado de menor hasta septiembre, un 5,2% más",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/epsocial/igualdad/noticia-seguridad-social-tramito-374638-permisos-nacimiento-cuidado-menor-septiembre-52-mas-20261030091701.html",
+      "summary": "La Seguridad Social ha tramitado 374.638 prestaciones por nacimiento y cuidado de menor en los primeros nueve meses de 2026, lo que supone un incremento de 5,2% respecto al mismo periodo del año pasad"
+    },
+    "category": "政策",
+    "date": "2026-10-30"
   },
   {
     "title": "西班牙经济新动态",
-    "original_title": "El PIB de EEUU acelera al 3,4% y la inflación repunta un 3,6%a las puertas de las 'midterm'",
+    "original_title": "11 países europeos prometen liberar más de 20 millones de barriles de diésel para el invierno",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/29/pib-eeuu-acelera-3-4-inflacion-repunta-3-6-puertas-midterm.html",
-      "summary": "La inversión en Inteligencia Artificial impulsa el crecimiento de la economía estadounidense en el tercer trimestre mientras el avance de los precios sigue sin dar tregua a solo unos días de las elecc"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/10/30/11-paises-europeos-prometen-liberar-20-millones-barriles-diesel-invierno",
+      "summary": "Los once países también instaron a Bruselas a garantizar que el bloque cuente con refinerías operativas capaces de transformar el crudo en los productos que consume su economía, como el diésel o el qu"
     },
-    "category": "政策",
-    "date": "2026-10-29"
+    "category": "油价",
+    "date": "2026-10-30"
   },
   {
     "title": "西班牙留学推出",
@@ -30,10 +41,10 @@
       "summary": "La práctica totalidad de los colegios concertados en la Comunidad de Madrid, un 96,7%, solicita una cuota o aportación educativa pese a que la ley establece la gratuidad de la enseñanza y en siete de "
     },
     "category": "留学",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   {
-    "title": "西班牙大学新动态",
+    "title": "西班牙大学新动态 (1)",
     "original_title": "Fundación Haz avisa de que sólo 6 universidades privadas españolas son consideradas transparentes",
     "source": {
       "name": "Europa Press Educación",
@@ -41,7 +52,7 @@
       "summary": "Las universidades privadas repiten los resultados globales de transparencia del pasado año: solo seis universidades (15 %) son consideradas transparentes por la Fundación Haz, confirmando \"un estancam"
     },
     "category": "签证",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   {
     "title": "西班牙教育新规",
@@ -52,7 +63,18 @@
       "summary": "El Consejo de Ministros ha autorizado este martes, a propuesta del Ministerio de Educación, Formación Profesional y Deportes, una nueva convocatoria de ayudas por 15 millones de euros para el mantenim"
     },
     "category": "教育",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  {
+    "title": "西班牙教育推出",
+    "original_title": "¡Estos son los ganadores de los XIV Premios a la Innovación Educativa y Experiencias Docentes Innovadoras de SIMO EDUCACIÓN 2026!",
+    "source": {
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/noticias/xiv-premios-innovacion-educativa-simoeducacion-2026/",
+      "summary": "Los proyectos, seleccionados entre más de 200 candidaturas y distribuidos en diez categorías, se presentarán del 11 al 13 de noviembre en IFEMA MADRID."
+    },
+    "category": "教育",
+    "date": "2026-10-30"
   },
   {
     "title": "西班牙教育新动态",
@@ -63,10 +85,10 @@
       "summary": "El programa incluye más de 20 sesiones especializadas y contará con referentes como Jesús Guillén, José Ramón Gamo, Emilia Redolar, Chema Lázaro, Roberto Aguado o Siro López."
     },
     "category": "教育",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   {
-    "title": "西班牙大学新动态 (1)",
+    "title": "西班牙大学新动态 (2)",
     "original_title": "De la autonomía universitaria a la autonomía policial",
     "source": {
       "name": "El País Sociedad",
@@ -74,65 +96,65 @@
       "summary": "No se trata únicamente de impedir que la policía entre en la universidad, sino de impedir que su lógica se convierta en la forma dominante de gobernar el conflicto"
     },
     "category": "留学",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "La Comisión de Investigación de Accidentes Ferroviarios pidió en 2025 medidas para “mitigar” fallos humanos tras un incidente similar al de Urda",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/2026-10-29/la-comision-de-investigacion-de-accidentes-ferroviarios-pidio-en-2024-medidas-para-mitigar-fallos-humanos-tras-un-incidente-similar-al-de-urda.html",
-      "summary": "Un informe de la CIAF advertía de que una mera comprobación visual ante ciertas situaciones es “susceptible de fallar”"
-    },
-    "category": "政策",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "Sin informe de Adamuz y sin estructura propia: así afronta el accidente de Urda la nueva autoridad de investigación",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/informe-adamuz-estructura-propia-afronta-accidente-urda-nueva-autoridad-investigacion_1_2239195.html",
-      "summary": "El año 2026 cerrará con más de 100 víctimas mortales en accidentes ferroviarios, sumando las 46 de Adamuz (Córdoba) el pasado enero y las al menos 68 de Urda (Toledo) según los últimos datos disponibl"
-    },
-    "category": "政策",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Bruselas dice a EE.UU. y Rusia que Nord Stream no reabrirá tras la guerra en Ucrania",
+    "title": "西班牙通胀飙升",
+    "original_title": "La inflación golpea a España e Italia y dispara las alarmas económicas en la eurozona",
     "source": {
       "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/10/29/bruselas-dice-a-eeuu-y-rusia-que-nord-stream-no-reabrira-tras-la-guerra-en-ucrania",
-      "summary": "Bruselas insiste en que Nord Stream seguirá cerrado tras el fin de la guerra en Ucrania, frente al esfuerzo conjunto de EE.UU. y Rusia para reabrir el gasoducto."
+      "url": "https://es.euronews.com/2026/10/30/la-inflacion-de-italia-se-dispara-al-54-en-octubre-por-el-encarecimiento-de-la-energia",
+      "summary": "La inflación en Italia se disparó hasta el 5,4% interanual en octubre, frente al 4,2% de septiembre, según el Istat. En España, los precios subieron un 4,9%, en un contexto de creciente presión inflac"
     },
-    "category": "战争风险",
-    "date": "2026-10-29"
+    "category": "政策",
+    "date": "2026-10-30"
   },
   {
-    "title": "西班牙就业恢复",
-    "original_title": "Adiós a Fátima Báñez, la ministra que sentó las bases de la recuperación del empleo tras la Gran Crisis",
+    "title": "西班牙经济新规",
+    "original_title": "La economía alemana se desacelera de nuevo y crece un 0,2% en el tercer trimestre",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/29/adios-fatima-banez-ministra-sento-bases-recuperacion-empleo-gran-crisis.html",
-      "summary": "Fátima Báñez, exministra de Empleo y Seguridad Social durante el Gobierno de Mariano Rajoy, ha fallecido en el accidente ferroviario ocurrido este miércoles en Urda (Toledo).&nbsp;Leer"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/30/economia-alemana-desacelera-nuevo-crece-0-2-tercer-trimestre.html",
+      "summary": "La economía alemana creció un 0,2% en el tercer trimestre con respecto a los tres meses anteriores, corregidos los efectos de precios, estacionales y de calendario, según los datos adelantados publica"
     },
-    "category": "工作",
-    "date": "2026-10-29"
+    "category": "政策",
+    "date": "2026-10-30"
   },
   {
-    "title": "西班牙工作新动态",
-    "original_title": "Why have there been several deadly rail crashes in Spain this year?",
+    "title": "西班牙通胀新动态",
+    "original_title": "La inflación se mantiene en el 4,9% en octubre pese al descenso del precio del combustible",
     "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261029/why-have-there-been-several-deadly-rail-crashes-in-spain-this-year",
-      "summary": "Spain has recorded four deadly train crashes in 2026, including two major ones on high-speed lines which account for almost all of the 116 deaths. Can any conclusions be drawn as to what's going wrong"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/10/30/inflacion-mantiene-4-9-octubre-descenso-precio-combustible.html",
+      "summary": "La inflación se mantuvo en el 4,9 % en octubre, con lo que sigue siendo la tasa más alta desde febrero de 2023 (6 %), debido a la contención de los precios de los combustibles y, en menor medida, al m"
     },
-    "category": "工作",
-    "date": "2026-10-29"
+    "category": "政策",
+    "date": "2026-10-30"
   },
   {
     "title": "西班牙政策新动态 (1)",
+    "original_title": "Where in Spain is Monday November 2nd a public holiday?",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20261030/where-in-spain-is-monday-november-2nd-a-public-holiday",
+      "summary": "As November 1st or All Saints’ Day falls on a Sunday in 2026, only nine regions in Spain have decided to move the usual public holiday to Monday 2nd."
+    },
+    "category": "政策",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "西班牙政策推出",
+    "original_title": "Más sueldo, menos papeleo y poder elegir a parte de los profesores: el plan de los directores para que sus cargos no se queden vacíos",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-10-30/mas-sueldo-menos-papeleo-y-poder-elegir-a-parte-de-los-profesores-el-plan-de-los-directores-para-que-sus-cargos-no-se-queden-vacios.html",
+      "summary": "Las dos federaciones españolas de directivos de primaria y secundaria presentan este viernes en el Congreso un informe para profesionalizar y hacer atractivo el cargo"
+    },
+    "category": "政策",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
     "original_title": "Los colegios privados denuncian la “competencia desleal” de la concertada madrileña: hasta 250 euros al mes de “cuotas voluntarias”",
     "source": {
       "name": "El País Educación",
@@ -140,28 +162,6 @@
       "summary": "Los centros justifican los pagos como “una mensualidad”, para “mejorar recursos” o señalando que las familias “deben colaborar”"
     },
     "category": "政策",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "Un profesor agredido en las manifestaciones por la educación: “Era una fuerza bruta contra una gente totalmente pacífica”",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-10-28/un-profesor-agredido-en-las-manifestaciones-por-la-educacion-era-una-fuerza-bruta-contra-una-gente-totalmente-pacifica.html",
-      "summary": "Damián Bernabéu, un docente de Formación Profesional, se encontró en medio de una carga policial contra una concentración de maestros madrileños en huelga"
-    },
-    "category": "教育",
-    "date": "2026-10-29"
-  },
-  {
-    "title": "西班牙工作新动态 (1)",
-    "original_title": "Profesores y arquitectos piden frenar el derribo de edificios en la Complutense por su valor histórico: “Son un lugar de memoria”",
-    "source": {
-      "name": "El País Educación",
-      "url": "https://elpais.com/educacion/2026-10-28/profesores-y-arquitectos-piden-frenar-el-derribo-inminente-de-edificios-historicos-de-la-complutense-en-somosaguas.html",
-      "summary": "El Colegio de Arquitectos propone proteger el conjunto histórico de la Facultad de Económicas en Somosaguas que vivió protestas contra el franquismo. Los trabajos de demolición ya han empezado"
-    },
-    "category": "工作",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   }
 ]

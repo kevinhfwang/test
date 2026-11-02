@@ -1,36 +1,47 @@
 [
   {
-    "title": "西班牙就业新动态",
-    "original_title": "Trump afronta unas elecciones marcadas por la inflación y el déficit",
+    "title": "西班牙伊朗局势新规",
+    "original_title": "El petróleo cae un 7% por los avances en las negociaciones con Irán para acabar con la guerra",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html",
-      "summary": "Republicanos y demócratas se juegan el martes el control del Parlamento de Estados Unidos en unos comicios en los que la escalada de precios por la guerra y los aranceles han opacado el buen tono del "
+      "name": "Expansión",
+      "url": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html",
+      "summary": "El barril toca mínimos intradía por debajo de los 106 dólares después de que el ayatolá Jameneí haya dado luz verde al gobierno iraní para iniciar negociaciones que podrían poner fin al conflicto. Ade"
     },
-    "category": "工作",
-    "date": "2026-11-01"
+    "category": "伊朗局势",
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙大学新动态",
-    "original_title": "De la universidad a la FP: ¿por qué los jóvenes con estudios superiores buscan aprender un oficio?",
+    "title": "西班牙伊朗局势下降",
+    "original_title": "Foro World in Progress 2026 de Barcelona, en directo | España afirma que “hay una estrategia deliberada de potencias mundiales” que buscan “disolver” la UE",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html",
+      "summary": "Escrivá advierte de la “enorme incertidumbre” para la política monetaria por la guerra de Irán: “El contexto es preocupante” | Guindos ve “infundados” los temores a una crisis de deuda como la de 2012"
+    },
+    "category": "伊朗局势",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "西班牙住房飙升",
+    "original_title": "El ‘cohousing’, un modelo cooperativo de vivienda que trata de combatir la especulación inmobiliaria",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/universidad-fp-jovenes-estudios-superiores-buscan-aprender-oficio_1_2239330.html",
-      "summary": "Obtener un grado universitario ya no te garantiza unas condiciones de vida que se ajusten al esfuerzo, tiempo y dinero invertido en la educación; una formación profesional, sí. Este es el razonamiento"
+      "url": "https://www.infolibre.es/economia/cohousing-modelo-cooperativo-trata-combatir-especulacion-inmobiliaria_1_2239333.html",
+      "summary": "Ni comprar ni alquilar. En plena crisis de la vivienda, con los precios disparados y el acceso a un hogar cada vez más difícil, llama la atención una alternativa que se sale del cauce habitual del mer"
     },
-    "category": "留学",
-    "date": "2026-11-01"
+    "category": "租房",
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙签证新动态",
-    "original_title": "Visas and integration: What a Vox-PP government could mean for Brits in Spain",
+    "original_title": "Los expertos avisan: la subida de precios es estructural y dañará el consumo",
     "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261027/visas-and-integration-what-a-vox-pp-government-could-mean-for-brits-in-spain",
-      "summary": "Spain's right-wing bloc is promising sweeping changes to immigration and residency policies that would directly impact UK nationals in the country, as well as a different diplomatic approach to Brexit"
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/01/expertos-avisan-subida-precios-estructural-danara-consumo.html",
+      "summary": "La evolución de la inflación, los costes de financiación, el consumo y el contexto geopolítico determinará hasta qué punto esta desaceleración se mantiene bajo control o gana intensidad en los próximo"
     },
     "category": "签证",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙租房新动态",
@@ -41,7 +52,7 @@
       "summary": "November 2026 is set to be a pivotal month in Spain, with everything from a snap election and a general strike taking place, disrupted travel, as well new legislation such as the bottle deposit law an"
     },
     "category": "租房",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙学生改革",
@@ -52,7 +63,7 @@
       "summary": "La Unión Europea y Canadá han acordado este viernes iniciar negociaciones para ampliar la participación del país norteamericano en el programa Erasmus+, con el objetivo de facilitar los intercambios d"
     },
     "category": "留学",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙留学推出",
@@ -63,10 +74,10 @@
       "summary": "La práctica totalidad de los colegios concertados en la Comunidad de Madrid, un 96,7%, solicita una cuota o aportación educativa pese a que la ley establece la gratuidad de la enseñanza y en siete de "
     },
     "category": "留学",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙大学新动态 (1)",
+    "title": "西班牙大学新动态",
     "original_title": "Fundación Haz avisa de que sólo 6 universidades privadas españolas son consideradas transparentes",
     "source": {
       "name": "Europa Press Educación",
@@ -74,7 +85,7 @@
       "summary": "Las universidades privadas repiten los resultados globales de transparencia del pasado año: solo seis universidades (15 %) son consideradas transparentes por la Fundación Haz, confirmando \"un estancam"
     },
     "category": "签证",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙教育新规",
@@ -85,7 +96,7 @@
       "summary": "El Consejo de Ministros ha autorizado este martes, a propuesta del Ministerio de Educación, Formación Profesional y Deportes, una nueva convocatoria de ayudas por 15 millones de euros para el mantenim"
     },
     "category": "教育",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙教育推出",
@@ -96,7 +107,7 @@
       "summary": "Los proyectos, seleccionados entre más de 200 candidaturas y distribuidos en diez categorías, se presentarán del 11 al 13 de noviembre en IFEMA MADRID."
     },
     "category": "教育",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
     "title": "西班牙教育新动态",
@@ -107,10 +118,10 @@
       "summary": "El programa incluye más de 20 sesiones especializadas y contará con referentes como Jesús Guillén, José Ramón Gamo, Emilia Redolar, Chema Lázaro, Roberto Aguado o Siro López."
     },
     "category": "教育",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙大学新动态 (2)",
+    "title": "西班牙大学新动态 (1)",
     "original_title": "De la autonomía universitaria a la autonomía policial",
     "source": {
       "name": "El País Sociedad",
@@ -118,50 +129,39 @@
       "summary": "No se trata únicamente de impedir que la policía entre en la universidad, sino de impedir que su lógica se convierta en la forma dominante de gobernar el conflicto"
     },
     "category": "留学",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "Heidi Klum sorprende con su disfraz de Halloween 2026: una gigantesca mano amputada",
+    "title": "西班牙学校新动态",
+    "original_title": "Consumo prohíbe que los hospitales y escuelas infantiles sirvan alimentos grasientos o muy azucarados a niños y adolescentes",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/01/heidi-klum-disfraz-halloween-2026-mano-amputada",
-      "summary": "Ni vampiros ni fantasmas: Heidi Klum volvió a sorprender en su fiesta de Halloween en Nueva York con una transformación tan insólita como espectacular. Para celebrar su 25.ª edición, la modelo apareci"
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/sociedad/2026-11-02/consumo-prohibe-que-los-hospitales-y-escuelas-infantiles-sirvan-alimentos-grasientos-o-muy-azucarados-a-ninos-y-adolescentes.html",
+      "summary": "El Consejo de Ministros aprobará el martes un decreto para hacer más saludables los comedores de residencias y centros públicos. Las máquinas expendedoras deberán incluir un 70% de productos sanos"
     },
-    "category": "政策",
-    "date": "2026-11-01"
+    "category": "居留",
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Últimas noticias | 01 noviembre 2026 - Mediodía",
+    "title": "西班牙住房新动态",
+    "original_title": "La crisis de vivienda aflora el alquiler de habitaciones: \"No puedo decir a mis hijas 'veníos a comer'\"",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/11/01/ultimas-noticias-01-noviembre-2026-mediodia",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 01 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-11-01"
-  },
-  {
-    "title": "西班牙住房飙升",
-    "original_title": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html",
-      "summary": "El desfase entre la oferta y la demanda de vivienda en los últimos años se eleva hasta cerca de un millón de inmuebles, según algunos cálculos, lo que dispara los precios de compra y alquiler en el me"
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/nacional/crisis-vivienda-hace-aflorar-alquiler-habitaciones-no-puedo-tener-una-casa-para-decir-mis-hijas-venios-comer_7054580_0.html",
+      "summary": "Una de cada cuatro personas atendidas por Cáritas en 2025 vivían en habitaciones alquiladas, un total de 266.435 personas."
     },
     "category": "租房",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   {
-    "title": "西班牙经济新动态",
-    "original_title": "Los expertos de PwC prevén que el crecimiento de la economía española se desacelere al 2,4% este año",
+    "title": "西班牙教育新动态 (1)",
+    "original_title": "Estudiantes llaman a una \"jornada negra\" el martes en Francia y a la movilización masiva el jueves",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/11/01/expertos-pwc-preven-crecimiento-economia-espanola-desacelere-2-4-ano.html",
-      "summary": "Una mayoría de expertos (52%) considera que el repunte de la inflación que está registrando la economía española \"es el inicio de una fase de inflación estructuralmente más alta, que se mantendrá dura"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/internacional/estudiantes-llaman-jornada-negra-martes-francia-movilizacion-masiva-jueves_7056246_0.html",
+      "summary": "El ministro de Educación apela a la \"responsabilidad colectiva\" de los estudiantes y de las organizaciones que respaldan las protestas."
     },
-    "category": "政策",
-    "date": "2026-11-01"
+    "category": "留学",
+    "date": "2026-11-02"
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "title": "西班牙通胀新动态",
-    "original_title": "CaixaBank constata la resistencia del ahorro de los hogares pese a la inflación",
+    "title": "西班牙就业新动态",
+    "original_title": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/11/06/caixabank-constata-resistencia-ahorro-hogares-pese-inflacion.html",
-      "summary": "Las turbulencias internacionales y su efecto sobre los precios no socavan el ahorro de los hogares españoles. La tasa de reservas de las familias se mantuvo en niveles elevados durante la primera mita"
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
+      "summary": "Mientras el Gobierno presume de liderazgo en crecimiento y récords de empleo, con su ministro de Economía como el más valorado, la visión social sobre la situación y las perspectivas de futuro se dete"
     },
-    "category": "政策",
-    "date": "2026-11-06"
+    "category": "工作",
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙学校新动态",
@@ -19,7 +19,7 @@
       "summary": "Acudir al comedor escolar potencia la comprensión lectora del alumnado y su avance en el curso, según la ONG Educo, que ha revisado 45 publicaciones en 10 países"
     },
     "category": "签证",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙学生新动态",
@@ -30,7 +30,7 @@
       "summary": "La UNED ha cerrado el periodo ordinario de matrícula del curso 2026-2027 con 156.571 estudiantes, un 4,45% más que el curso anterior, lo que supone un incremento de 6.676 estudiantes."
     },
     "category": "留学",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙大学新动态",
@@ -41,7 +41,7 @@
       "summary": "La Conferencia de Rectores y Rectoras de las Universidades Españolas (CRUE) ha valorado positivamente las ayudas a proyectos de eficiencia energética en universidades y centros de investigación públic"
     },
     "category": "留学",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙学校新动态 (1)",
@@ -52,18 +52,29 @@
       "summary": "Deberíamos preguntarnos por qué, año tras año, aparecen casi los mismos centros educativos en los ‘rankings’ escolares"
     },
     "category": "留学",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
-    "title": "西班牙就业下降",
-    "original_title": "El mercado laboral sorprende al alza en EEUU con 165.000 nuevos empleos en octubre",
+    "title": "西班牙居留新动态",
+    "original_title": "Detenidas 50 personas en Cataluña por una trama de contratos fraudulentos para inmigrantes",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/06/eeuu-crea-165-000-empleos-octubre-tasa-paro-baja-decima-4-1.html",
-      "summary": "La robustez de la creación de puestos de trabajo y la ligera rebaja de la tasa de desempleo, al 4,1%, despejan el terreno para que la Fed apruebe un nuevo alza de tipos en diciembre para contener la i"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/07/desmantelada-cataluna-mayor-red-entrada-irregular-inmigrantes-mossos-50-detenidos",
+      "summary": "La organización criminal captaba a personas que buscaban permisos de residencia y trabajo y utilizaba empresas para tramitar expedientes fraudulentos. Las víctimas llegaban a pagar hasta 30.000 euros."
     },
-    "category": "工作",
-    "date": "2026-11-06"
+    "category": "居留",
+    "date": "2026-11-07"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "Vecinos de Puerta del Ángel convocan este sábado un pasacalles reivindicativo contra la \"especulación\" inmobiliaria",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/sociedad/noticia-vecinos-puerta-angel-convocan-sabado-pasacalles-reivindicativo-contra-especulacion-inmobiliaria-20261107081504.html",
+      "summary": "El vecindario de Puerta del Ángel, en el distrito de Latina, ha convocado un pasacalles reivindicativo este sábado, a las 12 horas, para denunciar los conflictos relacionados con la vivienda y las con"
+    },
+    "category": "租房",
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙教育新动态",
@@ -74,7 +85,7 @@
       "summary": "El Salón acogerá el 12 de noviembre una jornada con experiencias reales sobre ciberseguridad, bienestar digital, atención a la diversidad, competencia lectora y productividad docente."
     },
     "category": "教育",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙政策新动态",
@@ -85,7 +96,18 @@
       "summary": "El concurso escolar The Big Challenge combina gamificación, comprensión oral y escrita para motivar al alumnado de Primaria y Secundaria en el aprendizaje del inglés mediante retos adaptados a cada al"
     },
     "category": "政策",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas de “precio por goteo”",
+    "source": {
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/sociedad/2026-11-07/consumo-abre-expediente-a-una-empresa-de-autobuses-por-practicas-enganosas-de-precio-por-goteo.html",
+      "summary": "El ministerio señala que la compañía, cuyo nombre no revela, no muestra el coste completo del viaje durante la contratación online y añade al final gastos de gestión"
+    },
+    "category": "政策",
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙大学新动态 (1)",
@@ -96,72 +118,50 @@
       "summary": "No se trata únicamente de impedir que la policía entre en la universidad, sino de impedir que su lógica se convierta en la forma dominante de gobernar el conflicto"
     },
     "category": "留学",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
-    "title": "西班牙政策新规",
-    "original_title": "El anuncio de la Lotería de Navidad 2026: la esperanza de las segundas oportunidades y de compartir",
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/loteria-de-navidad/2026-11-06/el-anuncio-de-la-loteria-de-navidad-2026-la-esperanza-de-las-segundas-oportunidades-y-de-compartir.html",
-      "summary": "Loterías y Apuestas del Estado presenta su nuevo ‘spot’ rodado en Santander y titulado ‘Corazonada’"
+      "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
+      "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción"
     },
-    "category": "政策",
-    "date": "2026-11-06"
+    "category": "留学",
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "El Rey hace balance de la Cumbre: “Estoy cada día más orgulloso de ser iberoamericano”",
+    "original_title": "Sorteo Extraordinario de la Lotería Nacional de hoy sábado 7 de noviembre de 2026, en directo | Resultados y premios",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261106/11677899/rey-balance-cumbre-dia-mas-orgulloso-iberoamericano.html",
-      "summary": "Felipe VI preside la entrega del Premio Fórum Europa 2026 a la Secretaría General Iberoamericana en el Palacio Real de El Pardo"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/sorteo-extraordinario-loteria-nacional-hoy-sabado-7-noviembre-2026-directo-resultados-premios_7058475_6.html",
+      "summary": "Última hora del sorteo extraordinario de Lotería Nacional de este sábado, que pone en juego 105 millones de euros."
     },
     "category": "政策",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "Tres muertes por sarampión en cuatro días: EEUU afronta su peor año desde 1991",
+    "original_title": "Comprobar Lotería Nacional: resultados de hoy, sábado 7 de noviembre de 2026",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/tres-muertes-por-sarampion-cuatro-dias-eeuu-afronta-su-peor-ano-desde-1991_7058173_0.html",
-      "summary": "El país acumula más de 4.800 contagios y ocho fallecidos en 2026, en medio de la polémica por el movimiento antivacunas y se arriesga a perder su estatus de país libre de sarampión, que mantiene desde"
+      "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-7-noviembre-2026_7058490_0.html",
+      "summary": "Los resultados de la Lotería Nacional del sábado 7 de noviembre de 2026 se conocerán a partir de las 13:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
     },
     "category": "政策",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   {
-    "title": "西班牙政策推出",
-    "original_title": "Las ‘condenas’ sin castigo por mala praxis periodística prueban que la autorregulación no funciona",
+    "title": "西班牙养老金新动态",
+    "original_title": "La suspensión del voto a los descendientes del exilio nacionalizados por la 'ley de nietos' desborda al Supremo",
     "source": {
       "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/condenas-castigo-mala-praxis-periodistica-prueban-autorregulacion-no-funciona_1_2239586.html",
-      "summary": "Desde diciembre de 2025, la Comisión de Arbitraje, Quejas y Deontología del Periodismo ha declarado en trece resoluciones que periodistas y medios vulneraron el Código Deontológico de la Federación de"
+      "url": "https://www.infolibre.es/justicia/suspension-voto-descendientes-exilio-nacionalizados-ley-nietos-desborda-supremo_1_2239479.html",
+      "summary": "La suspensión del voto de más de 160.000 españoles que obtuvieron la nacionalidad mediante la llamada ley de nietos se ha convertido en un monstruo de siete cabezas que parece haber logrado escapar de"
     },
     "category": "政策",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "西班牙政策新动态 (3)",
-    "original_title": "¿Por qué el Gobierno ha decretado retirar un 12% de la producción de aceite?",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/la-letra-pequena/gobierno-decreta-retirar-12-produccion-aceite-evitar-desplome-precios_1_2239608.html",
-      "summary": "Las almazaras tendrán que almacenar el 12% del aceite de oliva que produzcan a partir de noviembre y hasta el 30 de septiembre de 2027. Esta es la medida decretada por el Ministerio de Agricultura, Pe"
-    },
-    "category": "政策",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "西班牙政策新动态 (4)",
-    "original_title": "Uzbekistán logra una cosecha récord de algodón y fija metas más altas para 2027",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/06/uzbekistan-logra-una-cosecha-record-de-algodon-y-fija-metas-mas-altas-para-2027",
-      "summary": "Las autoridades afirman que Uzbekistán cosechó más de cinco millones de toneladas de algodón bruto, un 25% más que en 2025, y que las máquinas recogieron el 85%."
-    },
-    "category": "政策",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   }
 ]

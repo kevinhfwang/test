@@ -1,16 +1,5 @@
 [
   {
-    "title": "西班牙就业新动态",
-    "original_title": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
-      "summary": "Mientras el Gobierno presume de liderazgo en crecimiento y récords de empleo, con su ministro de Economía como el más valorado, la visión social sobre la situación y las perspectivas de futuro se dete"
-    },
-    "category": "工作",
-    "date": "2026-11-07"
-  },
-  {
     "title": "西班牙学校新动态",
     "original_title": "Comer en la escuela no solo alimenta, también mejora el rendimiento académico",
     "source": {
@@ -19,7 +8,7 @@
       "summary": "Acudir al comedor escolar potencia la comprensión lectora del alumnado y su avance en el curso, según la ONG Educo, que ha revisado 45 publicaciones en 10 países"
     },
     "category": "签证",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙学生新动态",
@@ -30,7 +19,7 @@
       "summary": "La UNED ha cerrado el periodo ordinario de matrícula del curso 2026-2027 con 156.571 estudiantes, un 4,45% más que el curso anterior, lo que supone un incremento de 6.676 estudiantes."
     },
     "category": "留学",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙大学新动态",
@@ -41,7 +30,7 @@
       "summary": "La Conferencia de Rectores y Rectoras de las Universidades Españolas (CRUE) ha valorado positivamente las ayudas a proyectos de eficiencia energética en universidades y centros de investigación públic"
     },
     "category": "留学",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙学校新动态 (1)",
@@ -52,18 +41,29 @@
       "summary": "Deberíamos preguntarnos por qué, año tras año, aparecen casi los mismos centros educativos en los ‘rankings’ escolares"
     },
     "category": "留学",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
-    "title": "西班牙居留新动态",
-    "original_title": "Detenidas 50 personas en Cataluña por una trama de contratos fraudulentos para inmigrantes",
+    "title": "西班牙签证新动态",
+    "original_title": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/07/desmantelada-cataluna-mayor-red-entrada-irregular-inmigrantes-mossos-50-detenidos",
-      "summary": "La organización criminal captaba a personas que buscaban permisos de residencia y trabajo y utilizaba empresas para tramitar expedientes fraudulentos. Las víctimas llegaban a pagar hasta 30.000 euros."
+      "name": "El País",
+      "url": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+      "summary": "El candidato del PP, en una entrevista en EL PAÍS: “Sánchez está consiguiendo desactivar a toda la izquierda y absorberla” |“Abascal nunca me ha hablado de vicepresidencias ni ministerios” | Confirma "
     },
-    "category": "居留",
-    "date": "2026-11-07"
+    "category": "签证",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
+    "original_title": "Feijóo ve \"vomitivas\" las gratificaciones a los directivos de Adif y pide que las devuelvan",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/08/feijoo-ve-vomitivas-gratificaciones-directivos-adif-pide-devuelvan.html",
+      "summary": "El presidente del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, se ha comprometido este domingo a que si llega a la Moncloa revisará el transporte ferroviario \"palmo a palmo\" par"
+    },
+    "category": "签证",
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙住房新动态",
@@ -74,7 +74,7 @@
       "summary": "El vecindario de Puerta del Ángel, en el distrito de Latina, ha convocado un pasacalles reivindicativo este sábado, a las 12 horas, para denunciar los conflictos relacionados con la vivienda y las con"
     },
     "category": "租房",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙教育新动态",
@@ -85,7 +85,7 @@
       "summary": "El Salón acogerá el 12 de noviembre una jornada con experiencias reales sobre ciberseguridad, bienestar digital, atención a la diversidad, competencia lectora y productividad docente."
     },
     "category": "教育",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙政策新动态",
@@ -96,18 +96,7 @@
       "summary": "El concurso escolar The Big Challenge combina gamificación, comprensión oral y escrita para motivar al alumnado de Primaria y Secundaria en el aprendizaje del inglés mediante retos adaptados a cada al"
     },
     "category": "政策",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "西班牙物价新动态",
-    "original_title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas de “precio por goteo”",
-    "source": {
-      "name": "El País Sociedad",
-      "url": "https://elpais.com/sociedad/2026-11-07/consumo-abre-expediente-a-una-empresa-de-autobuses-por-practicas-enganosas-de-precio-por-goteo.html",
-      "summary": "El ministerio señala que la compañía, cuyo nombre no revela, no muestra el coste completo del viaje durante la contratación online y añade al final gastos de gestión"
-    },
-    "category": "政策",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙大学新动态 (1)",
@@ -118,50 +107,61 @@
       "summary": "No se trata únicamente de impedir que la policía entre en la universidad, sino de impedir que su lógica se convierta en la forma dominante de gobernar el conflicto"
     },
     "category": "留学",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
+  },
+  {
+    "title": "西班牙物价新动态",
+    "original_title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas de “precio por goteo”",
+    "source": {
+      "name": "El País Sociedad",
+      "url": "https://elpais.com/sociedad/2026-11-07/consumo-abre-expediente-a-una-empresa-de-autobuses-por-practicas-enganosas-de-precio-por-goteo.html",
+      "summary": "El ministerio señala que la compañía, cuyo nombre no revela, no muestra el coste completo del viaje durante la contratación online y añade al final gastos de gestión"
+    },
+    "category": "政策",
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙住房新动态 (1)",
-    "original_title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
+    "original_title": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y  pensiones, entre los más urgentes",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
-      "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción"
+      "url": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
+      "summary": "El partido o la coalición que logre formar un Gobierno tras las elecciones se encontrará un país que crece, con menos paro y deuda, pero que ofrece también grietas estructurales que hay que afrontar c"
     },
-    "category": "留学",
-    "date": "2026-11-07"
+    "category": "租房",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "西班牙伊朗局势改革",
+    "original_title": "Cambios en la Lotería de Navidad 2026: todas las novedades del sorteo del 22 de diciembre de este año",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/cambios-loteria-navidad-2026-todas-novedades-sorteo-22-diciembre-ano_7058654_0.html",
+      "summary": "La Sociedad Estatal Loterías y Apuestas del Estado ha anunciado que se emitirán 205 series de cada número."
+    },
+    "category": "伊朗局势",
+    "date": "2026-11-08"
+  },
+  {
+    "title": "西班牙住房新动态 (2)",
+    "original_title": "Pensiones, autónomos y reforma laboral: Vox tira de derogaciones y el PP de recortar la fiscalidad",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia-y-sociedad/pensiones-autonomos-reforma-laboral-vox-tira-derogaciones-pp-recortar-fiscalidad_1_2239585.html",
+      "summary": "La precampaña ha ido saltando de un tema a otro en estas semanas: de la vivienda pasó a los salarios y de los salarios a las pensiones. Lo hizo tras unas declaraciones polémicas de la portavoz del Par"
+    },
+    "category": "租房",
+    "date": "2026-11-08"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Sorteo Extraordinario de la Lotería Nacional de hoy sábado 7 de noviembre de 2026, en directo | Resultados y premios",
+    "original_title": "Últimas noticias | 08 noviembre 2026 - Mediodía",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/sorteo-extraordinario-loteria-nacional-hoy-sabado-7-noviembre-2026-directo-resultados-premios_7058475_6.html",
-      "summary": "Última hora del sorteo extraordinario de Lotería Nacional de este sábado, que pone en juego 105 millones de euros."
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/video/2026/11/08/ultimas-noticias-08-noviembre-2026-mediodia",
+      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 08 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
     },
     "category": "政策",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "Comprobar Lotería Nacional: resultados de hoy, sábado 7 de noviembre de 2026",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-7-noviembre-2026_7058490_0.html",
-      "summary": "Los resultados de la Lotería Nacional del sábado 7 de noviembre de 2026 se conocerán a partir de las 13:30h. Puedes consultar todos los resultados en la web de 20minutos.es."
-    },
-    "category": "政策",
-    "date": "2026-11-07"
-  },
-  {
-    "title": "西班牙养老金新动态",
-    "original_title": "La suspensión del voto a los descendientes del exilio nacionalizados por la 'ley de nietos' desborda al Supremo",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/justicia/suspension-voto-descendientes-exilio-nacionalizados-ley-nietos-desborda-supremo_1_2239479.html",
-      "summary": "La suspensión del voto de más de 160.000 españoles que obtuvieron la nacionalidad mediante la llamada ley de nietos se ha convertido en un monstruo de siete cabezas que parece haber logrado escapar de"
-    },
-    "category": "政策",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   }
 ]

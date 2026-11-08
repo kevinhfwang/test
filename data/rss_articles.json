@@ -1,13 +1,5 @@
 [
   {
-    "title": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
-    "link": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
-    "summary": "Mientras el Gobierno presume de liderazgo en crecimiento y récords de empleo, con su ministro de Economía como el más valorado, la visión social sobre la situación y las perspectivas de futuro se deteriora por el alza de los precios",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
-    "source": "El País",
-    "score": 4
-  },
-  {
     "title": "Comer en la escuela no solo alimenta, también mejora el rendimiento académico",
     "link": "https://elpais.com/sociedad/2026-11-03/comer-en-la-escuela-no-solo-alimenta-tambien-mejora-el-rendimiento-academico.html",
     "summary": "Acudir al comedor escolar potencia la comprensión lectora del alumnado y su avance en el curso, según la ONG Educo, que ha revisado 45 publicaciones en 10 países",
@@ -40,11 +32,19 @@
     "score": 4
   },
   {
-    "title": "Detenidas 50 personas en Cataluña por una trama de contratos fraudulentos para inmigrantes",
-    "link": "https://es.euronews.com/2026/11/07/desmantelada-cataluna-mayor-red-entrada-irregular-inmigrantes-mossos-50-detenidos",
-    "summary": "La organización criminal captaba a personas que buscaban permisos de residencia y trabajo y utilizaba empresas para tramitar expedientes fraudulentos. Las víctimas llegaban a pagar hasta 30.000 euros.",
-    "published": "Sat, 07 Nov 2026 11:52:31 +0100",
-    "source": "Euronews ES",
+    "title": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
+    "link": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html",
+    "summary": "El candidato del PP, en una entrevista en EL PAÍS: “Sánchez está consiguiendo desactivar a toda la izquierda y absorberla” |“Abascal nunca me ha hablado de vicepresidencias ni ministerios” | Confirma que derogará los decretos de vivienda y avisa de que, si el próximo fiscal general hace una propuest",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 3
+  },
+  {
+    "title": "Feijóo ve \"vomitivas\" las gratificaciones a los directivos de Adif y pide que las devuelvan",
+    "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/08/feijoo-ve-vomitivas-gratificaciones-directivos-adif-pide-devuelvan.html",
+    "summary": "El presidente del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, se ha comprometido este domingo a que si llega a la Moncloa revisará el transporte ferroviario \"palmo a palmo\" para que \"vuelva la seguridad\" en este transporte público, afirmando que \"no pondrá las prisas por enci",
+    "published": "Sun, 08 Nov 2026 14:38:40 +0100",
+    "source": "Expansión",
     "score": 3
   },
   {
@@ -72,14 +72,6 @@
     "score": 3
   },
   {
-    "title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas de “precio por goteo”",
-    "link": "https://elpais.com/sociedad/2026-11-07/consumo-abre-expediente-a-una-empresa-de-autobuses-por-practicas-enganosas-de-precio-por-goteo.html",
-    "summary": "El ministerio señala que la compañía, cuyo nombre no revela, no muestra el coste completo del viaje durante la contratación online y añade al final gastos de gestión",
-    "published": "Sat, 07 Nov 2026 07:00:00 GMT",
-    "source": "El País Sociedad",
-    "score": 3
-  },
-  {
     "title": "De la autonomía universitaria a la autonomía policial",
     "link": "https://elpais.com/educacion/2026-10-29/de-la-autonomia-universitaria-a-la-autonomia-policial.html",
     "summary": "No se trata únicamente de impedir que la policía entre en la universidad, sino de impedir que su lógica se convierta en la forma dominante de gobernar el conflicto",
@@ -88,43 +80,59 @@
     "score": 3
   },
   {
-    "title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
-    "link": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
-    "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
+    "title": "Consumo abre expediente a una empresa de autobuses por prácticas engañosas de “precio por goteo”",
+    "link": "https://elpais.com/sociedad/2026-11-07/consumo-abre-expediente-a-una-empresa-de-autobuses-por-practicas-enganosas-de-precio-por-goteo.html",
+    "summary": "El ministerio señala que la compañía, cuyo nombre no revela, no muestra el coste completo del viaje durante la contratación online y añade al final gastos de gestión",
+    "published": "Sat, 07 Nov 2026 07:00:00 GMT",
+    "source": "El País Sociedad",
+    "score": 3
+  },
+  {
+    "title": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y  pensiones, entre los más urgentes",
+    "link": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
+    "summary": "El partido o la coalición que logre formar un Gobierno tras las elecciones se encontrará un país que crece, con menos paro y deuda, pero que ofrece también grietas estructurales que hay que afrontar cuanto antes",
+    "published": "Sat, 07 Nov 2026 16:30:00 GMT",
     "source": "El País",
     "score": 2
   },
   {
-    "title": "Sorteo Extraordinario de la Lotería Nacional de hoy sábado 7 de noviembre de 2026, en directo | Resultados y premios",
-    "link": "https://www.20minutos.es/nacional/sorteo-extraordinario-loteria-nacional-hoy-sabado-7-noviembre-2026-directo-resultados-premios_7058475_6.html",
-    "summary": "Última hora del sorteo extraordinario de Lotería Nacional de este sábado, que pone en juego 105 millones de euros.",
-    "published": "Sat, 07 Nov 2026 11:53:15 +0100",
+    "title": "Cambios en la Lotería de Navidad 2026: todas las novedades del sorteo del 22 de diciembre de este año",
+    "link": "https://www.20minutos.es/nacional/cambios-loteria-navidad-2026-todas-novedades-sorteo-22-diciembre-ano_7058654_0.html",
+    "summary": "La Sociedad Estatal Loterías y Apuestas del Estado ha anunciado que se emitirán 205 series de cada número.",
+    "published": "Sun, 08 Nov 2026 13:08:52 +0100",
     "source": "20 Minutos",
     "score": 2
   },
   {
-    "title": "Comprobar Lotería Nacional: resultados de hoy, sábado 7 de noviembre de 2026",
-    "link": "https://www.20minutos.es/nacional/comprobar-loteria-nacional-resultados-hoy-sabado-7-noviembre-2026_7058490_0.html",
-    "summary": "Los resultados de la Lotería Nacional del sábado 7 de noviembre de 2026 se conocerán a partir de las 13:30h. Puedes consultar todos los resultados en la web de 20minutos.es.",
-    "published": "Sat, 07 Nov 2026 12:30:02 +0100",
-    "source": "20 Minutos",
-    "score": 2
-  },
-  {
-    "title": "La suspensión del voto a los descendientes del exilio nacionalizados por la 'ley de nietos' desborda al Supremo",
-    "link": "https://www.infolibre.es/justicia/suspension-voto-descendientes-exilio-nacionalizados-ley-nietos-desborda-supremo_1_2239479.html",
-    "summary": "La suspensión del voto de más de 160.000 españoles que obtuvieron la nacionalidad mediante la llamada ley de nietos se ha convertido en un monstruo de siete cabezas que parece haber logrado escapar del control de sus creadores: cinco de los seis magistrados de la Sección Cuarta de lo Contencioso-Adm",
-    "published": "Fri, 06 Nov 2026 19:21:42 +0000",
+    "title": "Pensiones, autónomos y reforma laboral: Vox tira de derogaciones y el PP de recortar la fiscalidad",
+    "link": "https://www.infolibre.es/economia-y-sociedad/pensiones-autonomos-reforma-laboral-vox-tira-derogaciones-pp-recortar-fiscalidad_1_2239585.html",
+    "summary": "La precampaña ha ido saltando de un tema a otro en estas semanas: de la vivienda pasó a los salarios y de los salarios a las pensiones. Lo hizo tras unas declaraciones polémicas de la portavoz del Partido Popular, Ester Muñoz, quien afirmaba en una entrevista que el modelo de pensiones “va a colapsa",
+    "published": "Sat, 07 Nov 2026 18:20:24 +0000",
     "source": "InfoLibre",
     "score": 2
   },
   {
-    "title": "Últimas noticias | 07 noviembre 2026 - Mediodía",
-    "link": "https://es.euronews.com/video/2026/11/07/ultimas-noticias-07-noviembre-2026-mediodia",
-    "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 07 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
-    "published": "Sat, 07 Nov 2026 12:00:25 +0100",
+    "title": "Últimas noticias | 08 noviembre 2026 - Mediodía",
+    "link": "https://es.euronews.com/video/2026/11/08/ultimas-noticias-08-noviembre-2026-mediodia",
+    "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 08 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
+    "published": "Sun, 08 Nov 2026 12:00:25 +0100",
     "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "Los Oscar de la relojería 2026 coronan a Rexhep Rexhepi: todos los ganadores",
+    "link": "https://es.euronews.com/2026/11/08/rexhep-rexhepi-gana-la-aiguille-dor-del-grand-prix-de-geneve-2026",
+    "summary": "En los premios de relojería de lujo de este año, 84 relojes y cronómetros compitieron en 14 categorías, incluidas deporte, calendario y astronomía, joyería y excepción mecánica.",
+    "published": "Sun, 08 Nov 2026 10:38:04 +0100",
+    "source": "Euronews ES",
+    "score": 2
+  },
+  {
+    "title": "LISTED: The 11 best bank accounts in Spain in November 2026",
+    "link": "https://www.thelocal.es/20261102/listed-the-11-best-bank-accounts-in-spain-in-november-2026",
+    "summary": "If you're looking to make your money work better for you, potentially earn more interest and avoid bank fees, here are the best account accounts to consider opening this November.",
+    "published": "Mon, 02 Nov 2026 16:14:17 +0100",
+    "source": "The Local ES",
     "score": 2
   },
   {
@@ -132,14 +140,6 @@
     "link": "https://www.thelocal.es/20261107/spain-puts-the-squeeze-on-olive-oil-producers-to-avoid-glut",
     "summary": "Spain has ordered olive oil producers to withdraw 12 percent of their output from the market and store it till September 2027 to prevent a bumper harvest from driving down prices.",
     "published": "Sat, 07 Nov 2026 08:46:01 +0100",
-    "source": "The Local ES",
-    "score": 2
-  },
-  {
-    "title": "Norwegian announces new direct flight from Norway to southern Spain",
-    "link": "https://www.thelocal.es/20261106/norwegian-announces-new-direct-flight-from-norway-to-southern-spain",
-    "summary": "Spain has long been a favorite holiday spot for Norwegians who want warmer weather and cheaper prices. Now, getting to Andalusia will be even simpler.",
-    "published": "Fri, 06 Nov 2026 10:25:22 +0100",
     "source": "The Local ES",
     "score": 2
   },
@@ -192,6 +192,14 @@
     "score": 2
   },
   {
+    "title": "Qué piden los empresarios de la Dependencia de cara al 29N",
+    "link": "https://www.europapress.es/epsocial/igualdad/noticia-piden-empresarios-dependencia-cara-29n-20261108123254.html",
+    "summary": "&nbsp;&nbsp;&nbsp;Patronales de la dependencia han exigido a los partidos políticos que se presentan a las elecciones generales del próximo 29 de noviembre una mayor financiación, que los precios públicos de los conciertos reflejen los costes reales de los servicios y extender el IVA superreducido d",
+    "published": "Sun, 08 Nov 2026 11:32:54 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 2
+  },
+  {
     "title": "“El cerebro no aprende aislado de lo que siente, un niño que tiene miedo a equivocarse difícilmente podrá mostrar todo su potencial”",
     "link": "https://www.educaciontrespuntocero.com/entrevistas/inteligencia-emocional-en-la-educacion-eli-delacour/",
     "summary": "¿Cómo influye la educación emocional en el alumnado y en el profesorado? Hablamos sobre ello con Eli Delacour, experta en aprendizaje y desarrollo, inteligencia emocional y neurociencia aplicada a la educación.",
@@ -224,50 +232,82 @@
     "score": 2
   },
   {
-    "title": "La Casa Blanca cierra filas con Hegseth y Rubio y descarta su salida tras el descalabro electoral",
-    "link": "https://www.lavanguardia.com/internacional/20261106/11678223/casa-blanca-cierra-filas-hegseth-rubio-descarta-salida-descalabro-electoral.html",
-    "summary": "El jefe del Pentágono responde a los republicanos que piden su 'impeachment' por la guerra en Irán: “No va a funcionar, nunca daremos marcha atrás”",
-    "published": "06 Nov 2026 17:58:54 +0100",
+    "title": "Iñaki Barrón: “El ferrocarril tiene mucho que envidiar en seguridad al modo aéreo, sobre todo en entrenamiento”",
+    "link": "https://elpais.com/espana/2026-11-08/inaki-barron-el-ferrocarril-tiene-mucho-que-envidiar-en-seguridad-al-modo-aereo-sobre-todo-en-entrenamiento.html",
+    "summary": "El expresidente de la autoridad de investigación ferroviaria CIAF y portavoz del Comité de Seguimiento del Accidente de Urda del Colegio de Ingenieros de Caminos, reclama más formación a los profesionales del tren y una auditoría urgente del sistema ferroviario",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "“Parece un Kennedy”: Jon Ossoff, la estrella en ascenso del Partido Demócrata para 2028",
+    "link": "https://elpais.com/us/2026-11-08/parece-un-kennedy-jon-ossoff-la-estrella-en-ascenso-del-partido-democrata-para-2028.html",
+    "summary": "El senador, respaldado por Obama y a quien se ha comparado con el expresidente, es el favorito en las casas de apuestas como candidato a la presidencia en las próximas elecciones",
+    "published": "Sun, 08 Nov 2026 04:30:00 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "Esta victoria no basta: ¿qué deben hacer ahora los demócratas?",
+    "link": "https://elpais.com/ideas/2026-11-08/la-victoria-no-basta-que-deben-hacer-ahora-los-democratas.html",
+    "summary": "El Partido Demócrata pasa por un momento de euforia que no se vivía desde la elección de Barack Obama en 2008. Pero el reto que hay por delante, derrotar a Donald Trump en las presidenciales de 2028, exige, según el historiador Michael Kazin, abandonar elitismos y transmitir empatía hacia los hombre",
+    "published": "Sun, 08 Nov 2026 04:30:00 GMT",
+    "source": "El País",
+    "score": 1
+  },
+  {
+    "title": "España ante el 11-N: las incógnitas de una huelga general inédita",
+    "link": "https://www.lavanguardia.com/economia/20261108/11678819/espana-11-n-incognitas-huelga-general-inedita.html",
+    "summary": "El paro impulsado inicialmente por movimientos sociales llega a las puertas de las elecciones",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 1
   },
   {
-    "title": "La Fiscalía europea alerta de posibles fraudes en los contratos de Adif tras los accidentes de Adamuz y Urda",
-    "link": "https://www.lavanguardia.com/vida/20261107/11678322/fiscalia-europea-alerta-posibles-fraudes-contratos-adif-accidentes-adamuz-urda.html",
-    "summary": "El ministerio público abre dos causas junto a la UCO, requiere documentación, y&nbsp; no descarta imputaciones",
-    "published": "07 Nov 2026 06:00:00 +0100",
-    "source": "La Vanguardia",
-    "score": 1
-  },
-  {
-    "title": "Joe Rogan advierte de una guerra entre \"humanos y no humanos\" en cinco años: \"Ya no seremos el depredador alfa\"",
-    "link": "https://www.20minutos.es/internacional/joe-rogan-advierte-guerra-entre-humanos-cinco-anos-no-seremos-depredador-alfa_7058487_0.html",
-    "summary": "El 'podcaster' dice que \"la inteligencia no biológica va a ser la que controle todo\" y que \"tendrá el dominio absoluto sobre nosotros\".",
-    "published": "Sat, 07 Nov 2026 12:40:54 +0100",
+    "title": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver las gratificaciones que han cobrado",
+    "link": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
+    "summary": "El líder del PP promete, si llega a la Moncloa, revisar el transporte ferroviario \"palmo a palmo\" para que \"vuelva la seguridad\" y la gente pierda el miedo al tren.",
+    "published": "Sun, 08 Nov 2026 14:43:31 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Macron tiene un búnker secreto en París por si toman el Elíseo, según un libro: lo habilitó en 2018 por los 'chalecos amarillos'",
-    "link": "https://www.20minutos.es/internacional/macron-tiene-bunker-secreto-paris-por-si-toman-eliseo-libro-chalecos-amarillos_7058454_0.html",
-    "summary": "El servicio de seguridad del presidente de la República comenzó a elaborar planes de evacuación presidencial tras un ataque que sufrió Macron en una visita a Le Puy-en-Velay.",
-    "published": "Sat, 07 Nov 2026 10:58:36 +0100",
+    "title": "Qué sucede con tu sobre del voto desde que lo entregas hasta que se cuenta en el escrutinio",
+    "link": "https://www.20minutos.es/nacional/que-sucede-sobre-voto-desde-entregas-hasta-cuenta-escrutinio_7058673_0.html",
+    "summary": "Los españoles pueden solicitar el voto por correo hasta el próximo 19 de noviembre.",
+    "published": "Sun, 08 Nov 2026 14:08:15 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Ataque masivo de Rusia a Kiev contra instalaciones energéticas: misiles balísticos dañan un puente y centrales eléctricas",
-    "link": "https://www.20minutos.es/internacional/ataque-masivo-rusia-kiev-contra-instalaciones-energeticas-misiles-balisticos-danan-un-puente-centrales-electricas_7058448_0.html",
-    "summary": "El ataque ha dejado al menos cinco heridos y daños en infraestructuras que complican el suministro de agua y electricidad en la capital ucraniana.",
-    "published": "Sat, 07 Nov 2026 10:27:46 +0100",
+    "title": "Julio Martínez autoriza a Hacienda a revisar las cuentas de la empresa que pagó 390.000 euros a Zapatero",
+    "link": "https://www.20minutos.es/nacional/julio-martinez-autoriza-hacienda-revisar-las-cuentas-empresa-que-pago-390-000-euros-zapatero_7058669_0.html",
+    "summary": "A diferencia del expresidente Rodríguez Zapatero, el empresario firmó el consentimiento para que la Agencia Tributaria vea los movimientos bancarios de Análisis Relevante.",
+    "published": "Sun, 08 Nov 2026 13:04:55 +0100",
     "source": "20 Minutos",
     "score": 1
   },
   {
-    "title": "Sánchez pide una mayoría \"amplia y progresista\" ante el desmoronamiento de la ola ultraderechista",
-    "link": "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html",
-    "summary": "El líder del PSOE ha descrito su candidatura a las próximas elecciones generales como un muro de contención en defensa de los servicios públicos y los derechos individuales frente a la \"involución\" de esta ola ultraderechista en la que sitúa tanto a Vox como al Partido PopularSánchez reinicia la cam",
-    "published": "Sat, 07 Nov 2026 12:18:25 +0000",
+    "title": "Dos años de mentiras pagadas a precio de oro para tumbar un Gobierno",
+    "link": "https://www.eldiario.es/politica/anos-mentiras-pagadas-precio-oro-tumbar-gobierno_129_13645051.html",
+    "summary": "La excarcelación del empresario corrupto Víctor Aldama a cambio de \"tirar de la manta\" con numerosas acusaciones falsas disparó desde noviembre de 2024 más revelaciones mendaces contra el Ejecutivo de Pedro Sánchez Opinión - A Koldo le ofrecieron un Aldama, por Ignacio Escolar\n        La mentira par",
+    "published": "Sat, 07 Nov 2026 21:41:33 +0000",
+    "source": "elDiario",
+    "score": 1
+  },
+  {
+    "title": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
+    "link": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
+    "summary": "Entre ataques al presidente por \"frívolo\", el líder del PP ha insertado tímidas propuestas ya anunciadas como la promesa de construir un millón de viviendas, que revalorizará las pensiones \"cada año conforme al IPC\" o que su Gobierno \"jamás indultará a un político condenado por corrupción\"Feijóo cen",
+    "published": "Sun, 08 Nov 2026 12:40:38 +0000",
+    "source": "elDiario",
+    "score": 1
+  },
+  {
+    "title": "Los ataques de Ayuso contra quienes se manifiestan: de los profesores \"violentos\" a la \"poca sensibilidad\" de los bomberos",
+    "link": "https://www.eldiario.es/madrid/ataques-ayuso-manifiestan-profesores-violentos-sensibilidad-bomberos_1_13640466.html",
+    "summary": "La presidenta de la Comunidad de Madrid no duda en cargar contra diferentes colectivos por ejercer su derecho a la huelga: ha criticado a profesores, sanitarios, bomberos y personas que protestan por la vivienda, y ha tratado de relacionar sus luchas con vandalismo o violencia Ayuso ataca a CCOO y U",
+    "published": "Sat, 07 Nov 2026 21:41:34 +0000",
     "source": "elDiario",
     "score": 1
   },
@@ -280,74 +320,58 @@
     "score": 1
   },
   {
-    "title": "Alberto Durán, el todopoderoso abogado del PP en horas bajas señalado por Koldo",
-    "link": "https://www.eldiario.es/politica/alberto-duran-todopoderoso-abogado-pp-horas-bajas-senalado-koldo_1_13644732.html",
-    "summary": "Su pérdida de influencia dentro del partido se produjo el pasado verano y se hizo público unas semanas antes de que el exasesor de Ábalos le haya señalado como la persona que le ofreció dinero para declarar contra el GobiernoKoldo García afirma que el abogado del PP le ofreció un millón por mentir c",
-    "published": "Fri, 06 Nov 2026 21:22:06 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Feijóo centra en Puente su mitin en Valladolid: \"Han dado más abrazos al ministro dimitido que a las víctimas”",
-    "link": "https://www.eldiario.es/castilla-y-leon/politica/feijoo-dice-no-valladolid-dimision-puente-plaga-mitin-ataques-exministro_1_13646296.html",
-    "summary": "El candidato del PP a la presidencia asegura que \"las mujeres que levantan este país merecen que el Gobierno de las orgías se vaya” pero no detalla medidas destinadas a combatir el machismo o la desigualdad\n        Con un v&iacute;deo que incluye la reinterpretaci&oacute;n de una conocida mu&ntilde;",
-    "published": "Sat, 07 Nov 2026 13:06:37 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Rufián y Montero llaman a secundar la huelga \"para paralizar el país\" y defienden una izquierda no sometida al PSOE",
-    "link": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
-    "summary": "\"Hemos sido mucho más patriotas que esos patriotas de pandereta que van aquí con una pulserita, con la bandera de su país\", ha asegurado el cabeza de lista de ERCPodemos pone condiciones para investir a Sánchez: bajar alquileres y alimentos y prohibir la especulación con la vivienda\n\n        Los can",
-    "published": "Sat, 07 Nov 2026 12:41:24 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Educado se viene de casa. ¿Dónde están las familias?",
-    "link": "https://www.eldiario.es/sociedad/educado-viene-casa-familias_129_13645509.html",
-    "summary": "Lo que nos debemos cuestionar cuando vemos a esos menores que son expulsados de la escuela, que van sin rumbo por la ciudad o que salen furiosos a romper marquesinas es: \"¿Dónde podrían estar mañana estos chicos y chicas de haber sido más afortunados?\"Arde Europa: convocatoria abierta para adolescen",
-    "published": "Fri, 06 Nov 2026 21:22:11 +0000",
-    "source": "elDiario",
-    "score": 1
-  },
-  {
-    "title": "Tras la dimisión de Puente, Adif espera a su séptimo presidente en diez años",
-    "link": "https://www.infolibre.es/economia-y-sociedad/dimision-puente-adif-espera-septimo-presidente-diez-anos_1_2239613.html",
-    "summary": "Tras la dimisión a última hora del martes del ministro de Transportes, Óscar Puente, el presidente del Gobierno, Pedro Sánchez, encargó este miércoles por la mañana el despacho ordinario de los asuntos de ese ministerio al vicepresidente primero y ministro de Economía, Carlos Cuerpo. Y este mismo mi",
-    "published": "Sat, 07 Nov 2026 05:01:23 +0000",
+    "title": "Tribunales más eficientes y 500 nuevas plazas: los avances de un Gobierno asediado por los jueces",
+    "link": "https://www.infolibre.es/politica/tribunales-eficientes-500-nuevas-plazas-avances-gobierno-asediado-jueces_1_2239308.html",
+    "summary": "Uno de los principales focos de oposición al Gobierno de Pedro Sánchez en la legislatura que acaba de terminar han sido los jueces. No solo a nivel corporativo, oponiéndose a todas y cada una de las reformas planteadas desde el Ministerio de Presidencia y Justicia que dirige Félix Bolaños. También —",
+    "published": "Sun, 08 Nov 2026 05:00:48 +0000",
     "source": "InfoLibre",
     "score": 1
   },
   {
-    "title": "El interés por las fincas rústicas se dispara: así están los precios",
-    "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/11/07/interes-fincas-rusticas-dispara-asi-estan-precios.html",
-    "summary": "La tierra se encarece un 1,2% de media pero hay zonas y tipos de terreno con avances mucho más intensos. Las dos comunidades que registran mayores subidas son Canarias (5,9%) y Baleares (5,6%).",
-    "published": "Sat, 07 Nov 2026 01:01:21 +0100",
+    "title": "No todos son iguales",
+    "link": "https://www.infolibre.es/opinion/columnas/verso-libre/no-son-iguales_129_2239600.html",
+    "summary": "El desprestigio de la política y de las instituciones democráticas es una de las consecuencias más peligrosas que cultivan los estrategas de la crispación. Los insultos, las caricaturas, los mensajes agresivos pasan con facilidad de una persona a un grupo y del grupo hacia el significado general de ",
+    "published": "Sat, 07 Nov 2026 18:20:24 +0000",
+    "source": "InfoLibre",
+    "score": 1
+  },
+  {
+    "title": "Egipto descubre un yacimiento de gas en el Mediterráneo con 200.000 millones de pies cúbicos",
+    "link": "https://es.euronews.com/2026/11/08/egipto-descubre-nuevo-yacimiento-gas-natural-mediterraneo",
+    "summary": "El Ministerio de Petróleo atribuyó los resultados positivos al aumento de la inversión y de la actividad exploratoria, así como a la mejora del clima inversor y a los avances en el pago de las deudas pendientes con las empresas energéticas extranjeras.",
+    "published": "Sun, 08 Nov 2026 14:35:04 +0100",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "La Justicia de Paraguay ordena prisión preventiva para el expresidente Santiago Peña por el caso Ueno Bank",
+    "link": "https://es.euronews.com/2026/11/08/paraguay-prision-preventiva-santiago-pena-caso-ueno-bank",
+    "summary": "La Fiscalía acusa a Peña de presuntas irregularidades en la gestión de fondos públicos depositados en Ueno Bank. Su defensa niega las acusaciones, mientras la hidroeléctrica de Itaipú reclama más de 163 millones de dólares.",
+    "published": "Sun, 08 Nov 2026 11:50:54 +0100",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "Tiroteo en Cracovia: todo lo que sabemos sobre el atacante, las víctimas y los motivos del ataque",
+    "link": "https://es.euronews.com/2026/11/08/tiroteo-cracovia-todo-lo-que-sabemos-atacante-victimas-investigacion",
+    "summary": "Polonia guarda luto nacional tras uno de los tiroteos más mortíferos de los últimos años, que ha dejado seis muertos y 16 heridos en Cracovia. En la vivienda del atacante, de 24 años, la Policía encontró también los cadáveres de sus padres y su hermana.",
+    "published": "Sun, 08 Nov 2026 09:05:23 +0100",
+    "source": "Euronews ES",
+    "score": 1
+  },
+  {
+    "title": "Las demandas por despido tocan máximos",
+    "link": "https://www.expansion.com/economia/2026/11/08/demandas-despido-tocan-maximos.html",
+    "summary": "Las demandas por despido han alcanzado un máximo histórico, una evolución que los expertos relacionan, entre otros factores, con el récord de población asalariada y con una mayor estabilidad del empleo, con más contratos indefinidos que obligan al despido para su extinción.",
+    "published": "Sun, 08 Nov 2026 12:05:26 +0100",
     "source": "Expansión",
     "score": 1
   },
   {
-    "title": "La banca carga la subida del precio de las hipotecas en el tipo fijo",
-    "link": "https://www.expansion.com/ahorro/2026/11/07/banca-carga-subida-precio-hipotecas-tipo-fijo.html",
-    "summary": "Las entidades ajustan su estrategia en plena subida del euríbor.",
-    "published": "Sat, 07 Nov 2026 01:00:50 +0100",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "Pistoletazo de salida a la próxima carrera presidencial",
-    "link": "https://www.expansion.com/economia/financial-times/2026/11/07/pistoletazo-salida-proxima-carrera-presidencial.html",
-    "summary": "Mientras que los demócratas aún están celebrando los resultados de las elecciones de medio mandato, la clase política estadounidense ya tiene la mirada puesta en la próxima batalla electoral: la carrera por la Casa Blanca en 2028.",
-    "published": "Sat, 07 Nov 2026 00:59:43 +0100",
-    "source": "Expansión",
-    "score": 1
-  },
-  {
-    "title": "Bancos en la cartera: pistas para vigilar",
-    "link": "https://www.expansion.com/mercados/2026/11/07/bancos-cartera-pistas-vigilar.html",
-    "summary": "El mercado anticipa un frenazo de inflación y tipos.",
-    "published": "Sat, 07 Nov 2026 00:52:49 +0100",
+    "title": "El Tesoro volverá al mercado este martes con una nueva subasta de Letras a 3 y 9 meses",
+    "link": "https://www.expansion.com/mercados/2026/11/08/tesoro-volvera-mercado-martes-nueva-subasta-letras-3-9-meses.html",
+    "summary": "El Tesoro Público español volverá al mercado este martes con una subasta de Letras a tres y nueve meses, en un momento en el que las bolsas acusan las dudas sobre el futuro del sector de la inteligencia artificial (IA), pero en el que la rentabilidad de la deuda soberana registra caídas generalizada",
+    "published": "Sun, 08 Nov 2026 10:43:57 +0100",
     "source": "Expansión",
     "score": 1
   },
@@ -368,6 +392,14 @@
     "score": 1
   },
   {
+    "title": "Do I need to pay the estate agency if I buy a property in Spain?",
+    "link": "https://www.thelocal.es/20240927/do-i-need-to-pay-the-estate-agency-if-i-buy-a-property-in-spain",
+    "summary": "If you’re looking to buy a home in Spain then you’ll want to be aware of exactly how much extra you’ll have to pay in fees. There are many fees that are mandatory when you purchase a property, but is paying the realtor one of these?",
+    "published": "Fri, 27 Sep 2024 08:22:25 +0200",
+    "source": "The Local ES",
+    "score": 1
+  },
+  {
     "title": "Solved: Ten common doubts foreign pensioners in Spain have",
     "link": "https://www.thelocal.es/20261104/solved-ten-common-doubts-foreign-pensioners-in-spain-have",
     "summary": "From how your pension is taxed in Spain, to what inheritance laws apply and whether you qualify for public healthcare, here are some of the most common questions foreign pensioners have and the answers to their doubts.",
@@ -380,14 +412,6 @@
     "link": "https://www.thelocal.es/20261106/spain-should-withdraw-from-2030-world-cup-if-not-given-final-opposition-leader",
     "summary": "Spain should withdraw from hosting the 2030 World Cup alongside Portugal and Morocco if the country is not awarded the final, said the leader of the opposition Popular Party which is leading in opinion polls ahead of a snap election.",
     "published": "Fri, 06 Nov 2026 14:54:22 +0100",
-    "source": "The Local ES",
-    "score": 1
-  },
-  {
-    "title": "'Single-property owners yes, multiple no': Is there sympathy for Spain's landlords?",
-    "link": "https://www.thelocal.es/20261106/single-property-owners-yes-multiple-no-is-there-sympathy-for-spains-landlords",
-    "summary": "Property owners have borne the brunt of recent housing protests and measures introduced by the government to appease tenants. But are they really to blame for Spain's property crisis? Here are your views on the matter.",
-    "published": "Fri, 06 Nov 2026 10:02:13 +0100",
     "source": "The Local ES",
     "score": 1
   },
@@ -448,51 +472,27 @@
     "score": 1
   },
   {
-    "title": "CEAR y Accem atribuyen el repunte de llegadas de migrantes a España a las condiciones climáticas: \"Es una tendencia\"",
-    "link": "https://www.europapress.es/epsocial/migracion/noticia-cear-accem-atribuyen-repunte-llegadas-migrantes-espana-condiciones-climaticas-tendencia-20261107123251.html",
-    "summary": "&nbsp;&nbsp;&nbsp;La Comisión Española de Ayuda al Refugiado (CEAR) y Accem han atribuido el repunte de las llegadas de migrantes durante los últimos días a España, especialmente a Canarias, a las condiciones climáticas.",
-    "published": "Sat, 07 Nov 2026 11:32:51 GMT",
+    "title": "Cómo activar un dispositivo de alerta móvil ante accidentes como el de Urda",
+    "link": "https://www.europapress.es/sociedad/noticia-activar-dispositivo-alerta-movil-accidentes-urda-20261108114452.html",
+    "summary": "&nbsp;&nbsp;&nbsp;El secretario general del Colegio Oficial de Ingenieros de Telecomunicación, José Antonio Portilla, ha informado, a raíz del accidente ferroviario de Urda, sobre la utilidad de los sistemas de detección y alerta de situaciones de emergencia que integran algunos teléfonos y relojes ",
+    "published": "Sun, 08 Nov 2026 10:44:52 GMT",
     "source": "Europa Press Sociedad",
     "score": 1
   },
   {
-    "title": "La COP31 de Antalya (Turquía) arranca este lunes con el foco puesto en el  Acuerdo de París y la financiación climática",
-    "link": "https://www.europapress.es/sociedad/noticia-cop31-antalya-turquia-arranca-lunes-foco-puesto-acuerdo-paris-financiacion-climatica-20261107114447.html",
-    "summary": "&nbsp;&nbsp;&nbsp;España y la UE defenderán acelerar la transición, mientras los ecologistas exigirán más recursos públicos para países en desarrollo",
-    "published": "Sat, 07 Nov 2026 10:44:47 GMT",
+    "title": "Amnistía Internacional exige que el sector de los combustibles fósiles no condicione las negociaciones climáticas",
+    "link": "https://www.europapress.es/sociedad/noticia-amnistia-internacional-exige-sector-combustibles-fosiles-no-condicione-negociaciones-climaticas-20261108010049.html",
+    "summary": "&nbsp;&nbsp;&nbsp;Reclama ante la COP31 una eliminación justa y financiada de petróleo, carbón y gas y más subvenciones para los países de ingresos bajos",
+    "published": "Sun, 08 Nov 2026 00:00:49 GMT",
     "source": "Europa Press Sociedad",
     "score": 1
   },
   {
-    "title": "IA y acompañamiento personal ¿Claves en la orientación laboral de los jóvenes?",
-    "link": "https://www.europapress.es/epsocial/infancia/noticia-ia-acompanamiento-personal-claves-orientacion-laboral-jovenes-20261107113251.html",
-    "summary": "&nbsp;&nbsp;&nbsp;Ayuda en Acción está investigando una metología para integrar la Inteligencia Artificial (IA) en las sesiones de orientación laboral de los jóvenes con el fin de identificar oportunidades formativas y valorar cuáles se ajustan a sus circunstancias.",
-    "published": "Sat, 07 Nov 2026 10:32:51 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 1
-  },
-  {
-    "title": "Irene Montero advierte a Feijóo de que \"el machismo mata\": \"Hace falta un Ministerio de Igualdad\"",
-    "link": "https://www.europapress.es/epsocial/igualdad/noticia-irene-montero-advierte-feijoo-machismo-mata-hace-falta-ministerio-igualdad-20261106120312.html",
-    "summary": "La eurodiputada y candidata de Podemos a la presidencia del Gobierno en las elecciones generales del 29 de noviembre, Irene Montero, ha advertido al presidente del Partido Popular, Alberto Núñez Feijóo, de que \"el machismo mata\" y ha defendido que \"hace falta un Ministerio de Igualdad\", después de q",
-    "published": "Fri, 06 Nov 2026 11:03:12 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 1
-  },
-  {
-    "title": "Irene Montero acusa al Gobierno y señala a Robles por \"ejecutar\" en Ceuta \"una gravísima violación de derechos humanos\"",
-    "link": "https://www.europapress.es/epsocial/migracion/noticia-irene-montero-acusa-gobierno-senala-robles-ejecutar-ceuta-gravisima-violacion-derechos-humanos-20261106103927.html",
-    "summary": "La eurodiputada y candidata a la presidencia en las elecciones generales del próximo 29 de noviembre, Irene Montero, ha acusado al Gobierno de España y, en concreto, a la ministra de Defensa, Margarita Robles, de \"ejecutar\" en Ceuta \"una gravísima violación de derechos humanos\".",
-    "published": "Fri, 06 Nov 2026 09:39:27 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 1
-  },
-  {
-    "title": "La crisis en Ceuta mantiene a España entre los países bajo mayor presión y derecho a reubicar migrantes en la UE",
-    "link": "https://www.europapress.es/epsocial/migracion/noticia-crisis-ceuta-mantiene-espana-paises-mayor-presion-derecho-reubicar-migrantes-ue-20261106122756.html",
-    "summary": "La solidaridad \"flexible\" permite otras opciones a la carta para eludir la cuota de acogida a cambio de ayuda financiera al país bajo presión",
-    "published": "Fri, 06 Nov 2026 11:27:56 GMT",
-    "source": "Europa Press Sociedad",
+    "title": "Videojuegos para enseñar Historia: del entretenimiento al pensamiento crítico",
+    "link": "https://www.educaciontrespuntocero.com/opinion/videojuegos-en-la-ensenanza-de-historia/",
+    "summary": "Los videojuegos permiten recorrer escenarios históricos y acercarse al pasado de otra manera. Marc García, historiador y profesor de Historia del Bachillerato Internacional, explica cómo utilizarlos para analizar fuentes, detectar anacronismos.",
+    "published": "Sun, 08 Nov 2026 08:00:00 +0000",
+    "source": "Educación 3.0",
     "score": 1
   },
   {
@@ -500,22 +500,6 @@
     "link": "https://elpais.com/sociedad/2026-11-07/hice-una-parodia-y-me-amenazaron-de-muerte-asi-funcionan-los-ataques-coordinados-para-silenciar-a-las-mujeres-en-redes.html",
     "summary": "Políticas, cómicas y creadoras de contenido denuncian ataques diarios de hombres para vejarlas. Perfiles como los suyos —jóvenes de izquierdas— son la diana predilecta de la violencia digital",
     "published": "Sat, 07 Nov 2026 04:30:01 GMT",
-    "source": "El País Sociedad",
-    "score": 1
-  },
-  {
-    "title": "Bruselas exige cambios en el sistema de recomendaciones de TikTok para combatir la adicción",
-    "link": "https://elpais.com/tecnologia/2026-11-06/bruselas-alerta-sobre-el-diseno-adictivo-del-sistema-de-recomendaciones-de-tiktok.html",
-    "summary": "La Comisión Europea alerta sobre el diseño adictivo de la red social china a la que acusa de “incumplir” la ley europea sobre el contenido en plataformas digitales",
-    "published": "Fri, 06 Nov 2026 13:18:23 GMT",
-    "source": "El País Sociedad",
-    "score": 1
-  },
-  {
-    "title": "La Fiscalía pide 29 años de cárcel para un cura de Ourense por violar a sus sobrinas",
-    "link": "https://elpais.com/espana/galicia/2026-11-06/la-fiscalia-pide-29-anos-de-carcel-para-un-cura-de-ourense-por-violar-a-sus-sobrinas.html",
-    "summary": "El sacerdote supuestamente abusó de las niñas durante años desde la Comunión. El ministerio público señala a la diócesis como responsable civil subsidiaria",
-    "published": "Fri, 06 Nov 2026 11:06:06 GMT",
     "source": "El País Sociedad",
     "score": 1
   },
@@ -544,331 +528,363 @@
     "score": 1
   },
   {
-    "title": "Última hora de la actualidad política, en directo | Sánchez: “La mejor receta contra la involución se llama movilización”",
-    "link": "https://elpais.com/espana/2026-11-07/ultima-hora-de-la-actualidad-politica-en-directo.html",
-    "summary": "El presidente del Gobierno y candidato a la reelección del PSOE: “No vamos a permitir que España sea el patio trasero de la internacional ultraderechista” | Feijóo: “Están a punto de beatificar al señor Puente, esperaba un poco de respeto” | Rufián carga contra Frente Amplio: “Esto no iba de someter",
-    "published": "Sat, 07 Nov 2026 13:40:25 GMT",
+    "title": "Última hora de la actualidad política, en directo | Sánchez se compromete a blindar la revalorización de las pensiones conforme al IPC en la Constitución",
+    "link": "https://elpais.com/espana/2026-11-08/ultima-hora-de-la-actualidad-politica-en-directo.html",
+    "summary": "“Se lo vamos a exigir a todos los grupos parlamentarios”, ha dicho el presidente del Gobierno y candidato socialista a la reelección en un mitin en Bilbao | Feijóo: “Menos mirar a Trump y más mirar los trenes, que este país está colapsado” | Rufián: “La izquierda no puede robar”",
+    "published": "Sun, 08 Nov 2026 13:47:25 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
-    "link": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
-    "summary": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
+    "title": "“Nena, dime algo”: el último mensaje del marido de una víctima de Urda",
+    "link": "https://elpais.com/espana/2026-11-08/nena-dime-algo-el-ultimo-mensaje-del-marido-de-una-victima-de-urda.html",
+    "summary": "Javier Barrio relata en una carta la desesperación que vivió con sus hijos mientras esperaba noticias de su esposa",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
-    "link": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
-    "summary": "Un estudio advierte de la creación en Vietnam de una granja de cuentas de Internet para influir en la campaña electoral del 29-N",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
+    "title": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
+    "link": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
+    "summary": "El presidente de EE UU ha comenzado a dar pistas sobre sus próximos pasos con el nombramiento del radical Stephen Miller como nuevo jefe de Gabinete",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
-    "link": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html",
-    "summary": "Los partidos de extrema derecha de la UE pasan de jalear al presidente de Estados Unidos a separar su suerte en vísperas de un superaño electoral",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
+    "title": "Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral",
+    "link": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html",
+    "summary": "La elección del radical Stephen Miller como jefe de Gabinete indica que Trump no tolera una reflexión interna sobre el futuro del partido tras la derrota en las ‘midterms’",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
-    "link": "https://elpais.com/sociedad/2026-11-07/un-juez-indemniza-con-57-millones-a-los-padres-de-oliver-un-nino-que-se-quedo-tetraplejico-por-errores-en-el-parto.html",
-    "summary": "El testimonio de una enfermera ha sido clave para desvelar negligencias y el uso desmedido del instrumental en el Hospital de la Paz: “Fue el fórceps más agresivo que he visto en mi vida”",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
+    "title": "Los demócratas que huyen de lo ‘woke’",
+    "link": "https://elpais.com/ideas/2026-11-08/los-democratas-que-huyen-de-lo-woke.html",
+    "summary": "Una nueva (y exitosa) generación de candidatos pertenecientes a minorías han decidido dejar atrás los debates identitarios para centrarse en los problemas de los electores. Y ha funcionado",
+    "published": "Sun, 08 Nov 2026 04:30:00 GMT",
     "source": "El País",
     "score": 0
   },
   {
-    "title": "EL PAÍS alcanza los 500.000 suscriptores",
-    "link": "https://elpais.com/comunicacion/2026-11-05/el-pais-alcanza-los-500000-suscriptores-en-el-ano-de-su-50-aniversario.html",
-    "summary": "En el 50º aniversario del periódico, que afianza su liderazgo en España y su expansión en América, la apuesta por el periodismo recibe el apoyo de una comunidad global",
-    "published": "Thu, 05 Nov 2026 06:00:00 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Hablan los suscriptores de EL PAÍS: “Valoro tener acceso a información veraz, accesible y de calidad”",
-    "link": "https://elpais.com/videos/2026-11-07/hablan-los-suscriptores-de-el-pais-valoro-tener-acceso-a-informacion-veraz-accesible-y-de-calidad.html",
-    "summary": "Recibir información veraz y contrastada y confiar en “una herramienta importante para la defensa de la democracia”. Son algunas de las razones de la apuesta de los lectores por este periódico, que cuenta ya con 500.000 abonados",
-    "published": "Sat, 07 Nov 2026 04:30:00 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "Milo Quifes, revelación de ‘La bola negra’: “Estoy cansado de tener que salir del armario una y otra vez”",
-    "link": "https://elpais.com/icon/2026-11-07/milo-quifes-revelacion-de-la-bola-negra-estoy-cansado-de-tener-que-salir-del-armario-una-y-otra-vez.html",
-    "summary": "El actor era, hasta hace pocos meses, un chaval solitario y en plena crisis vital a quien ni ser ‘tiktoker’ de éxito ni escritor publicado había sacado de su burbuja. Hoy, es una de las nuevas estrellas del cine español. Y empieza a ser feliz",
-    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
-    "source": "El País",
-    "score": 0
-  },
-  {
-    "title": "La sombra rusa planea sobre las amenazas contra aviones y canales de televisión en Europa",
-    "link": "https://www.lavanguardia.com/internacional/20261107/11678310/sombra-rusa-planea-sobre-amenazas-aviones-canales-television-europa.html",
-    "summary": "Al menos 18 medios europeos, entre ellos el 'Financial Times', recibieron un correo electrónico en el que se advertía que “esto es solo el principio”",
-    "published": "07 Nov 2026 00:05:00 +0100",
+    "title": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+    "link": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html",
+    "summary": "El presidente del Gobierno y líder del PSOE quiere reeditar el milagro del 2023 y los resultados electorales de EE.UU. y Brasil le infunden optimismo",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "La OTAN crea un catálogo online de sistemas antidrones para neutralizar ataques rusos",
-    "link": "https://www.lavanguardia.com/internacional/20261107/11678311/otan-crea-catalogo-online-sistemas-antidrones-neutralizar-ataques-rusos.html",
-    "summary": "La Alianza acelera los procesos de compra ante la amenaza rusa en el flanco Este",
-    "published": "07 Nov 2026 06:00:00 +0100",
+    "title": "Sánchez advierte que si PP y Vox gobiernan se plegarán a Trump: “Estos tragan con todo”",
+    "link": "https://www.lavanguardia.com/politica/20261108/11679248/sanchez-advierte-pp-vox-gobiernan-plegaran-trump-tragan.html",
+    "summary": "“España es un país soberano y no va a ser el patio trasero de ninguna internacional ultraderechista”, asegura el presidente del Gobierno en un acto electoral en Bilbao",
+    "published": "08 Nov 2026 13:42:45 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Trump nombra al extremista Stephen Miller como nuevo jefe de Gabinete",
-    "link": "https://www.lavanguardia.com/internacional/20261106/11678324/trump-nombra-extremista-stephen-miller-nuevo-jefe-gabinete-primera-rotacion-midterms.html",
-    "summary": "El presidente degrada a Susie Wiles, que había ocupado el cargo desde su primer día en la Casa Blanca, e indica con este cambio que no pretende moderarse en el final de su mandato",
-    "published": "06 Nov 2026 20:08:24 +0100",
+    "title": "Feijóo pide en Málaga un “apoyo fuerte” para un “cambio claro y rotundo”",
+    "link": "https://www.lavanguardia.com/politica/20261108/11679252/feijoo-pide-malaga-apoyo-fuerte-cambio-claro-rotundo.html",
+    "summary": "El líder del PP promete no indultar a ningún político condenado por corrupción&nbsp;",
+    "published": "08 Nov 2026 13:54:54 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "León XIV: “Estoy orgulloso de ser estadounidense y de haber ejercido mi derecho al voto”",
-    "link": "https://www.lavanguardia.com/internacional/20261106/11677711/papa-llega-america-latina-votar-midterm-delicada-visita-argentina-milei.html",
-    "summary": "El Papa llega a América Latina tras votar en las midterm y con una delicada visita a la Argentina de Milei",
-    "published": "06 Nov 2026 10:12:05 +0100",
+    "title": "¿De qué van estas elecciones?",
+    "link": "https://www.lavanguardia.com/politica/20261108/11678809/que-elecciones.html",
+    "summary": "",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "El Papa sorprende y gana",
-    "link": "https://www.lavanguardia.com/opinion/20261107/11678391/papa-sorprende-gana.html",
-    "summary": "No es exagerado decir que la derrota de Trump es otro triunfo de León XIV",
-    "published": "07 Nov 2026 00:05:00 +0100",
+    "title": "Puigdemont reaparece en Prats de Molló, a 13 kilómetros de la frontera",
+    "link": "https://www.lavanguardia.com/politica/20261108/11679199/puigdemont-reaparece-prats-mollo.html",
+    "summary": "El expresident de la Generalitat acude por sorpresa a la inauguración oficial del proyecto de museización de la Casa Macià en esta localidad",
+    "published": "08 Nov 2026 11:38:27 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Si te he visto, no me acuerdo, Trump",
-    "link": "https://www.lavanguardia.com/internacional/20261107/11678334/te-he-visto-me-acuerdo-trump.html",
-    "summary": "El presidente se atrinchera y algunas formaciones de la extrema derecha europea toman distancias",
-    "published": "07 Nov 2026 06:00:00 +0100",
+    "title": "Las olas que vienen",
+    "link": "https://www.lavanguardia.com/politica/20261108/11678919/olas-vienen.html",
+    "summary": "",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Sánchez contrapone el “ejemplo de dignidad” de Puente con su dimisión a la actitud del PP y Vox",
-    "link": "https://www.lavanguardia.com/politica/20261106/11678341/sanchez-contrapone-ejemplo-dignidad-puente-dimision-actitud-pp-vox.html",
-    "summary": "El presidente reanuda su precampaña en València para contrastar la gestión de la dana de Mazón con la “responsabilidad política” del exministro de Transportes al renunciar tras los siniestros ferroviarios",
-    "published": "06 Nov 2026 21:02:55 +0100",
+    "title": "La internacional trumpista: de Paraguay a la Puerta del Sol",
+    "link": "https://www.lavanguardia.com/economia/20261108/11678842/internacional-trumpista-paraguay-puerta-sol.html",
+    "summary": "",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Feijóo: “Si han robado el dinero para la seguridad de los trenes, tendrán que salir del poder para entrar en la cárcel”",
-    "link": "https://www.lavanguardia.com/politica/20261107/11678745/feijoo-avisa-psoe-han-robado-dinero-seguridad-trenes-tendran-salir-entrar-carcel.html",
-    "summary": "El líder del PP asegura que se encargará de exigir responsabilidades al actual Gobierno socialista por la gestión de las infraestructuras ferroviarias tras los accidentes y los posibles casos de corrupción",
-    "published": "07 Nov 2026 13:32:39 +0100",
+    "title": "Cómo los partidos se infiltran en tu algoritmo",
+    "link": "https://www.lavanguardia.com/politica/20261108/11678632/como-partidos-infiltran-algoritmo.html",
+    "summary": "",
+    "published": "08 Nov 2026 06:00:00 +0100",
     "source": "La Vanguardia",
     "score": 0
   },
   {
-    "title": "Mueren dos paracaidistas tras chocar en el aire durante un salto: \"Ambos sufrieron heridas graves\"",
-    "link": "https://www.20minutos.es/internacional/mueren-paracaidistas-chocar-aire-durante-salto-heridas-graves_7058495_0.html",
-    "summary": "El incidente ocurrió al final del salto, a tan solo 45 metros de altura, cuando las víctimas colisionaron y sus paracaídas se enredaron.",
-    "published": "Sat, 07 Nov 2026 13:09:54 +0100",
+    "title": "La nueva realidad de las amenazas híbridas",
+    "link": "https://www.lavanguardia.com/internacional/20261108/11678821/nueva-realidad-amenazas-hibridas.html",
+    "summary": "Falsas alertas de bomba en aviones y ciberataques a supermercados se suman a los drones en una era de inseguridad cotidiana en Europa",
+    "published": "08 Nov 2026 06:00:00 +0100",
+    "source": "La Vanguardia",
+    "score": 0
+  },
+  {
+    "title": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
+    "link": "https://www.20minutos.es/nacional/irene-montero-acusa-gobierno-un-aumento-premeditado-violencia-policial-contra-las-movilizaciones_7058674_0.html",
+    "summary": "La líder de Podemos defiende que la propuesta de Podemos y ERC para el 29N es \"plurinacional, republicana, antifascista\".",
+    "published": "Sun, 08 Nov 2026 13:53:40 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "El Servicio Secreto de EEUU frustra un intento de asesinato contra Trump: un venezolano, detenido armado frente a la Casa Blanca",
-    "link": "https://www.20minutos.es/internacional/servicio-secreto-eeuu-frustra-intento-asesinato-trump-venezolano-detenido-armado-frente-casa-blanca_7058477_0.html",
-    "summary": "Había robado un coche en cuyo interior se hallaron un rifle tipo AR-15 y dos pistolas, junto a numerosa munición.",
-    "published": "Sat, 07 Nov 2026 12:09:27 +0100",
+    "title": "Hallan tres cadáveres en el interior de una casa en EEUU: el aviso lo dio un cartero que encontró un misterioso cartel en la puerta",
+    "link": "https://www.20minutos.es/internacional/hallan-cadaveres-interior-casa-eeuu-aviso-cartero-encontro-misterioso-cartel-puerta_7058670_0.html",
+    "summary": "El letrero mostraba el teléfono de la policía, 9-1-1, la palabra \"dentro\" y el dibujo de dos caras con 'x' en los ojos; se desconoce quién lo elaboró.",
+    "published": "Sun, 08 Nov 2026 13:38:34 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Así fueron los últimos 30 segundos para los 9 pasajeros del avión estrellado en Florida: \"No creo que se desmayaran\"",
-    "link": "https://www.20minutos.es/internacional/asi-fueron-ultimos-segundos-pasajeros-avion-estrello-florida_7058462_0.html",
-    "summary": "Entre los pasajeros estaba el empresario tecnológico Adam Robinson, junto a su esposa y sus hijos de cuatro y dos años de edad.",
-    "published": "Sat, 07 Nov 2026 11:39:30 +0100",
+    "title": "Logran abrir un candado del siglo XVI tras descifrar su clave usando un TAC: \"Cuando tienes un código, lo quieres descifrar\"",
+    "link": "https://www.20minutos.es/internacional/logran-abrir-candado-siglo-xvi-descifrar-clave-usando-tac_7058665_0.html",
+    "summary": "El candado protegía un cofre en un barco procedente de España que naufragó frente a las costas de Gales en el año 1583.",
+    "published": "Sun, 08 Nov 2026 13:11:32 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Stephen Miller promete \"lealtad absoluta\" a Trump tras ser nombrado jefe de gabinete de la Casa Blanca",
-    "link": "https://www.20minutos.es/internacional/stephen-miller-promete-lealtad-absoluta-trump-tras-ser-nombrado-jefe-gabinete-casa-blanca_7058468_0.html",
-    "summary": "El nuevo jefe de Gabinete, uno de los principales ideólogos del movimiento MAGA, ha defendido el liderazgo del presidente estadounidense en su primera intervención tras sustituir a Susie Wiles.",
-    "published": "Sat, 07 Nov 2026 11:19:24 +0100",
+    "title": "El Tribunal de Cuentas certifica la escasa coordinación entre Gobierno y comunidades por los fondos europeos",
+    "link": "https://www.20minutos.es/nacional/tribunal-cuentas-certifica-escasa-coordinacion-entre-gobierno-comunidades-por-los-fondos-europeos_7058661_0.html",
+    "summary": "Un reciente informe de fiscalización recoge que en cinco años, las conferencias sectoriales solo se reunieron en cuatro ocasiones y no se adoptó \"ninguna decisión\" para implementar el Plan de Recuperación.",
+    "published": "Sun, 08 Nov 2026 12:46:18 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Un juez tumba una demanda al BBVA por una tarjeta \"revolving\" al ser un \"copia y pega\"",
-    "link": "https://www.20minutos.es/nacional/un-juez-tumba-una-demanda-bbva-por-una-tarjeta-revolving-ser-un-copia-pega_7058457_0.html",
-    "summary": "Las \"revolving\" son una modalidad de tarjetas cuyo límite de crédito disminuye según se realizan pagos y se reponen con abonos.",
-    "published": "Sat, 07 Nov 2026 10:56:14 +0100",
+    "title": "De Baninter a Ueno Bank: las quiebras bancarias que han sacudido a América Latina",
+    "link": "https://www.20minutos.es/internacional/baninter-ueno-bank-las-quiebras-bancarias-que-han-sacudido-america-latina_7058564_0.html",
+    "summary": "La quiebra de Ueno Bank ha causado la destitución y detención del presidente de Paraguay.",
+    "published": "Sun, 08 Nov 2026 12:44:49 +0100",
     "source": "20 Minutos",
     "score": 0
   },
   {
-    "title": "Sánchez reinicia la campaña con la \"ejemplaridad\" de Puente como antítesis de la política de PP y Vox",
-    "link": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
-    "summary": "La estrategia electoral muta por la tragedia ferroviaria y el PSOE intenta buscar en la salida del ministro una épica que aplaque el derrotismo y movilice a los votantes de izquierdas desencantadosLa dimisión de Puente vuelve a cambiar el paso de la campaña\n\n        Si las campa&ntilde;as electorale",
-    "published": "Fri, 06 Nov 2026 21:22:05 +0000",
+    "title": "Miriam González, presidenta de Democracia 21: \"La IA debe ser un factor de productividad en sectores donde España sea puntera\"",
+    "link": "https://www.20minutos.es/nacional/miriam-gonzalez-presidenta-democracia-21-ia-debe-ser-un-factor-productividad-sectores-donde-espana-sea-puntera_7058652_0.html",
+    "summary": "La también abogada ha planteado además una reforma exprés de la Constitución para eliminar los aforamientos.",
+    "published": "Sun, 08 Nov 2026 12:11:46 +0100",
+    "source": "20 Minutos",
+    "score": 0
+  },
+  {
+    "title": "Salvador Illa: “Es una bajeza moral que Feijóo utilice a las 69 víctimas de Urda para que no se convoque la huelga general”",
+    "link": "https://www.eldiario.es/catalunya/salvador-illa-bajeza-moral-feijoo-utilice-69-victimas-urda-no-convoque-huelga-general_128_13643854.html",
+    "summary": "El president de la Generalitat se muestra convencido de que el PSOE no solo ganará sino que podrá gobernar gracias a una movilización como la que logró Lula en Brasil o ahora los demócratas en Estados Unidos'La carrera del 29N': un nuevo boletín temporal para entender la campaña electoral de un vist",
+    "published": "Sat, 07 Nov 2026 21:41:34 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "Pinchazo del ultra Vito Quiles en Ceuta: más policía que asistentes y un paripé de ‘huida’ en lancha privada con una litrona en la mano",
-    "link": "https://www.eldiario.es/desalambre/pinchazo-ultra-vito-quiles-ceuta-policia-asistentes-paripe-huida-lancha-privada-litrona-mano_1_13645948.html",
-    "summary": "El acto solo duró unos 15 minutos ante la falta de asistencia. Un fuerte despliegue policial impidió el acceso a la plaza a personas que racializadas y musulmanas o a quienes tenían una estética \"de izquierdas\"Amnistía Internacional documenta nuevas agresiones de militares a migrantes en Ceuta y apu",
-    "published": "Sat, 07 Nov 2026 07:19:18 +0000",
+    "title": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
+    "link": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
+    "summary": "Se compromete en Bilbao a blindar en la Constitución la revalorización de las pensiones y el derecho al aborto, y critica a Feijóo por decir que formar una coalición con Vox no dependería de él: \"No insulte a la inteligencia de la gente\"Sánchez pide una mayoría “amplia y progresista” ante el desmoro",
+    "published": "Sun, 08 Nov 2026 12:59:45 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "El caso de las joyas de Zapatero se debilita después de que el juez corrija a la Fiscalía y descarte la malversación",
-    "link": "https://www.eldiario.es/politica/caso-joyas-zapatero-debilita-despues-juez-corrija-fiscalia-descarte-malversacion_1_13645613.html",
-    "summary": "La investigación debe acreditar que las joyas se tallaron después de mayo de 2021 para que el delito fiscal no haya prescrito, mientras que la acusación por contrabando reside en la mera sospecha de que el expresidente pudo recibir las joyas en el extranjero e introducirlas sin declararEl juez Calam",
-    "published": "Fri, 06 Nov 2026 21:22:06 +0000",
+    "title": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
+    "link": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+    "summary": "El candidato de ERC ha cambiado la compañía de Irene Montero por la de Oriol Junqueras en su acto en Badalona, que ha centrado en lanzar dardos tanto a Junts como al partido socialistaRufián y Montero llaman a secundar la huelga “para paralizar el país” y defienden una izquierda no sometida al PSOE\n",
+    "published": "Sun, 08 Nov 2026 13:17:07 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "La investigación del accidente de Urda recomienda tres medidas provisionales para reforzar la seguridad ferroviaria",
-    "link": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-urda-reclama-tres-medidas-provisionales-reforzar-seguridad-ferroviaria_1_13646339.html",
-    "summary": "La Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes Ferroviarios, Marítimos y de Aviación Civil (AITAT) emite una recomendación previa ante \"riesgos que es necesario gestionar\" y \"sin esperar a la publicación del informe final\" sobre el siniestroCastill",
-    "published": "Sat, 07 Nov 2026 12:09:19 +0000",
+    "title": "La campaña vuelve a comenzar pero no empieza de cero",
+    "link": "https://www.eldiario.es/blog/politica-para-supervivientes/campana-vuelve-comenzar-no-empieza-cero_132_13645180.html",
+    "summary": "'Política para supervivientes' es una carta semanal de Iñigo Sáenz de Ugarte exclusiva para socios y socias de elDiario.es con historias sobre política nacional. Si tú también lo quieres leer y recibir cada domingo en tu buzón, hazte socio, hazte socia de elDiario.es\n        &Oacute;scar Puente pill",
+    "published": "Sun, 08 Nov 2026 07:13:20 +0000",
     "source": "elDiario",
     "score": 0
   },
   {
-    "title": "De la ofensiva antimemoria al fiscal general: lo que colea en un Constitucional que PP y Vox buscan derechizar",
-    "link": "https://www.infolibre.es/politica/ofensiva-antimemoria-fiscal-general-colea-constitucional-pp-vox-buscan-derechizar_1_2239153.html",
-    "summary": "Derecha y ultraderecha sellaron hace unos días su pacto electoral para el Senado. El acuerdo, por el cual PP y Vox rechazan hacerse competencia en nueve provincias, busca maximizar las posibilidades del bloque conservador de obtener escaños tras la alianza alcanzada en la izquierda. El objetivo es h",
-    "published": "Sat, 07 Nov 2026 05:01:22 +0000",
+    "title": "El presidente de Israel encarga formar gobierno al opositor Eisenkot tras recibir el apoyo de los partidos árabes",
+    "link": "https://www.eldiario.es/internacional/presidente-israel-pide-eisenkot-formar-gobierno-recibir-apoyo-partidos-arabes_1_13647220.html",
+    "summary": "La decisión del presidente israelí llega después de que 67 diputados apoyasen la candidatura de Eisenkot, incluidos los pertenecientes a los partidos árabes, en la ronda de consultas que ha mantenido el jefe de Estado con los portavoces de los partidos tras el resultado electoral del 27 de octubre\nP",
+    "published": "Sat, 07 Nov 2026 19:49:15 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "El racismo contra los ciudadanos palestinos de Israel amenaza la formación de un nuevo gobierno",
+    "link": "https://www.eldiario.es/internacional/racismo-ciudadanos-palestinos-israel-amenaza-formacion-nuevo-gobierno_1_13645658.html",
+    "summary": "Los partidos judíos unidos para acabar con el dominio político de Benjamín Netanyahu rechazan o ponen condiciones a un pacto con las dos listas integradas mayoritariamente por ciudadanos palestinos de Israel, una minoría históricamente discriminada que representa el 20% de la población Los partidos ",
+    "published": "Fri, 06 Nov 2026 21:22:09 +0000",
+    "source": "elDiario",
+    "score": 0
+  },
+  {
+    "title": "29N, la campaña que cambia de guion cada semana",
+    "link": "https://www.infolibre.es/politica/29n-campana-electoral-cambia-guion-semana_1_2239674.html",
+    "summary": "Se suele decir que en política una semana es una eternidad. Y tanto. Ha pasado poco más de un mes desde que Pedro Sánchez anunciara el adelanto electoral y, desde entonces, la precampaña acumula tantos giros de guion que a los partidos apenas les ha dado tiempo a asimilar uno cuando tienen que hacer",
+    "published": "Sat, 07 Nov 2026 18:20:23 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Las ideas de PP y Vox en lo laboral: cuestionar las bajas o presionar a los sindicatos para parar la huelga",
-    "link": "https://www.infolibre.es/economia-y-sociedad/empleo/ideas-pp-vox-laboral-cuestionar-bajas-presionar-sindicatos-parar-huelga_1_2239546.html",
-    "summary": "En lo relativo al mercado laboral, las discrepancias entre el Gobierno y los principales partidos de la oposición, PP y Vox, se suelen escenificar en cuestiones como la subida del SMI, la gestión del absentismo o la carga fiscal sobre los salarios. La última polémica ha involucrado a los sindicatos ",
-    "published": "Fri, 06 Nov 2026 19:21:44 +0000",
+    "title": "El algoritmo gana peso en las primeras generales con la publicidad política vetada en las redes",
+    "link": "https://www.infolibre.es/politica/algoritmo-gana-peso-primeras-generales-publicidad-politica-vetada-redes_1_2239656.html",
+    "summary": "En las semanas previas a las elecciones generales de 2023, las páginas del PSOE, el PP y Sumar pagaron a Meta —la tecnológica estadounidense dueña de Instagram, Facebook y WhatsApp, entre otras plataformas— entre 665.000 y 975.000 euros en anuncios de redes sociales, según los datos de la biblioteca",
+    "published": "Sat, 07 Nov 2026 18:20:23 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Àgueda Micó: \"Gobernar con el PSOE es gobernar con el freno de mano puesto\"",
-    "link": "https://www.infolibre.es/politica/agueda-mico-gobernar-psoe-gobernar-freno-mano-puesto_128_2239621.html",
-    "summary": "Àgueda Micó (Compromís) afronta las elecciones generales del 29 de noviembre con el objetivo de convertir la unidad de la izquierda valenciana en una alternativa al PP y Vox y conseguir un grupo parlamentario propio en el Congreso. En esta entrevista con infoLibre, la cabeza de lista de Compromís-Fr",
-    "published": "Sat, 07 Nov 2026 05:01:22 +0000",
+    "title": "Héctor de Miguel: “A Feijóo y Abascal hay que darles el micrófono lo más posible esta campaña; que se retraten\"",
+    "link": "https://www.infolibre.es/como-lo-ve/hector-miguel-feijoo-abascal-hay-darles-microfono-posible-campana-retraten_1_2239631.html",
+    "summary": "Después de años haciendo de la irreverencia su seña de identidad, Héctor de Miguel, Quequé, cambia el micrófono por las cámaras para llevar su humor sin demasiados filtros a La Séptima. El cómico salmantino, curtido en los escenarios, la televisión y la radio, donde convirtió La vida moderna en un f",
+    "published": "Sat, 07 Nov 2026 18:20:24 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El chófer del Peugeot devuelve la alegría a una derecha necesitada de un cambio de guion",
-    "link": "https://www.infolibre.es/medios/chofer-peugeot-devuelve-alegria-derecha-necesitada-cambio-guion_1_2239636.html",
-    "summary": "La dimisión de Óscar Puente había dejado a la derecha mediática sin el blanco de sus columnas, pero el desconsuelo duró poco. El jueves, la UCO volvió a registrar la casa de José Luis Ábalos, visitó la sede de Adif en busca de información y detuvo a seis personas en una nueva pieza del caso Koldo. E",
-    "published": "Fri, 06 Nov 2026 19:22:00 +0000",
+    "title": "El juez mantiene abierta la pieza principal del 'caso Villarejo' mientras se decide si se imputa a Cospedal",
+    "link": "https://www.infolibre.es/politica/juez-mantiene-abierta-pieza-principal-caso-villarejo-decide-si-imputa-cospedal_1_2239505.html",
+    "summary": "La pieza principal de la llamada operación Tándem, en la que se investigan los turbios negocios del comisario jubilado José Manuel Villarejo, continuará abierta. Al menos, por ahora. El titular del Juzgado Central de Instrucción nº4 de la Audiencia Nacional, Antonio Piña, ha decidido alargar seis me",
+    "published": "Sun, 08 Nov 2026 05:00:48 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Sánchez acude este lunes al programa de Javier Ruiz en La Séptima",
-    "link": "https://www.infolibre.es/politica/sanchez-acude-lunes-programa-javier-ruiz-septima_1_2239681.html",
-    "summary": "El presidente del Gobierno y candidato del PSOE a la reelección será entrevistado este lunes a las nueve de la noche en el programa ‘La Última Hora’ en La Séptima.Así lo ha confirmado oficialmente la nueva cadena televisiva, que inició sus emisiones el pasado jueves. Pedro Sánchez responderá a las p",
-    "published": "Sat, 07 Nov 2026 11:20:00 +0000",
+    "title": "Los gobiernos de ultraderecha agrandan la desunión de América Latina y allanan el camino a Trump",
+    "link": "https://www.infolibre.es/internacional/gobiernos-ultraderecha-agrandan-desunion-america-latina-allanan-camino-trump_1_2239642.html",
+    "summary": "La XXX Cumbre Iberoamericana celebrada esta semana en Madrid ha dejado dos cosas claras: América Latina sigue lejos de construir un proyecto común y las cumbres que deberían impulsar esa unidad han perdido buena parte de su relevancia. La cita, con la que el Gobierno de Pedro Sánchez pretendía revit",
+    "published": "Sun, 08 Nov 2026 05:00:49 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "Una amenaza invisible pone a prueba los servicios esenciales de Europa",
-    "link": "https://www.infolibre.es/economia-y-sociedad/amenaza-invisible-pone-prueba-servicios-esenciales-europa_1_2239627.html",
-    "summary": "No hace falta robar información confidencial para generar el caos. En las últimas semanas, los ciberataques contra los sistemas de refrigeración de varios supermercados han provocado pérdidas millonarias por el deterioro de alimentos. También se ha frustrado un intento de manipular la temperatura de",
-    "published": "Fri, 06 Nov 2026 19:21:28 +0000",
+    "title": "Descendientes de esclavistas y la Iglesia aprietan a Carlos III para que asuma el pasado colonial británico",
+    "link": "https://www.infolibre.es/internacional/descendientes-esclavistas-iglesia-aprietan-carlos-iii-asuma-pasado-colonial-britanico_1_2239606.html",
+    "summary": "El rey Carlos III ha finalizado una gira por el Caribe con la cumbre bienal de los 56 países de la Commonwealth (en irónica traducción: riqueza común). Un viaje eclipsado por el qué y el cómo exactamente iba a responder a las peticiones de las excolonias para disculparse por el esclavismo que sufrie",
+    "published": "Sun, 08 Nov 2026 05:00:49 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El aumento de las temperaturas afecta al embarazo, especialmente durante las olas de calor",
-    "link": "https://www.infolibre.es/medioambiente/aumento-temperaturas-afecta-embarazo-especialmente-durante-olas-calor_1_2239573.html",
-    "summary": "Ginecólogos de todo el mundo están preocupados por cómo el cambio climático afecta al embarazo. El incremento de las temperaturas y la multiplicación de los días sofocantes complican la delicada salud de la madre y del bebé, y la Organización Mundial de la Salud (OMS) ha comenzado a vigilar de cerca",
-    "published": "Sat, 07 Nov 2026 05:01:23 +0000",
+    "title": "La ética de la resistencia de Jorge Semprún",
+    "link": "https://www.infolibre.es/tintalibre/etica-resistencia-jorge-semprun_1_2239386.html",
+    "summary": "Vivimos tiempos sombríos que recuerdan demasiado a los pasados. Por la fuerza de los hechos y en contra de nuestros deseos o ilusiones, venimos dándonos cuenta de que nada de lo adquirido en el pasado reciente está garantizado para siempre. Una oleada reaccionaria barre el continente europeo de este",
+    "published": "Sun, 08 Nov 2026 05:00:49 +0000",
     "source": "InfoLibre",
     "score": 0
   },
   {
-    "title": "El estilo de la enfermedad",
-    "link": "https://www.infolibre.es/tintalibre/estilo-enfermedad_1_2239384.html",
-    "summary": "Hasta no hace mucho, estar enfermo se llevaba resignadamente y con discreción. Pero las cosas han cambiado un poco porque las distintas reivindicaciones colectivas y el tráfico de las redes sociales han transformado el victimismo en un hábito de vida. Así que la enfermedad se vive ahora como una dis",
-    "published": "Sat, 07 Nov 2026 05:01:23 +0000",
-    "source": "InfoLibre",
-    "score": 0
-  },
-  {
-    "title": "Hallan el cuerpo de un bebé en un congelador en Ourense: podría llevar muerto más de 20 años",
-    "link": "https://es.euronews.com/2026/11/07/hallan-cuerpo-bebe-congelador-allariz-ourense-investigacion",
-    "summary": "El cuerpo del recién nacido fue descubierto en un arcón congelador de un trastero en Allariz (Ourense) y podría llevar allí más de 20 años, según informa 'La Región'.",
-    "published": "Sat, 07 Nov 2026 14:06:07 +0100",
+    "title": "EE.UU. ataca un buque mercante en el golfo de Omán por eludir el bloqueo a Irán",
+    "link": "https://es.euronews.com/2026/11/08/estados-unidos-ataca-buque-mercante-golfo-oman-bloqueo-iran",
+    "summary": "La agencia británica de seguridad marítima UKMTO informó el sábado por la noche de un incidente entre un buque de carga y fuerzas militares en el golfo de Omán.",
+    "published": "Sun, 08 Nov 2026 13:03:58 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Italia, bajo la amenaza de los hackers prorrusos: atacan a Tajani y a la empresa del túnel del Brennero",
-    "link": "https://es.euronews.com/2026/11/07/italia-tajani-hackers-datos-personales-dark-web-ciberataque",
-    "summary": "El ministro italiano de Exteriores, Antonio Tajani, denuncia que sus datos personales han sido difundidos en la 'dark web' y que los hackers buscan información sobre su familia.",
-    "published": "Sat, 07 Nov 2026 13:38:34 +0100",
+    "title": "Gadi Eisenkot recibe el encargo de formar Gobierno en Israel tras las elecciones",
+    "link": "https://es.euronews.com/2026/11/08/gadi-eisenkot-encargo-formar-gobierno-israel-netanyahu",
+    "summary": "En Israel, el candidato designado para formar Gobierno dispone de 28 días, prorrogables otros 14. Si no logra reunir los apoyos necesarios, el presidente puede encargar la tarea a otro dirigente.",
+    "published": "Sun, 08 Nov 2026 11:03:59 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "El VIH se extiende por Rusia: 27 regiones sufren una epidemia generalizada",
-    "link": "https://es.euronews.com/2026/11/07/epidemia-vih-rusia-27-regiones-propagacion-virus",
-    "summary": "La epidemia de VIH se ha generalizado en 27 regiones de Rusia, donde el virus se propaga más allá de los grupos de riesgo, según Rospotrebnadzor.",
-    "published": "Sat, 07 Nov 2026 12:58:23 +0100",
+    "title": "Muere un militar del Ejército de Tierra en un accidente durante un ejercicio de instrucción en Zaragoza",
+    "link": "https://es.euronews.com/2026/11/08/muere-militar-ejercito-tierra-accidente-instruccion-zaragoza",
+    "summary": "El soldado, destinado en la Brigada 'Guzmán el Bueno' X, falleció durante una actividad de instrucción en el Centro de Adiestramiento de San Gregorio. El Ejército de Tierra ha trasladado sus condolencias a la familia y a sus compañeros.",
+    "published": "Sun, 08 Nov 2026 10:04:58 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "EE.UU. lanza nuevos ataques selectivos contra Irán mientras Trump asegura que avanza en las negociaciones",
-    "link": "https://es.euronews.com/2026/11/07/eeuu-lanza-nuevos-ataques-selectivos-en-iran-mientras-trump-dice-avanzar-en-las-negociacio",
-    "summary": "Las Fuerzas Armadas estadounidenses han lanzado nuevos ataques aéreos contra las defensas iraníes, que Trump califica de \"menores\". Mientras tanto, continúan las negociaciones diplomáticas.",
-    "published": "Sat, 07 Nov 2026 12:37:05 +0100",
+    "title": "León XIV anima a los jóvenes a casarse y formar una familia durante su visita a Uruguay",
+    "link": "https://es.euronews.com/2026/11/08/papa-leon-xiv-anima-jovenes-casarse-formar-familia-uruguay",
+    "summary": "El pontífice reunió a unas 100.000 personas en una vigilia en Montevideo y pidió a los fieles que mantengan viva la fe en el país más laico de América Latina.",
+    "published": "Sun, 08 Nov 2026 09:48:37 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Estados Unidos ofrece hasta 20 millones de dólares por información sobre el programa nuclear de Irán",
-    "link": "https://es.euronews.com/2026/11/07/estados-unidos-ofrece-20-millones-dolares-informacion-programa-nuclear-iran",
-    "summary": "Washington justifica la recompensa de hasta 20 millones de dólares por la falta de información sobre las actividades nucleares de Irán. Estados Unidos busca datos sobre instalaciones, equipos y científicos vinculados al programa nuclear iraní.",
-    "published": "Sat, 07 Nov 2026 12:29:50 +0100",
+    "title": "Trump ofrece al jefe de la UFC ser portavoz de la Casa Blanca: \"¡Dana, por favor, acepta el puesto!\"",
+    "link": "https://es.euronews.com/2026/11/08/trump-ofrece-jefe-ufc-portavoz-casa-blanca-luchador-violento",
+    "summary": "Trump y White han forjado una relación estrecha a lo largo de los años; Trump asiste con frecuencia a eventos de la UFC y White ha hablado en varios mítines del presidente.",
+    "published": "Sun, 08 Nov 2026 09:19:45 +0100",
     "source": "Euronews ES",
     "score": 0
   },
   {
-    "title": "Detenido en Barcelona un yihadista reincidente que incumplió las medidas de vigilancia",
-    "link": "https://es.euronews.com/2026/11/07/detenido-barcelona-yihadista-terrorista-daesh-libertad-vigilada",
-    "summary": "El arrestado, simpatizante de Daesh, había sido condenado por enaltecimiento y adoctrinamiento terrorista y quedó en libertad vigilada en 2021.",
-    "published": "Sat, 07 Nov 2026 12:13:35 +0100",
-    "source": "Euronews ES",
+    "title": "Pedro Sánchez insiste en blindar pensiones y subir el SMI y pide votar \"en masa\" para \"llegar mucho más lejos\"",
+    "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/08/pedro-sanchez-insiste-blindar-pensiones-subir-smi-pide-votar-masa-llegar-lejos.html",
+    "summary": "El secretario general del PSOE y presidente del Gobierno, Pedro Sánchez, se ha comprometido a subir todos los años el SMI, y a blindar en la Constitución la revalorización de las pensiones, y ha pedido el voto \"en masa\" el próximo 29 de noviembre a un Gobierno progresista para \"llegar mucho más lejo",
+    "published": "Sun, 08 Nov 2026 14:08:55 +0100",
+    "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Detenido un ciudadano venezolano con 3 armas cerca de la Casa Blanca por amenazar de muerte a Trump",
-    "link": "https://es.euronews.com/2026/11/07/detenido-washington-venezolano-armado-queria-matar-trump",
-    "summary": "El detenido, un ciudadano venezolano que llevaba tres armas de fuego en su vehículo cerca de la Casa Blanca, está acusado de varios delitos, entre ellos posesión de armas peligrosas y robo. Según el Departamento de Seguridad Nacional (DHS), permanece bajo custodia.",
-    "published": "Sat, 07 Nov 2026 10:58:29 +0100",
-    "source": "Euronews ES",
+    "title": "Zapatero no dará explicaciones a Hacienda sobre sus joyas hasta que concluya el 'caso Plus Ultra'",
+    "link": "https://www.expansion.com/economia/politica/2026/11/08/zapatero-dara-explicaciones-hacienda-sobre-joyas-concluya-caso-plus-ultra.html",
+    "summary": "Hacienda ha pedido al expresidente José Luis Rodríguez Zapatero que aclare si eran suyas las joyas valoradas en más de un millón de euros que la Policía encontró en su despacho y, en ese caso, que explique cuándo y por cuánto las adquirió, una información que el exmandatario se ha negado a aportar a",
+    "published": "Sun, 08 Nov 2026 13:34:48 +0100",
+    "source": "Expansión",
     "score": 0
   },
   {
-    "title": "Así pueden eludir los controles europeos los antiguos soldados de Putin: el problema de Schengen",
-    "link": "https://es.euronews.com/2026/11/07/como-entran-europa-antiguos-soldados-putin-controles-schengen",
-    "summary": "Ucrania ha entregado a la UE los nombres de más de medio millón de soldados rusos, pero menos del 1% figura en la base de datos de seguridad de Schengen. Bruselas busca ahora cómo superar los obstáculos legales para impedir su entrada en Europa.",
-    "published": "Sat, 07 Nov 2026 10:50:43 +0100",
-    "source": "Euronews ES",
+    "title": "Polonia investiga como un delito de terrorismo el tiroteo en Cracovia que causó 6 muertos",
+    "link": "https://www.expansion.com/sociedad/2026/11/08/polonia-investiga-delito-terrorismo-tiroteo-cracovia-causo-6-muertos.html",
+    "summary": "La Fiscalía Nacional de Polonia abrió este domingo una investigación por \"un delito de carácter terrorista\" tras el tiroteo indiscriminado cometido la víspera en la plaza del Mercado de Cracovia por un atacante polaco que se encuentra detenido y herido grave y que mató a seis personas.",
+    "published": "Sun, 08 Nov 2026 12:59:00 +0100",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "Las empresas del Ibex 35 que más sufren los 'ataques' de los bajistas",
+    "link": "https://www.expansion.com/mercados/2026/11/08/empresas-ibex-35-sufren-ataques-bajistas.html",
+    "summary": "Solaria y Enagás son las compañías del Ibex 35 que más sufren los 'ataques' bajistas por parte de los 'hedge funds', por delante de otros 14 valores que también cuentan con posiciones cortas en su contra.",
+    "published": "Sun, 08 Nov 2026 12:33:56 +0100",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "La Bolsa española abre este lunes 9 de noviembre, festividad de La Almudena en Madrid",
+    "link": "https://www.expansion.com/mercados/2026/11/08/bolsa-espanola-abre-lunes-9-noviembre-festividad-almudena-madrid.html",
+    "summary": "La Bolsa española abrirá sus puertas mañana, lunes, 9 de noviembre, día festivo en la ciudad de Madrid por la celebración de la patrona de la capital, Nuestra Señora de la Almudena.",
+    "published": "Sun, 08 Nov 2026 11:49:55 +0100",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "Iberdrola renovará 1.300 kilómetros de líneas eléctricas de transporte en Nueva York",
+    "link": "https://www.expansion.com/empresas/energia/2026/11/08/iberdrola-renovara-1-300-kilometros-lineas-electricas-transporte-nueva-york.html",
+    "summary": "Iberdrola, a través de su filial estadounidense Avangrid, renovará más de 230 líneas de transporte de electricidad que suman 1.300 kilómetros en el Estado de Nueva York (Estados Unidos).",
+    "published": "Sun, 08 Nov 2026 11:25:16 +0100",
+    "source": "Expansión",
+    "score": 0
+  },
+  {
+    "title": "ACS niega con \"toda rotundidad\" una opa sobre Hochtief y descarta la venta de Turner",
+    "link": "https://www.expansion.com/empresas/construccion-servicios/2026/11/08/acs-niega-toda-rotundidad-opa-sobre-hochtief-descarta-venta-turner.html",
+    "summary": "ACS celebrará este 12 de noviembre su segundo 'Capital Markets Day', un evento que sigue al celebrado en 2024 y en el que su consejero delegado, Juan Santamaría, presentará la visión estratégica de futuro de la compañía.",
+    "published": "Sun, 08 Nov 2026 11:03:28 +0100",
+    "source": "Expansión",
     "score": 0
   },
   {
@@ -876,47 +892,7 @@
     "link": "https://www.expansion.com/catalunya/2026/11/07/alicia-romero-empresas-eligen-invertir-talento-fiscalidad.html",
     "summary": "“Las compañías acabarán volviendo, se fueron por una situación política que ahora no está”, señala la también dirigente del PSC.",
     "published": "Sat, 07 Nov 2026 12:41:17 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Valores con potencial alcista tras la tormenta en Bolsa",
-    "link": "https://www.expansion.com/mercados/bolsa/2026/11/07/valores-potencial-alcista-tormenta-bolsa.html",
-    "summary": "La volatilidad se ha disparado en las bolsas mundiales después de las elecciones de medio mandato en Estados Unidos.",
-    "published": "Sat, 07 Nov 2026 01:00:25 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Los nuevos dueños de Burger King pactan una ventana para salir a Bolsa en cuatro años",
-    "link": "https://www.expansion.com/empresas/distribucion/2026/11/07/nuevos-duenos-burger-king-pactan-ventana-salir-bolsa-cuatro-anos.html",
-    "summary": "Gregorio Jiménez y las familias Galán y Costa&nbsp;forman un núcleo duro con un 51% del capital.&nbsp;Point Break, RAM y Peninsula entrarán como minoritarios.",
-    "published": "Sat, 07 Nov 2026 01:00:01 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Cruceros que atracan en los mejores mercadillos de Navidad",
-    "link": "https://www.expansion.com/estilo-vida/viajes/2026/11/07/cruceros-atracan-mejores-mercadillos-navidad.html",
-    "summary": "Riverside Luxury Cruises, AmaWaterways y VIVA Cruises proponen recorridos por el Rin, el Danubio o el Moldava.",
-    "published": "Sat, 07 Nov 2026 00:54:14 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "Los fondos más rentables para invertir en tecnología",
-    "link": "https://www.expansion.com/mercados/fondos/2026/11/07/fondos-rentables-invertir-tecnologia.html",
-    "summary": "Las dudas sobre las valoraciones de las grandes tecnológicas y la IA agitan el mercado, pero los mejores fondos resisten con rentabilidades cercanas al 20% en diez años.",
-    "published": "Sat, 07 Nov 2026 00:53:13 +0100",
-    "source": "Expansión",
-    "score": 0
-  },
-  {
-    "title": "La victoria de los demócratas en las 'midterms' desata temblores en la fiebre de la IA",
-    "link": "https://www.expansion.com/elecciones/elecciones-estados-unidos/2026/11/07/victoria-democratas-midterms-desata-temblores-fiebre-ia.html",
-    "summary": "El resultado de las elecciones provoca fuertes caídas de las tecnológicas en los mercados ante la expectativa de que los nuevos gobernadores limiten los centros de datos.",
-    "published": "Sat, 07 Nov 2026 00:52:32 +0100",
-    "source": "Expansión",
+    "source": "Expansión Economía",
     "score": 0
   },
   {
@@ -924,6 +900,14 @@
     "link": "https://www.expansion.com/opinion/2026/11/07/dudas-ia-giro-eeuu.html",
     "summary": "Las promesas en campaña de los demócratas contra los centros de datos inquietan al mercado.&nbsp;Un marco regulatorio menos proclive nubla las expectativas a corto de los gigantes tecnológicos.",
     "published": "Sat, 07 Nov 2026 11:30:51 +0100",
+    "source": "Expansión Economía",
+    "score": 0
+  },
+  {
+    "title": "La victoria de los demócratas en las 'midterms' desata temblores en la fiebre de la IA",
+    "link": "https://www.expansion.com/elecciones/elecciones-estados-unidos/2026/11/07/victoria-democratas-midterms-desata-temblores-fiebre-ia.html",
+    "summary": "El resultado de las elecciones provoca fuertes caídas de las tecnológicas en los mercados ante la expectativa de que los nuevos gobernadores limiten los centros de datos.",
+    "published": "Sat, 07 Nov 2026 00:52:32 +0100",
     "source": "Expansión Economía",
     "score": 0
   },
@@ -968,6 +952,14 @@
     "score": 0
   },
   {
+    "title": "Spain’s train drivers call more strike days following crash",
+    "link": "https://www.thelocal.es/20261102/spains-train-drivers-call-more-strike-days-following-crash",
+    "summary": "Train drivers in Spain have called for two new stoppage days this month, following the recent Urda rail collision.",
+    "published": "Mon, 02 Nov 2026 11:16:59 +0100",
+    "source": "The Local ES",
+    "score": 0
+  },
+  {
     "title": "What the US midterm results mean for Americans in Spain",
     "link": "https://www.thelocal.es/20261105/what-the-us-midterm-results-mean-for-americans-in-spain",
     "summary": "The Democrats’ landslide win in the US midterms marks a historic shift in political power midway through Trump's second term. The Local spoke to several political analysts about how this ‘blue wave’ affects US-Spain relations and Americans in Spain.",
@@ -996,14 +988,6 @@
     "link": "https://www.thelocal.es/20261106/what-rights-do-workers-in-spain-have-ahead-of-the-general-strike",
     "summary": "With a nationwide strike called for November 11th, you may be wondering what would happen if you decided to take part and not work that day. Will you have money deducted from your salary or could you even be sacked? These are your rights as a worker in Spain.",
     "published": "Fri, 06 Nov 2026 10:37:14 +0100",
-    "source": "The Local ES",
-    "score": 0
-  },
-  {
-    "title": "How Trump could influence Spain's snap election",
-    "link": "https://www.thelocal.es/20261106/how-trump-could-influence-spains-snap-election",
-    "summary": "From boosting the far-right and posting fake news to mobilising progressive Spanish voters, Donald Trump and the MAGA ecosystem will most likely play a direct and indirect role in the Spanish general election on November 29th.",
-    "published": "Fri, 06 Nov 2026 09:23:32 +0100",
     "source": "The Local ES",
     "score": 0
   },
@@ -1040,6 +1024,46 @@
     "score": 0
   },
   {
+    "title": "Rescatan dos cayucos con 186 migrantes en aguas próximas a El Hierro",
+    "link": "https://www.europapress.es/islas-canarias/noticia-rescatan-dos-cayucos-186-migrantes-aguas-proximas-hierro-20261108133114.html",
+    "summary": "Salvamento Marítimo ha rescatado dos cayucos con 186 migrantes a bordo en aguas próximas a la isla de El Hierro este domingo, según ha informado el ente institucional.",
+    "published": "Sun, 08 Nov 2026 12:31:14 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
+    "title": "La Fiscalía solicita que diez de los detenidos en la operación contra Núcleo Nacional no puedan salir de España",
+    "link": "https://www.europapress.es/asturias/noticia-fiscalia-solicita-diez-detenidos-operacion-contra-nucleo-nacional-no-puedan-salir-espana-20261108131919.html",
+    "summary": "&nbsp;&nbsp;&nbsp;La Fiscalía de Área de Gijón ha solicitado al Tribunal de Instancia de Gijón la retirada del pasaporte, la prohibición de salir del territorio nacional y la obligación de comparecer en el juzgado todos los viernes, para diez de las personas detenidas en la operación policial relaci",
+    "published": "Sun, 08 Nov 2026 12:19:19 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
+    "title": "#AtenciónALasFamilias, la iniciativa de Plena inclusión para dar respuesta a la soledad de familias cuidadoras",
+    "link": "https://www.europapress.es/epsocial/igualdad/noticia-atencionalasfamilias-iniciativa-plena-inclusion-dar-respuesta-soledad-familias-cuidadoras-20261108113247.html",
+    "summary": "&nbsp;&nbsp;&nbsp;Plena inclusión ha alertado de la soledad no deseada que sufren muchas familias de personas con discapacidad intelectual y del desarrollo y ha reivindicado el \"apoyo mutuo\" para paliar este tipo de situaciones.",
+    "published": "Sun, 08 Nov 2026 10:32:47 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
+    "title": "La borrasca Bruna dejará lluvias muy fuertes en Canarias y precipitaciones intensas en el oeste peninsular este domingo",
+    "link": "https://www.europapress.es/sociedad/noticia-borrasca-bruna-dejara-lluvias-muy-fuertes-canarias-precipitaciones-intensas-oeste-peninsular-domingo-20261107163049.html",
+    "summary": "La borrasca Bruna, situada al oeste de la Península, marcará el tiempo en España este domingo, con una jornada caracterizada por la inestabilidad, las lluvias intensas y también fuertes rachas de viento.",
+    "published": "Sat, 07 Nov 2026 15:30:49 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
+    "title": "El Papa pide en su primera misa en Uruguay \"ser puentes\" y transmitir la fe a los jóvenes \"con valentía creativa\"",
+    "link": "https://www.europapress.es/sociedad/noticia-papa-pide-primera-misa-uruguay-ser-puentes-transmitir-fe-jovenes-valentia-creativa-20261107170750.html",
+    "summary": "El Papa León XIV ha exhortado este sábado a los fieles uruguayos a \"ser puentes, para que muchos se encuentren con Jesús\", a formar \"una comunidad fraterna\" y \"de oración\" y a transmitir la fe a las futuras generaciones \"con valentía creativa\", durante la primera misa de su viaje apostólico a Améric",
+    "published": "Sat, 07 Nov 2026 16:07:50 GMT",
+    "source": "Europa Press Sociedad",
+    "score": 0
+  },
+  {
     "title": "Sindicato de Inquilinas y la AV Retiro Norte organizan este sábado un homenaje a Maricarmen al mes de su fallecimiento",
     "link": "https://www.europapress.es/sociedad/noticia-sindicato-inquilinas-av-retiro-norte-organizan-sabado-homenaje-maricarmen-mes-fallecimiento-20261107080846.html",
     "summary": "Sindicato de Inquilinas, la Asociación Vecinal Retiro Norte y la la Federación Regional de Asociaciones de Vecinos de Madrid organizan este sábado un homenaje a Maricarmen Abascal al cumplirse un mes de su fallecimiento, ha informado la FRAVM en un comunicado.",
@@ -1048,19 +1072,11 @@
     "score": 0
   },
   {
-    "title": "Irene Montero carga contra Ayuso por no negociar con docentes en huelga y contra el Gobierno por \"pegarles palos\"",
-    "link": "https://www.europapress.es/sociedad/noticia-irene-montero-carga-contra-ayuso-no-negociar-docentes-huelga-contra-gobierno-pegarles-palos-20261106101324.html",
-    "summary": "La eurodiputada y candidata de Podemos a las elecciones generales del 29 de noviembre, Irene Montero, ha arremetido contra la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, por no sentarse a negociar con los profesores en huelga, y contra el Gobierno por \"pegarles palos, meterles en el cal",
-    "published": "Fri, 06 Nov 2026 09:13:24 GMT",
-    "source": "Europa Press Sociedad",
-    "score": 0
-  },
-  {
-    "title": "El Cabildo de El Hierro declara la emergencia migratoria ante la llegada de 8.000 personas en cinco semanas",
-    "link": "https://www.europapress.es/islas-canarias/noticia-cabildo-hierro-declara-emergencia-migratoria-llegada-8000-personas-cinco-semanas-20261106174211.html",
-    "summary": "El Cabildo de El Hierro ha declarado este viernes la emergencia social y la necesidad de colaboración con las instituciones superiores para la gestión de la actual crisis migratoria en la isla, con la llegada de más de 8.000 personas en las últimas cinco semanas.",
-    "published": "Fri, 06 Nov 2026 16:42:11 GMT",
-    "source": "Europa Press Sociedad",
+    "title": "Di adiós a la fatiga muscular y las molestias en las muñecas con los mejores ratones verticales",
+    "link": "https://www.educaciontrespuntocero.com/tecnologia/mejores-ratones-verticales/",
+    "summary": "Colocan la mano en una posición más natural, similar a la de un apretón de manos, reduciendo la tensión en la muñeca y el antebrazo durante un uso prolongado del ordenador.",
+    "published": "Sun, 08 Nov 2026 11:00:00 +0000",
+    "source": "Educación 3.0",
     "score": 0
   },
   {
@@ -1088,19 +1104,27 @@
     "score": 0
   },
   {
-    "title": "Los mejores libros de Murakami para adentrarse en un universo literario que convierte lo cotidiano en extraordinario",
-    "link": "https://www.educaciontrespuntocero.com/libros/mejores-libros-de-murakami/",
-    "summary": "Con un marcado estilo personal en el que se dan la mano situaciones del día a día con sucesos casi oníricos, el escritor japonés más leído del mundo cuenta con una amplia trayectoria literaria.",
-    "published": "Mon, 02 Nov 2026 08:00:00 +0000",
-    "source": "Educación 3.0",
+    "title": "Obesidad sin filtros: el negocio de decirte que estás enfermo",
+    "link": "https://elpais.com/salud-y-bienestar/2026-11-08/obesidad-sin-filtros-el-negocio-de-decirte-que-estas-enfermo.html",
+    "summary": "Los fármacos adelgazantes no pueden anunciarse. Sin embargo, la calle e internet están llenos de ellos",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
+    "source": "El País Sociedad",
     "score": 0
   },
   {
-    "title": "5 agendas digitales para organizar las tareas y planificar el día a día",
-    "link": "https://www.educaciontrespuntocero.com/tecnologia/agendas-digitales/",
-    "summary": "Las agendas digitales combinan la planificación tradicional con funciones como la sincronización de calendarios, las notas y la reutilización de páginas para organizar tareas, reuniones y proyectos.",
-    "published": "Sun, 01 Nov 2026 11:00:00 +0000",
-    "source": "Educación 3.0",
+    "title": "Las mujeres pierden terreno en la empresa y la política tras décadas de progreso",
+    "link": "https://elpais.com/sociedad/2026-11-08/las-mujeres-pierden-terreno-en-la-empresa-y-la-politica-tras-decadas-de-progreso.html",
+    "summary": "La presencia femenina en puestos de liderazgo ha retrocedido en el mundo en paralelo a la ola reaccionaria de los últimos años. El deterioro de las políticas de igualdad ha dado alas a los viejos patrones sexistas",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
+    "source": "El País Sociedad",
+    "score": 0
+  },
+  {
+    "title": "El reto de la maternidad en personas con discapacidad intelectual: “Yo tenía claro que quería ser madre, aunque fuera de uno”",
+    "link": "https://elpais.com/sociedad/2026-11-08/el-reto-de-la-maternidad-en-personas-con-discapacidad-intelectual-yo-tenia-claro-que-queria-ser-madre-aunque-fuera-de-uno.html",
+    "summary": "La esterilización forzosa de estas mujeres quedó prohibida en España en 2020. Judit Seculi Horta y Salvador Ribas Payà crían a su hijo Aleix, de 5 años, con el acompañamiento de profesionales",
+    "published": "Sun, 08 Nov 2026 04:30:01 GMT",
+    "source": "El País Sociedad",
     "score": 0
   },
   {
@@ -1112,10 +1136,10 @@
     "score": 0
   },
   {
-    "title": "Más allá del colesterol y el tabaco: la violencia también pesa en la salud cardíaca de las mujeres",
-    "link": "https://elpais.com/sociedad/2026-11-06/mas-alla-del-colesterol-y-el-tabaco-la-violencia-tambien-pesa-en-la-salud-cardiaca-de-las-mujeres.html",
-    "summary": "Una de cada tres mujeres ingresadas en Cardiología en el Hospital 12 de Octubre de Madrid había sufrido malos tratos a lo largo de su vida",
-    "published": "Fri, 06 Nov 2026 04:30:01 GMT",
+    "title": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
+    "link": "https://elpais.com/sociedad/2026-11-07/un-juez-indemniza-con-57-millones-a-los-padres-de-oliver-un-nino-que-se-quedo-tetraplejico-por-errores-en-el-parto.html",
+    "summary": "El testimonio de una enfermera ha sido clave para desvelar negligencias y el uso desmedido del instrumental en el Hospital de la Paz: “Fue el fórceps más agresivo que he visto en mi vida”",
+    "published": "Sat, 07 Nov 2026 04:30:01 GMT",
     "source": "El País Sociedad",
     "score": 0
   },

@@ -1,39 +1,6 @@
 [
   {
-    "title": "西班牙经济新动态",
-    "original_title": "El crudo apuesta por el fin de la guerra en Irán",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/opinion/2026/11/11/crudo-apuesta-guerra-iran.html",
-      "summary": "Las consecuencias para la economía del conflicto tardarán más tiempo en disiparse."
-    },
-    "category": "伊朗局势",
-    "date": "2026-11-11"
-  },
-  {
     "title": "西班牙学校新动态",
-    "original_title": "Evacuados unos 300 colegios Italia tras recibir avisos de bomba",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/sociedad/2026/11/11/evacuados-300-colegios-italia-recibir-avisos-bomba.html",
-      "summary": "Las autoridades de Italia han evacuado este miércoles unas decenas de escuelas de todo el país tras un correo electrónico anónimo masivo que ha avisado de una amenaza de bomba en unos 300 centros educ"
-    },
-    "category": "签证",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙学生新动态",
-    "original_title": "La UNED supera los 156.500 estudiantes y cierra el periodo de matrícula con un incremento del 4,45%",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-uned-supera-156500-estudiantes-cierra-periodo-matricula-incremento-445-20261105150141.html",
-      "summary": "La UNED ha cerrado el periodo ordinario de matrícula del curso 2026-2027 con 156.571 estudiantes, un 4,45% más que el curso anterior, lo que supone un incremento de 6.676 estudiantes."
-    },
-    "category": "留学",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙学校新动态 (1)",
     "original_title": "La mejor escuela debería ser la que acoge a los estudiantes más desfavorecidos y transforma sus vidas",
     "source": {
       "name": "El País Sociedad",
@@ -41,43 +8,98 @@
       "summary": "Deberíamos preguntarnos por qué, año tras año, aparecen casi los mismos centros educativos en los ‘rankings’ escolares"
     },
     "category": "留学",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "Los expertos desconocen si las renovables ayudan a controlar la tensión de la red, como se prometió",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/expertos-desconocen-si-renovables-ayudan-controlar-tension-red-prometio_1_2239753.html",
+      "summary": "Un mes después del apagón de abril de 2025, la Comisión Nacional de los Mercados y de la Competencia (CNMC) modificó el procedimiento de operación 7.4 de Red Eléctrica (REE) para que las plantas de ge"
+    },
+    "category": "政策",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙移民新规",
+    "original_title": "España roza los 50 millones de habitantes hasta octubre en un nuevo máximo histórico por regularización extraordinaria de inmigrantes",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/12/espana-roza-50-millones-habitantes-octubre-nuevo-maximo-historico-regularizacion-extraordinaria-inmigrantes.html",
+      "summary": "España sumó 130.223 habitantes más en el tercer trimestre de 2026 hasta un total de 49.935.642 habitantes hasta el 1 de octubre de 2026 por la llegada de inmigrantes, lo que rompe de nuevo el máximo h"
+    },
+    "category": "移民",
+    "date": "2026-11-12"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "\"La primera huelga general en 14 años\": la prensa internacional destaca el paro en España por el precio de la vivienda",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/rastreador/primera-huelga-general-14-anos-prensa-internacional-destaca-paro-espana-precio-vivienda_132_13655520.html",
-      "summary": "\"Las imágenes de vídeo muestran enfrentamientos con la policía en los que algunos agentes utilizaron porras y spray de pimienta\", cuenta el Financial Times, uno de los numerosos medios internacionales"
-    },
-    "category": "租房",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙居留新动态",
-    "original_title": "Huelga general: los primeros datos anticipan un seguimiento importante pero asimétrico y dispar, según los sindicatos",
+    "original_title": "Cataluña lidera el seguimiento en una huelga con cargas policiales, detenidos y altercados",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/11/huelga-general-sindicatos-preven-seguimiento-importante-asimetrico-denuncian-cargas-policiales.html",
-      "summary": "Arranca la huelga general por la vivienda y los salarios, la primera bajo la presidencia de Pedro Sánchez para la que los sindicatos prevén un seguimiento \"importante\" pero desigual y ponen el foco en"
+      "url": "https://www.expansion.com/economia/2026/11/11/cataluna-lidera-seguimiento-huelga-cargas-policiales-detenidos-altercados.html",
+      "summary": "Las movilizaciones por la vivienda en Madrid y Barcelona concluyeron con altercados. Fue el colofón de un día marcado por afectaciones en la red viaria y el transporte público."
     },
-    "category": "居留",
-    "date": "2026-11-11"
+    "category": "租房",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙移民新动态",
+    "original_title": "Immigration pushes Spain's population towards 50 million threshold",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20261112/immigration-pushes-spains-population-towards-50-million-threshold",
+      "summary": "This comes as both immigration and housing are politicised topics on Spain's general election campaign."
+    },
+    "category": "移民",
+    "date": "2026-11-12"
   },
   {
     "title": "西班牙政策下降",
-    "original_title": "El absentismo se desborda y costará 17.500 millones a las empresas en 2026",
+    "original_title": "Patronal de centros concertados y privados cifra el seguimiento de la huelga en un 2,9% en los colegios españoles",
     "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/11/absentismo-desborda-costara-17-500-millones-empresas-2026.html",
-      "summary": "El coste agregado para empleadores y Seguridad Social de las prestaciones por bajas laborales ascenderá a 36.150 millones este año. Cada día se ausentan 1,6 millones de trabajadores de su puesto, 1,2 "
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-patronal-centros-concertados-privados-cifra-seguimiento-huelga-29-colegios-espanoles-20261111183822.html",
+      "summary": "La Confederación Española de Centros de Enseñanza (CECE), organización empresarial que reúne a miles de centros privados y concertados de toda España, ha cifrado el seguimiento de la huelga general de"
     },
     "category": "政策",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙大学新动态",
+    "original_title": "Protestas de alumnos, cierre de Facultades y piquetes, marcan la jornada de huelga en las universidades españolas",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-protestas-alumnos-cierre-facultades-piquetes-marcan-jornada-huelga-universidades-espanolas-20261111172424.html",
+      "summary": "La huelga general convocada este miércoles 11 de noviembre por los sindicatos Comisiones Obreras y UGT para protestar por la situación de la vivienda, ha afectado también a las universidades españolas"
+    },
+    "category": "留学",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙移民增加",
+    "original_title": "La población en España llega ya a los 49,9 millones, con 130.223 personas más en el tercer trimestre por la migración",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/epsocial/migracion/noticia-poblacion-espana-llega-ya-499-millones-130223-personas-mas-tercer-trimestre-migracion-20261112112349.html",
+      "summary": "La población de España se sitúa en 49.935.642 habitantes a 1 de octubre de 2026, el valor máximo de la serie histórica, al aumentar en 130.223 personas durante el tercer trimestre de 2026, según datos"
+    },
+    "category": "移民",
+    "date": "2026-11-12"
   },
   {
     "title": "西班牙教育新动态",
+    "original_title": "Descubre la agenda completa de SIMO EDUCACIÓN 2026 del jueves 12 de noviembre",
+    "source": {
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/noticias/agenda-simo-educacion-jueves-12/",
+      "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del segundo día de feria."
+    },
+    "category": "教育",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙教育新动态 (1)",
     "original_title": "¡Hoy empieza SIMO EDUCACIÓN 2026! Descubre la agenda completa del miércoles 11 de noviembre",
     "source": {
       "name": "Educación 3.0",
@@ -85,10 +107,10 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta qué actividades te esperan el primer día."
     },
     "category": "教育",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
-    "title": "西班牙教育新动态 (1)",
+    "title": "西班牙教育新动态 (2)",
     "original_title": "SIMO EDUCACIÓN 2026 vuelve a convertirse en el encuentro imprescindible de la innovación educativa",
     "source": {
       "name": "Educación 3.0",
@@ -96,7 +118,7 @@
       "summary": "El Salón reunirá a partir de mañana 60 empresas en su área expositiva y desplegará una amplia agenda congresual en espacios como SIMO EDUCACIÓN DIRECTORES, SIMO EDUCACIÓN TALKS o el I Congreso Interna"
     },
     "category": "教育",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
     "title": "西班牙签证改革",
@@ -107,61 +129,39 @@
       "summary": "Promete eliminar \"de inmediato\" un impuesto eléctrico que el Gobierno acordó suprimir de aquí a 2028 y revisará \"los ritmos\" de la lucha contra el cambio climático sin \"imponer obligaciones\" que \"perj"
     },
     "category": "签证",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
     "title": "西班牙住房改革",
-    "original_title": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
+    "original_title": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
     "source": {
       "name": "El País",
-      "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
-      "summary": "Frente Amplio y Podemos reivindican cambios en vivienda, salarios y los servicios públicos"
+      "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
+      "summary": "La Diputación Permanente salva la principal norma del Gobierno y mantiene en vigor una amplia batería de cambios para inquilinos, propietarios y empresas"
     },
     "category": "租房",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Huelga general 11 de noviembre | Última hora sobre las cargas policiales en Madrid y la manifestación en Barcelona y resto de ciudades",
+    "title": "西班牙工作新动态",
+    "original_title": "1.000 euros por visitar la Navidad de Madrid, Vigo u Oporto... La oferta de trabajo a la que muchos querrán apuntarse",
     "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html",
-      "summary": "Miles de manifestantes cortan la Gran Vía de Madrid para reclamar vivienda digna durante la huelga general"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/empleo/1-000-euros-por-visitar-navidad-madrid-vigo-oporto-oferta-trabajo-que-muchos-querran-apuntarse_7059805_0.html",
+      "summary": "Infojobs ofrece un trabajo para recorrer Madrid, Vigo y Oporto evaluando la experiencia navideña por 1.000 euros y gastos pagados."
+    },
+    "category": "工作",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "Aagesen defiende en el Congreso que su nueva planificación de la red eléctrica dará suministro a \"tres millones de viviendas\"",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/aagesen-defiende-congreso-que-su-nueva-planificacion-red-electrica-dara-suministro-tres-millones-viviendas_7060242_0.html",
+      "summary": "Comparece en la Diputación Permanente para informar de la nueva Planificación de la red de transporte de electricidad hasta 2030 que el Gobierno aprobará a las puertas del 29-N y el PP le replica: \"Us"
     },
     "category": "租房",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙签证推出",
-    "original_title": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
-      "summary": "Tellado avisa que el paro “en nada beneficia” a la “crisis de representatividad” de los sindicatos"
-    },
-    "category": "签证",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "El desajuste entre salarios, vivienda y coste de la vida desborda las nóminas y refuerza la huelga general",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia-y-sociedad/empleo/desajuste-salarios-vivienda-coste-vida-desborda-nominas-refuerza-huelga-general_1_2239732.html",
-      "summary": "La mecha que inició el camino a la huelga general de este 11 de noviembre fue la vivienda, no como un problema aislado, sino como detonante de un mal más amplio: las dificultades para estirar un salar"
-    },
-    "category": "租房",
-    "date": "2026-11-11"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Lo ocurrido con Abascal en ‘La Revuelta’ erosiona la función de servicio público de RTVE en plena campaña",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/ocurrido-abascal-revuelta-erosiona-funcion-servicio-publico-rtve-plena-campana_1_2239749.html",
-      "summary": "La ley obliga a la televisión pública a garantizar pluralismo, igualdad y neutralidad durante el periodo electoral. Pero este lunes, a veinte días de las elecciones generales del 29 de noviembre, RTVE"
-    },
-    "category": "政策",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   }
 ]

@@ -1,47 +1,47 @@
 [
   {
-    "title": "西班牙学校新动态",
-    "original_title": "La mejor escuela debería ser la que acoge a los estudiantes más desfavorecidos y transforma sus vidas",
+    "title": "西班牙通胀下降",
+    "original_title": "El descuento de 20 céntimos en gasolina y diésel se mantendrá en vigor hasta final de año",
     "source": {
-      "name": "El País Sociedad",
-      "url": "https://elpais.com/educacion/2026-11-06/la-mejor-escuela-deberia-ser-la-que-acoge-a-los-estudiantes-mas-desfavorecidos-y-transforma-sus-vidas.html",
-      "summary": "Deberíamos preguntarnos por qué, año tras año, aparecen casi los mismos centros educativos en los ‘rankings’ escolares"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/descuento-20-centimos-gasolina-diesel-mantendra-vigor-final-ano_1_13660815.html",
+      "summary": "Los datos del IPC de octubre conocidos este viernes arrojan un incremento del precio de la gasolina del 20,7% y del 36,2% del gasóleo, por lo que se extienden las rebajas hasta el 31 de diciembreLa in"
     },
-    "category": "留学",
-    "date": "2026-11-12"
+    "category": "油价",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "西班牙通胀新动态",
+    "original_title": "La inflación de octubre se confirma en el 4,9% impulsada al alza por la subida del gas",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/13/inflacion-octubre-confirma-4-9-impulsada-alza-subida-gas.html",
+      "summary": "El Instituto Nacional de Estadística (INE) ha confirmado hoy el alza del Índice de Precios de Consumo (IPC) hasta el 4,9% interanual en octubre, la tasa más alta desde febrero de 2023. El mes pasado b"
+    },
+    "category": "油价",
+    "date": "2026-11-13"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Los expertos desconocen si las renovables ayudan a controlar la tensión de la red, como se prometió",
+    "original_title": "Todos los ‘looks’ de la alfombra roja de los Latin Grammy 2026",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medioambiente/expertos-desconocen-si-renovables-ayudan-controlar-tension-red-prometio_1_2239753.html",
-      "summary": "Un mes después del apagón de abril de 2025, la Comisión Nacional de los Mercados y de la Competencia (CNMC) modificó el procedimiento de operación 7.4 de Red Eléctrica (REE) para que las plantas de ge"
+      "name": "El País",
+      "url": "https://elpais.com/smoda/moda/2026-11-12/todos-los-looks-de-la-alfombra-roja-de-los-latin-grammy.html",
+      "summary": "Los 27º premios de la Academia Latina de la Grabación se celebran en el MGM Grand Garden Arena de Las Vegas. Repasamos los estilismos de la noche, de una Rosalía angelical vestida de Matières Fécales "
     },
     "category": "政策",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙移民新规",
-    "original_title": "España roza los 50 millones de habitantes hasta octubre en un nuevo máximo histórico por regularización extraordinaria de inmigrantes",
+    "title": "西班牙签证新动态",
+    "original_title": "La economía de la eurozona se ralentiza al crecer un 0,4% en el tercer trimestre",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/12/espana-roza-50-millones-habitantes-octubre-nuevo-maximo-historico-regularizacion-extraordinaria-inmigrantes.html",
-      "summary": "España sumó 130.223 habitantes más en el tercer trimestre de 2026 hasta un total de 49.935.642 habitantes hasta el 1 de octubre de 2026 por la llegada de inmigrantes, lo que rompe de nuevo el máximo h"
+      "url": "https://www.expansion.com/economia/2026/11/13/economia-eurozona-ralentiza-crecer-0-4-tercer-trimestre.html",
+      "summary": "El producto interior bruto (PIB) aumentó un 0,4% en la eurozona y un 0,5% en el conjunto de la UE entre julio y septiembre en comparación con el trimestre previo, en ambos casos dos décimas por debajo"
     },
-    "category": "移民",
-    "date": "2026-11-12"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "Cataluña lidera el seguimiento en una huelga con cargas policiales, detenidos y altercados",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/11/cataluna-lidera-seguimiento-huelga-cargas-policiales-detenidos-altercados.html",
-      "summary": "Las movilizaciones por la vivienda en Madrid y Barcelona concluyeron con altercados. Fue el colofón de un día marcado por afectaciones en la red viaria y el transporte público."
-    },
-    "category": "租房",
-    "date": "2026-11-12"
+    "category": "签证",
+    "date": "2026-11-13"
   },
   {
     "title": "西班牙移民新动态",
@@ -52,7 +52,29 @@
       "summary": "This comes as both immigration and housing are politicised topics on Spain's general election campaign."
     },
     "category": "移民",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Cómo preparar las oposiciones a Administrativo del Estado y elegir una buena academia",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-preparar-oposiciones-administrativo-estado-elegir-buena-academia-20261113100754.html",
+      "summary": "Madrid, 13 de noviembre de 2026.- Acceder a un puesto en la Administración General del Estado es una opción para quienes buscan estabilidad laboral y posibilidades de desarrollo profesional. Sin embar"
+    },
+    "category": "政策",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "西班牙大学新规",
+    "original_title": "El Global Education Forum de la UCJC plantea el desafío sobre qué decisiones de la educación no hay que delegar a la IA",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-global-education-forum-ucjc-plantea-desafio-decisiones-educacion-no-hay-delegar-ia-20261112184345.html",
+      "summary": "La Universidad Camilo José Cela (UCJC) ha acogido en su Campus de Castellana una nueva edición del Global Education Forum (GEF), impulsado por SEK Education Group y la UCJC desde el año 2010."
+    },
+    "category": "留学",
+    "date": "2026-11-13"
   },
   {
     "title": "西班牙政策下降",
@@ -63,32 +85,32 @@
       "summary": "La Confederación Española de Centros de Enseñanza (CECE), organización empresarial que reúne a miles de centros privados y concertados de toda España, ha cifrado el seguimiento de la huelga general de"
     },
     "category": "政策",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙大学新动态",
-    "original_title": "Protestas de alumnos, cierre de Facultades y piquetes, marcan la jornada de huelga en las universidades españolas",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-protestas-alumnos-cierre-facultades-piquetes-marcan-jornada-huelga-universidades-espanolas-20261111172424.html",
-      "summary": "La huelga general convocada este miércoles 11 de noviembre por los sindicatos Comisiones Obreras y UGT para protestar por la situación de la vivienda, ha afectado también a las universidades españolas"
-    },
-    "category": "留学",
-    "date": "2026-11-12"
-  },
-  {
-    "title": "西班牙移民增加",
-    "original_title": "La población en España llega ya a los 49,9 millones, con 130.223 personas más en el tercer trimestre por la migración",
+    "title": "西班牙居留新动态",
+    "original_title": "Feijóo reconoce que es \"ilegal\" exigir la nacionalidad para acceder a ayudas sociales: \"Lo hemos estudiado\"",
     "source": {
       "name": "Europa Press Sociedad",
-      "url": "https://www.europapress.es/epsocial/migracion/noticia-poblacion-espana-llega-ya-499-millones-130223-personas-mas-tercer-trimestre-migracion-20261112112349.html",
-      "summary": "La población de España se sitúa en 49.935.642 habitantes a 1 de octubre de 2026, el valor máximo de la serie histórica, al aumentar en 130.223 personas durante el tercer trimestre de 2026, según datos"
+      "url": "https://www.europapress.es/epsocial/migracion/noticia-29n-feijoo-reconoce-ilegal-exigir-nacionalidad-acceder-ayudas-sociales-hemos-estudiado-20261113120341.html",
+      "summary": "El líder del PP y candidato a la presidencia del Gobierno, Alberto Núñez Feijóo, ha reconocido este viernes que \"en este momento\" exigir la nacionalidad como \"único requisito\" para acceder a una ayuda"
     },
-    "category": "移民",
-    "date": "2026-11-12"
+    "category": "居留",
+    "date": "2026-11-13"
   },
   {
     "title": "西班牙教育新动态",
+    "original_title": "Descubre la agenda completa de SIMO EDUCACIÓN 2026 del viernes 13 de noviembre",
+    "source": {
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/noticias/agenda-simo-educacion-viernes-13/",
+      "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del tercer y último día de feria."
+    },
+    "category": "教育",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "西班牙教育新动态 (1)",
     "original_title": "Descubre la agenda completa de SIMO EDUCACIÓN 2026 del jueves 12 de noviembre",
     "source": {
       "name": "Educación 3.0",
@@ -96,10 +118,10 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del segundo día de feria."
     },
     "category": "教育",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙教育新动态 (1)",
+    "title": "西班牙教育新动态 (2)",
     "original_title": "¡Hoy empieza SIMO EDUCACIÓN 2026! Descubre la agenda completa del miércoles 11 de noviembre",
     "source": {
       "name": "Educación 3.0",
@@ -107,10 +129,10 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta qué actividades te esperan el primer día."
     },
     "category": "教育",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙教育新动态 (2)",
+    "title": "西班牙教育新动态 (3)",
     "original_title": "SIMO EDUCACIÓN 2026 vuelve a convertirse en el encuentro imprescindible de la innovación educativa",
     "source": {
       "name": "Educación 3.0",
@@ -118,50 +140,28 @@
       "summary": "El Salón reunirá a partir de mañana 60 empresas en su área expositiva y desplegará una amplia agenda congresual en espacios como SIMO EDUCACIÓN DIRECTORES, SIMO EDUCACIÓN TALKS o el I Congreso Interna"
     },
     "category": "教育",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙签证改革",
-    "original_title": "El PP \"eliminará\" en 100 días el plan de cierre nuclear y compensará de forma \"automática\" a los consumidores en caso de apagón",
+    "title": "西班牙居留新动态 (1)",
+    "original_title": "Feijóo suprimirá Vivienda e Igualdad para reducir el número de ministerios y agrupar competencias",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/pp-eliminara-100-dias-plan-cierre-nuclear-compensara-forma-automatica-los-consumidores-caso-apagon_7059392_0.html",
-      "summary": "Promete eliminar \"de inmediato\" un impuesto eléctrico que el Gobierno acordó suprimir de aquí a 2028 y revisará \"los ritmos\" de la lucha contra el cambio climático sin \"imponer obligaciones\" que \"perj"
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261113/11683368/feijoo-suprimira-ministerios-propios-vivienda-e-igualdad-agrupara-competencias.html",
+      "summary": "El líder del PP, en una entrevista con Jordi Wild, asegura que en su Gobierno habrá “austeridad” de altos cargos y elevará Vivienda a una vicepresidencia&nbsp;"
     },
-    "category": "签证",
-    "date": "2026-11-12"
+    "category": "居留",
+    "date": "2026-11-13"
   },
   {
-    "title": "西班牙住房改革",
-    "original_title": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
-      "summary": "La Diputación Permanente salva la principal norma del Gobierno y mantiene en vigor una amplia batería de cambios para inquilinos, propietarios y empresas"
-    },
-    "category": "租房",
-    "date": "2026-11-12"
-  },
-  {
-    "title": "西班牙工作新动态",
-    "original_title": "1.000 euros por visitar la Navidad de Madrid, Vigo u Oporto... La oferta de trabajo a la que muchos querrán apuntarse",
+    "title": "西班牙留学宣布",
+    "original_title": "El fin del mundo era hoy... pero la previsión que lo anunció en 1960 ha fallado",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/empleo/1-000-euros-por-visitar-navidad-madrid-vigo-oporto-oferta-trabajo-que-muchos-querran-apuntarse_7059805_0.html",
-      "summary": "Infojobs ofrece un trabajo para recorrer Madrid, Vigo y Oporto evaluando la experiencia navideña por 1.000 euros y gastos pagados."
+      "url": "https://www.20minutos.es/internacional/fin-mundo-era-hoy-pero-prevision-que-anuncio-1960-ha-fallado_7060693_0.html",
+      "summary": "Un estudio científico, publicado en 'Science', anunciaba que el 13 de noviembre de 2026 la población de la Tierra iba a ser tanta que moriríamos por aplastamiento."
     },
-    "category": "工作",
-    "date": "2026-11-12"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "Aagesen defiende en el Congreso que su nueva planificación de la red eléctrica dará suministro a \"tres millones de viviendas\"",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/aagesen-defiende-congreso-que-su-nueva-planificacion-red-electrica-dara-suministro-tres-millones-viviendas_7060242_0.html",
-      "summary": "Comparece en la Diputación Permanente para informar de la nueva Planificación de la red de transporte de electricidad hasta 2030 que el Gobierno aprobará a las puertas del 29-N y el PP le replica: \"Us"
-    },
-    "category": "租房",
-    "date": "2026-11-12"
+    "category": "留学",
+    "date": "2026-11-13"
   }
 ]

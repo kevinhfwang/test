@@ -1,17 +1,39 @@
 [
   {
-    "title": "西班牙通胀下降",
-    "original_title": "El descuento de 20 céntimos en gasolina y diésel se mantendrá en vigor hasta final de año",
+    "title": "西班牙住房新动态",
+    "original_title": "Las mentiras de PP y Vox en el debate económico: de la inmigración al falso vaciado de las pensiones",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/descuento-20-centimos-gasolina-diesel-mantendra-vigor-final-ano_1_13660815.html",
-      "summary": "Los datos del IPC de octubre conocidos este viernes arrojan un incremento del precio de la gasolina del 20,7% y del 36,2% del gasóleo, por lo que se extienden las rebajas hasta el 31 de diciembreLa in"
+      "url": "https://www.eldiario.es/economia/mentiras-pp-vox-debate-economico-inmigracion-falso-vaciado-pensiones_1_13663511.html",
+      "summary": "El portavoz de Vox ha acusado al Gobierno de disminuir la hucha de las pensiones, cuando la está rellenando, entre otras falsedades  La economía abre la batalla electoral: pensiones, vivienda y un lib"
     },
-    "category": "油价",
-    "date": "2026-11-13"
+    "category": "移民",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "La economía abre la batalla electoral: pensiones, vivienda y un libro blanco sobre el ferrocarril",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/economia-abre-batalla-electoral-pensiones-vivienda-libro-blanco-ferrocarril_1_13663225.html",
+      "summary": "El PP promete mantener la subida de las pensiones que votó contra la ley que la garantiza, mientras Vox insiste en cuestionar su sostenibilidad. La vivienda y los impuestos evidencian también las dife"
+    },
+    "category": "税务",
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙通胀新动态",
+    "original_title": "España es el país europeo que más dinero público ha gastado en compensar la inflación de la guerra de Irán",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/medioambiente/espana-pais-europeo-dinero-publico-gastado-compensar-inflacion-guerra-iran_1_2240184.html",
+      "summary": "Los tres paquetes de medidas para compensar el impacto económico de la guerra en Irán costarán este año a los españoles unos 12.000 millones de euros, el 0,7% del PIB, la mayor cifra de toda Europa, d"
+    },
+    "category": "伊朗局势",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "西班牙通胀新动态 (1)",
     "original_title": "La inflación de octubre se confirma en el 4,9% impulsada al alza por la subida del gas",
     "source": {
       "name": "Expansión Economía",
@@ -19,21 +41,21 @@
       "summary": "El Instituto Nacional de Estadística (INE) ha confirmado hoy el alza del Índice de Precios de Consumo (IPC) hasta el 4,9% interanual en octubre, la tasa más alta desde febrero de 2023. El mes pasado b"
     },
     "category": "油价",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Todos los ‘looks’ de la alfombra roja de los Latin Grammy 2026",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/smoda/moda/2026-11-12/todos-los-looks-de-la-alfombra-roja-de-los-latin-grammy.html",
-      "summary": "Los 27º premios de la Academia Latina de la Grabación se celebran en el MGM Grand Garden Arena de Las Vegas. Repasamos los estilismos de la noche, de una Rosalía angelical vestida de Matières Fécales "
-    },
-    "category": "政策",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙签证新动态",
+    "original_title": "Vox quiere revisar la nacionalización de 300.000 españoles de origen marroquí",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/vox-considera-fraudulenta-la-nacionalizacion-de-mas-de-300000-espanoles-originarios-de-marruecos.html",
+      "summary": "El partido ultra considera su ciudadanía “fraudulenta” y quiere gravar con impuestos las remesas que los inmigrantes envían a sus familias como hace Trump"
+    },
+    "category": "签证",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
     "original_title": "La economía de la eurozona se ralentiza al crecer un 0,4% en el tercer trimestre",
     "source": {
       "name": "Expansión Economía",
@@ -41,7 +63,7 @@
       "summary": "El producto interior bruto (PIB) aumentó un 0,4% en la eurozona y un 0,5% en el conjunto de la UE entre julio y septiembre en comparación con el trimestre previo, en ambos casos dos décimas por debajo"
     },
     "category": "签证",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙移民新动态",
@@ -52,10 +74,10 @@
       "summary": "This comes as both immigration and housing are politicised topics on Spain's general election campaign."
     },
     "category": "移民",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
-    "title": "西班牙政策新动态 (1)",
+    "title": "西班牙政策新动态",
     "original_title": "Cómo preparar las oposiciones a Administrativo del Estado y elegir una buena academia",
     "source": {
       "name": "Europa Press Educación",
@@ -63,7 +85,7 @@
       "summary": "Madrid, 13 de noviembre de 2026.- Acceder a un puesto en la Administración General del Estado es una opción para quienes buscan estabilidad laboral y posibilidades de desarrollo profesional. Sin embar"
     },
     "category": "政策",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙大学新规",
@@ -74,7 +96,7 @@
       "summary": "La Universidad Camilo José Cela (UCJC) ha acogido en su Campus de Castellana una nueva edición del Global Education Forum (GEF), impulsado por SEK Education Group y la UCJC desde el año 2010."
     },
     "category": "留学",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙政策下降",
@@ -85,18 +107,18 @@
       "summary": "La Confederación Española de Centros de Enseñanza (CECE), organización empresarial que reúne a miles de centros privados y concertados de toda España, ha cifrado el seguimiento de la huelga general de"
     },
     "category": "政策",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
-    "title": "西班牙居留新动态",
-    "original_title": "Feijóo reconoce que es \"ilegal\" exigir la nacionalidad para acceder a ayudas sociales: \"Lo hemos estudiado\"",
+    "title": "西班牙战争风险推出",
+    "original_title": "España presenta en la Cumbre del Clima su plan de contratación pública ecológica para el periodo 2026-2033",
     "source": {
       "name": "Europa Press Sociedad",
-      "url": "https://www.europapress.es/epsocial/migracion/noticia-29n-feijoo-reconoce-ilegal-exigir-nacionalidad-acceder-ayudas-sociales-hemos-estudiado-20261113120341.html",
-      "summary": "El líder del PP y candidato a la presidencia del Gobierno, Alberto Núñez Feijóo, ha reconocido este viernes que \"en este momento\" exigir la nacionalidad como \"único requisito\" para acceder a una ayuda"
+      "url": "https://www.europapress.es/sociedad/noticia-espana-presenta-cumbre-clima-plan-contratacion-publica-ecologica-periodo-2026-2033-20261113184849.html",
+      "summary": "La directora general de Servicios del Ministerio para la Transición Ecológica (MITECO), Marta Martínez Guerra, ha presentado en la Cumbre del Clima (COP31) de Antalya (Turquía) el Plan de Contratación"
     },
-    "category": "居留",
-    "date": "2026-11-13"
+    "category": "战争风险",
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙教育新动态",
@@ -107,7 +129,7 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del tercer y último día de feria."
     },
     "category": "教育",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙教育新动态 (1)",
@@ -118,7 +140,7 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del segundo día de feria."
     },
     "category": "教育",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙教育新动态 (2)",
@@ -129,7 +151,7 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta qué actividades te esperan el primer día."
     },
     "category": "教育",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "title": "西班牙教育新动态 (3)",
@@ -140,28 +162,6 @@
       "summary": "El Salón reunirá a partir de mañana 60 empresas en su área expositiva y desplegará una amplia agenda congresual en espacios como SIMO EDUCACIÓN DIRECTORES, SIMO EDUCACIÓN TALKS o el I Congreso Interna"
     },
     "category": "教育",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "西班牙居留新动态 (1)",
-    "original_title": "Feijóo suprimirá Vivienda e Igualdad para reducir el número de ministerios y agrupar competencias",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261113/11683368/feijoo-suprimira-ministerios-propios-vivienda-e-igualdad-agrupara-competencias.html",
-      "summary": "El líder del PP, en una entrevista con Jordi Wild, asegura que en su Gobierno habrá “austeridad” de altos cargos y elevará Vivienda a una vicepresidencia&nbsp;"
-    },
-    "category": "居留",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "西班牙留学宣布",
-    "original_title": "El fin del mundo era hoy... pero la previsión que lo anunció en 1960 ha fallado",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/internacional/fin-mundo-era-hoy-pero-prevision-que-anuncio-1960-ha-fallado_7060693_0.html",
-      "summary": "Un estudio científico, publicado en 'Science', anunciaba que el 13 de noviembre de 2026 la población de la Tierra iba a ser tanta que moriríamos por aplastamiento."
-    },
-    "category": "留学",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   }
 ]

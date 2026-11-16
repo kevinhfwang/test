@@ -1,69 +1,36 @@
 [
   {
-    "title": "西班牙教育新规",
-    "original_title": "Sánchez promete subir los impuestos a los grandes propietarios que tengan viviendas vacías o pisos turísticos",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/sanchez-promete-subir-impuestos-grandes-propietarios-tengan-viviendas-vacias-pisos-turisticos_1_13665461.html",
-      "summary": "El presidente avanza medidas del programa electoral del PSOE como el registro en el código civil de la \"unión de amistad\" o una nueva prestación por crianzaSánchez pide a Feijóo “aprender inglés” y “e"
-    },
-    "category": "税务",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "“Remigración” y prioridad nacional: hasta dónde está dispuesto a llegar Feijóo para pactar con Abascal",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia-y-sociedad/remigracion-prioridad-nacional-dispuesto-llegar-feijoo-pactar-abascal_1_2240119.html",
-      "summary": "La inmigración es uno de los temas favoritos de la derecha y la ultraderecha. La señalan como la principal causa de los problemas a los que se enfrenta la ciudadanía española, desde la vivienda hasta "
-    },
-    "category": "移民",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙住房推出",
-    "original_title": "Sánchez vuelve a prometer una prestación por crianza y propone subir los impuestos a los grandes propietarios con viviendas vacías",
-    "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-vuelve-prometer-una-prestacion-por-crianza-propone-subir-los-impuestos-los-grandes-propietarios-con-viviendas-vacias_7061297_0.html",
-      "summary": "Reivindica la bandera española para la izquierda desde Alcorcón, donde el PSOE presenta su programa electoral. Promete retribuir un permiso pendiente desde 2023 tras resistirse a la prestación univers"
-    },
-    "category": "税务",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙租房飙升",
-    "original_title": "22,6 millones: récord de cotizantes o más empleo que nunca",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/opinion/columnas/buzon-de-voz/el-dato-y-las-tripas/22-6-millones-record-cotizantes-empleo_129_2240170.html",
-      "summary": "Hasta que el disparatado precio del alquiler empezó a provocar insomnio en millones de españoles –sobre todo jóvenes pero no sólo jóvenes–, el paro ha sido durante décadas el monstruo imposible de ven"
-    },
-    "category": "租房",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙油价新动态",
-    "original_title": "Venezuela proyecta producir tres millones de barriles diarios de petróleo en diez años",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/latinoamerica/2026/11/15/venezuela-proyecta-producir-tres-millones-barriles-diarios-petroleo-diez-anos.html",
-      "summary": "Venezuela estima alcanzar una producción de 3 millones de barriles por día (bpd) de crudo en diez años, según cifras difundidas este sábado por la estatal petrolera PDVSA."
-    },
-    "category": "油价",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙签证新动态",
-    "original_title": "La economía de la eurozona se ralentiza al crecer un 0,4% en el tercer trimestre",
+    "title": "西班牙住房新规",
+    "original_title": "Más intervención a la vivienda, impuestos y gasto social: el programa económico del PSOE para seguir gobernando tras el 29-N",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/13/economia-eurozona-ralentiza-crecer-0-4-tercer-trimestre.html",
-      "summary": "El producto interior bruto (PIB) aumentó un 0,4% en la eurozona y un 0,5% en el conjunto de la UE entre julio y septiembre en comparación con el trimestre previo, en ambos casos dos décimas por debajo"
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/16/intervencion-vivienda-impuestos-gasto-social-programa-economico-psoe-seguir-gobernando-29-n.html",
+      "summary": "El Partido Socialista presentó ayer su programa para “frenar a la ultraderecha” tras el 29-N con 500 promesas, entre las que destacan nuevas prestaciones y ayudas o invertir 19.000 millones hasta 2030"
     },
-    "category": "签证",
-    "date": "2026-11-15"
+    "category": "税务",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙住房下降",
+    "original_title": "El PP cuestiona a la AIReF y al Banco de España y esconde sus planes hasta tener una auditoría “independiente” del Estado",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/pp-cuestiona-airef-banco-espana-esconde-planes-auditoria-independiente_1_13658352.html",
+      "summary": "Feijóo dice que no se fía de los números para evitar responder si subirá el gasto en Defensa al 5% del PIB y para dejar en el aire si podrá rebajar impuestos como promete en su programa electoral\nFeij"
+    },
+    "category": "税务",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙大学新规",
+    "original_title": "PSOE propone una ley para garantizar un mínimo de plazas en titulaciones de alta demanda de universidades públicas",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-psoe-propone-ley-garantizar-minimo-plazas-titulaciones-alta-demanda-universidades-publicas-20261116172133.html",
+      "summary": "El PSOE quiere aprobar una nueva Ley de Equidad en el Acceso a la Universidad Pública que garantice una financiación suficiente, estable y de calidad para las universidades públicas en todas las comun"
+    },
+    "category": "留学",
+    "date": "2026-11-16"
   },
   {
     "title": "西班牙政策新动态",
@@ -74,10 +41,10 @@
       "summary": "Madrid, 13 de noviembre de 2026.- Acceder a un puesto en la Administración General del Estado es una opción para quienes buscan estabilidad laboral y posibilidades de desarrollo profesional. Sin embar"
     },
     "category": "政策",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   {
-    "title": "西班牙大学新规",
+    "title": "西班牙大学新规 (1)",
     "original_title": "El Global Education Forum de la UCJC plantea el desafío sobre qué decisiones de la educación no hay que delegar a la IA",
     "source": {
       "name": "Europa Press Educación",
@@ -85,29 +52,7 @@
       "summary": "La Universidad Camilo José Cela (UCJC) ha acogido en su Campus de Castellana una nueva edición del Global Education Forum (GEF), impulsado por SEK Education Group y la UCJC desde el año 2010."
     },
     "category": "留学",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙政策下降",
-    "original_title": "Patronal de centros concertados y privados cifra el seguimiento de la huelga en un 2,9% en los colegios españoles",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-patronal-centros-concertados-privados-cifra-seguimiento-huelga-29-colegios-espanoles-20261111183822.html",
-      "summary": "La Confederación Española de Centros de Enseñanza (CECE), organización empresarial que reúne a miles de centros privados y concertados de toda España, ha cifrado el seguimiento de la huelga general de"
-    },
-    "category": "政策",
-    "date": "2026-11-15"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "Las 106 propuestas de COCEMFE para garantizar la accesibilidad, la vivienda y la asistencia personal ante el 29N",
-    "source": {
-      "name": "Europa Press Sociedad",
-      "url": "https://www.europapress.es/epsocial/igualdad/noticia-106-propuestas-cocemfe-garantizar-accesibilidad-vivienda-asistencia-personal-29n-20261115113250.html",
-      "summary": "&nbsp;&nbsp;&nbsp;La Confederación Española de Personas con Discapacidad Física y Orgánica (COCEMFE) ha trasladado a los partidos políticos el documento 'Propuestas electorales 2026: 12 prioridades pa"
-    },
-    "category": "租房",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   {
     "title": "西班牙教育新动态",
@@ -118,7 +63,7 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del tercer y último día de feria."
     },
     "category": "教育",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   {
     "title": "西班牙教育新动态 (1)",
@@ -129,39 +74,94 @@
       "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del segundo día de feria."
     },
     "category": "教育",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   {
-    "title": "西班牙教育新动态 (2)",
-    "original_title": "¡Hoy empieza SIMO EDUCACIÓN 2026! Descubre la agenda completa del miércoles 11 de noviembre",
+    "title": "西班牙政策增加",
+    "original_title": "El Frente Amplio exige al PSOE aprobar ya la prestación por crianza dado que ahora la incluye en su programa",
     "source": {
-      "name": "Educación 3.0",
-      "url": "https://www.educaciontrespuntocero.com/noticias/agenda-simo-educacion-11-de-noviembre/",
-      "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta qué actividades te esperan el primer día."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/frente-amplio-exige-psoe-aprobar-prestacion-crianza-dado-ahora-incluye-programa_1_13667569.html",
+      "summary": "El ministro Pablo Bustinduy, que lleva toda la legislatura presionando a los socialistas para que se apruebe esta ayuda de 200 euros por cada hijo hasta los 18 años, aventura que \"seguro que ya no hay"
     },
-    "category": "教育",
-    "date": "2026-11-15"
+    "category": "政策",
+    "date": "2026-11-16"
   },
   {
-    "title": "西班牙住房新规 (1)",
-    "original_title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+    "title": "西班牙住房新动态",
+    "original_title": "Feijóo afirma que \"nunca\" dijo que iba a construir un millón de casas tras repetirlo en campaña e incluirlo en su programa",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-      "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% d"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/feijoo-afirma-dijo-iba-construir-millon-casas-repetirlo-campana-e-incluirlo-programa_1_13668386.html",
+      "summary": "El punto 144 del programa del PP recoge expresamente el compromiso de construir esa cantidad de viviendas y el líder popular asegura en Político que es una medida que \"España necesita\"El PP agita el d"
     },
-    "category": "税务",
-    "date": "2026-11-15"
+    "category": "移民",
+    "date": "2026-11-16"
   },
   {
-    "title": "西班牙就业新规",
-    "original_title": "Feijóo hará campaña en Guipúzcoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+    "title": "西班牙医疗下降",
+    "original_title": "Solo tres jefes médicos de Extremadura se acogen a la medida que permite trabajar también en la privada",
     "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-      "summary": "El líder del PP conecta los altercados, denunciados por el candidato al Congreso, Jon Echevarría, con EH Bildu. Reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/tres-jefes-medicos-extremadura-acogen-medida-permite-trabajar-privada_1_2240062.html",
+      "summary": "De momento, un impacto reducido. Solo tres de los 220 jefes de servicio y de sección de los hospitales públicos de Extremadura han solicitado acogerse a la nueva normativa que les permite compatibiliz"
     },
     "category": "工作",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "…Y esto dice el programa del Partido Popular",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/opinion/columnas/torbellino-de-palabras/dice-programa-partido-popular_129_2240149.html",
+      "summary": "Este es, muy resumido, el programa del Partido Popular. Por si todavía tenías ganas de quedarte en casa el 29 de noviembre porque “ninguno te convence del todo”. Derogar la Ley de Vivienda, zonas tens"
+    },
+    "category": "租房",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙住房推出",
+    "original_title": "Jornada laboral de 32 horas a la semana y jubilación a los 65 años: Frente Amplio presenta su programa electoral",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/jornada-laboral-32-horas-semana-jubilacion-65-anos-frente-amplio-presenta-programa-electoral_1_2240254.html",
+      "summary": "El programa de Frente Amplio al 29N, que contiene más de 1.000 medidas (cada una con su memoria económica) hace hincapié en el derecho a la vivienda, la redistribución de la riqueza y el trabajo. “Pon"
+    },
+    "category": "租房",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "RAYE iguala el récord con 11 nominaciones a los Grammy 2027 y Rosalía suma 9",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/16/raye-iguala-el-record-con-11-nominaciones-a-los-grammy-2027-y-rosalia-suma-9",
+      "summary": "Las principales cantantes europeas son favoritas en los Grammy 2027. Con 11 nominaciones, la británica RAYE iguala el récord de Beyoncé de 2025, mientras la estadounidense ya es la artista más nominad"
+    },
+    "category": "政策",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "Las mayores OPV de este año provocan pérdidas a los inversores a medida que se desinfla la fiebre por la IA",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/11/16/mayores-opv-ano-provocan-perdidas-inversores-medida-desinfla-fiebre-ia.html",
+      "summary": "Las diez mayores salidas a Bolsa han registrado caídas medias superiores al 20% en 2026 después de cuatro años de ganancias."
+    },
+    "category": "政策",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "西班牙住房下降 (1)",
+    "original_title": "Montse Cespedosa, experta en finanzas: \"EEUU sigue sumando 'redflags' como en España\"",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/inmobiliario/2026/11/16/montse-cespedosa-experta-finanzas-eeuu-sigue-sumando-redflags-espana.html",
+      "summary": "La economista señala que las ventas de vivienda en EE.UU. han caído a su nivel más bajo en 16 años y que los precios bajan por primera vez en tres años."
+    },
+    "category": "租房",
+    "date": "2026-11-16"
   }
 ]

@@ -1,36 +1,58 @@
 [
   {
-    "title": "西班牙住房新动态",
-    "original_title": "Horario del debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo y dónde ver online y por televisión en directo",
+    "title": "西班牙学校排名",
+    "original_title": "El colegio español Learnlife, entre los 15 mejores centros educativos del mundo según World's Best School Prizes 2026",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/horario-debate-electoral-pedro-sanchez-alberto-nunez-feijoo-elecciones-generales-donde-ver_7061066_0.html",
-      "summary": "El debate se estructurará en cinco apartados: vivienda, economía, política social y servicios públicos, lucha contra la corrupción y migración."
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-colegio-espanol-learnlife-15-mejores-centros-educativos-mundo-worlds-best-school-prizes-2026-20261119140821.html",
+      "summary": "Learnlife - un colegio independiente de Primaria y Secundaria de Barcelona, integra la lista de los quince mejores centros educativos del mundo reconocidos por los World's Best School Prizes 2026, tra"
     },
-    "category": "移民",
-    "date": "2026-11-18"
+    "category": "政策",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "El Comté francés, elegido mejor queso del mundo en los World Cheese Awards 2026",
+    "source": {
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/19/comte-frances-elegido-mejor-queso-mundo-world-cheese-awards-2026",
+      "summary": "Un queso curado 24 meses del Jura francés ha ganado el máximo premio en los World Cheese Awards 2026, venciendo a más de 5.300 entradas de 45 países."
+    },
+    "category": "战争风险",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "La empresa familiar pide reducir impuestos, construir vivienda y combatir el absentismo",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/18/empresa-familiar-pide-reducir-impuestos-construir-vivienda-combatir-absentismo.html",
+      "summary": "El Instituto de Empresa Familiar (IEF) pone sobre la mesa un decálogo de asuntos sobre los que adoptar acuerdos de Estado en la próxima década para mantener la competitividad de la economía.&nbsp;"
+    },
+    "category": "税务",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙政策上涨",
+    "original_title": "Las agresiones de familiares a docentes se duplican y las de alumnos suben casi un 30%, según el Defensor del Profesor",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-agresiones-familiares-docentes-duplican-alumnos-suben-casi-30-defensor-profesor-20261119131230.html",
+      "summary": "Las agresiones físicas de familiares al profesorado se han duplicado en el último curso (de 33 en el curso 2024/2025 a 65 en 2025/2026) mientras que las agresiones de alumnos a profesores han aumentad"
+    },
+    "category": "政策",
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙政策新动态",
-    "original_title": "Teles bajo control y publicidad para los afines, el modelo de medios que PP y Vox ya aplican donde gobiernan",
+    "original_title": "USO Enseñanza exige a la patronal de la concertada \"firmar ya\" las tablas salariales de 2026 y 2027",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/medios/teles-control-publicidad-afines-modelo-medios-pp-vox-aplican-gobiernan_1_2240048.html",
-      "summary": "De los 15 medios públicos españoles que analiza el State Media Monitor 2025, ocho están clasificados como “controlados” por sus gobiernos, una categoría que equivale a subordinación al poder político "
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-uso-ensenanza-exige-patronal-concertada-firmar-ya-tablas-salariales-2026-2027-20261118173427.html",
+      "summary": "Uso Enseñanza ha exigido a la patronal de la concertada \"firmar ya\" las tablas salariales de 2026 y 2027, después de que el Boletín Oficial del Estado haya publicado este miércoles el real decreto de "
     },
     "category": "政策",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Paga extra de Navidad de los pensionistas: cuándo llega a cada banco en 2026 y quién la cobra prorrateada",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/18/paga-extra-navidad-pensionistas-llega-banco-2026-cobra-prorrateada.html",
-      "summary": "Los pensionistas de toda España se beneficiarán pronto de la paga extra de Navidad, que llegará en estas fechas a las cuentas de las diferentes entidades bancarias del país. Hay una excepción con cier"
-    },
-    "category": "政策",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙教育新动态",
@@ -41,117 +63,95 @@
       "summary": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, ha defendido que las vocaciones científicas nacen \"en un aula de Primaria, en el laboratorio de un instituto o en un taller "
     },
     "category": "教育",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙大学新规",
-    "original_title": "PSOE propone una ley para garantizar un mínimo de plazas en titulaciones de alta demanda de universidades públicas",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-psoe-propone-ley-garantizar-minimo-plazas-titulaciones-alta-demanda-universidades-publicas-20261116172133.html",
-      "summary": "El PSOE quiere aprobar una nueva Ley de Equidad en el Acceso a la Universidad Pública que garantice una financiación suficiente, estable y de calidad para las universidades públicas en todas las comun"
-    },
-    "category": "留学",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "Descubre la agenda completa de SIMO EDUCACIÓN 2026 del viernes 13 de noviembre",
-    "source": {
-      "name": "Educación 3.0",
-      "url": "https://www.educaciontrespuntocero.com/noticias/agenda-simo-educacion-viernes-13/",
-      "summary": "Del 11 al 13 de noviembre, IFEMA Madrid reúne a los profesionales de la educación en la gran cita de la innovación educativa. Consulta la agenda completa del tercer y último día de feria."
-    },
-    "category": "教育",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙住房新动态 (1)",
-    "original_title": "La compraventa de viviendas se desploma en septiembre y sufre su mayor caída en más de dos años en plena subida de tipos del BCE",
+    "original_title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/compraventa-viviendas-se-desploma-septiembre-con-una-caida-13-4-plena-subida-tipos-bce_7061936_0.html",
-      "summary": "Se registraron 54.548 operaciones, un 13,4% menos que en 2025. Es el dato más bajo para un noveno mes en tres años."
+      "name": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
+      "summary": "La candidata de Frente Amplio el 29-N defiende que la coalición de izquierdas es el voto útil para “frenar un gobierno de extrema derecha e ir más allá en vivienda”"
     },
     "category": "租房",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "Rufián tacha de \"pornográfico\" que Abascal critique \"las paguitas\" mientras su familia cobra ayudas públicas",
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Debate electoral Pedro Sánchez - Feijóo, en directo: última hora del cara a cara de las elecciones generales del 29N",
     "source": {
       "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-tacha-pornografico-que-abascal-critique-las-paguitas-mientras-su-familia-cobra-ayudas-publicas_7062670_0.html",
-      "summary": "El candidato de ERC considera \"hábil\" la entrevista de Sánchez en 'Lecturas', aunque reclama al PSOE propuestas concretas en materia de vivienda. También critica el plan de varios países europeos para"
+      "url": "https://www.20minutos.es/nacional/debate-electoral-pedro-sanchez-feijoo-directo-ultima-hora-cara-cara-las-elecciones-generales-29n_7063153_6.html",
+      "summary": "Sigue en directo la última hora sobre el único cara a cara que mantendrán Sánchez y Feijóo para las elecciones del 29N de 2026."
     },
-    "category": "租房",
-    "date": "2026-11-18"
+    "category": "政策",
+    "date": "2026-11-19"
   },
   {
-    "title": "西班牙住房新动态 (3)",
-    "original_title": "Mentiras y verdades del debate sobre vivienda entre PP y PSOE",
+    "title": "西班牙医疗新动态",
+    "original_title": "Emilio Delgado, tras la difusión por parte de Ayuso de una foto suya en un hospital privado: \"Era para mi pareja, ustedes destruyen lo público\"",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/mentiras-verdades-debate-vivienda-pp-psoe_1_13672878.html",
-      "summary": "La ministra afirma sin ser cierto que \"Sánchez ya ha construido un millón de viviendas\" en el debate organizado por la Cadena SER, mientras que Juan Bravo infla las subidas de precio al usar datos de "
+      "url": "https://www.eldiario.es/madrid/emilio-delgado-difusion-parte-ayuso-foto-hospital-privado-pareja-destruyen-publico_1_13676148.html",
+      "summary": "El diputado de Más Madrid, que en realidad estaba acompañando a su pareja a la mutua por una \"afección en las vértebras\", ha respondido a la derecha: \"Nosotros les cuestionamos a ustedes por destruir "
     },
-    "category": "租房",
-    "date": "2026-11-18"
+    "category": "医疗",
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "El PSOE entrega a la Audiencia Nacional el listado de todos los abogados contratados por el partido entre 2021 y 2025",
+    "original_title": "Beaujolais nouveau 2026: madrugan en París para catar un vino fresco y ligero",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/psoe-entrega-audiencia-nacional-listado-abogados-contratados-partido-2021-2025_1_13673419.html",
-      "summary": "El juez Santiago Pedraz acepta volcar en una pieza separada con acceso exclusivo a la Fiscalía tres cajas con facturas y un 'pendrive' con esa información aportada por la formación \nEl PSOE pide tiemp"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/19/beaujolais-nouveau-2026-madrugan-en-paris-para-catar-un-vino-fresco-y-ligero",
+      "summary": "La fiesta para celebrar la añada 2026 del beaujolais nouveau, que este año se dice afrutado, ligero y fácil de beber: la receta ideal para olvidar la crisis del sector."
     },
     "category": "政策",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙住房上涨",
+    "original_title": "El alquiler aumenta un 3% en octubre: ¿dónde sube con más fuerza?",
+    "source": {
+      "name": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/11/19/alquiler-aumenta-3-octubre-sube-fuerza.html",
+      "summary": "El precio de la vivienda en alquiler en España subió sube un 3% en octubre respecto al mismo mes del año anterior, situándose en 14,42 euros/m2 al mes."
+    },
+    "category": "租房",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙工作下降",
+    "original_title": "Las empresas podrán perder contratos públicos por desigualdad salarial",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/19/empresas-podran-perder-contratos-publicos-desigualdad-salarial.html",
+      "summary": "Los trabajadores tendrán derecho a solicitar información para conocer las retribuciones medias de compañeros que realicen el mismo trabajo"
+    },
+    "category": "工作",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "西班牙教育新规",
+    "original_title": "IE University pone en marcha IE Silicon Valley Hub para impulsar la innovación y el emprendimiento transatlántico",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-ie-university-pone-marcha-ie-silicon-valley-hub-impulsar-innovacion-emprendimiento-transatlantico-20261119140925.html",
+      "summary": "IE University, junto con el Center for Information Technology Research in the Interest of Society and the Banatao Institute (CITRIS) de UC Berkeley, ha anunciado la puesta en marcha de IE Silicon Vall"
+    },
+    "category": "教育",
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙政策新动态 (3)",
-    "original_title": "El Congreso reconoce a las familias monoparentales y amplía las ayudas a las numerosas",
+    "original_title": "Los 11 colegios concertados madrileños que separaban por sexo en 2012 siguen segregados en la actualidad, según CC.OO.",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/congreso-reconoce-familias-monoparentales-amplia-ayudas-numerosas_1_2240372.html",
-      "summary": "La Diputación Permanente del Congreso de los Diputados ha convalidado este miércoles dos reales decretos-ley impulsados por el Ministerio de Derechos Sociales, Consumo y Agenda 2030 que amplían la pro"
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-11-colegios-concertados-madrilenos-separaban-sexo-2012-siguen-segregados-actualidad-ccoo-20261119124057.html",
+      "summary": "Una investigación de Comisiones Obreras ha denunciado que los once colegios concertados de la Comunidad de Madrid que en el año 2012 segregaban por sexo \"siguen segregados según se muestra en sus pági"
     },
     "category": "政策",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙政策新动态 (4)",
-    "original_title": "Benito Tesier Sierra (Brembo Iberia) y Giovanni Ferrero (Grupo Ferrero), Premio Tiepolo 2026",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/11/18/benito-tesier-sierra-brembo-iberia-giovanni-ferrero-grupo-ferrero-premio-tiepolo-2026.html",
-      "summary": ""
-    },
-    "category": "政策",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙住房新动态 (4)",
-    "original_title": "Niño Becerra, economista, sobre la subida del SMI y el precio de la vivienda: \"El futuro no es más que el pasado que regresa\"",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/inmobiliario/2026/11/18/nino-becerra-economista-sobre-subida-smi-precio-vivienda-futuro-pasado-regresa.html",
-      "summary": "El economista Santiago Niño Becerra plantea que el mercado&nbsp;absorba cualquier subida de renta, y el Banco de España confirma el papel del crédito en el boom de la vivienda, pero no mide el efecto "
-    },
-    "category": "租房",
-    "date": "2026-11-18"
-  },
-  {
-    "title": "西班牙留学新动态",
-    "original_title": "Immigration splits Spain ahead of snap election",
-    "source": {
-      "name": "The Local ES",
-      "url": "https://www.thelocal.es/20261118/immigration-splits-spain-ahead-of-snap-election",
-      "summary": "Pelayo, a 20-year-old student, fears immigration is making Spain less safe. Emperatriz Garcia, a 57-year-old Ecuadorian cleaner, sees it as essential to the country's future."
-    },
-    "category": "留学",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   {
     "title": "西班牙奖学金新动态",
@@ -162,6 +162,6 @@
       "summary": "El Ministerio de Ciencia, Innovación y Universidades ha puesto este miércoles en marcha el portal para poder solicitar las becas 'Luisa de Medrano' para facilitar la movilidad universitaria nacional, "
     },
     "category": "留学",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   }
 ]

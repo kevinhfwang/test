@@ -8,29 +8,62 @@
       "summary": "Learnlife - un colegio independiente de Primaria y Secundaria de Barcelona, integra la lista de los quince mejores centros educativos del mundo reconocidos por los World's Best School Prizes 2026, tra"
     },
     "category": "政策",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
-    "title": "西班牙战争风险新动态",
-    "original_title": "El Comté francés, elegido mejor queso del mundo en los World Cheese Awards 2026",
+    "title": "西班牙住房改革",
+    "original_title": "Los momentos más destacados del cara a cara",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/19/comte-frances-elegido-mejor-queso-mundo-world-cheese-awards-2026",
-      "summary": "Un queso curado 24 meses del Jura francés ha ganado el máximo premio en los World Cheese Awards 2026, venciendo a más de 5.300 entradas de 45 países."
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261120/11689016/cara-a-cara-pedro-sanchez-alberto-nunez-feijoo-debate-sanchez-feijoo-momentos-destacados-cara-a-cara-crisis-de-la-vivienda-espana-politica-migratoria-ceuta-el-hierro-rebaja-impuestos-iva-alimentos-politica-exterior-espana.html",
+      "summary": "El presidente del Gobierno y el líder de la oposición cruzan reproches por la crisis de la vivienda, la gestión migratoria, la política fiscal y los conflictos internacionales en un tenso intercambio "
     },
-    "category": "战争风险",
-    "date": "2026-11-19"
+    "category": "租房",
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙住房新动态",
-    "original_title": "La empresa familiar pide reducir impuestos, construir vivienda y combatir el absentismo",
+    "original_title": "ENCUESTA | ¿Quién ha ganado el cara a cara entre Sánchez y Feijóo?",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/encuesta-ganando-cara-cara-sanchez-feijoo_11_13674665.html",
+      "summary": "El debate ha contado con cinco bloques temáticos: vivienda, economía y fiscalidad; política social y servicios públicos; lucha contra la corrupción y regeneración democrática; y migración y política e"
+    },
+    "category": "移民",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "西班牙教育新动态",
+    "original_title": "Miles de estudiantes españoles se suman a la huelga europea por más educación pública",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/miles-estudiantes-espanoles-se-suman-huelga-europea-por-mas-educacion-publica_7063751_0.html",
+      "summary": "Estudiantes de España y otros países europeos se manifiestan en defensa de la enseñanza pública y contra la represión, el fascismo y las guerras."
+    },
+    "category": "留学",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "西班牙住房新动态 (1)",
+    "original_title": "El cara a cara de Sánchez y Feijóo, en nueve vídeos",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/cara-cara-sanchez-feijoo-nueve-videos_1_13679028.html",
+      "summary": "Vivienda, fiscalidad, política social, servicios públicos... Ambos candidatos han debatido en un cara a cara que ha durado una hora y media y ha estado moderado por María CasadoCrónica - Feijóo imita "
+    },
+    "category": "租房",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "Trump, Xi y Putin pactan evitar una guerra nuclear y producir más crudo",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/18/empresa-familiar-pide-reducir-impuestos-construir-vivienda-combatir-absentismo.html",
-      "summary": "El Instituto de Empresa Familiar (IEF) pone sobre la mesa un decálogo de asuntos sobre los que adoptar acuerdos de Estado en la próxima década para mantener la competitividad de la economía.&nbsp;"
+      "url": "https://www.expansion.com/economia/2026/11/19/trump-xi-putin-pactan-evitar-guerra-nuclear-producir-crudo.html",
+      "summary": "Los presidentes de EEUU, China y Rusia coinciden en que “una guerra nuclear no puede ganarse y nunca debe librarse” y en la necesidad de proveer un flujo estable de petróleo y energía. Las tres potenc"
     },
-    "category": "税务",
-    "date": "2026-11-19"
+    "category": "战争风险",
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙政策上涨",
@@ -41,7 +74,7 @@
       "summary": "Las agresiones físicas de familiares al profesorado se han duplicado en el último curso (de 33 en el curso 2024/2025 a 65 en 2025/2026) mientras que las agresiones de alumnos a profesores han aumentad"
     },
     "category": "政策",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙政策新动态",
@@ -52,116 +85,83 @@
       "summary": "Uso Enseñanza ha exigido a la patronal de la concertada \"firmar ya\" las tablas salariales de 2026 y 2027, después de que el Boletín Oficial del Estado haya publicado este miércoles el real decreto de "
     },
     "category": "政策",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
-    "title": "西班牙教育新动态",
-    "original_title": "Milagros Tolón destaca que las vocaciones científicas \"nacen en Primaria, en el laboratorio de un instituto o en la FP\"",
+    "title": "西班牙签证新动态",
+    "original_title": "El Ministerio de Trabajo abre expedientes de retirada de medallas a figuras asociadas a la represión franquista",
     "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-milagros-tolon-destaca-vocaciones-cientificas-nacen-primaria-laboratorio-instituto-fp-20261117165121.html",
-      "summary": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, ha defendido que las vocaciones científicas nacen \"en un aula de Primaria, en el laboratorio de un instituto o en un taller "
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/nacional/ministerio-trabajo-abre-expedientes-retirada-medallas-figuras-asociadas-represion-franquista_7063515_0.html",
+      "summary": "La Ley 20/2022, de Memoria Democrática, permite revisar las condecoraciones otorgadas a personas \"cuya trayectoria estuvo vinculada al aparato de represión de la dictadura franquista\"."
     },
-    "category": "教育",
-    "date": "2026-11-19"
-  },
-  {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
-      "summary": "La candidata de Frente Amplio el 29-N defiende que la coalición de izquierdas es el voto útil para “frenar un gobierno de extrema derecha e ir más allá en vivienda”"
-    },
-    "category": "租房",
-    "date": "2026-11-19"
+    "category": "签证",
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙政策新动态 (1)",
-    "original_title": "Debate electoral Pedro Sánchez - Feijóo, en directo: última hora del cara a cara de las elecciones generales del 29N",
+    "original_title": "Reacciones al debate Pedro Sánchez - Alberto Núñez Feijóo, en directo | El PSOE justifica el tono de Sánchez en el cara a cara y alega que los españoles están \"hartos de la crispación\"",
     "source": {
       "name": "20 Minutos",
       "url": "https://www.20minutos.es/nacional/debate-electoral-pedro-sanchez-feijoo-directo-ultima-hora-cara-cara-las-elecciones-generales-29n_7063153_6.html",
-      "summary": "Sigue en directo la última hora sobre el único cara a cara que mantendrán Sánchez y Feijóo para las elecciones del 29N de 2026."
+      "summary": "Sigue en directo las reacciones tras el único cara a cara entre Sánchez y Feijóo para las elecciones del 29N de 2026."
     },
     "category": "政策",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
-    "title": "西班牙医疗新动态",
-    "original_title": "Emilio Delgado, tras la difusión por parte de Ayuso de una foto suya en un hospital privado: \"Era para mi pareja, ustedes destruyen lo público\"",
+    "title": "西班牙住房新规",
+    "original_title": "El Gobierno incorpora al transporte por carretera y la edificación al mercado europeo en el que tendrán que pagar por emitir CO2",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/gobierno-incorpora-transporte-por-carretera-edificacion-mercado-europeo-que-tendran-que-pagar-por-emitir-co2_7063725_0.html",
+      "summary": "El Consejo de Ministros traspone la directiva europea sobre el nuevos régimen de comercio de emisiones casi sobre la campana para, a cambio, poder recibir unos 6.800 millones del Fondo Social para el "
+    },
+    "category": "租房",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "西班牙住房新动态 (2)",
+    "original_title": "Todas las mentiras del cara a cara entre Sánchez y Feijóo",
     "source": {
       "name": "elDiario",
-      "url": "https://www.eldiario.es/madrid/emilio-delgado-difusion-parte-ayuso-foto-hospital-privado-pareja-destruyen-publico_1_13676148.html",
-      "summary": "El diputado de Más Madrid, que en realidad estaba acompañando a su pareja a la mutua por una \"afección en las vértebras\", ha respondido a la derecha: \"Nosotros les cuestionamos a ustedes por destruir "
+      "url": "https://www.eldiario.es/politica/mentiras-cara-cara_1_13678947.html",
+      "summary": "Ni ha habido 100 subidas de impuestos, como ha asegurado Feijóo, ni se han construido un millón de viviendas en la última legislatura como ha sostenido SánchezEncuesta - El 45% ve a Feijóo vencedor en"
     },
-    "category": "医疗",
-    "date": "2026-11-19"
+    "category": "税务",
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙政策新动态 (2)",
-    "original_title": "Beaujolais nouveau 2026: madrugan en París para catar un vino fresco y ligero",
+    "original_title": "Feijóo imita el estilo más duro de Abascal y Sánchez no le responde con la misma energía",
     "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/19/beaujolais-nouveau-2026-madrugan-en-paris-para-catar-un-vino-fresco-y-ligero",
-      "summary": "La fiesta para celebrar la añada 2026 del beaujolais nouveau, que este año se dice afrutado, ligero y fácil de beber: la receta ideal para olvidar la crisis del sector."
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/politica/feijoo-sanchez-debate-campana-elecciones_129_13678923.html",
+      "summary": "Feijóo cumple con su objetivo de intentar taponar las fugas de los votantes del PP hacia Vox mientras que Sánchez casi ni menciona a la extrema derecha ni levanta la voz cuando Feijóo dice cosas manif"
     },
     "category": "政策",
-    "date": "2026-11-19"
-  },
-  {
-    "title": "西班牙住房上涨",
-    "original_title": "El alquiler aumenta un 3% en octubre: ¿dónde sube con más fuerza?",
-    "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/11/19/alquiler-aumenta-3-octubre-sube-fuerza.html",
-      "summary": "El precio de la vivienda en alquiler en España subió sube un 3% en octubre respecto al mismo mes del año anterior, situándose en 14,42 euros/m2 al mes."
-    },
-    "category": "租房",
-    "date": "2026-11-19"
-  },
-  {
-    "title": "西班牙工作下降",
-    "original_title": "Las empresas podrán perder contratos públicos por desigualdad salarial",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/economia/2026/11/19/empresas-podran-perder-contratos-publicos-desigualdad-salarial.html",
-      "summary": "Los trabajadores tendrán derecho a solicitar información para conocer las retribuciones medias de compañeros que realicen el mismo trabajo"
-    },
-    "category": "工作",
-    "date": "2026-11-19"
-  },
-  {
-    "title": "西班牙教育新规",
-    "original_title": "IE University pone en marcha IE Silicon Valley Hub para impulsar la innovación y el emprendimiento transatlántico",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-ie-university-pone-marcha-ie-silicon-valley-hub-impulsar-innovacion-emprendimiento-transatlantico-20261119140925.html",
-      "summary": "IE University, junto con el Center for Information Technology Research in the Interest of Society and the Banatao Institute (CITRIS) de UC Berkeley, ha anunciado la puesta en marcha de IE Silicon Vall"
-    },
-    "category": "教育",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
     "title": "西班牙政策新动态 (3)",
-    "original_title": "Los 11 colegios concertados madrileños que separaban por sexo en 2012 siguen segregados en la actualidad, según CC.OO.",
+    "original_title": "Ataque ruso con más de 400 drones y más de 110 misiles deja al menos 8 muertos en Ucrania, 6 en Kyiv",
     "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-11-colegios-concertados-madrilenos-separaban-sexo-2012-siguen-segregados-actualidad-ccoo-20261119124057.html",
-      "summary": "Una investigación de Comisiones Obreras ha denunciado que los once colegios concertados de la Comunidad de Madrid que en el año 2012 segregaban por sexo \"siguen segregados según se muestra en sus pági"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/video/2026/11/20/ataque-ruso-con-mas-de-400-drones-y-mas-de-110-misiles-deja-al-menos-8-muertos-en-ucrania",
+      "summary": "Un ataque ruso nocturno contra Kiev el 20 de noviembre de 2026 dejó ocho muertos y daños en edificios y almacenes, mientras bomberos y policías buscaban entre los escombros."
     },
     "category": "政策",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   {
-    "title": "西班牙奖学金新动态",
-    "original_title": "Los universitarios ya pueden solicitar las Becas Medrano de movilidad entre universidades españolas de 900 euros al mes",
+    "title": "西班牙税务新动态",
+    "original_title": "Taxis autónomos en Guangzhou y drones médicos en Shenzhen: China apuesta por el transporte autónomo",
     "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-universitarios-ya-pueden-solicitar-becas-medrano-movilidad-universidades-espanolas-900-euros-mes-20261118124737.html",
-      "summary": "El Ministerio de Ciencia, Innovación y Universidades ha puesto este miércoles en marcha el portal para poder solicitar las becas 'Luisa de Medrano' para facilitar la movilidad universitaria nacional, "
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/20/taxis-autonomos-en-guangzhou-y-drones-medicos-en-shenzhen-china-apuesta-por-el-transporte",
+      "summary": "Los robotaxis ya operan comercialmente en Guangzhou y Shenzhen, mientras que los drones reparten café, medicamentos y desfibriladores. Las empresas chinas compiten por llevar los vehículos autónomos m"
     },
-    "category": "留学",
-    "date": "2026-11-19"
+    "category": "税务",
+    "date": "2026-11-20"
   }
 ]

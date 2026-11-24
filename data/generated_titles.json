@@ -1,50 +1,160 @@
 [
   {
-    "title": "西班牙外国人推出",
-    "original_title": "La estrategia de PP y Vox para 'asfixiar' a los migrantes con obstáculos para acceder a ayudas",
+    "title": "西班牙学生新规",
+    "original_title": "EURONEWS HOY | Las noticias del martes 24 de noviembre de 2026: La vivienda y la inmigración marcarán el 29N",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia-y-sociedad/estrategia-pp-vox-estrangular-poblacion-migrante-poniendoles-trabas-acceder-ayudas_1_2240522.html",
-      "summary": "De la población residente en España, que ronda los 50 millones de personas, los migrantes (en situación administrativa regular o irregular) representan el 15,1%. En cuanto a los afiliados a la Segurid"
+      "name": "Euronews ES",
+      "url": "https://es.euronews.com/2026/11/24/euronews-hoy-las-noticias-del-martes-24-de-noviembre-de-2026-la-vivienda-y-la-inmigracion-",
+      "summary": "Vivienda e inmigración lideran las preocupaciones electorales en España. La UE solo reubicará a 1.283 solicitantes de asilo en 2026 y propone nuevas sanciones contra Rusia. Un estudiante catalán perma"
     },
     "category": "留学",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   },
   {
-    "title": "西班牙住房新动态",
-    "original_title": "La munición de la izquierda: Marta Peirano",
+    "title": "西班牙教育下降",
+    "original_title": "El Gobierno aprueba una bajada histórica de las ratios de alumnos en Educación Infantil, Bachillerato y FP",
     "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/tintalibre/municion-izquierda-marta-peirano_1_2240458.html",
-      "summary": "Las cenizas no florecen solas. No se cura el desencanto pidiendo a la gente que vote más, que se informe mejor o repitiendo que la alternativa es terrorífica. No ayuda celebrar la economía con indicad"
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-11-24/el-gobierno-aprueba-una-bajada-historica-de-las-ratios-de-alumnos-en-educacion-infantil-bachillerato-y-fp.html",
+      "summary": "El ministerio saca adelante el decreto para acabar con los chiringuitos privados de Formación Profesional, y la normativa que permitirá profesores de asturiano o aragonés"
     },
-    "category": "租房",
-    "date": "2026-11-23"
+    "category": "教育",
+    "date": "2026-11-24"
   },
   {
-    "title": "西班牙伊朗局势新规",
-    "original_title": "La ‘nueva normalidad’ en el Golfo Pérsico",
+    "title": "西班牙大学新动态",
+    "original_title": "Publicada la resolución de la convocatoria de las ayudas para contratos de Formación de Profesorado Universitario 2025",
     "source": {
-      "name": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/11/23/nueva-normalidad-golfo-persico.html",
-      "summary": "Mientras la vida recupera su vitalidad previa a la guerra, muchos temen que el conflicto entre Estados Unidos e Irán haya ocasionado daños duraderos a la imagen de la región."
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-publicada-resolucion-convocatoria-ayudas-contratos-formacion-profesorado-universitario-2025-20261124175025.html",
+      "summary": "El Ministerio de Ciencia, Innovación y Universidades ha publicado la resolución de la convocatoria de las ayudas para contratos predoctorales de Formación de Profesorado Universitario (FPU) 2025."
     },
-    "category": "伊朗局势",
-    "date": "2026-11-23"
+    "category": "留学",
+    "date": "2026-11-24"
   },
   {
-    "title": "西班牙住房新动态 (1)",
-    "original_title": "La economía catalana ante el 29-N: en juego seis desafíos que vienen de lejos",
+    "title": "西班牙政策下降",
+    "original_title": "El Gobierno echa el resto en el último Consejo de Ministros antes de las elecciones con una cascada de medidas sociales",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/ultimo-consejo-ministros-elecciones-da-luz-verde-gran-paquete-permisos-ayudas-impuesto-banca_1_13688755.html",
+      "summary": "El Ejecutivo aprueba una rebaja fiscal de 465 millones para los autónomos y prorroga las ayudas al transporte públicoEl Gobierno eleva a 20 semanas el permiso por nacimientoPrórroga durante 2027 de la"
+    },
+    "category": "政策",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙政策新动态",
+    "original_title": "El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/gobierno-prorroga-ayudas-transporte-mantiene-abono-unico-jovenes_1_13688832.html",
+      "summary": "El Ejecutivo ha cifrado en 1.200 millones el gasto para \"seguir facilitando que la ciudadanía puedan seguir utilizando el transporte público\"El Gobierno extiende el Abono Único a la red de transporte "
+    },
+    "category": "政策",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙教育减少",
+    "original_title": "La última bala en educación: el Gobierno reduce las ratios en Infantil y Bachillerato y pone límites a los 'chiringuitos' de FP",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/sociedad/ultima-bala-educacion-gobierno-reduce-ratios-infantil-bachillerato-pone-limites-chiringuitos-fp_1_13688149.html",
+      "summary": "El ejecutivo aprueba tres normas en el último Consejo de Ministros: una reducción de ratios en Infantil, Bachillerato y la Formación Profesional; además, los centros de FP deberán contar con una ofert"
+    },
+    "category": "教育",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "El Gobierno consuma su acelerón legislativo con el impuesto a la banca, permisos por duelo y nacimiento y nuevas medidas para autónomos",
     "source": {
       "name": "Expansión Economía",
-      "url": "https://www.expansion.com/catalunya/2026/11/23/economia-catalana-29-n-juego-seis-desafios-vienen-lejos.html",
-      "summary": "Los partidos discrepan en cuestiones clave como energía, vivienda o el modelo de financiación de la Generalitat. Sobre el rol del Estado en las empresas, el PP plantea la salida de CaixaBank. En infra"
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/24/gobierno-consuma-aceleron-legislativo-29-n-impuesto-banca-permisos-fallecimiento-nacimiento.html",
+      "summary": "El último Consejo de Ministros antes de las elecciones generales del domingo ha servido para aprobar la prórroga del impuesto a la banca, que quedará vinculado a la vivienda, y la ampliación del permi"
     },
-    "category": "租房",
-    "date": "2026-11-23"
+    "category": "税务",
+    "date": "2026-11-24"
   },
   {
     "title": "西班牙教育新动态",
+    "original_title": "El Gobierno envía un requerimiento a la Comunidad de Madrid para revocar la orden que pide neutralidad a los profesores",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-gobierno-envia-requerimiento-comunidad-madrid-revocar-orden-pide-neutralidad-profesores-20261124134311.html",
+      "summary": "El Ministerio de Educación, Formación Profesional y Deportes ha enviado a la Comunidad de Madrid un requerimiento para que revoque las instrucciones dirigidas a los centros educativos públicos no univ"
+    },
+    "category": "教育",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Bruselas amenaza a España con un expediente por exceso de gasto público en 2026",
+    "source": {
+      "name": "20 Minutos Nacional",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-amenaza-espana-con-un-expediente-por-superar-techo-gasto-2026-eleva-nivel-critico-por-alta-tasa-pobreza_7064886_0.html",
+      "summary": "La Comisión Europea alerta demás de que la deuda española rozará el 100% del PIB mientras el gasto corriente desborda el margen comunitario."
+    },
+    "category": "政策",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙税收下降",
+    "original_title": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
+    "source": {
+      "name": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
+      "summary": "La coalición evita cualquier tensión y muestra sintonía en la presentación de un paquete millonario de políticas como el impuesto a la banca, la rebaja de autónomos y el permiso por fallecimiento"
+    },
+    "category": "税务",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙政策新动态 (2)",
+    "original_title": "El Ejecutivo eleva la inversión en Adif hasta 19.000 millones para mejorar el mantenimiento",
+    "source": {
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/economia/ejecutivo-eleva-inversion-adif-19-000-millones-mejorar-mantenimiento_1_13689262.html",
+      "summary": "La cifra, correspondiente al periodo 2026-2030, supone un aumento del 50%El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes\n\n        El Consejo de Minist"
+    },
+    "category": "政策",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙住房新动态",
+    "original_title": "La colaboración público-privada en vivienda: el PP rechaza regular el mercado y blindar la protección pública",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia-y-sociedad/colaboracion-publico-privada-condiciones-no-pp-blindar-vivienda-publica-intervenir-mercado_1_2240362.html",
+      "summary": "La crisis de acceso a la vivienda está siendo el tema de esta campaña porque es, desde hace más de un año, el principal problema de los españoles, según el Centro de Investigaciones Sociológicas (CIS)"
+    },
+    "category": "租房",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙教育取消",
+    "original_title": "El Gobierno exige a la Comunidad de Madrid que retire las instrucciones de “neutralidad ideológica” por señalar al profesorado y poner en riesgo derechos fundamentales",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-11-24/el-gobierno-requiere-a-la-comunidad-de-madrid-retirar-las-instrucciones-de-la-neutralidad-ideologica-por-generar-desconfianza-hacia-el-profesorado.html",
+      "summary": "El Ministerio de Educación da un mes al Ejecutivo de Ayuso para eliminar la norma que prohíbe carteles sobre los paros en los centros e invita a delatar a docentes"
+    },
+    "category": "教育",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙学生变化",
+    "original_title": "Rocío, la madre que estudia la ESO en el mismo instituto que su hijo: “Quiero poder acceder a una entrevista de trabajo”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-11-24/rocio-la-madre-que-estudia-la-eso-en-el-mismo-instituto-que-su-hijo-quiero-poder-acceder-a-una-entrevista-de-trabajo.html",
+      "summary": "La secundaria para adultos tiene 90.000 estudiantes. Su perfil ha cambiado mucho en cuatro décadas"
+    },
+    "category": "留学",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "西班牙教育新动态 (1)",
     "original_title": "La neutralidad ideológica de la Comunidad de Madrid",
     "source": {
       "name": "El País Educación",
@@ -52,116 +162,6 @@
       "summary": "Las instrucciones remitidas por la Consejería de Educación a los centros públicos ―y no a los concertados, que también están sostenidos con fondos públicos― causan escalofríos"
     },
     "category": "教育",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "El Ministerio de Educación apuesta por reforzar \"la conectividad y la competencia digital del profesorado\"",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-ministerio-educacion-apuesta-reforzar-conectividad-competencia-digital-profesorado-20261120183626.html",
-      "summary": "El Ministerio de Educación, Formación Profesional y Deportes aboga por \"una inversión que refuerce la conectividad, las plataformas educativas y la competencia digital del profesorado para, de esta fo"
-    },
-    "category": "教育",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙就业新动态",
-    "original_title": "El 80% de los jóvenes confía en la IA como aliada para su futuro profesional",
-    "source": {
-      "name": "Educación 3.0",
-      "url": "https://www.educaciontrespuntocero.com/noticias/creatividad-y-pensamiento-critico-hp-futures-2026/",
-      "summary": "Es uno de los datos que se desprende del informe HP Futures 2026, que destaca también la importancia de la creatividad y el pensamiento crítico para el empleo."
-    },
-    "category": "工作",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "Sánchez propone un impuesto a los ultrarricos: 2.000 millones para financiar la agenda social",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11690862/sanchez-propone-impuesto-ultrarricos-2-000-millones-financiar-agenda-social.html",
-      "summary": "El presidente del Gobierno promete un nuevo gravamen a los patrimonios de más de 100 millones de euros para pagar la prestación por crianza de hijos, blindar las pensiones y promover más vivienda públ"
-    },
-    "category": "税务",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙住房新动态 (2)",
-    "original_title": "El 41% fía la solución al problema de la vivienda en más oferta pública",
-    "source": {
-      "name": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261123/11690573/41-fia-solucion-problema-vivienda-mas-oferta-publica.html",
-      "summary": "Solo uno de cada cinco ciudadanos apuesta por limitar los precios de los alquileres"
-    },
-    "category": "租房",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙工作宣布",
-    "original_title": "El Gobierno ampliará a diez días el permiso por fallecimiento de familiares",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/gobierno-ampliara-diez-dias-permiso-fallecimiento-familiares_1_13687311.html",
-      "summary": "Pedro Sánchez y Yolanda Díaz lo han anunciado en un comunicado: la medida se aprobará este martes e incluirá la reducción o adaptación de jornada para acompañar a familiares en cuidados paliativosHace"
-    },
-    "category": "工作",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙移民新动态",
-    "original_title": "Feijóo anticipa sus condiciones a Vox si tiene que negociar tras el 29N: ministros con experiencia y respeto a las autonomías",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/politica/feijoo-anticipa-condiciones-vox-si-negociar-29n-ministros-experiencia-respeto-autonomias_1_13679615.html",
-      "summary": "El líder del PP asume en su discursos de campaña que tendrá que incluir a Santiago Abascal y los suyos en su hipotético Consejo de Ministros e intenta evitar que el miedo a las políticas ultras domine"
-    },
-    "category": "移民",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙教育新动态 (2)",
-    "original_title": "El estudio que indica lo que es un salario digno: \"Hay que ver lo que le cuesta vivir a cada persona en cada lugar\"",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia-y-sociedad/empleo/estudio-indica-salario-digno-hay-ver-le-cuesta-vivir-persona-lugar_1_2240438.html",
-      "summary": "¿Cuánto dinero es necesario para vivir dignamente? Comer sano, pagar alquiler y los gastos, el transporte, la educación de los hijos o poder tomar un café sin tener que hacer malabarismos son pequeñas"
-    },
-    "category": "留学",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙战争风险新动态",
-    "original_title": "Sesenta años del indulto que legalizó el expolio a los represaliados por el franquismo",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/politica/sesenta-anos-indulto-legalizo-expolio-represaliados-franquismo_1_2240557.html",
-      "summary": "En noviembre de 1966, el gobierno franquista anunció un generoso indulto que prometía enterrar las penas y multas pendientes de los acusados por la Ley de Responsabilidades Políticas de 1939, aprobada"
-    },
-    "category": "战争风险",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "Últimas noticias | 23 noviembre 2026 - Tarde",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/video/2026/11/23/ultimas-noticias-23-noviembre-2026-tarde",
-      "summary": "Ponte al día con las noticias más importantes de Europa y el mundo este 23 noviembre 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes."
-    },
-    "category": "政策",
-    "date": "2026-11-23"
-  },
-  {
-    "title": "西班牙政策新规",
-    "original_title": "Artistas de Qatar, Canadá y México conectan culturas a través de la creatividad",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/23/artistas-de-qatar-canada-y-mexico-conectan-culturas-a-traves-de-la-creatividad",
-      "summary": "Artistas de Catar, México y Canadá exploran tradiciones compartidas, historias personales y nuevas conexiones creativas a través del Año de la Cultura 2026."
-    },
-    "category": "政策",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   }
 ]

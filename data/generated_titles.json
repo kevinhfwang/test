@@ -1,16 +1,5 @@
 [
   {
-    "title": "西班牙学生新规",
-    "original_title": "EURONEWS HOY | Las noticias del martes 24 de noviembre de 2026: La vivienda y la inmigración marcarán el 29N",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/24/euronews-hoy-las-noticias-del-martes-24-de-noviembre-de-2026-la-vivienda-y-la-inmigracion-",
-      "summary": "Vivienda e inmigración lideran las preocupaciones electorales en España. La UE solo reubicará a 1.283 solicitantes de asilo en 2026 y propone nuevas sanciones contra Rusia. Un estudiante catalán perma"
-    },
-    "category": "留学",
-    "date": "2026-11-24"
-  },
-  {
     "title": "西班牙教育下降",
     "original_title": "El Gobierno aprueba una bajada histórica de las ratios de alumnos en Educación Infantil, Bachillerato y FP",
     "source": {
@@ -19,7 +8,7 @@
       "summary": "El ministerio saca adelante el decreto para acabar con los chiringuitos privados de Formación Profesional, y la normativa que permitirá profesores de asturiano o aragonés"
     },
     "category": "教育",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
     "title": "西班牙大学新动态",
@@ -30,51 +19,29 @@
       "summary": "El Ministerio de Ciencia, Innovación y Universidades ha publicado la resolución de la convocatoria de las ayudas para contratos predoctorales de Formación de Profesorado Universitario (FPU) 2025."
     },
     "category": "留学",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
-    "title": "西班牙政策下降",
-    "original_title": "El Gobierno echa el resto en el último Consejo de Ministros antes de las elecciones con una cascada de medidas sociales",
+    "title": "西班牙税收新动态",
+    "original_title": "¿Puede España gravar a los ultrarricos? La izquierda se suma en campaña a un debate económico mundial",
     "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/ultimo-consejo-ministros-elecciones-da-luz-verde-gran-paquete-permisos-ayudas-impuesto-banca_1_13688755.html",
-      "summary": "El Ejecutivo aprueba una rebaja fiscal de 465 millones para los autónomos y prorroga las ayudas al transporte públicoEl Gobierno eleva a 20 semanas el permiso por nacimientoPrórroga durante 2027 de la"
-    },
-    "category": "政策",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙政策新动态",
-    "original_title": "El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/gobierno-prorroga-ayudas-transporte-mantiene-abono-unico-jovenes_1_13688832.html",
-      "summary": "El Ejecutivo ha cifrado en 1.200 millones el gasto para \"seguir facilitando que la ciudadanía puedan seguir utilizando el transporte público\"El Gobierno extiende el Abono Único a la red de transporte "
-    },
-    "category": "政策",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙教育减少",
-    "original_title": "La última bala en educación: el Gobierno reduce las ratios en Infantil y Bachillerato y pone límites a los 'chiringuitos' de FP",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/sociedad/ultima-bala-educacion-gobierno-reduce-ratios-infantil-bachillerato-pone-limites-chiringuitos-fp_1_13688149.html",
-      "summary": "El ejecutivo aprueba tres normas en el último Consejo de Ministros: una reducción de ratios en Infantil, Bachillerato y la Formación Profesional; además, los centros de FP deberán contar con una ofert"
-    },
-    "category": "教育",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙住房新规",
-    "original_title": "El Gobierno consuma su acelerón legislativo con el impuesto a la banca, permisos por duelo y nacimiento y nuevas medidas para autónomos",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/24/gobierno-consuma-aceleron-legislativo-29-n-impuesto-banca-permisos-fallecimiento-nacimiento.html",
-      "summary": "El último Consejo de Ministros antes de las elecciones generales del domingo ha servido para aprobar la prórroga del impuesto a la banca, que quedará vinculado a la vivienda, y la ampliación del permi"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/economia-y-sociedad/espana-gravar-ultrarricos-izquierda-suma-campana-debate-economico-mundial_1_2241180.html",
+      "summary": "En un pequeño ensayo titulado Por qué los multimillonarios no pagan impuestos sobre la renta (Anagrama, 2026), el economista francés Gabriel Zucman cuenta que Jeff Bezos, fundador de Amazon, pidió una"
     },
     "category": "税务",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "El PIB de EEUU se revisa al alza hasta el 1,1% en el tercer trimestre de 2026",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/25/pib-eeuu-revisa-alza-1-1-tercer-trimestre-2026.html",
+      "summary": "El producto interior bruto (PIB) de EEUU creció un 1,1% entre julio y septiembre de 2026 con respecto al segundo trimestre del año, mientras que la economía estadounidense se expandió un 4,3% a ritmo "
+    },
+    "category": "签证",
+    "date": "2026-11-25"
   },
   {
     "title": "西班牙教育新动态",
@@ -85,51 +52,29 @@
       "summary": "El Ministerio de Educación, Formación Profesional y Deportes ha enviado a la Comunidad de Madrid un requerimiento para que revoque las instrucciones dirigidas a los centros educativos públicos no univ"
     },
     "category": "教育",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
-    "title": "西班牙政策新动态 (1)",
-    "original_title": "Bruselas amenaza a España con un expediente por exceso de gasto público en 2026",
+    "title": "西班牙大学推出",
+    "original_title": "Iberdrola presenta la 'división residencial' de la Alianza Q-Cero",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/bruselas-amenaza-espana-con-un-expediente-por-superar-techo-gasto-2026-eleva-nivel-critico-por-alta-tasa-pobreza_7064886_0.html",
-      "summary": "La Comisión Europea alerta demás de que la deuda española rozará el 100% del PIB mientras el gasto corriente desborda el margen comunitario."
+      "name": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/11/25/iberdrola-presenta-division-residencial-alianza-q-cero.html",
+      "summary": "Crea junto a la fundació Ecodes, el centro tecnológico Tecnalia y la Universidad Politécnica de Madrid la Alianza Q-Cero Edificios para acelerar la descarbonozacion de viviendas."
+    },
+    "category": "留学",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙养老金新动态",
+    "original_title": "Complemento a mínimos de la pensión: el límite de ingresos de 2026 y por qué la Seguridad Social puede pedir que lo devuelvas",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/25/complemento-minimos-pension-limite-ingresos-2026-seguridad-social-pedir-devuelvas.html",
+      "summary": "Cada tipo de pensión tiene establecida una cuantía mínima, y las pensiones calculadas que no alcanzan esa cifra tienen derecho a un complemento para llegar a ella, siempre que cumplan unos requisitos."
     },
     "category": "政策",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙税收下降",
-    "original_title": "El Gobierno reivindica su traca final de medidas sociales previas al 29-N: “Cumplimos con nuestro deber”",
-    "source": {
-      "name": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-24/el-gobierno-reivindica-su-traca-final-con-impuesto-a-la-banca-rebaja-de-autonomos-aborto-y-permiso-por-fallecimiento-cumplimos-con-nuestro-deber-gobernamos.html",
-      "summary": "La coalición evita cualquier tensión y muestra sintonía en la presentación de un paquete millonario de políticas como el impuesto a la banca, la rebaja de autónomos y el permiso por fallecimiento"
-    },
-    "category": "税务",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙政策新动态 (2)",
-    "original_title": "El Ejecutivo eleva la inversión en Adif hasta 19.000 millones para mejorar el mantenimiento",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/ejecutivo-eleva-inversion-adif-19-000-millones-mejorar-mantenimiento_1_13689262.html",
-      "summary": "La cifra, correspondiente al periodo 2026-2030, supone un aumento del 50%El Gobierno prorroga durante 2027 las ayudas al transporte y mantiene el abono único para jóvenes\n\n        El Consejo de Minist"
-    },
-    "category": "政策",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "西班牙住房新动态",
-    "original_title": "La colaboración público-privada en vivienda: el PP rechaza regular el mercado y blindar la protección pública",
-    "source": {
-      "name": "InfoLibre",
-      "url": "https://www.infolibre.es/economia-y-sociedad/colaboracion-publico-privada-condiciones-no-pp-blindar-vivienda-publica-intervenir-mercado_1_2240362.html",
-      "summary": "La crisis de acceso a la vivienda está siendo el tema de esta campaña porque es, desde hace más de un año, el principal problema de los españoles, según el Centro de Investigaciones Sociológicas (CIS)"
-    },
-    "category": "租房",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
     "title": "西班牙教育取消",
@@ -140,7 +85,7 @@
       "summary": "El Ministerio de Educación da un mes al Ejecutivo de Ayuso para eliminar la norma que prohíbe carteles sobre los paros en los centros e invita a delatar a docentes"
     },
     "category": "教育",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
     "title": "西班牙学生变化",
@@ -151,7 +96,7 @@
       "summary": "La secundaria para adultos tiene 90.000 estudiantes. Su perfil ha cambiado mucho en cuatro décadas"
     },
     "category": "留学",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
   },
   {
     "title": "西班牙教育新动态 (1)",
@@ -162,6 +107,61 @@
       "summary": "Las instrucciones remitidas por la Consejería de Educación a los centros públicos ―y no a los concertados, que también están sostenidos con fondos públicos― causan escalofríos"
     },
     "category": "教育",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙签证新动态 (1)",
+    "original_title": "FSIE avisa de que la reducción de ratios 0-3 años \"pone en riesgo\" empleos mientras CC.OO. y ANPE valoran la medida",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-avisa-reduccion-ratios-anos-pone-riesgo-60000-empleos-mientras-ccoo-celebra-medida-20261124173705.html",
+      "summary": "La Federación de Sindicatos Independientes de Enseñanza (FSIE) ha advertido de que la reducción de ratios \"sin financiación\" aprobada este martes en el Consejo de Ministros \"pone en riesgo\" en el Prim"
+    },
+    "category": "签证",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙签证新动态 (2)",
+    "original_title": "PP exige revisar la protección a víctimas de violencia machista ante fallos \"demasiado graves para mirar a otro lado\"",
+    "source": {
+      "name": "Europa Press Sociedad",
+      "url": "https://www.europapress.es/epsocial/igualdad/noticia-pp-exige-revisar-proteccion-victimas-violencia-machista-fallos-demasiado-graves-mirar-otro-lado-20261125102259.html",
+      "summary": "El Partido Popular ha reclamado revisar los mecanismos de protección a las mujeres víctimas de violencia machista y evaluar las políticas públicas destinadas a combatirla, después de que 47 mujeres ha"
+    },
+    "category": "签证",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙就业新动态",
+    "original_title": "El 80% de los jóvenes confía en la IA como aliada para su futuro profesional",
+    "source": {
+      "name": "Educación 3.0",
+      "url": "https://www.educaciontrespuntocero.com/noticias/creatividad-y-pensamiento-critico-hp-futures-2026/",
+      "summary": "Es uno de los datos que se desprende del informe HP Futures 2026, que destaca también la importancia de la creatividad y el pensamiento crítico para el empleo."
+    },
+    "category": "工作",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙住房新规",
+    "original_title": "El Gobierno de Ayuso recurrirá al TC el decreto de vivienda por “invadir competencias autonómicas”",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261125/11693119/gobierno-ayuso-recurrira-tc-decreto-vivienda-invadir-competencias-autonomicas.html",
+      "summary": "El Ejecutivo autonómico confía en que las elecciones del domingo deparen un nuevo gobierno que derogue tanto el decreto como la ley estatal de vivienda"
+    },
+    "category": "租房",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "西班牙签证新动态 (3)",
+    "original_title": "Albiol: “Revisaremos el impuesto de patrimonio y el de sucesiones: castigan a los catalanes”",
+    "source": {
+      "name": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261125/11692524/albiol-revisaremos-impuesto-patrimonio-sucesiones-castigan-catalanes.html",
+      "summary": "“Lo mejor para el país es un gobierno en solitario del PP, si logramos entre 143 y 146 escaños lo podremos hacer, la izquierda no sumará lo suficiente”"
+    },
+    "category": "签证",
+    "date": "2026-11-25"
   }
 ]

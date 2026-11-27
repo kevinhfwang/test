@@ -1,16 +1,5 @@
 [
   {
-    "title": "西班牙移民新动态",
-    "original_title": "EURONEWS HOY | Las noticias del jueves 26 de noviembre de 2026: Hernández de Cos presidirá el BCE",
-    "source": {
-      "name": "Euronews ES",
-      "url": "https://es.euronews.com/2026/11/26/euronews-hoy-noticias-jueves-26-noviembre-2026-hernandez-de-cos-presidira-bce",
-      "summary": "Pablo Hernández de Cos presidirá el Banco Central Europeo; el presupuesto y la guerra en Ucrania dividen a la UE en la cumbre de Bruselas; muere un tripulante al hundirse un petrolero con 7.000 tonela"
-    },
-    "category": "移民",
-    "date": "2026-11-26"
-  },
-  {
     "title": "西班牙教育下降",
     "original_title": "El Gobierno aprueba una bajada histórica de las ratios de alumnos en Educación Infantil, Bachillerato y FP",
     "source": {
@@ -19,7 +8,7 @@
       "summary": "El ministerio saca adelante el decreto para acabar con los chiringuitos privados de Formación Profesional, y la normativa que permitirá profesores de asturiano o aragonés"
     },
     "category": "教育",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "title": "西班牙大学新动态",
@@ -30,76 +19,54 @@
       "summary": "El Ministerio de Ciencia, Innovación y Universidades ha publicado la resolución de la convocatoria de las ayudas para contratos predoctorales de Formación de Profesorado Universitario (FPU) 2025."
     },
     "category": "留学",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
-    "title": "西班牙物价下降",
-    "original_title": "De bajar el IVA a limitar precios: las ideas de los lectores de 20minutos para abaratar la compra y llegar mejor a fin de mes",
+    "title": "西班牙居留新动态",
+    "original_title": "La Comisión Europea considera que la \"prioridad nacional\" que PP y Vox aprobaron en la Comunitat Valenciana vulnera la ley europea",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/bajar-iva-limitar-precios-las-ideas-los-lectores-20minutos-para-abaratar-compra-llegar-mejor-fin-mes_7065663_0.html",
-      "summary": "El 45% de los usuarios del periódico aboga por reducir impuestos y uno de cada tres vería con buenos ojos controlar precios y limitar márgenes de beneficios. Alimentos, gasolinas y energía son las par"
+      "name": "elDiario",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/comision-europea-considera-prioridad-nacional-pp-vox-aprobaron-comunitat-valenciana-vulnera-ley-europea_1_13698344.html",
+      "summary": "El comisario Magnus Brunner (PPE) responde al eurodiputado de Compromís Vicent Marzà que los Estados miembros no pueden imponer \"unilateralmente\" un requisito de residencia superior a cinco años para "
     },
-    "category": "税务",
-    "date": "2026-11-26"
+    "category": "居留",
+    "date": "2026-11-27"
   },
   {
-    "title": "西班牙政策新动态",
-    "original_title": "Madrid y Andalucía denuncian que el Gobierno prorrogue ayudas al transporte en 2027 sin haberles pagado el adelanto de 2026",
+    "title": "西班牙失业新动态",
+    "original_title": "Una candidata del PSdeG por Pontevedra, sin derecho a voto por el veto del Supremo a los 'nietos'",
     "source": {
-      "name": "20 Minutos",
-      "url": "https://www.20minutos.es/nacional/madrid-andalucia-denuncian-que-gobierno-prorrogue-ayudas-transporte-2027-sin-haberles-pagado-adelanto-2026_7066067_0.html",
-      "summary": "De momento, lo único que hay es una resolución provisional de Transportes de mitad de noviembre sobre el reintegro de la parte de la ayuda que adelantan las comunidades y corresponde al Gobierno y que"
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/politica/candidata-psdeg-pontevedra-derecho-voto-veto-supremo-nietos_1_2241300.html",
+      "summary": "Shirley Estévez es nieta de gallegos. Sus abuelos se marcharon a Uruguay y, como tantos otros, perdieron la nacionalidad española. Al amparo de las instrucciones derivadas de la Ley de Memoria Democrá"
     },
     "category": "政策",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙战争风险新动态",
+    "original_title": "Los Premios infoLibre 2026 reivindican la memoria y la libertad de la mano de Federico García Lorca",
+    "source": {
+      "name": "InfoLibre",
+      "url": "https://www.infolibre.es/club-infolibre/eventos/premios-infolibre/premios-infolibre-2026-reivindican-memoria-libertad-mano-federico-garcia-lorca_1_2241319.html",
+      "summary": "Hueso a hueso, las intérpretes reconstruyen un esqueleto sobre el escenario del Ateneo de Madrid. Noventa años después de su asesinato, los restos de Federico García Lorca, al igual que los de muchos "
+    },
+    "category": "战争风险",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙签证新动态",
+    "original_title": "Visas and integration: What a Vox-PP government could mean for Brits in Spain",
+    "source": {
+      "name": "The Local ES",
+      "url": "https://www.thelocal.es/20261027/visas-and-integration-what-a-vox-pp-government-could-mean-for-brits-in-spain",
+      "summary": "Spain's right-wing bloc is promising sweeping changes to immigration and residency policies that would directly impact UK nationals in the country, as well as a different diplomatic approach to Brexit"
+    },
+    "category": "签证",
+    "date": "2026-11-27"
   },
   {
     "title": "西班牙教育取消",
-    "original_title": "Vox concreta su tijeretazo al gasto público: 112.000 millones, el doble del gasto anual en Educación",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/vox-concreta-tijeretazo-gasto-publico-112-000-millones-doble-gasto-anual-educacion_1_13696579.html",
-      "summary": "El responsable económico de la ultraderecha, José María Figaredo, detalla en Bloomberg que hay 224.000 millones que analizar: \"Con un recorte moderado del 50%, eliminarías 112.000 millones de gasto pú"
-    },
-    "category": "教育",
-    "date": "2026-11-26"
-  },
-  {
-    "title": "西班牙教育改革",
-    "original_title": "Un parto, 3.300 euros; la escuela básica, 81.000: cuánto vale lo que ya recibes gracias a tus impuestos",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/blog/contraoferta/parto-3-300-euros-escuela-basica-81-000-vale-recibes-gracias-impuestos_132_13690005.html",
-      "summary": "La ofensiva contra los impuestos gana terreno, pero la sanidad, la educación, las pensiones no contributivas o la dependencia ponen cifras a lo que recibimos a cambio: millones de euros en servicios q"
-    },
-    "category": "税务",
-    "date": "2026-11-26"
-  },
-  {
-    "title": "西班牙就业新动态",
-    "original_title": "El Congreso ratifica la subida de sueldo del 4,5% de los funcionarios y que el salario mínimo de 2027 no pague IRPF",
-    "source": {
-      "name": "elDiario",
-      "url": "https://www.eldiario.es/economia/congreso-ratifica-subida-sueldo-4-5-funcionarios-salario-minimo-2027-no-pague-irpf_1_13695386.html",
-      "summary": "Vox da plantón a la Diputación Permanente y no acude a debatir ni a votar ninguno de los cinco reales decretos-ley previstos en la última sesión antes de las elecciones\nEl Gobierno convoca 14.373 plaz"
-    },
-    "category": "工作",
-    "date": "2026-11-26"
-  },
-  {
-    "title": "西班牙签证新规",
-    "original_title": "Menos burocracia e impuestos, colaboración: los deberes de los directivos al nuevo Gobierno",
-    "source": {
-      "name": "Expansión Economía",
-      "url": "https://www.expansion.com/catalunya/2026/11/26/burocracia-e-impuestos-colaboracion-deberes-directivos-nuevo-gobierno.html",
-      "summary": "Reclaman también facilitar la creación de puestos de trabajo, incrementar el tamaño, simplificar normativas y revisar \"umbrales administrativos\", especialmente para pymes."
-    },
-    "category": "签证",
-    "date": "2026-11-26"
-  },
-  {
-    "title": "西班牙教育取消 (1)",
     "original_title": "El Gobierno exige a la Comunidad de Madrid que retire las instrucciones de “neutralidad ideológica” por señalar al profesorado y poner en riesgo derechos fundamentales",
     "source": {
       "name": "El País Educación",
@@ -107,7 +74,7 @@
       "summary": "El Ministerio de Educación da un mes al Ejecutivo de Ayuso para eliminar la norma que prohíbe carteles sobre los paros en los centros e invita a delatar a docentes"
     },
     "category": "教育",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "title": "西班牙学生变化",
@@ -118,7 +85,7 @@
       "summary": "La secundaria para adultos tiene 90.000 estudiantes. Su perfil ha cambiado mucho en cuatro décadas"
     },
     "category": "留学",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
     "title": "西班牙教育新动态",
@@ -129,21 +96,10 @@
       "summary": "Las instrucciones remitidas por la Consejería de Educación a los centros públicos ―y no a los concertados, que también están sostenidos con fondos públicos― causan escalofríos"
     },
     "category": "教育",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
-    "title": "西班牙签证新动态",
-    "original_title": "FSIE avisa de que la reducción de ratios 0-3 años \"pone en riesgo\" empleos mientras CC.OO. y ANPE valoran la medida",
-    "source": {
-      "name": "Europa Press Educación",
-      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-fsie-avisa-reduccion-ratios-anos-pone-riesgo-60000-empleos-mientras-ccoo-celebra-medida-20261124173705.html",
-      "summary": "La Federación de Sindicatos Independientes de Enseñanza (FSIE) ha advertido de que la reducción de ratios \"sin financiación\" aprobada este martes en el Consejo de Ministros \"pone en riesgo\" en el Prim"
-    },
-    "category": "签证",
-    "date": "2026-11-26"
-  },
-  {
-    "title": "西班牙就业新动态 (1)",
+    "title": "西班牙就业新动态",
     "original_title": "El 80% de los jóvenes confía en la IA como aliada para su futuro profesional",
     "source": {
       "name": "Educación 3.0",
@@ -151,17 +107,61 @@
       "summary": "Es uno de los datos que se desprende del informe HP Futures 2026, que destaca también la importancia de la creatividad y el pensamiento crítico para el empleo."
     },
     "category": "工作",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   },
   {
-    "title": "西班牙教育新动态 (1)",
-    "original_title": "La petición de los jóvenes que votarán por primera vez: \"Que nos den confianza y no jueguen con la gente\"",
+    "title": "西班牙政策新动态",
+    "original_title": "Elecciones generales 2026, en directo | Última hora de los mítines de cierre de campaña de Sánchez, Feijóo, Abascal, Colau y Montero",
     "source": {
-      "name": "20 Minutos Nacional",
-      "url": "https://www.20minutos.es/nacional/peticion-los-jovenes-que-votaran-por-primera-vez-las-elecciones-29n-que-nos-den-confianza-no-jueguen-con-gente_7065270_0.html",
-      "summary": "En torno a 1,6 millones de españoles han alcanzado la mayoría de edad después de la última convocatoria en 2023. Entre las principales preocupaciones de los entrevistados por '20minutos' resuenan la v"
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/debate-cuatro-directo-ultima-hora-cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-santiago-abascal-ada-colau_7066328_6.html",
+      "summary": "Sánchez, Colau y Montero cierran este viernes la campaña en Madrid, mientras Feijóo lo hace en Sevilla y Abascal, en Valencia."
+    },
+    "category": "政策",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙政策新动态 (1)",
+    "original_title": "Lista oficial de premios por el sorteo del Cuponazo de la ONCE de Black Friday",
+    "source": {
+      "name": "20 Minutos",
+      "url": "https://www.20minutos.es/nacional/lista-oficial-premios-sorteo-cuponazo-once-black-friday_7066808_0.html",
+      "summary": "Horario y lista de premios del Sorteo del Cuponazo del Black Friday de la ONCE 2026, con más de 6 millones de euros en juego hoy."
+    },
+    "category": "政策",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙通胀下降",
+    "original_title": "La inflación se modera al 4,1% en noviembre por la bajada de los combustibles y las pensiones se revalorizarán un 3,5% en 2027",
+    "source": {
+      "name": "Expansión Economía",
+      "url": "https://www.expansion.com/economia/2026/11/27/inflacion-modera-4-1-noviembre-pensiones-revalorizaran-3-5-2027.html",
+      "summary": "La tasa interanual del Índice de Precios al Consumo (IPC), principal indicador de la inflación, se modera hasta el 4,1% en noviembre, ocho décimas menos respecto a octubre y en su menor nivel desde ju"
+    },
+    "category": "政策",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙教育新规",
+    "original_title": "La batalla por la Educación Infantil se agita con los cambios del Gobierno: “Las nuevas ratios no son tan locas”",
+    "source": {
+      "name": "El País Educación",
+      "url": "https://elpais.com/educacion/2026-11-27/la-batalla-por-la-educacion-de-0-a-3-anos-se-agita-con-las-medidas-del-gobierno-las-nuevas-ratios-no-son-tan-locas.html",
+      "summary": "Las patronales alertan de cierres mientras las educadoras celebran una medida que divide a las asociaciones de familias"
     },
     "category": "教育",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  {
+    "title": "西班牙大学新规",
+    "original_title": "Escuela Politécnica Superior de CUNEF Universidad incorpora el Grado en Ingeniería de Organización Industrial en 2027-28",
+    "source": {
+      "name": "Europa Press Educación",
+      "url": "https://www.europapress.es/sociedad/educacion-00468/noticia-escuela-politecnica-superior-cunef-universidad-incorpora-grado-ingenieria-organizacion-industrial-2027-28-20261127100158.html",
+      "summary": "La Escuela Politécnica Superior de CUNEF Universidad incorpora a su oferta académica el Grado en Ingeniería de Organización Industrial, a partir del curso 2027-2028, una nueva titulación orientada a f"
+    },
+    "category": "留学",
+    "date": "2026-11-27"
   }
 ]
